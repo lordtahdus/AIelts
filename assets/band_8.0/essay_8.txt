@@ -41,4 +41,5 @@ Lỗi chính tả: Trong bài viết của bạn, có một số lỗi chính t�
 Sử dụng từ không chính xác: Bạn đã sử dụng một số từ không chính xác, ví dụ như "educating them to be good parts of the community", thay vì "educating them to be good members of the community".
 Sử dụng cấu trúc câu không chính xác: Bạn đã sử dụng một số cấu trúc câu không chính xác, ví dụ như "sending children to schools cannot be the best method of educating them to be good members of society", nên sửa thành "sending children to school may not be the best method of educating them to be good members of society".
 
-Score: 8.0
+Score: 
+8.0
