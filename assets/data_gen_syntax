@@ -1,6 +1,6 @@
 =================================  S Y N T A X  =================================
 
-Generate Revised
+- Generate Revised
 
 This is IELTS writing task 2.
 Topic:
@@ -15,7 +15,7 @@ Please edit the essay according to IELTS structure. Also, estimate the score.
 
 ################################################################################################
 
-Generate Feedback and Score
+- Generate Feedback
 
 This is IELTS writing task 2.
 Topic:
@@ -29,11 +29,22 @@ Lexical Resource
 Grammatical Range and Accuracy
 
 
-Option 1:       Giải thích lỗi <...> của tôi một cách chi tiết hơn
+- Option 1: (score < 8)
 
-Option 2:       Đánh giá <...> trong bài viết của tôi một cách chi tiết hơn
+Giải thích lỗi <...> (néu có) của tôi một cách chi tiết hơn
+
+- Option 2: (score >= 8)
+
+Đánh giá <...> trong bài viết của tôi một cách chi tiết hơn
 
 
 *Note:
     Length of feedback should be around 300 for band < 7.
     The score estimated corresponding to each criterion is more valid.
+
+
+################################################################################################
+
+- Generate Score:
+
+Estimate carefully the score of each criteria
