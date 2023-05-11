@@ -47,5 +47,4 @@ Grammatical Range and Accuracy: 6.5
 "since they are unable to pursue their own interests, they develop a lack of ambition" -> nên sửa thành "since they are unable to pursue their own interests, they may develop a lack of ambition". Bạn cần thêm "may" để làm rõ rằng điều này là một khả năng chứ không phải một sự thật tuyệt đối.
 "this occurs because they always received from their guardian what they want and did not have to consider if it was right or wrong" -> nên sửa thành "this occurs because they always receive what they want from their guardians and do not have to consider whether it is right or wrong". Bạn cần sử dụng thì hiện tại đơn thay vì quá khứ đơn và cần phải sử dụng đúng thứ tự của các từ trong câu.
 
-
 Score: 6.5
