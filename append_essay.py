@@ -14,7 +14,6 @@ People are increasingly suffering from sickness as a result of stress. This essa
 People place themselves under these unfavorable conditions because the workforce is a competitive domain For example, some people aspire to climb the corporate ladder to gain status and a high paying job. This often results in mental and physical suffering because they have to work overtime and take on additional roles which can be stressful. Some people believe that eventually jobs will be by artificially intelligent robots.
 Monitoring a good work-life balance and improving one’s diet are both critical to mitigating stress related illnesses. People need to realize that if they live only for work they will suffer either mentally or physically and a poor diet will further exacerbate these issues. For example, many employees burn out from working too much and neglecting family, friends, exercise and hobbies as well as the foods they eat. Therefore, in order to reduce work one must include a better ration of work, rest, recreation and dietary sustenance. 
 In conclusion, in today’s fast paced world more and more people are becoming ill as a result of stress. This essay discussed how stress is often caused by long working hours and intense workplace pressure. Thus essay also suggested that the solutions to this problem are twofold: to manage a better work-life balance and to eat a healthier diet.
- 
 """
 
 
