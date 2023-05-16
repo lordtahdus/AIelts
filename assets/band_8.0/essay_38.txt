@@ -1,0 +1,32 @@
+Topic:
+
+"Atomic energy is becoming more and more popular energy source. However, some people argue that nuclear power puts life on the Earth to danger.
+What is your opinion?"
+
+Essay:
+
+"As atomic energy becomes more commonly used in many nations, people start to be aware of its threats to human civilization. From my perspective, despite the high-cost construction and possible dangers, I am certain that the benefits, which are sustainable and environmentally friendly, outweigh the drawbacks it exerts.
+To begin with, a newly emerged source of power exerts positive impacts on humans and the environment. It is a universal consensus that nuclear power could play an essential role in the energy supply and does not exist in a limited amount like coal or gas. Therefore, after precious minerals being entirely depleted, people can replace them with atomic power, which is sustainable over centuries. Moreover, possibly the immense advantage of nuclear power is that it is eco-friendly energy. Unlike fossil fuels, the nuclear reactor does not create air pollution or release greenhouse gases to mitigate climate change.
+Meanwhile, many people are afraid of the dangers of nuclear plants, such as Japan�s nuclear disaster in 2011. In addition, investors claim that atomic plant construction costs a fortune and is a waste of money. However, I think those thoughts are rather ill-founded as the facts are opposite. When running a nuclear plant, scientists usually take accurate measures to ensure the regular operation and prevent any potential risks. Also, the dreadful disaster occurring in Japan was a mere accident, and no similar disaster was recorded until now. Additionally, despite the high-cost construction, nuclear plants are inexpensive to operate, which means it is a long-term benefit. As a result, it would be unwise to abandon this alternative energy.
+In conclusion, nuclear power not only sustains along with the development of the human race, which can fulfill global needs, but also releases unpolluted waste to the environment. Although people think that such alternative energy may cause new dangers and is expensive to invest in, it is hard to deny these overwhelming advantages."
+
+Revised:
+In recent years, the popularity of atomic energy as a source of power has increased significantly. However, concerns have been raised about the potential dangers it poses to life on Earth. In my opinion, despite the high construction costs and possible risks, the benefits of nuclear power, including sustainability and environmental friendliness, outweigh the drawbacks.
+
+To begin with, nuclear power offers several positive impacts on humans and the environment. Unlike limited resources like coal or gas, nuclear power is not finite and can play a crucial role in meeting our energy demands for centuries to come. Additionally, a major advantage of nuclear power is its environmental friendliness. Unlike fossil fuels, nuclear reactors do not contribute to air pollution or release greenhouse gases, thus helping to mitigate climate change.
+
+However, many individuals express fear regarding the potential dangers associated with nuclear plants, as exemplified by the nuclear disaster in Japan in 2011. Furthermore, critics argue that the construction of nuclear plants is expensive and a wasteful investment. Nevertheless, I believe that these concerns are largely unfounded. Scientists take meticulous measures to ensure the safe operation of nuclear plants and prevent potential risks. It is important to note that the disaster in Japan was an isolated incident, and no similar catastrophe has occurred since then. Moreover, while the initial construction costs may be high, nuclear plants prove to be cost-effective to operate in the long term.
+
+In conclusion, nuclear power offers sustainable and clean energy that can meet global needs. Although concerns about potential dangers and high construction costs exist, the overwhelming advantages of nuclear power cannot be denied. Therefore, it would be unwise to disregard this alternative energy source.
+
+Feedback:
+
+Task Response:
+
+Coherence and Cohesion:
+
+Lexical Resource:
+
+Grammatical Range and Accuracy:
+
+Score:
