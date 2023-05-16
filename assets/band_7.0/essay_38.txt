@@ -1,0 +1,36 @@
+Topic:
+
+"Atomic energy is becoming more and more popular energy source. However, some people argue that nuclear power puts life on the Earth to danger.
+What is your opinion?"
+
+Essay:
+
+"As atomic energy becomes more commonly used in many nations, people start to be aware of its threats to human civilization. From my perspective, despite the high-cost construction and possible dangers, I am certain that the benefits, which are sustainable and environmentally friendly, outweigh the drawbacks it exerts.
+
+To begin with, a newly emerged source of power exerts positive impacts on humans and the environment. It is a universal consensus that nuclear power could play an essential role in the energy supply and does not exist in a limited amount like coal or gas. Therefore, after precious minerals being entirely depleted, people can replace them with atomic power, which is sustainable over centuries. Moreover, possibly the immense advantage of nuclear power is that it is eco-friendly energy. Unlike fossil fuels, the nuclear reactor does not create air pollution or release greenhouse gases to mitigate climate change.
+
+Meanwhile, many people are afraid of the dangers of nuclear plants, such as Japan's nuclear disaster in 2011. In addition, investors claim that atomic plant construction costs a fortune and is a waste of money. However, I think those thoughts are rather ill-founded as the facts are opposite. When running a nuclear plant, scientists usually take accurate measures to ensure the regular operation and prevent any potential risks. Also, the dreadful disaster occurring in Japan was a mere accident, and no similar disaster was recorded until now. Additionally, despite the high-cost construction, nuclear plants are inexpensive to operate, which means it is a long-term benefit. As a result, it would be unwise to abandon this alternative energy.
+
+In conclusion, nuclear power not only sustains along with the development of the human race, which can fulfill global needs, but also releases unpolluted waste to the environment. Although people think that such alternative energy may cause new dangers and is expensive to invest in, it is hard to deny these overwhelming advantages."
+
+Revised:
+
+The increasing popularity of atomic energy as an energy source has sparked a debate about its potential dangers to life on Earth. In my opinion, despite the high construction costs and potential risks, I firmly believe that the benefits of nuclear power, which include sustainability and environmental friendliness, outweigh the drawbacks.
+
+Firstly, the emergence of atomic energy has brought about positive impacts on both humans and the environment. It is widely acknowledged that nuclear power can play a crucial role in meeting energy demands, unlike finite resources such as coal or gas. Therefore, when these precious minerals are completely depleted, atomic power can serve as a sustainable alternative that can last for centuries. Moreover, one significant advantage of nuclear power is its eco-friendliness. Unlike fossil fuels, nuclear reactors do not generate air pollution or release greenhouse gases that contribute to climate change.
+
+However, many individuals harbor concerns about the risks associated with nuclear plants, as evidenced by the nuclear disaster in Japan in 2011. Additionally, critics argue that constructing nuclear plants is exorbitantly expensive and a waste of resources. Nevertheless, I find these apprehensions to be unfounded, as the reality contradicts these claims. When operating a nuclear plant, scientists take precise measures to ensure its safe operation and mitigate potential risks. Furthermore, the catastrophic incident in Japan was an isolated accident, and no similar disasters have been recorded since. Additionally, despite the high initial construction costs, nuclear plants are cost-effective to run in the long term, making them a beneficial investment. Therefore, it would be unwise to discard this alternative energy source.
+
+In conclusion, nuclear power not only sustains human development by meeting global energy demands but also minimizes pollution. While some may argue that this form of alternative energy poses new dangers and requires significant investment, it is difficult to ignore its overwhelming advantages.
+
+Feedback:
+
+Task Response:
+
+Coherence and Cohesion:
+
+Lexical Resource:
+
+Grammatical Range and Accuracy:
+
+Score:
