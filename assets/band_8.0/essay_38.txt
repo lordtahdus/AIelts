@@ -30,7 +30,7 @@ Trong bài viết của bạn, có vẻ như bạn đã trả lời đầy đủ
 
 Ví dụ, trong đoạn thứ hai của bài viết, bạn đưa ra những lợi ích của năng lượng nguyên tử như là một nguồn năng lượng bền vững và thân thiện với môi trường. Tuy nhiên, bạn không trực tiếp liên kết những lợi ích này với việc nó có đặt tính mạng trên Trái đất vào nguy hiểm hay không. Việc này có thể làm cho người đọc có cảm giác rằng bạn không trả lời đầy đủ câu hỏi của đề bài.
 
-Coherence and Cohesion: 7.0
+Coherence and Cohesion: 8.0
 Trong bài viết của bạn, tổ chức ý tưởng khá tốt, tuy nhiên, một số câu có thể không liên kết chặt chẽ với nhau, gây khó hiểu và làm giảm tính liên kết của bài viết.
 
 Ví dụ, trong đoạn thứ ba của bài viết, câu "When running a nuclear plant, scientists usually take accurate measures to ensure the regular operation and prevent any potential risks." không có mối liên kết rõ ràng với những câu trước hoặc sau đó. Tương tự, trong đoạn thứ hai, câu "It is a universal consensus that nuclear power could play an essential role in the energy supply and does not exist in a limited amount like coal or gas." có thể được kết nối với các câu trước đó bằng một từ nối hoặc cụm từ nối.
@@ -50,12 +50,8 @@ Trong bài viết của bạn, nguồn từ vựng của bạn là phong phú v�
 "the dreadful disaster occurring" - có thể thay bằng "the catastrophic disaster that occurred" hoặc "the devastating disaster that took place".
 "it is hard to deny these overwhelming advantages" - có thể thay bằng "it is difficult to disregard these significant advantages" hoặc "it is challenging to ignore these compelling advantages".
 
-Grammatical Range and Accuracy: 7.0
+Grammatical Range and Accuracy: 8.0
 Dưới đây là một số lỗi cụ thể:
-
-"As atomic energy becomes more commonly used in many nations" - Nên sử dụng "more commonly" thay vì "more commonly used" để phù hợp với cấu trúc ngữ pháp.
-
-"From my perspective, despite the high-cost construction and possible dangers" - Nên sử dụng "the high cost of construction" thay vì "the high-cost construction" để đúng cấu trúc ngữ pháp.
 
 "What I mean here is that the authorities must perform improvements" - Nên sử dụng "make improvements" thay vì "perform improvements" để đúng ngữ pháp.
 
