@@ -21,12 +21,51 @@ In conclusion, nuclear power offers sustainable and clean energy that can meet g
 
 Feedback:
 
-Task Response:
+Task Response: 8
+Trong phần kết luận, bạn nên tóm lại quan điểm của mình một cách rõ ràng và có sự phân tích tổng quát hơn về vấn đề. Đưa ra lời khuyên cuối cùng hoặc một kết luận súc tích sẽ giúp đáp ứng yêu cầu của đề bài. Trong bài viết của bạn, phần kết luận chưa đủ mạch lạc và súc tích để truyền đạt một ý kiến cuối cùng mạnh mẽ.
+Gợi ý: Bạn có thể thể hiện quan điểm của mình một cách rõ ràng hơn bằng cách tóm lược các lợi ích và khía cạnh tiêu cực của năng lượng hạt nhân, và sau đó đưa ra lời khuyên cụ thể hoặc kết luận cuối cùng dựa trên các lập luận đã trình bày. Ví dụ: "Tuy nhiên, mặc dù năng lượng hạt nhân có những rủi ro và chi phí xây dựng cao, tôi tin rằng chúng ta cần tiếp tục nghiên cứu và phát triển năng lượng hạt nhân để đáp ứng nhu cầu năng lượng bền vững của thế giới. Điều quan trọng là chúng ta phải đảm bảo an toàn và thực hiện các biện pháp kiểm soát rủi ro hiệu quả trong quá trình vận hành năng lượng hạt nhân."
 
-Coherence and Cohesion:
+Coherence and Cohesion: 8
+Sử dụng từ nối:
+Để giúp liên kết các ý kiến và ý chính khác nhau trong bài viết, hãy sử dụng các từ nối và cụm từ nối thích hợp. Điều này giúp cho bài viết trở nên mạch lạc và dễ theo dõi. Ví dụ:
+Để nêu lợi ích của năng lượng hạt nhân: "Furthermore," "Moreover," "Additionally," "In addition."
+Để giới thiệu lập luận phản đối: "However," "On the other hand," "Nevertheless."
+Để đưa ra ví dụ và lý giải: "For instance," "For example," "In other words."
+Cấu trúc câu phức:
+Hãy cố gắng sử dụng cấu trúc câu phức để nối các ý kiến và ý chính. Điều này giúp bài viết trở nên phong phú hơn về ngữ pháp và sự biểu đạt. Ví dụ:
+"Not only does nuclear power provide sustainable energy, but it also helps mitigate climate change by reducing air pollution."
+"Despite the high construction costs, nuclear plants prove to be cost-effective to operate in the long term due to their low operational expenses."
+Đảm bảo một ý chính cho mỗi đoạn văn:
+Hãy đảm bảo rằng mỗi đoạn văn tập trung vào một ý chính duy nhất. Điều này giúp cho việc trình bày và truyền đạt ý kiến của bạn trở nên rõ ràng và dễ hiểu hơn.
+Sử dụng từ ngữ mở đầu câu:
+Thay đổi cách sử dụng từ ngữ mở đầu câu để tránh sự lặp lại và mang đến sự đa dạng cho văn phong của bạn. Thay vì lặp lại từ "nuclear power," hãy sử dụng từ đồng nghĩa hoặc các từ ngữ mô tả khác để truyền đạt ý kiến của bạn một cách chính xác và sáng tạo.
 
-Lexical Resource:
+Lexical Resource: 7.5
+Đa dạng từ vựng:
+Hãy cố gắng sử dụng các từ vựng đa dạng hơn để diễn đạt ý kiến và ý chính của mình. Điều này giúp tránh sự lặp lại và làm cho bài viết của bạn trở nên phong phú hơn. Thay vì sử dụng cùng một từ hoặc cụm từ lặp đi lặp lại, hãy tìm các từ đồng nghĩa hoặc các từ ngữ mô tả khác để truyền đạt ý kiến của bạn một cách chính xác và đa dạng.
+Ví dụ: Thay vì sử dụng "nuclear power" một cách lặp lại, bạn có thể sử dụng các từ ngữ khác như "atomic energy," "nuclear energy," "atomic power," "nuclear technology," và "nuclear resources" để biến đổi ngữ cảnh và tạo sự đa dạng trong từ vựng của bạn.
 
-Grammatical Range and Accuracy:
+Thuật ngữ chuyên ngành:
+Với chủ đề về năng lượng hạt nhân, hãy cố gắng sử dụng các thuật ngữ chuyên ngành liên quan để trình bày ý kiến một cách chính xác và chuyên nghiệp. Điều này giúp bài viết của bạn trở nên đáng tin cậy và tạo ấn tượng tốt với độc giả. Hãy chắc chắn rằng bạn hiểu ý nghĩa chính xác của các thuật ngữ và sử dụng chúng một cách phù hợp trong ngữ cảnh của bài viết.
+Từ ngữ mô tả:
+Sử dụng từ ngữ mô tả một cách sáng tạo và chính xác để miêu tả các khía cạnh khác nhau của vấn đề. Hãy chú ý đến việc sử dụng các từ mô tả tích cực hoặc tiêu cực để thể hiện ý kiến và ý chính của bạn một cách rõ ràng và sắc bén.
+Ví dụ: Thay vì sử dụng "good" hoặc "bad," bạn có thể sử dụng các từ ngữ mô tả như "advantageous," "beneficial," "harmful," "detrimental," "positive," "negative," "advocate," "critic," vv.
 
-Score:
+Grammatical Range and Accuracy: 7.5
+Sử dụng cấu trúc câu phức:
+Để tránh sự lặp lại và tăng tính phong phú cho bài viết, hãy sử dụng cấu trúc câu phức. Thay vì sử dụng câu đơn giản, hãy kết hợp các mệnh đề và cụm từ để tạo ra câu phức có ý nghĩa sâu sắc hơn.
+Ví dụ: "Not only does nuclear power provide sustainable energy, but it also helps mitigate climate change by reducing air pollution."
+
+Sử dụng động từ và danh từ một cách chính xác:
+Hãy chắc chắn rằng bạn sử dụng động từ và danh từ đúng dạng và phù hợp với ngữ cảnh. Kiểm tra lại các động từ chủ động và động từ bị động, cũng như các danh từ số ít và số nhiều, để đảm bảo tính chính xác ngữ pháp.
+Ví dụ: "nuclear power puts life on Earth in danger" (thay vì "nuclear power puts life on the Earth to danger").
+
+Kiểm tra lại cấu trúc câu và thứ tự từ:
+Hãy đảm bảo rằng cấu trúc câu của bạn phù hợp và tuân theo nguyên tắc ngữ pháp tiếng Anh. Kiểm tra lại thứ tự từ và cấu trúc câu để đảm bảo tính chính xác ngôn ngữ.
+Ví dụ: "it is a long-term benefit" (thay vì "it is a benefit in long term").
+
+Sử dụng từ loại và mạo từ chính xác:
+Hãy chắc chắn rằng bạn sử dụng các từ loại và mạo từ chính xác trong câu. Điều này bao gồm việc sử dụng các tính từ, trạng từ, đại từ, và mạo từ đúng dạng và phù hợp với ngữ cảnh.
+Ví dụ: "a universal consensus" (thay vì "an universal consensus").
+
+Score: 8
