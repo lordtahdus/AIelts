@@ -68,4 +68,4 @@ Sử dụng từ loại và mạo từ chính xác:
 Hãy chắc chắn rằng bạn sử dụng các từ loại và mạo từ chính xác trong câu. Điều này bao gồm việc sử dụng các tính từ, trạng từ, đại từ, và mạo từ đúng dạng và phù hợp với ngữ cảnh.
 Ví dụ: "a universal consensus" (thay vì "an universal consensus").
 
-Score: 8
+Score: 7.5

@@ -39,7 +39,7 @@ Ví dụ, trong đoạn thứ ba của bài viết, câu "When running a nuclear
 
 Ví dụ, bạn có thể sửa lại đoạn thứ hai của bài viết như sau: "It is widely acknowledged that nuclear power has the potential to play a crucial role in the global energy supply, and it is not a finite resource like coal or gas. Therefore, nuclear power can be seen as a sustainable energy source for centuries to come."
 
-Lexical Resource: 7.0
+Lexical Resource: 8.0
 Trong bài viết của bạn, nguồn từ vựng của bạn là phong phú và chủ đề được sử dụng một cách chính xác. Tuy nhiên, có một số cụm từ và từ ngữ có thể được cải thiện để tăng tính chính xác và sự đa dạng từ vựng. Dưới đây là một số gợi ý để cải thiện nguồn từ vựng của bạn:
 
 "exerts positive impacts" - có thể thay bằng "has positive impacts" hoặc "brings positive benefits".
@@ -69,4 +69,4 @@ Dưới đây là một số lỗi cụ thể:
 
 "nuclear plants are inexpensive to operate, which means it is a long-term benefit" - Nên sử dụng "which means they are long-term benefits" để phù hợp với số nhiều của "plants" và đúng cấu trúc ngữ pháp.
 
-Score: 7.0
+Score: 7.5
