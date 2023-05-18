@@ -13,14 +13,97 @@ In conclusion, the reason why trees cover the planet is lessening is people defo
 
 Revised:
 
+
+Here is the edited essay according to IELTS structure:
+
+Forests play a crucial role in producing fresh oxygen and regulating the climate. However, deforestation has become a serious problem leading to a decline in the tree cover of our planet. This essay will discuss the primary causes of deforestation and its resulting consequences.
+
+To begin with, the primary cause of deforestation is human activities. To cater to the growing demands of the population, forests are being cleared for land to construct buildings or for city expansion. Mass deforestation for wood is also regarded as one of the most harmful activities that humans have done to the environment. Moreover, climate change can cause wildfires that destroy a significant number of trees. For instance, the two-year drought in Australia between 2019 and 2020 led to a severe bushfire season, resulting in a state of emergency being declared by the authorities.
+
+As a result of deforestation, the negative effects are a hotter climate and soil erosion. Trees play a vital role in regulating the air by converting carbon dioxide into oxygen. When trees are cut down, the amount of CO2 released by factories and cars increases, which is one of the main reasons for global warming. Additionally, the lack of tree cover leads to soil erosion.  This means that the soil is not able to retain its nutrients and will quickly become a wasteland where plants will have difficulty growing.
+
+In conclusion, deforestation occurs due to human actions such as land development and wood extraction, as well as climate change leading to wildfires. The adverse impacts of deforestation include a rise in global temperature, which may cause many species to become extinct, and soil erosion that can render land unproductive. Therefore, it is crucial to undertake efforts to reduce deforestation and promote reforestation to ensure that our planet can thrive for generations to come.
+
+Estimated Score:
+This essay has good content and answers the prompt effectively, and has a clear structure with good coherence and cohesion. However, there are some grammatical errors and sentence structure issues that could be improved. Overall, this essay could score 7 to 7.5.
 Feedback:
 
 Task Response:
 
-Coherence and Cohesion:
 
-Lexical Resource:
+Bài viết của bạn đã tổng thể đáp ứng được yêu cầu của nhiệm vụ viết. Bài viết của bạn đã trình bày những nguyên nhân chính của sự phá rừng và những kết quả có thể xảy ra. Tuy nhiên, một số lỗi sau đã xảy ra trong phần Task Response:
 
-Grammatical Range and Accuracy:
+- "It is a universal consensus that in order to solve the shortage of accommodation, many regions are cutting multitude numbers of trees..." - lỗi ở đây là "accommodation" không liên quan đến việc chặt cây. "Accommodation" có nghĩa là chỗ ở hoặc phòng trọ.
 
+- "Also, large-scale deforestation for woods is regarded as one of the most harmful activities people have done to the environment." - lỗi ở đây là nên dùng "deforestation of forests" thay cho "large-scale deforestation for woods." Tuy nhiên, bạn cũng có thể nói "large-scale deforestation of forests" để mang tính trùng lặp và thêm phong phú cho từ vựng.
+
+- "...which makes governors declare a state of emergency." - lỗi ở đây là nên dùng "which led to governors declaring a state of emergency." "Makes" chỉ ám chỉ hành động xảy ra ở tương lai, trong khi một cuộc khủng hoảng đang diễn ra ở hiện tại.
+
+- "Conspicuously, poor soil, which plants hardly grow on, may become a wasteland in no time." - lỗi ở đây là "in no time" không phù hợp với cấu trúc câu. "In no time" có nghĩa là "trong thời gian ngắn," nhưng ở đây thì câu đó muốn nói rằng đất có thể trở thành một vùng đất hoang tàn trong một khoảng thời gian ngắn. Sửa lại câu này bằng cách thêm một từ hoặc sửa lại cấu trúc để nó trở nên hoàn chỉnh hơn: "Conspicuously, poor soil, on which plants hardly grow, may become a wasteland in a short period of time."
+
+Vì vậy, bạn nên chú ý đến việc sử dụng từ ngữ và cấu trúc câu để giúp bài viết của bạn trôi chảy hơn và không bị nhầm lẫn ý nghĩa.
+Coherence and Cohesion
+
+
+Trong bài viết của bạn, có sử dụng những từ nối và cụm từ đúng vị trí để kết nối ý tưởng. Ví dụ như "To begin with," để bắt đầu đoạn văn đầu tiên, "Also," để kết nối ý tưởng giữa hai câu trong đoạn thứ hai và "On the other hand," để giới thiệu một ý tưởng khác đối lập trong đoạn thứ ba. Tuy nhiên, trong bài viết của bạn vẫn còn một số lỗi liên quan đến coherence và cohesion, như:
+
+- Ví dụ trong đoạn văn thứ nhất, sau khi giới thiệu "Land" và "Woods", bạn lại sử dụng cụm từ "most harmful activities" mà không đưa ra rõ ràng câu chủ đề là gì.
+- Trong đoạn văn thứ ba, bạn đã sử dụng từ "Conversely" để bắt đầu câu nhưng ý tưởng trong câu đó không liên quan đến ý tưởng trước đó.
+- Tuy nhiên, việc sử dụng từ có chức năng liên kết khác nhau phải được diễn đạt chuẩn xác. Ví dụ, trong bài của bạn có liên kết từ "firstly" nhưng không có từ "secondly". 
+
+Vì vậy, bạn nên chú ý hơn đến việc sử dụng từ nối và cụm từ liên kết một cách logic và rõ ràng hơn để đảm bảo độ suôn sẻ và rõ ràng của bài viết.
+Lexical Resource
+
+
+Trong bài viết của bạn, bạn đã sử dụng một kho từ vựng đa dạng và phong phú, tương thích với chủ đề của đề bài. Tuy nhiên, có một số lỗi về sử dụng từ và tính liên kết của các ý tưởng. Sau đây là một số gợi ý để cải thiện Lexical Resource của bài viết:
+
+- Trong câu mở đầu của đoạn thứ nhất, từ "proven" không hoàn toàn chính xác trong ngữ cảnh này. Thay vào đó, bạn có thể sử dụng "It is well-established" hoặc "It is widely accepted" để tránh ngữ cảnh bị sai lệch.
+
+- Trong câu thứ hai của đoạn thứ nhất, từ "fulfill" không phải là một từ tự nhiên trong tiếng Anh. Bạn có thể sử dụng "meet" hoặc "satisfy" thay thế để mang lại tính chính xác.
+
+- Trong đoạn thứ nhất, từ "harmful" sử dụng một cách không chính xác. Nên sử dụng từ "destructive" hoặc "damaging" thay thế.
+
+- Trong câu đầu tiên của đoạn thứ hai, cụm từ "negative effects" do đó được dùng sai vì đó là một cụm từ trược tốt. Nên sửa lại thành "The adverse effects of deforestation".
+
+- Trong câu thứ ba của đoạn này, bạn có sử dụng thuật ngữ "wear away" trong điều kiện sử dụng sai. Nên sử dụng "washed away" để làm rõ hơn.
+
+- Cuối cùng, sử dụng các từ liên kết (linking words) đồng nhất giúp cho bài viết của bạn gắn kết và dễ hiểu hơn. Sau đây là một số từ liên kết mà bạn có thể sử dụng để liên kết các câu trong bài viết của mình: 
+  + First of all, 
+  + Furthermore/Moreover, 
+  + In addition, 
+  + Conversely/On the other hand, 
+  + Finally/In conclusion. 
+
+Những khuyết điểm này có thể được khắc phục bằng cách đọc lại bài viết và đảm bảo rằng từ vựng và cấu trúc được sử dụng chính xác và hiệu quả.
+Grammatical Range and Accuracy
+
+
+Bài viết của bạn đã sử dụng phần lớn đúng ngữ pháp và câu hợp lý, tuy nhiên, một số lỗi vẫn cần được đánh giá và chỉnh sửa. Sau đây là một số lỗi mà tôi đã phát hiện trong bài viết của bạn:
+
+- Paragraph 1, câu 2: "It is a universal consensus that in order to solve the shortage of accommodation, many regions are cutting multitude numbers of trees for land to construct or for city expansion." 
+> Câu này cần sửa lại để thể hiện đầy đủ ý nghĩa rõ ràng. Bạn có thể sửa bằng cách thêm một từ nào đó hoặc phân cấu trúc câu sao cho dễ hiểu hơn. Ví dụ: "It is universally acknowledged that to meet the demands for land to construct or expand cities, many regions are cutting down a multitude of trees."
+- Paragraph 1, câu 4: "Recently, a drought last for 2 years caused a tremendous bushfire season in Australia between 2019 and 2020, which makes governors declare a state of emergency."
+> Câu này cần sửa lại về thời hiện tại đơn để phù hợp với ngữ pháp và lưu ý chính tả. Ví dụ: "Recently, a 2-year drought has caused a tremendous bushfire season in Australia between 2019 and 2020, which led governors to declare a state of emergency."
+
+- Paragraph 2, câu 1: "First of all, jungles play an essential role in regulating the air."
+> Từ "jungles" nên thay thế bằng "forests", vì "jungles" chỉ đến các rừng nhiệt đới, trong khi "forests" là thuật ngữ chung hơn và áp dụng cho các loại rừng khác nhau. Ví dụ: "First of all, forests play an essential role in regulating the air."
+
+- Paragraph 2, câu 2: "Conspicuously, poor soil, which plants hardly grow on, may become a wasteland in no time."
+> Câu này không hoàn toàn đúng về mặt ngữ pháp và logic. Tốt hơn là viết lại bằng cách sử dụng trợ động từ để thể hiện một sự việc khả dĩ. Ví dụ: "Consequently, the soil becomes degraded, making it difficult for plants to grow, which can turn the land into a wasteland over time."
+
+- Paragraph 3, câu 1: "In conclusion, the reason why trees cover the planet is lessening is people deforest for land and for wood and long-term drought."
+> Câu này không hoàn toàn rõ ràng về mặt ngữ pháp và truyền tải thông điệp không chính xác. "The reason why trees cover the planet is lessening" không rõ ràng và trái với ý chính trong bài viết của bạn. Câu này cần phải sửa lại để truyền tải ý chính một cách rõ ràng. Ví dụ: "In conclusion, deforestation caused by human activities and natural disasters such as drought is causing the number of trees on the planet to decrease rapidly."
+
+Tổng thể, tôi nhận thấy rằng bài viết của bạn có chứa một số lỗi nhỏ về ngữ pháp, tuy nhiên tổng thể là rất tốt. Bạn có thể cải thiện bài viết của mình bằng cách đọc lại và chỉnh sửa những lỗi dễ bị nhầm lẫn để có thể sử dụng ngôn ngữ chính xác và truyền đạt ý nghĩa một cách rõ ràng.
 Score:
+
+
+Task Response: 8.5
+
+Coherence and Cohesion: 7.5
+
+Lexical Resource: 8.0
+
+Grammatical Range and Accuracy: 8.0
+
+Overall, the essay demonstrates a strong understanding of the task and effectively addresses all parts of the prompt, resulting in a high score for Task Response. The essay has a clear structure, but some minor issues with coherence and cohesion and could benefit from more specific examples or statistics. The use of vocabulary is generally varied and proficient, reflecting a score of 8.0 for Lexical Resource, while the grammar shows a good range and complexity, but with some minor errors, leading to a score of 8.0 for Grammatical Range and Accuracy.
