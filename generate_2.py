@@ -1,7 +1,7 @@
 import openai
 from decouple import config
 
-openai.api_key = config('OPENAI_KEY_1')
+openai.api_key = config('OPENAI_KEY_2')
 
 messages = []
 system_msg = "Ielts writing editor"
@@ -62,7 +62,7 @@ headings = [
 
 def run():
     # while input != "quit()":
-    with open(f"essay_{index}.txt", "a", encoding="utf-8") as f:
+    with open(f"processed_essay/essay_{index}.txt", "a", encoding="utf-8") as f:
         for i in range(0,7):
             message = syntaxes[i]
             # Revised
