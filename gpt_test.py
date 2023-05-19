@@ -8,7 +8,7 @@ openai.api_key = ""
 
 
 
-directory = 'unprocessed_essay'
+directory = 'processed_essay'
  
 # iterate over files in
 # that directory
@@ -20,23 +20,25 @@ for filename in os.listdir(directory):
     system_msg = "Ielts writing editor"
     messages.append({"role": "system", "content": system_msg})
 
-    with open(file, 'r', encoding="utf-8") as f:
-        lines = f.readlines()
-        # print(''.join(f.readlines()))
+    print(file)
 
-        sep_index = lines.index('Essay:\n', 2, 10)
-        topic = lines[1:sep_index]
-        essay = lines[sep_index + 1:]
+    # with open(file, 'r', encoding="utf-8") as f:
+    #     lines = f.readlines()
+    #     # print(''.join(f.readlines()))
 
-        print(topic)
-        print(essay)
+    #     sep_index = lines.index('Essay:\n', 2, 10)
+    #     topic = lines[1:sep_index]
+    #     essay = lines[sep_index + 1:]
 
-        syntax = []
-        syntax 
+    #     print(topic)
+    #     print(essay)
 
-        # i = 0
-        # while i <= 7:
-        #     message
+    #     syntax = []
+    #     syntax 
+
+    #     # i = 0
+    #     # while i <= 7:
+    #     #     message
              
 
 
@@ -54,5 +56,5 @@ def run():
         with open("output.csv", "a", encoding="utf-8") as f:
             print(reply, file = f)
 
-if __name__ == "__main__":
-    run()
+# if __name__ == "__main__":
+#     run()
