@@ -1,6 +1,8 @@
 import openai
 from decouple import config
 
+from link_check import *
+
 openai.api_key = config('OPENAI_KEY_1')
 
 messages = []
