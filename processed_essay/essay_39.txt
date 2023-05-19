@@ -26,10 +26,11 @@ In conclusion, deforestation occurs due to human actions such as land developmen
 
 Estimated Score:
 This essay has good content and answers the prompt effectively, and has a clear structure with good coherence and cohesion. However, there are some grammatical errors and sentence structure issues that could be improved. Overall, this essay could score 7 to 7.5.
+
+
 Feedback:
 
 Task Response:
-
 
 Bài viết của bạn đã tổng thể đáp ứng được yêu cầu của nhiệm vụ viết. Bài viết của bạn đã trình bày những nguyên nhân chính của sự phá rừng và những kết quả có thể xảy ra. Tuy nhiên, một số lỗi sau đã xảy ra trong phần Task Response:
 
@@ -42,8 +43,9 @@ Bài viết của bạn đã tổng thể đáp ứng được yêu cầu của 
 - "Conspicuously, poor soil, which plants hardly grow on, may become a wasteland in no time." - lỗi ở đây là "in no time" không phù hợp với cấu trúc câu. "In no time" có nghĩa là "trong thời gian ngắn," nhưng ở đây thì câu đó muốn nói rằng đất có thể trở thành một vùng đất hoang tàn trong một khoảng thời gian ngắn. Sửa lại câu này bằng cách thêm một từ hoặc sửa lại cấu trúc để nó trở nên hoàn chỉnh hơn: "Conspicuously, poor soil, on which plants hardly grow, may become a wasteland in a short period of time."
 
 Vì vậy, bạn nên chú ý đến việc sử dụng từ ngữ và cấu trúc câu để giúp bài viết của bạn trôi chảy hơn và không bị nhầm lẫn ý nghĩa.
-Coherence and Cohesion:
 
+
+Coherence and Cohesion:
 
 Trong bài viết của bạn, có sử dụng những từ nối và cụm từ đúng vị trí để kết nối ý tưởng. Ví dụ như "To begin with," để bắt đầu đoạn văn đầu tiên, "Also," để kết nối ý tưởng giữa hai câu trong đoạn thứ hai và "On the other hand," để giới thiệu một ý tưởng khác đối lập trong đoạn thứ ba. Tuy nhiên, trong bài viết của bạn vẫn còn một số lỗi liên quan đến coherence và cohesion, như:
 
@@ -52,8 +54,9 @@ Trong bài viết của bạn, có sử dụng những từ nối và cụm từ
 - Tuy nhiên, việc sử dụng từ có chức năng liên kết khác nhau phải được diễn đạt chuẩn xác. Ví dụ, trong bài của bạn có liên kết từ "firstly" nhưng không có từ "secondly". 
 
 Vì vậy, bạn nên chú ý hơn đến việc sử dụng từ nối và cụm từ liên kết một cách logic và rõ ràng hơn để đảm bảo độ suôn sẻ và rõ ràng của bài viết.
-Lexical Resource:
 
+
+Lexical Resource:
 
 Trong bài viết của bạn, bạn đã sử dụng một kho từ vựng đa dạng và phong phú, tương thích với chủ đề của đề bài. Tuy nhiên, có một số lỗi về sử dụng từ và tính liên kết của các ý tưởng. Sau đây là một số gợi ý để cải thiện Lexical Resource của bài viết:
 
@@ -75,8 +78,9 @@ Trong bài viết của bạn, bạn đã sử dụng một kho từ vựng đa 
   + Finally/In conclusion. 
 
 Những khuyết điểm này có thể được khắc phục bằng cách đọc lại bài viết và đảm bảo rằng từ vựng và cấu trúc được sử dụng chính xác và hiệu quả.
-Grammatical Range and Accuracy:
 
+
+Grammatical Range and Accuracy:
 
 Bài viết của bạn đã sử dụng phần lớn đúng ngữ pháp và câu hợp lý, tuy nhiên, một số lỗi vẫn cần được đánh giá và chỉnh sửa. Sau đây là một số lỗi mà tôi đã phát hiện trong bài viết của bạn:
 
@@ -95,8 +99,9 @@ Bài viết của bạn đã sử dụng phần lớn đúng ngữ pháp và câ
 > Câu này không hoàn toàn rõ ràng về mặt ngữ pháp và truyền tải thông điệp không chính xác. "The reason why trees cover the planet is lessening" không rõ ràng và trái với ý chính trong bài viết của bạn. Câu này cần phải sửa lại để truyền tải ý chính một cách rõ ràng. Ví dụ: "In conclusion, deforestation caused by human activities and natural disasters such as drought is causing the number of trees on the planet to decrease rapidly."
 
 Tổng thể, tôi nhận thấy rằng bài viết của bạn có chứa một số lỗi nhỏ về ngữ pháp, tuy nhiên tổng thể là rất tốt. Bạn có thể cải thiện bài viết của mình bằng cách đọc lại và chỉnh sửa những lỗi dễ bị nhầm lẫn để có thể sử dụng ngôn ngữ chính xác và truyền đạt ý nghĩa một cách rõ ràng.
-Score:
 
+
+Score:
 
 Task Response: 8.5
 
