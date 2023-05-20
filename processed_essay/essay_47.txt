@@ -99,7 +99,9 @@ Grammatical Range and Accuracy:
 Ngoài các lỗi đó, bài viết của bạn sử dụng ngôn ngữ phong phú và đúng đắn. Bạn có thể cải thiện điểm số của mình bằng cách chú ý đến các lỗi nhỏ và sử dụng câu văn đa dạng hơn.
 
 
-Score_Overall:
+Score:
+
+Overall:
 
 Score_TR:
 Score_CC:

@@ -82,7 +82,9 @@ Bài viết của bạn có một số lỗi ngữ pháp và sử dụng sai cá
   - Sửa: "Because they see many children like them have modern technology like computers and mobile phones, they also want to have it."
 
 
-Score_Overall: 6.5
+Score:
+
+Overall: 6.5
 
 Score_TR: 7.0
 Score_CC: 7.0

@@ -100,12 +100,12 @@ Bài viết của bạn đã sử dụng phần lớn đúng ngữ pháp và câ
 - Paragraph 3, câu 1: "In conclusion, the reason why trees cover the planet is lessening is people deforest for land and for wood and long-term drought."
 > Câu này không hoàn toàn rõ ràng về mặt ngữ pháp và truyền tải thông điệp không chính xác. "The reason why trees cover the planet is lessening" không rõ ràng và trái với ý chính trong bài viết của bạn. Câu này cần phải sửa lại để truyền tải ý chính một cách rõ ràng. Ví dụ: "In conclusion, deforestation caused by human activities and natural disasters such as drought is causing the number of trees on the planet to decrease rapidly."
 
-Score_Overall: 7.5
+
+Score:
+
+Overall: 7.5
 
 Score_TR: 8.0
 Score_CC: 7.0
 Score_LR: 8.0
 Score_GA: 8.0
-
-Overall, the essay demonstrates a strong understanding of the task and effectively addresses all parts of the prompt, resulting in a high score for Task Response. The essay has a clear structure, but some minor issues with coherence and cohesion and could benefit from more specific examples or statistics. The use of vocabulary is generally varied and proficient, reflecting a score of 8.0 for Lexical Resource, while the grammar shows a good range and complexity, but with some minor errors, leading to a score of 8.0 for Grammatical Range and Accuracy.
-

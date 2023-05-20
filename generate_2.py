@@ -94,7 +94,7 @@ In conclusion, the advertisement makers, regardless to the bad effects the adver
             "Coherence and Cohesion:\n",
             "Lexical Resource:\n",
             "Grammatical Range and Accuracy:\n",
-            "Score_Overall:\n\nScore_TR:\nScore_CC:\nScore_LR:\nScore_GA:\n"
+            "Score:\n\nOverall:\n\nScore_TR:\nScore_CC:\nScore_LR:\nScore_GA:\n"
         ]
         
         run()
