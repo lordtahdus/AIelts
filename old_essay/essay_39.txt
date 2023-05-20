@@ -30,34 +30,28 @@ Feedback:
 
 Task Response:
 
-Bài viết của bạn đạt được Task Response tốt. Bạn đã trình bày đầy đủ các yếu tố cần thiết trong đề bài, bao gồm cả nguyên nhân và hậu quả của sự suy giảm rừng. Bạn cũng không để lạc đề và tập trung vào việc trả lời các câu hỏi trong đề bài.
+Bài viết của bạn đã tổng thể đáp ứng được yêu cầu của nhiệm vụ viết. Bài viết của bạn đã trình bày những nguyên nhân chính của sự phá rừng và những kết quả có thể xảy ra. Tuy nhiên, một số lỗi sau đã xảy ra trong phần Task Response:
+
+- "It is a universal consensus that in order to solve the shortage of accommodation, many regions are cutting multitude numbers of trees..." - lỗi ở đây là "accommodation" không liên quan đến việc chặt cây. "Accommodation" có nghĩa là chỗ ở hoặc phòng trọ.
+
+- "Also, large-scale deforestation for woods is regarded as one of the most harmful activities people have done to the environment." - lỗi ở đây là nên dùng "deforestation of forests" thay cho "large-scale deforestation for woods." Tuy nhiên, bạn cũng có thể nói "large-scale deforestation of forests" để mang tính trùng lặp và thêm phong phú cho từ vựng.
+
+- "...which makes governors declare a state of emergency." - lỗi ở đây là nên dùng "which led to governors declaring a state of emergency." "Makes" chỉ ám chỉ hành động xảy ra ở tương lai, trong khi một cuộc khủng hoảng đang diễn ra ở hiện tại.
+
+- "Conspicuously, poor soil, which plants hardly grow on, may become a wasteland in no time." - lỗi ở đây là "in no time" không phù hợp với cấu trúc câu. "In no time" có nghĩa là "trong thời gian ngắn," nhưng ở đây thì câu đó muốn nói rằng đất có thể trở thành một vùng đất hoang tàn trong một khoảng thời gian ngắn. Sửa lại câu này bằng cách thêm một từ hoặc sửa lại cấu trúc để nó trở nên hoàn chỉnh hơn: "Conspicuously, poor soil, on which plants hardly grow, may become a wasteland in a short period of time."
+
+Vì vậy, bạn nên chú ý đến việc sử dụng từ ngữ và cấu trúc câu để giúp bài viết của bạn trôi chảy hơn và không bị nhầm lẫn ý nghĩa.
 
 
 Coherence and Cohesion:
 
-Phần Coherence and Cohesion trong bài viết của bạn khá tốt. Bạn đã kết nối các ý tốt tuy nhiên, cần đảm bảo sự liên kết hợp lý giữa các câu và đoạn để tăng tính nguyên vẹn của bài viết. 
+Trong bài viết của bạn, có sử dụng những từ nối và cụm từ đúng vị trí để kết nối ý tưởng. Ví dụ như "To begin with," để bắt đầu đoạn văn đầu tiên, "Also," để kết nối ý tưởng giữa hai câu trong đoạn thứ hai và "On the other hand," để giới thiệu một ý tưởng khác đối lập trong đoạn thứ ba. Tuy nhiên, trong bài viết của bạn vẫn còn một số lỗi liên quan đến coherence và cohesion, như:
 
-Dưới đây là một số góp ý để cải thiện:
+- Ví dụ trong đoạn văn thứ nhất, sau khi giới thiệu "Land" và "Woods", bạn lại sử dụng cụm từ "most harmful activities" mà không đưa ra rõ ràng câu chủ đề là gì.
+- Trong đoạn văn thứ ba, bạn đã sử dụng từ "Conversely" để bắt đầu câu nhưng ý tưởng trong câu đó không liên quan đến ý tưởng trước đó.
+- Tuy nhiên, việc sử dụng từ có chức năng liên kết khác nhau phải được diễn đạt chuẩn xác. Ví dụ, trong bài của bạn có liên kết từ "firstly" nhưng không có từ "secondly". 
 
-1. Đảm bảo sự liên kết giữa các câu
-
-- "Also, large-scale deforestation for woods is regarded as one of the most harmful activities people have done to the environment." Câu này có thể kết nối với đoạn trước đó bằng cách sử dụng từ kết nối, ví dụ: "In addition to human activities, large-scale deforestation for woods is also a major contributor to the decrease in tree cover."
-
-- "On the other hand, the negative effects of deforestation will be a hotter climate and soil erosion." Câu này nên có một dấu ngoặc đơn sau "On the other hand" để giúp người đọc hiểu rõ hơn rằng đây là một ý trái ngược với ý trước đó.
-
-- "First of all, jungles play an essential role in regulating the air." Câu này có thể kết nối với đoạn trước bằng cách sử dụng từ kết nối, ví dụ: "Moreover, the destruction of forests also has a significant impact on the world's climate and ecosystems. Firstly, jungles play an essential role in regulating the air."
-
-2. Đảm bảo sự liên kết giữa các đoạn
-
-- "It is a universal consensus that in order to solve the shortage of accommodation, many regions are cutting multitude numbers of trees for land to construct or for city expansion." Sau đoạn này, bạn có thể đưa ra các ví dụ cụ thể về việc chặt cây để mở rộng thành phố, để người đọc dễ hiểu rõ hơn về vấn đề này.
-
-- "Therefore, the overall temperature can rise due to deforestation." Sau đoạn này, bạn có thể đưa ra một đoạn được định hướng để giới thiệu về các biện pháp ngăn chặn sự suy giảm của rừng, giúp giảm thiểu nhiệt độ toàn cầu.
-
-3. Sử dụng từ kết nối và câu chuyển tiếp
-
-- Sử dụng các từ kết nối như "furthermore", "moreover" để nối liền giữa các ý cùng chủ đề.
-
-- Sử dụng cấu trúc chuyển tiếp như "Firstly, secondly, thirdly" để giúp người đọc hiểu rõ hơn về các ý cụ thể trong bài viết.
+Vì vậy, bạn nên chú ý hơn đến việc sử dụng từ nối và cụm từ liên kết một cách logic và rõ ràng hơn để đảm bảo độ suôn sẻ và rõ ràng của bài viết.
 
 
 Lexical Resource:
@@ -79,7 +73,7 @@ Trong bài viết của bạn, bạn đã sử dụng một kho từ vựng đa 
   + Furthermore/Moreover, 
   + In addition, 
   + Conversely/On the other hand, 
-  + Finally/In conclusion.
+  + Finally/In conclusion. 
 
 
 Grammatical Range and Accuracy:
@@ -100,12 +94,15 @@ Bài viết của bạn đã sử dụng phần lớn đúng ngữ pháp và câ
 - Paragraph 3, câu 1: "In conclusion, the reason why trees cover the planet is lessening is people deforest for land and for wood and long-term drought."
 > Câu này không hoàn toàn rõ ràng về mặt ngữ pháp và truyền tải thông điệp không chính xác. "The reason why trees cover the planet is lessening" không rõ ràng và trái với ý chính trong bài viết của bạn. Câu này cần phải sửa lại để truyền tải ý chính một cách rõ ràng. Ví dụ: "In conclusion, deforestation caused by human activities and natural disasters such as drought is causing the number of trees on the planet to decrease rapidly."
 
-Score_Overall: 7.5
 
-Score_TR: 8.0
-Score_CC: 7.0
-Score_LR: 8.0
-Score_GA: 8.0
+Score:
+
+Task Response: 8.5
+
+Coherence and Cohesion: 7.5
+
+Lexical Resource: 8.0
+
+Grammatical Range and Accuracy: 8.0
 
 Overall, the essay demonstrates a strong understanding of the task and effectively addresses all parts of the prompt, resulting in a high score for Task Response. The essay has a clear structure, but some minor issues with coherence and cohesion and could benefit from more specific examples or statistics. The use of vocabulary is generally varied and proficient, reflecting a score of 8.0 for Lexical Resource, while the grammar shows a good range and complexity, but with some minor errors, leading to a score of 8.0 for Grammatical Range and Accuracy.
-

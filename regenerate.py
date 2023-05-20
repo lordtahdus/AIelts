@@ -11,77 +11,11 @@ messages.append({"role": "system", "content": system_msg})
 
 
 
-index = 40
 
 
 
 
-file = f'processed_essay/essay_{index}.txt' 
 
-with open(file, 'r', encoding="utf-8") as f:
-    lines = f.readlines()
-    # print(''.join(f.readlines()))
-
-    sep_indexes = [
-        lines.index('Essay:\n', 2, 10),
-        lines.index('Revised:\n', 7, 20),
-        lines.index('Task Response:\n', 20),
-        lines.index('Coherence and Cohesion:\n', 20),
-        lines.index('Lexical Resource:\n', 20),
-        lines.index('Grammatical Range and Accuracy:\n', 20),
-        lines.index('Score:\n', 40),
-    ]
-
-    topic = lines[1:sep_indexes[0]]
-    topic = ''.join(topic).strip()
-
-    essay = lines[sep_indexes[0] + 1: sep_indexes[1]]
-    essay = ''.join(essay).strip()
-
-    revised = lines[sep_indexes[1] + 1: sep_indexes[2]]
-    tr = lines[sep_indexes[2] + 1: sep_indexes[3]]
-    cc = lines[sep_indexes[3] + 1: sep_indexes[4]]
-    lr = lines[sep_indexes[4] + 1: sep_indexes[5]]
-    ga = lines[sep_indexes[5] + 1: sep_indexes[6]]
-    score = lines[sep_indexes[6] + 1:]
-
-    contents = [
-        ''.join(revised).strip(),
-        '',
-        ''.join(tr).strip(),
-        ''.join(cc).strip(),
-        ''.join(lr).strip(),
-        ''.join(ga).strip(),
-        ''.join(score).strip(),
-    ]
-
-    # print(tr)
-    # print('\n\n')
-    # print(''.join(tr).strip())
-    # print(''.join(cc))
-    # print(''.join(lr))
-    # print(''.join(ga))
-    # print(''.join(score))
-
-
-syntaxes = [
-    f'This is IELTS writing task 2.\n\nTopic:\n"{topic}"\n\nEssay:\n"{essay}"\nPlease edit the essay according to IELTS structure. Also, estimate the score.',
-    f'This is IELTS writing task 2.\n\nTopic:\n"{topic}"\n\nEssay:\n"{essay}"\nPlease provide me detailed feedback in Vietnamese with clear explanations, based on four scoring criteria:\nTask Response\nCoherence and Cohesion\nLexical Resource\nGrammatical Range and Accuracy',
-    "Đánh giá Task Response trong bài viết của tôi một cách chi tiết hơn và nêu ra lỗi sai (nếu có)",
-    "Đánh giá Coherence and Cohesion trong bài viết của tôi một cách chi tiết hơn và nêu ra lỗi sai (nếu có)",
-    "Đánh giá Lexical Resource trong bài viết của tôi một cách chi tiết hơn và nêu ra lỗi sai (nếu có)",
-    "Đánh giá Grammatical Range and Accuracy trong bài viết của tôi một cách chi tiết hơn và nêu ra lỗi sai (nếu có)",
-    "Estimate carefully the score of each criteria"
-]
-headings = [
-    "Revised:\n",
-    "",
-    "Feedback:\n\nTask Response:\n",
-    "Coherence and Cohesion:\n",
-    "Lexical Resource:\n",
-    "Grammatical Range and Accuracy:\n",
-    "Score:\n"
-]
 
 
 def run():
@@ -134,4 +68,73 @@ def run():
 
 
 if __name__ == "__main__":
+    
+    index = int(input("Which essay to regen (enter number)? "))
+
+    file = f'processed_essay/essay_{index}.txt' 
+
+    with open(file, 'r', encoding="utf-8") as f:
+        lines = f.readlines()
+        # print(''.join(f.readlines()))
+
+        sep_indexes = [
+            lines.index('Essay:\n', 2, 10),
+            lines.index('Revised:\n', 7, 20),
+            lines.index('Task Response:\n', 20),
+            lines.index('Coherence and Cohesion:\n', 20),
+            lines.index('Lexical Resource:\n', 20),
+            lines.index('Grammatical Range and Accuracy:\n', 20),
+            lines.index('Score:\n', 40),
+        ]
+
+        topic = lines[1:sep_indexes[0]]
+        topic = ''.join(topic).strip()
+
+        essay = lines[sep_indexes[0] + 1: sep_indexes[1]]
+        essay = ''.join(essay).strip()
+
+        revised = lines[sep_indexes[1] + 1: sep_indexes[2] - 2]
+        tr = lines[sep_indexes[2] + 1: sep_indexes[3]]
+        cc = lines[sep_indexes[3] + 1: sep_indexes[4]]
+        lr = lines[sep_indexes[4] + 1: sep_indexes[5]]
+        ga = lines[sep_indexes[5] + 1: sep_indexes[6]]
+        score = lines[sep_indexes[6] + 1:]
+
+        contents = [
+            ''.join(revised).strip(),
+            '',
+            ''.join(tr).strip(),
+            ''.join(cc).strip(),
+            ''.join(lr).strip(),
+            ''.join(ga).strip(),
+            ''.join(score).strip(),
+        ]
+
+        # print(tr)
+        # print('\n\n')
+        # print(''.join(tr).strip())
+        # print(''.join(cc))
+        # print(''.join(lr))
+        # print(''.join(ga))
+        # print(''.join(score))
+
+
+    syntaxes = [
+        f'This is IELTS writing task 2.\n\nTopic:\n"{topic}"\n\nEssay:\n"{essay}"\nPlease edit the essay according to IELTS structure. Also, estimate the score.',
+        f'This is IELTS writing task 2.\n\nTopic:\n"{topic}"\n\nEssay:\n"{essay}"\nPlease provide me detailed feedback in Vietnamese with clear explanations, based on four scoring criteria:\nTask Response\nCoherence and Cohesion\nLexical Resource\nGrammatical Range and Accuracy',
+        "Đánh giá Task Response trong bài viết của tôi một cách chi tiết hơn và nêu ra lỗi sai (nếu có)",
+        "Đánh giá Coherence and Cohesion trong bài viết của tôi một cách chi tiết hơn và nêu ra lỗi sai (nếu có)",
+        "Đánh giá Lexical Resource trong bài viết của tôi một cách chi tiết hơn và nêu ra lỗi sai (nếu có)",
+        "Đánh giá Grammatical Range and Accuracy trong bài viết của tôi một cách chi tiết hơn và nêu ra lỗi sai (nếu có)",
+        "Estimate carefully the score of each criteria"
+    ]
+    headings = [
+        "Revised:\n",
+        "",
+        "Feedback:\n\nTask Response:\n",
+        "Coherence and Cohesion:\n",
+        "Lexical Resource:\n",
+        "Grammatical Range and Accuracy:\n",
+        "Score:\n"
+    ]
     run()
