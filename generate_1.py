@@ -42,23 +42,30 @@ if __name__ == "__main__":
     system_msg = "Ielts writing editor"
     messages.append({"role": "system", "content": system_msg})
 
-    index = 40
+    ##################################################
 
-    link = "https://writing9.com/text/5eafca6273403800189c0e6e"
+    index = 47
+
+    link = 'https://www.ieltsbuddy.com/ielts-band-5-essay-samples.html'
 
     topic = """\
-    Children are facing more pressure nowadays from academic social and commercial perspective.What are the causes of these pressures and what measures should be taken to refuse these pressures?\
-    """
+Some of the methods used in advertising are unethical and unacceptable in today’s society.
+To what extent do you agree with this view?\
+"""
 
     essay = """\
-    It is common to say that in these days children come across with pressures like educational communal and commercial.This essay intends to discuss how to solve problems which is disturbing most children nowadays
+Nowadays in worldwide nations, every moment, we are displayed advertisements on TV shows, magazines or huge LED boards situated on intersections. In what methods they are produced or how much producers care about ethical trend to making them? I believe they intent to have more watcher to earn more money regardless to its consequences.
 
-    In their life every child will face with academic difficulties.Todays children compete with children which is from global village instead of their neighbors or from other town children.Parents want their children to be perfect in each area.So most of them send their children to special schools which have  school bags even heavier than child himself.There are tutions after school times.Because of them kids can not get enough time to try other fields
+In first point of view, some families my does not need something that is displaying on tv, but as home wife see the advertisement will feel that is a good idea to have it and decide to buy it immediately. In another case, there is families who have young offspring who mentally is not wise enough to perceive everything in family situation. Therefore, they will have high demand while they are watching a new toy advertisement. Begging his parent to purchase it and crying all time. As a result his poor father will be finally obliged to buy the toy.
 
-    Most countries children especially teens pressurized by pressures like social and commercial.They do not want to involve traditional things so most of the time they are against from their parents opinions.This kind of things lead more and more stress.And there are problems with their peers.That is good if they are kind and smart but if they are bully they will destroy our children's life.Because they see many children like them have modern technology like computers and mobile phones.Then they also want to get it.But you know not every family have good financial positioning that some of them can not get what their kids want.Therefore most of them put themselves into depression If they can not buy these things.
+In second point, they may use psychological weaknesses; for example, by displaying a young lady with fitness body who is using some stuff on show to attract people for the good. It may apparently not so bad, but if we go deep in down will understand that how it may have an effect of youth brain and corrupt it.
 
-    Children should not let these kind of challenges to destroy their innocent childhood.Every child in the world deserve the best things.We should help them find themselves in any way.Or else these pressures will demolish their physical and mental growth.\
-    """
+Or by using a charming sentences on cigarette box "the ideal of a manhood" as a person see this advertisement on the box, will feel himself on his dreams and will buy it.
+
+In conclusion, the advertisement makers, regardless to the bad effects the advertise may cause on people, will made them due to make their customers satisfying. But it may have bad consequences on society which due to avoiding this trend i suggest authorities make some plans for the circumstance to check and control advertisements before showing up.\
+"""
+
+    ##################################################
 
     link_status = check_csv('links.csv' , link)
     # Check Link if exsited
@@ -69,23 +76,11 @@ if __name__ == "__main__":
         with open('links.csv', "a") as f:
             f.write(f"{link}")
         # create new text file
-        with open(f"essay_{index}.txt", "w") as f:
+        with open(f"processed_essay/essay_{index}.txt", "w") as f:
             f.write(f"""Topic:\n\n"{topic}"\n\nEssay:\n\n"{essay}"\n\n""")
-
-        with open('assets/essay_sample', 'a') as f:
-            f.write(f"""\n\n
-        ############################################################################
-
-        {index}.
-        Link: {link}
-
-        Topic:\n{topic}
-        Essay:\n{essay}
-        """
-        )
         
         syntaxes = [
-            f'This is IELTS writing task 2.\n\nTopic:\n"{topic}"\n\nEssay:\n"{essay}"\nPlease edit the essay according to IELTS structure. Also, estimate the score.',
+            f'This is IELTS writing task 2.\n\nTopic:\n"{topic}"\n\nEssay:\n"{essay}"\nPlease edit the essay according to IELTS structure',
             f'This is IELTS writing task 2.\n\nTopic:\n"{topic}"\n\nEssay:\n"{essay}"\nPlease provide me detailed feedback in Vietnamese with clear explanations, based on four scoring criteria:\nTask Response\nCoherence and Cohesion\nLexical Resource\nGrammatical Range and Accuracy',
             "Đánh giá Task Response trong bài viết của tôi một cách chi tiết hơn và nêu ra lỗi sai (nếu có)",
             "Đánh giá Coherence and Cohesion trong bài viết của tôi một cách chi tiết hơn và nêu ra lỗi sai (nếu có)",
@@ -99,7 +94,7 @@ if __name__ == "__main__":
             "Coherence and Cohesion:\n",
             "Lexical Resource:\n",
             "Grammatical Range and Accuracy:\n",
-            "Score:\n"
+            "Score_Overall:\n\nScore_TR:\nScore_CC:\nScore_LR:\nScore_GA:\n"
         ]
         
         run()

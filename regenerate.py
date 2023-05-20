@@ -61,21 +61,17 @@ def run():
             else:
                 f.write(headings[i])
                 if user_options[i] == 0:
-                    f.write('\n' + contents[i] + '\n\n')
+                    f.write(contents[i] + '\n\n\n')
                 else:
-                    print(reply + '\n\n', file = f)
+                    f.write(reply + '\n\n\n')
 
 
 
 if __name__ == "__main__":
-    
     index = int(input("Which essay to regen (enter number)? "))
-
     file = f'processed_essay/essay_{index}.txt' 
-
     with open(file, 'r', encoding="utf-8") as f:
         lines = f.readlines()
-        # print(''.join(f.readlines()))
 
         sep_indexes = [
             lines.index('Essay:\n', 2, 10),
@@ -84,9 +80,8 @@ if __name__ == "__main__":
             lines.index('Coherence and Cohesion:\n', 20),
             lines.index('Lexical Resource:\n', 20),
             lines.index('Grammatical Range and Accuracy:\n', 20),
-            lines.index('Score:\n', 40),
+            lines.index('Score_Overall:\n', 40),
         ]
-
         topic = lines[1:sep_indexes[0]]
         topic = ''.join(topic).strip()
 
@@ -98,7 +93,7 @@ if __name__ == "__main__":
         cc = lines[sep_indexes[3] + 1: sep_indexes[4]]
         lr = lines[sep_indexes[4] + 1: sep_indexes[5]]
         ga = lines[sep_indexes[5] + 1: sep_indexes[6]]
-        score = lines[sep_indexes[6] + 1:]
+        score = lines[sep_indexes[6] + 6:]
 
         contents = [
             ''.join(revised).strip(),
@@ -110,15 +105,6 @@ if __name__ == "__main__":
             ''.join(score).strip(),
         ]
 
-        # print(tr)
-        # print('\n\n')
-        # print(''.join(tr).strip())
-        # print(''.join(cc))
-        # print(''.join(lr))
-        # print(''.join(ga))
-        # print(''.join(score))
-
-
     syntaxes = [
         f'This is IELTS writing task 2.\n\nTopic:\n"{topic}"\n\nEssay:\n"{essay}"\nPlease edit the essay according to IELTS structure. Also, estimate the score.',
         f'This is IELTS writing task 2.\n\nTopic:\n"{topic}"\n\nEssay:\n"{essay}"\nPlease provide me detailed feedback in Vietnamese with clear explanations, based on four scoring criteria:\nTask Response\nCoherence and Cohesion\nLexical Resource\nGrammatical Range and Accuracy',
@@ -129,12 +115,12 @@ if __name__ == "__main__":
         "Estimate carefully the score of each criteria"
     ]
     headings = [
-        "Revised:\n",
+        "Revised:\n\n",
         "",
-        "Feedback:\n\nTask Response:\n",
-        "Coherence and Cohesion:\n",
-        "Lexical Resource:\n",
-        "Grammatical Range and Accuracy:\n",
-        "Score:\n"
+        "Feedback:\n\nTask Response:\n\n",
+        "Coherence and Cohesion:\n\n",
+        "Lexical Resource:\n\n",
+        "Grammatical Range and Accuracy:\n\n",
+        "Score_Overall:\n\nScore_TR:\nScore_CC:\nScore_LR:\nScore_GA:\n"
     ]
     run()
