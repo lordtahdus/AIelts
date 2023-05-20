@@ -74,10 +74,10 @@ In conclusion, the advertisement makers, regardless to the bad effects the adver
     else:
         print("NOT FOUND!!!! 8==3")
         with open('links.csv', "a") as f:
-            f.write(f"{link}")
+            f.write(f"\n{link}")
         # create new text file
         with open(f"processed_essay/essay_{index}.txt", "w") as f:
-            f.write(f"""Topic:\n\n"{topic}"\n\nEssay:\n\n"{essay}"\n\n""")
+            f.write(f"""Topic:\n\n"{topic}"\n\nEssay:\n\n"{essay}"\n\n\n""")
         
         syntaxes = [
             f'This is IELTS writing task 2.\n\nTopic:\n"{topic}"\n\nEssay:\n"{essay}"\nPlease edit the essay according to IELTS structure',

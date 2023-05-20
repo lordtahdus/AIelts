@@ -44,25 +44,26 @@ if __name__ == "__main__":
 
     ##################################################
 
-    index = 47
+    index = 49
 
-    link = 'https://www.ieltsbuddy.com/ielts-band-5-essay-samples.html'
+    link = 'https://www.ieltsbuddy.com/ielts-band-5-essay-samples.html(3)'
 
     topic = """\
-Some of the methods used in advertising are unethical and unacceptable in today’s society.
-To what extent do you agree with this view?\
+A growing number of people feel that animals should not be exploited by people and that they should have the same rights as humans, while others argue that humans must employ animals to satisfy their various needs, including uses for food and research.
+
+Discuss both views and give your opinion.\
 """
 
     essay = """\
-Nowadays in worldwide nations, every moment, we are displayed advertisements on TV shows, magazines or huge LED boards situated on intersections. In what methods they are produced or how much producers care about ethical trend to making them? I believe they intent to have more watcher to earn more money regardless to its consequences.
+Although some people believe that humans should use animals to satify their different necessities, such as feeding and researching, the number of indivuduals that defend that animals should not be exploited as well as shoud have the same prerogatives as humankind is increasing. In my opinion, animals should recieve a better treatment and not to be abuse anymore.
 
-In first point of view, some families my does not need something that is displaying on tv, but as home wife see the advertisement will feel that is a good idea to have it and decide to buy it immediately. In another case, there is families who have young offspring who mentally is not wise enough to perceive everything in family situation. Therefore, they will have high demand while they are watching a new toy advertisement. Begging his parent to purchase it and crying all time. As a result his poor father will be finally obliged to buy the toy.
+In the humanity history for centuries it was common to utilize animals for lots of tasks, like transportation. Most of them worked their entire lifes without stopping, suffering abuse. The animals were domesticated just to satisfy human necessities, with which most of people agreeded at that time withou questioning.
 
-In second point, they may use psychological weaknesses; for example, by displaying a young lady with fitness body who is using some stuff on show to attract people for the good. It may apparently not so bad, but if we go deep in down will understand that how it may have an effect of youth brain and corrupt it.
+Nevertheless, more recente studies have proved that animals have feelings, not exactly the same as the humans, but some similars emotions. Nowadays, it is not necessary anymore to use animals for jobs, for research and even for feeding. With the evolution, all of this need can be satisfied with the new technology. For instance, there are different means of transport, even eco-friendly ones, also planty of other options to substitute meat for great and nutritive substances that not involve sacrifying animals.
 
-Or by using a charming sentences on cigarette box "the ideal of a manhood" as a person see this advertisement on the box, will feel himself on his dreams and will buy it.
+More than this, animals should have recognized rights to assure them a healthy and safe life, not exactly the same as humans, but laws to protect them that take in consideration their aspects. As an example in Brazil we have some recent changes in law in order to forbid the use of animals in researchs and to penalize animals abuse.
 
-In conclusion, the advertisement makers, regardless to the bad effects the advertise may cause on people, will made them due to make their customers satisfying. But it may have bad consequences on society which due to avoiding this trend i suggest authorities make some plans for the circumstance to check and control advertisements before showing up.\
+In conclusion, I strongly believe that animals should not be employ anymore to satisfy individuals needs. Furthermore, animals must have rights recognize worldwide to assecure them a better quality of life, based on the human law, observed the peculiarities.\
 """
 
     ##################################################
@@ -74,10 +75,10 @@ In conclusion, the advertisement makers, regardless to the bad effects the adver
     else:
         print("NOT FOUND!!!! 8==3")
         with open('links.csv', "a") as f:
-            f.write(f"{link}")
+            f.write(f"\n{link}")
         # create new text file
         with open(f"processed_essay/essay_{index}.txt", "w") as f:
-            f.write(f"""Topic:\n\n"{topic}"\n\nEssay:\n\n"{essay}"\n\n""")
+            f.write(f"""Topic:\n\n"{topic}"\n\nEssay:\n\n"{essay}"\n\n\n""")
         
         syntaxes = [
             f'This is IELTS writing task 2.\n\nTopic:\n"{topic}"\n\nEssay:\n"{essay}"\nPlease edit the essay according to IELTS structure',

@@ -44,25 +44,25 @@ if __name__ == "__main__":
 
     ##################################################
 
-    index = 47
+    index = 48
 
-    link = 'https://www.ieltsbuddy.com/ielts-band-5-essay-samples.html'
+    link = 'https://www.ieltsbuddy.com/ielts-band-5-essay-samples.html(2)'
 
     topic = """\
-Some of the methods used in advertising are unethical and unacceptable in today’s society.
-To what extent do you agree with this view?\
+Using a computer everyday can have more negative than positive effects on young children.
+Do you agree or disagree?\
 """
 
     essay = """\
-Nowadays in worldwide nations, every moment, we are displayed advertisements on TV shows, magazines or huge LED boards situated on intersections. In what methods they are produced or how much producers care about ethical trend to making them? I believe they intent to have more watcher to earn more money regardless to its consequences.
+Modern era is technological era. Computer become a integral part of our life. Youngsters use it in many ways. In my opinion it has more positive impacts than negative on young generation.
 
-In first point of view, some families my does not need something that is displaying on tv, but as home wife see the advertisement will feel that is a good idea to have it and decide to buy it immediately. In another case, there is families who have young offspring who mentally is not wise enough to perceive everything in family situation. Therefore, they will have high demand while they are watching a new toy advertisement. Begging his parent to purchase it and crying all time. As a result his poor father will be finally obliged to buy the toy.
+First of all, Computer help the children in their studies. They search many type of information related to their studies through internet. They get more ideas related to any particular topic which enhance their knowledge.
 
-In second point, they may use psychological weaknesses; for example, by displaying a young lady with fitness body who is using some stuff on show to attract people for the good. It may apparently not so bad, but if we go deep in down will understand that how it may have an effect of youth brain and corrupt it.
+Secondly, it helps to improve there skills. With the help of social sites like facebook, twitter they interact with their friends, kith-kin. It helps them to increase their capability to communicate with others. Moreover, they become perfect in their work, they become literate in computer. Which would help them in their career also. Then everywhere is demand of computer it would helps to organisations to find perfect match for job. Then, they need not to trained staff, they can get efficient persons. 
 
-Or by using a charming sentences on cigarette box "the ideal of a manhood" as a person see this advertisement on the box, will feel himself on his dreams and will buy it.
+However, one of the major drawback is that it invite many health problems among young children they spent long hours in front of computers which effect on their eyes, obesity is another problem for them. Furthermore it increase gap between parents and their child they spent most of their time on computer rather than talk to their guardian. 
 
-In conclusion, the advertisement makers, regardless to the bad effects the advertise may cause on people, will made them due to make their customers satisfying. But it may have bad consequences on society which due to avoiding this trend i suggest authorities make some plans for the circumstance to check and control advertisements before showing up.\
+In nutshell, I would like to say that even computer has many pros and cons. Parents should fix sometime to use the computer and also restrict on websites.\
 """
 
     ##################################################
@@ -74,10 +74,10 @@ In conclusion, the advertisement makers, regardless to the bad effects the adver
     else:
         print("NOT FOUND!!!! 8==3")
         with open('links.csv', "a") as f:
-            f.write(f"{link}")
+            f.write(f"\n{link}")
         # create new text file
         with open(f"processed_essay/essay_{index}.txt", "w") as f:
-            f.write(f"""Topic:\n\n"{topic}"\n\nEssay:\n\n"{essay}"\n\n""")
+            f.write(f"""Topic:\n\n"{topic}"\n\nEssay:\n\n"{essay}"\n\n\n""")
         
         syntaxes = [
             f'This is IELTS writing task 2.\n\nTopic:\n"{topic}"\n\nEssay:\n"{essay}"\nPlease edit the essay according to IELTS structure',
