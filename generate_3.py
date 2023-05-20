@@ -36,7 +36,7 @@ def run():
             
 
 if __name__ == "__main__":
-    openai.api_key = config('OPENAI_KEY_2')
+    openai.api_key = config('OPENAI_KEY_3')
 
     messages = []
     system_msg = "Ielts writing editor"
