@@ -52,7 +52,8 @@ def run():
 
             response = openai.ChatCompletion.create(
                 model="gpt-3.5-turbo",
-                messages=messages)
+                messages=messages,
+                max_tokens= 500)
             reply = response["choices"][0]["message"]["content"]
 
             # save general feedback in messages but not print 
@@ -93,7 +94,7 @@ if __name__ == "__main__":
         cc = lines[sep_indexes[3] + 1: sep_indexes[4]]
         lr = lines[sep_indexes[4] + 1: sep_indexes[5]]
         ga = lines[sep_indexes[5] + 1: sep_indexes[6]]
-        score = lines[sep_indexes[6] + 8:]
+        score = lines[sep_indexes[6] + 2:]
 
         contents = [
             ''.join(revised).strip(),
@@ -108,7 +109,7 @@ if __name__ == "__main__":
     syntaxes = [
         f'This is IELTS writing task 2.\n\nTopic:\n"{topic}"\n\nEssay:\n"{essay}"\nPlease edit the essay according to IELTS structure',
         f'This is IELTS writing task 2.\n\nTopic:\n"{topic}"\n\nEssay:\n"{essay}"\nPlease provide me detailed feedback in Vietnamese with clear explanations, based on four scoring criteria:\nTask Response\nCoherence and Cohesion\nLexical Resource\nGrammatical Range and Accuracy',
-        "Đánh giá Task Response trong bài viết của tôi một cách chi tiết hơn và nêu ra lỗi sai (nếu có)",
+        "Đánh giá Task Response trong bài viết của tôi một cách chi tiết hơn và nêu ra gợi ý cải thiện (nếu có)",
         "Đánh giá Coherence and Cohesion trong bài viết của tôi một cách chi tiết hơn và nêu ra lỗi sai (nếu có)",
         "Đánh giá Lexical Resource trong bài viết của tôi một cách chi tiết hơn và nêu ra lỗi sai (nếu có)",
         "Đánh giá Grammatical Range and Accuracy trong bài viết của tôi một cách chi tiết hơn và nêu ra lỗi sai (nếu có)",
@@ -121,6 +122,6 @@ if __name__ == "__main__":
         "Coherence and Cohesion:\n\n",
         "Lexical Resource:\n\n",
         "Grammatical Range and Accuracy:\n\n",
-        "Score:\n\nOverall:\n\nScore_TR:\nScore_CC:\nScore_LR:\nScore_GA:\n\n"
+        "Score:\n\n"
     ]
     run()

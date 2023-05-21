@@ -16,6 +16,7 @@ More than this, animals should have recognized rights to assure them a healthy a
 
 In conclusion, I strongly believe that animals should not be employ anymore to satisfy individuals needs. Furthermore, animals must have rights recognize worldwide to assecure them a better quality of life, based on the human law, observed the peculiarities."
 
+
 Revised:
 
 Although some argue that animals are necessary for human needs like food and research, there is a growing sentiment that animals should not be exploited and should have rights similar to humans. In my opinion, animals should be treated better and should not be abused.
@@ -43,9 +44,7 @@ Do đó, để cải thiện Task Response, bạn cần phát triển ý tưởn
 
 Coherence and Cohesion:
 
-Bạn đã sử dụng kỹ năng liên kết ý tưởng để thành công liên kết các phần của bài viết của mình. Tuy nhiên, vẫn còn một số lỗi và điểm cần được cải thiện.
-
-Một vài lỗi mà tôi đã phát hiện:
+Bạn đã sử dụng kỹ năng liên kết ý tưởng để thành công liên kết các phần của bài viết của mình. Tuy nhiên, vẫn còn một số lỗi và điểm cần được cải thiện:
 
 1. "Although some people believe that humans should use animals to satify their different necessities, such as feeding and researching, the number of indivuduals that defend that animals should not be exploited as well as shoud have the same prerogatives as humankind is increasing" -> Câu này rườm rà và khó hiểu, vì vậy nên phân tách nó thành hai câu như sau:
 
@@ -60,8 +59,6 @@ Một vài lỗi mà tôi đã phát hiện:
 4. "As an example in Brazil we have some recent changes in law in order to forbid the use of animals in researchs and to penalize animals abuse" -> Phải sử dụng "research" thay vì "researchs" và thêm "the" trước "animals abuse":
 
 "For example, in Brazil, we have recently implemented changes in law in order to forbid the use of animals in research and to penalize the abuse of animals."
-
-Tổng thể, bạn cần chú ý đến các cụm từ và câu để có thể làm rõ ý tưởng hơn. Ngoài ra, nên sử dụng các từ nối, từ liên kết để nối các câu với nhau một cách tự nhiên và hợp lý để làm cho bài viết của bạn dễ hiểu hơn cho người đọc.
 
 
 Lexical Resource:
@@ -104,40 +101,12 @@ Lỗi cấu trúc từ. "Similar" cần thiết phải được sử dụng vớ
 9. "animals should have recognized rights" -> "animals should be granted recognized rights"
 Lỗi cấu trúc từ. "Be granted" là một cách sử dụng chính xác trong tiếng Anh.
 
-Tổng quan, bạn cần phải chú ý đến việc sử dụng động từ, tiếng Anh biểu hiện, tựa lượt từ, cấu trúc từ và chính tả. Bạn có thể cải thiện kỹ năng của mình bằng cách học tập ngữ pháp tiếng Anh và thường xuyên viết các bài viết để trau dồi kỹ năng sử dụng tiếng Anh hiệu quả.
-
 
 Score:
 
-Overall:
+Overall: 6.0
 
-Score_TR:
-Score_CC:
-Score_LR:
-Score_GA:
-
-Task Response: 
-Your essay addresses the task and presents both sides of the argument effectively. However, your opinion could have been more developed. 
-
-Estimated score: 7
-
-Coherence and Cohesion:
-Your essay is well-structured and the ideas are presented in a logical and cohesive manner. There is a good use of linking words to connect the ideas. Some minor errors in paragraphing and sentence structure.
-
-Estimated score: 7.5
-
-Lexical Resource:
-Your essay has a good range of vocabulary, with some advanced words and phrases used. However, there are some repetition and awkward expressions.
-
-Estimated score: 6.5
-
-Grammatical range and accuracy:
-There are some errors in grammar, spelling, and punctuation, but they do not affect the clarity of your message. Some of these errors could be easily corrected with proofreading and editing.
-
-Estimated score: 6.5
-
-Overall, your essay is well-written and effectively addresses the prompt. With some improvement in language and grammar, you could achieve a higher score. 
-
-Estimated final score: 7
-
-
+Score_TR: 6.0
+Score_CC: 7.0
+Score_LR: 6.0
+Score_GA: 5.0
