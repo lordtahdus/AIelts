@@ -46,7 +46,7 @@ if __name__ == "__main__":
 
     index = 51
 
-    link = 'https://www.ieltsbuddy.com/ielts-band-5-essay-samples.html(2)'
+    link = 'https://www.ieltsbuddy.com/ielts-band-4-essay-samples.html'
 
     topic = """\
 A growing number of people feel that animals should not be exploited by people and that they should have the same rights as humans, while others argue that humans must employ animals to satisfy their various needs, including uses for food and research.
