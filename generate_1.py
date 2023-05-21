@@ -44,25 +44,30 @@ if __name__ == "__main__":
 
     ##################################################
 
-    index = 48
+    index = 51
 
     link = 'https://www.ieltsbuddy.com/ielts-band-5-essay-samples.html(2)'
 
     topic = """\
-Using a computer everyday can have more negative than positive effects on young children.
-Do you agree or disagree?\
+A growing number of people feel that animals should not be exploited by people and that they should have the same rights as humans, while others argue that humans must employ animals to satisfy their various needs, including uses for food and research.
+
+Discuss both views and give your opinion.\
 """
 
     essay = """\
-Modern era is technological era. Computer become a integral part of our life. Youngsters use it in many ways. In my opinion it has more positive impacts than negative on young generation.
+In this century, there are a countless number of people that are showing interest in what concerne animals rights, therefore it is becoming an actual and argued topic.
 
-First of all, Computer help the children in their studies. They search many type of information related to their studies through internet. They get more ideas related to any particular topic which enhance their knowledge.
+People are starting to look disapprovingly all situations and events with animal exploitation. Infact, circus for example, has lost its popularity and the audience prefer human performances.                                
 
-Secondly, it helps to improve there skills. With the help of social sites like facebook, twitter they interact with their friends, kith-kin. It helps them to increase their capability to communicate with others. Moreover, they become perfect in their work, they become literate in computer. Which would help them in their career also. Then everywhere is demand of computer it would helps to organisations to find perfect match for job. Then, they need not to trained staff, they can get efficient persons. 
+Moreover, animal rights have become part of the law and animal’s abuse is punished with fees and occasionally with prison.     
 
-However, one of the major drawback is that it invite many health problems among young children they spent long hours in front of computers which effect on their eyes, obesity is another problem for them. Furthermore it increase gap between parents and their child they spent most of their time on computer rather than talk to their guardian. 
+Further more, also the animal breeding has been observed and people are realizing that the killing and the slaughter of animals is cruelly done. It is important to realize that people of new generations are developing a new sensibility concerning this issue, but currently it is emerging a new exstremist thought.                                                                         
 
-In nutshell, I would like to say that even computer has many pros and cons. Parents should fix sometime to use the computer and also restrict on websites.\
+Despite the huge number of vegeterian people (which the majority of them are following a new fashion), there are also people with distorted views.                                                                                                                                                                  
+
+The area that worry me most regards the animal research which allows considerable and important improvements in the medical research, therefore in  human walfare. The animalist group are spreading wrong information , directly demaging the research sector.   As an illustration, few months ago an animalist  group destroyed years and years of neurological research freeing  rats used in a laboratory, because they would have been cruelly treated.  Unfortunately this animalists did not know that for each treatment was used anesthesia.        
+
+Given these points, I defend animal rights and I do not support any form of animal exploitation , nevertheless I do not support any exetremist thought  especially concerning medical research.\
 """
 
     ##################################################
@@ -82,7 +87,7 @@ In nutshell, I would like to say that even computer has many pros and cons. Pare
         syntaxes = [
             f'This is IELTS writing task 2.\n\nTopic:\n"{topic}"\n\nEssay:\n"{essay}"\nPlease edit the essay according to IELTS structure',
             f'This is IELTS writing task 2.\n\nTopic:\n"{topic}"\n\nEssay:\n"{essay}"\nPlease provide me detailed feedback in Vietnamese with clear explanations, based on four scoring criteria:\nTask Response\nCoherence and Cohesion\nLexical Resource\nGrammatical Range and Accuracy',
-            "Đánh giá Task Response trong bài viết của tôi một cách chi tiết hơn và nêu ra lỗi sai (nếu có)",
+            "Đánh giá Task Response trong bài viết của tôi một cách chi tiết hơn và nêu ra gợi ý cải thiện (nếu có)",
             "Đánh giá Coherence and Cohesion trong bài viết của tôi một cách chi tiết hơn và nêu ra lỗi sai (nếu có)",
             "Đánh giá Lexical Resource trong bài viết của tôi một cách chi tiết hơn và nêu ra lỗi sai (nếu có)",
             "Đánh giá Grammatical Range and Accuracy trong bài viết của tôi một cách chi tiết hơn và nêu ra lỗi sai (nếu có)",
