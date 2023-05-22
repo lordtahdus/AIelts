@@ -36,7 +36,7 @@ def run():
             
 
 if __name__ == "__main__":
-    openai.api_key = config('OPENAI_KEY_3')
+    openai.api_key = config('OPENAI_KEY_4')
 
     messages = []
     system_msg = "Ielts writing editor"
@@ -44,25 +44,22 @@ if __name__ == "__main__":
 
     ##################################################
 
-    index = 47
+    index = 59
 
-    link = 'https://www.ieltsbuddy.com/ielts-band-5-essay-samples.html'
+    link = 'https://writing9.com/text/646a32e37e89e60018c7f9a2-do-you-agree-or-disagree-with-the-following-statement-it'
 
     topic = """\
-Some of the methods used in advertising are unethical and unacceptable in today’s society.
-To what extent do you agree with this view?\
+Do you agree or disagree with the following statement: “It is better to be a follower than a leader.”\
 """
 
     essay = """\
-Nowadays in worldwide nations, every moment, we are displayed advertisements on TV shows, magazines or huge LED boards situated on intersections. In what methods they are produced or how much producers care about ethical trend to making them? I believe they intent to have more watcher to earn more money regardless to its consequences.
+In daily lives people have various positions in various parts of the world. A differentiation occurs between leaders and followers. Some people prefer to be a leader and free; nonetheless, others like to be a follower and depend on others. As far as I am concerned, I would rather be a leader instead of being a follower.
 
-In first point of view, some families my does not need something that is displaying on tv, but as home wife see the advertisement will feel that is a good idea to have it and decide to buy it immediately. In another case, there is families who have young offspring who mentally is not wise enough to perceive everything in family situation. Therefore, they will have high demand while they are watching a new toy advertisement. Begging his parent to purchase it and crying all time. As a result his poor father will be finally obliged to buy the toy.
+Initially, a leader is a director of a group and they are able to decide freely by considering both themselves and their group. They can decide or act independently when compared to followers and other members of the group. It is a fact that, sometimes, conversations and brainstorming can be necessary to find the optimum choice, however, a leader can make a decision by themselves in a risky situation without discussions. Or even a leader can follow their own path when conflicts arise because of clash of ideas since they have the power among the group. Therefore, a leader is the independent symbol of the group and they are able to play the dominator role of a group.
 
-In second point, they may use psychological weaknesses; for example, by displaying a young lady with fitness body who is using some stuff on show to attract people for the good. It may apparently not so bad, but if we go deep in down will understand that how it may have an effect of youth brain and corrupt it.
+Secondly, a person can gain confidence by being a leader and they can use their increased confidence in diverse areas. Followers often involved in such discussions or conflicts, they are not sufficiently able to apply their own ideas. Nevertheless, by leading a society or crowd, leaders incessantly obtain self-confidence. They start to decide more legitimately and calmly when they encounter stressed and pressuring difficulties with the help of their confidence. Moreover, this confidence can assure accomplishment for leaders. In different parts of their lives, they may be successful and canalize others with a sense of self-confidence., which could bring success  Consequently, being a leader also helps people to be more confident and fulfill in different areas.
 
-Or by using a charming sentences on cigarette box "the ideal of a manhood" as a person see this advertisement on the box, will feel himself on his dreams and will buy it.
-
-In conclusion, the advertisement makers, regardless to the bad effects the advertise may cause on people, will made them due to make their customers satisfying. But it may have bad consequences on society which due to avoiding this trend i suggest authorities make some plans for the circumstance to check and control advertisements before showing up.\
+To sum up, being a leader has positive effects and consequences. First, it helps to be more free and independent. Second, it also ensures being confident and determined. Up to me, I would definitely prefer to be a leader.\
 """
 
     ##################################################
@@ -73,8 +70,7 @@ In conclusion, the advertisement makers, regardless to the bad effects the adver
         print("FOUND!")
     else:
         print("NOT FOUND!!!! 8==3")
-        with open('links.csv', "a") as f:
-            f.write(f"\n{link}")
+        
         # create new text file
         with open(f"processed_essay/essay_{index}.txt", "w") as f:
             f.write(f"""Topic:\n\n"{topic}"\n\nEssay:\n\n"{essay}"\n\n\n""")
@@ -98,3 +94,7 @@ In conclusion, the advertisement makers, regardless to the bad effects the adver
         ]
         
         run()
+
+        # append the link in the links.csv
+        with open('links.csv', "a") as f:
+            f.write(f"\n{link}")

@@ -44,23 +44,27 @@ if __name__ == "__main__":
 
     ##################################################
 
-    index = 52
+    index = 60
 
-    link = 'https://writing9.com/text/6469c7b97e89e60018c7f8d1-at-present-the-population-of-some-countries-include-a-relatively'
+    link = 'https://writing9.com/text/64692c7d7e89e60018c7f813-some-people-fail-in-school-but-end-up-being-successful'
 
     topic = """\
-At present the population of some countries include a relatively large number of young adults, compared with the number of older people.
-Do the advantages outweigh the disadvantages? Give reasons for your answer with relevant example.\
+Some people fail in school, but end up being successful in life.
+
+Why do you think that is the case?
+What is the most important thing to succeed in life?\
 """
 
     essay = """\
-In recent times, some nations have a comparatively large number of young people than the number of older people. Possessing younger people than  older ones has both positive and negative sides as well. However,  positivity never outweighs the negativity. The following essay will explore the two sides and provide a plausible example. 
+In our society we are taught that the person who has the best scores in school, is the one that it’s going to succeed most in life. However, that is not always the case. In my opinion, this happens a because the real life is more about how agile and active is somebody when doing their job. Therefore, the most important characteristic that someone could have to succeed it’s to be hard worker.
 
-To start with, there is a saying that young adults are the future of any nation. The contribution of young adults in numerous sectors of the country is huge. Hence, with the help of their strength and ,fitness they easily take the leadership of any sector. For example, the economy, employment, sports and defence cannot be imagined without the performance of young people. Moreover, young people have the courage and motivation to take responsibility which cannot be done by  older people.  For example, a recent study demonstrates that, young people have 60% more stamina and courage than old people. Therefore, countries are fully dependent on the young generation more than the old ones.
+The knowledge it’s so important in any job because this helps to do things in the right way.Nevertheless, if someone has a lot of information in their brain, but they don’t have a good attitude to work, they are not going to progress in their life. My own personal experience is a good proof of this.
 
-Conversely, if the volume of the young generation outweighs the old ones obviously that will have some demerits. Building a nation with both younger and older people is necessary. The old people are the forerunners of  a country and the young generation always follow their footprints. For example, the old generation can easily be friends, philosophers and guides of the young generation. Furthermore, the old generation can help the young generation in learning new things and ideas and share their experiences with the younger generation. Therefore, to build a country both young and old people are required.
+When I was in school, I had a friend called Maria who was the best student during my whole career. She had the best scores in my class. But, when we had to go to practice with animals, she was the worst. She couldn’t handle a cow; she was always having a bad attitude, being lazy, and she didn’t want to help others. Right now, she hasn’t been able to last in any company. I think, this is related to her personality.
 
-To conclude, although the volume of the young generation outweighs the old generation, it does not outweigh the merits of the younger generation. However, to achieve a balanced society and nation there are no alternatives for younger people.
+Hard worker doesn’t mean to be strong. Being a hard worker means to have the best predisposition to do a good job and finish it fast. People like that are always supporting others, transmitting good vibes, communicating well, learning from failure, and wanting to be better each time. That is what people needs to be successful in life.
+
+To conclude, work hard play harder.\
 """
 
     ##################################################
@@ -71,8 +75,7 @@ To conclude, although the volume of the young generation outweighs the old gener
         print("FOUND!")
     else:
         print("NOT FOUND!!!! 8==3")
-        with open('links.csv', "a") as f:
-            f.write(f"\n{link}")
+        
         # create new text file
         with open(f"processed_essay/essay_{index}.txt", "w") as f:
             f.write(f"""Topic:\n\n"{topic}"\n\nEssay:\n\n"{essay}"\n\n\n""")
@@ -96,3 +99,7 @@ To conclude, although the volume of the young generation outweighs the old gener
         ]
         
         run()
+
+        # append the link in the links.csv
+        with open('links.csv', "a") as f:
+            f.write(f"\n{link}")
