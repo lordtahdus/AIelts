@@ -44,24 +44,23 @@ if __name__ == "__main__":
 
     ##################################################
 
-    index = 50
+    index = 52
 
-    link = 'https://www.ieltsbuddy.com/ielts-band-5-essay-samples.html(4)'
+    link = 'https://writing9.com/text/6469c7b97e89e60018c7f8d1-at-present-the-population-of-some-countries-include-a-relatively'
 
     topic = """\
-It is the responsibility of schools to teach children good behaviour in addition to provide formal education.
-
-To what extent do you agree or disagree?\
+At present the population of some countries include a relatively large number of young adults, compared with the number of older people.
+Do the advantages outweigh the disadvantages? Give reasons for your answer with relevant example.\
 """
 
     essay = """\
-It is argued that schools should teach students to be good people apart from providing formal education. I completely agree with this statement because children spend long hours at schools, and parents have to pay for tuition fees.
+In recent times, some nations have a comparatively large number of young people than the number of older people. Possessing younger people than  older ones has both positive and negative sides as well. However,  positivity never outweighs the negativity. The following essay will explore the two sides and provide a plausible example. 
 
-Schools should be responsible for teaching children to have good manners because children spend a significant amount of time at schools. This is because when children spend a lot of time with teachers who usually act as role models for them, students can learn and imitate good manners. For example, students from one of the most famous schools in Thailand reported that they behave themselves well because their teachers instilled good values in them while studying at schools.
+To start with, there is a saying that young adults are the future of any nation. The contribution of young adults in numerous sectors of the country is huge. Hence, with the help of their strength and ,fitness they easily take the leadership of any sector. For example, the economy, employment, sports and defence cannot be imagined without the performance of young people. Moreover, young people have the courage and motivation to take responsibility which cannot be done by  older people.  For example, a recent study demonstrates that, young people have 60% more stamina and courage than old people. Therefore, countries are fully dependent on the young generation more than the old ones.
 
-Another reason is that parents have to pay for tuition fees, so they expect their children to become good people. This is due to the fact that parents expect their children to be successful both professionally and personally. For instance, international schools in Thailand charge parents a lot of money, so their parents expect their children to be excellent not only at academic subjects, but also good manners.
+Conversely, if the volume of the young generation outweighs the old ones obviously that will have some demerits. Building a nation with both younger and older people is necessary. The old people are the forerunners of  a country and the young generation always follow their footprints. For example, the old generation can easily be friends, philosophers and guides of the young generation. Furthermore, the old generation can help the young generation in learning new things and ideas and share their experiences with the younger generation. Therefore, to build a country both young and old people are required.
 
-In conclusion, schools have to be responsible for teaching about good manners because children spend a lot of time at schools, and parents have to pay for education costs.\
+To conclude, although the volume of the young generation outweighs the old generation, it does not outweigh the merits of the younger generation. However, to achieve a balanced society and nation there are no alternatives for younger people.
 """
 
     ##################################################
