@@ -85,7 +85,6 @@ To summarise, after analysing the situation, it is felt that it is okay that man
             "Đánh giá Grammatical Range and Accuracy trong bài viết của tôi một cách chi tiết hơn và nêu ra lỗi sai (nếu có)",
             "Estimate carefully the score of each criteria"
         ]
-
         headings = [
             "Feedback:\n\nTask Response:\n",
             "Coherence and Cohesion:\n",
@@ -99,3 +98,5 @@ To summarise, after analysing the situation, it is felt that it is okay that man
         # append the link in the links.csv
         with open('links.csv', "a") as f:
             f.write(f"\n{link}")
+
+        print('DONE')

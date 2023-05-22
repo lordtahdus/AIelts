@@ -36,7 +36,7 @@ def run():
             
 
 if __name__ == "__main__":
-    openai.api_key = config('OPENAI_KEY_4')
+    openai.api_key = config('OPENAI_KEY_3')
 
     messages = []
     system_msg = "Ielts writing editor"
@@ -70,11 +70,10 @@ To sum up, being a leader has positive effects and consequences. First, it helps
         print("FOUND!")
     else:
         print("NOT FOUND!!!! 8==3")
-        
         # create new text file
         with open(f"processed_essay/essay_{index}.txt", "w") as f:
             f.write(f"""Topic:\n\n"{topic}"\n\nEssay:\n\n"{essay}"\n\n\n""")
-        
+    
         syntaxes = [
             f'This is IELTS writing task 2.\n\nTopic:\n"{topic}"\n\nEssay:\n"{essay}"\nPlease edit the essay according to IELTS structure',
             f'This is IELTS writing task 2.\n\nTopic:\n"{topic}"\n\nEssay:\n"{essay}"\nPlease provide me detailed feedback in Vietnamese with clear explanations, based on four scoring criteria:\nTask Response\nCoherence and Cohesion\nLexical Resource\nGrammatical Range and Accuracy',
@@ -84,7 +83,6 @@ To sum up, being a leader has positive effects and consequences. First, it helps
             "Đánh giá Grammatical Range and Accuracy trong bài viết của tôi một cách chi tiết hơn và nêu ra lỗi sai (nếu có)",
             "Estimate carefully the score of each criteria"
         ]
-
         headings = [
             "Feedback:\n\nTask Response:\n",
             "Coherence and Cohesion:\n",
@@ -98,3 +96,5 @@ To sum up, being a leader has positive effects and consequences. First, it helps
         # append the link in the links.csv
         with open('links.csv', "a") as f:
             f.write(f"\n{link}")
+        
+        print('DONE')

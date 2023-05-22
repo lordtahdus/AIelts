@@ -75,7 +75,6 @@ To conclude, work hard play harder.\
         print("FOUND!")
     else:
         print("NOT FOUND!!!! 8==3")
-        
         # create new text file
         with open(f"processed_essay/essay_{index}.txt", "w") as f:
             f.write(f"""Topic:\n\n"{topic}"\n\nEssay:\n\n"{essay}"\n\n\n""")
@@ -89,7 +88,6 @@ To conclude, work hard play harder.\
             "Đánh giá Grammatical Range and Accuracy trong bài viết của tôi một cách chi tiết hơn và nêu ra lỗi sai (nếu có)",
             "Estimate carefully the score of each criteria"
         ]
-
         headings = [
             "Feedback:\n\nTask Response:\n",
             "Coherence and Cohesion:\n",
@@ -103,3 +101,5 @@ To conclude, work hard play harder.\
         # append the link in the links.csv
         with open('links.csv', "a") as f:
             f.write(f"\n{link}")
+
+        print('DONE')
