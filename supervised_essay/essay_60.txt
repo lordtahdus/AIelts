@@ -20,18 +20,12 @@ To conclude, work hard play harder."
 
 Revised:
 
-Here is the edited essay with proper IELTS structure:
-
-Introduction:
 In today’s society, the belief that academic performance in school is the key to success in life is prevalent. However, it is not always the case that those who excel in school will succeed in their careers. This essay argues that success in life is not merely about one's academic accomplishments but is rather dependent on an individual's work ethic and attitude towards work.
 
-Body Paragraph 1:
 While academic skills and knowledge are essential for pursuing certain careers, the ability to work hard and adapt to different situations is equally important. For instance, a person who consistently performs well in school may lack problem-solving skills or may not be able to work effectively in a team environment. These characteristics are pivotal to an individual’s success in many careers, such as business or management, where the ability to communicate efficiently and effectively can help in achieving the required outcomes.
 
-Body Paragraph 2:
 The need for a positive attitude towards work is crucial in determining an individual's career success. A positive attitude can help one remain optimistic in the face of obstacles, cope with setbacks and move past them. A person with a negative attitude towards work may find it challenging to take on new responsibilities, learn from failures, and progress in their career. For example, my friend Maria, who was an exceptional student, had a negative and lazy attitude in her practical work. This has contributed to her underperformance in her career.
 
-Conclusion:
 In conclusion, success in life is not only dependent on academic achievements. Rather, it is achieved through the consistent display of hard work, a willingness to learn from failure, and the ability to maintain a positive attitude in the face of challenges. Those who possess these qualities can stand out in their careers, become dependable leaders, and achieve career and personal success.
 
 
@@ -45,9 +39,7 @@ Task Response:
 
 2. Tránh sử dụng các ý tưởng không liên quan hoặc không đủ sâu để giải thích quan điểm của bạn. Bạn có thể cần một số ví dụ cụ thể hơn hoặc một số lời giải thích chi tiết hơn để minh họa ý tưởng của mình.
 
-3. Chú ý đến các từ và cụm từ trong câu hỏi để đảm bảo rằng bạn trả lời chính xác các câu hỏi được đưa ra.
-
-4. Tóm tắt nội dung của bài viết của bạn ở phần mở đầu của bài viết để rõ ràng và dễ hiểu hơn, giúp phần Task Response trở nên rõ ràng và dễ hiểu hơn.
+3. Tóm tắt nội dung của bài viết của bạn ở phần mở đầu của bài viết để rõ ràng và dễ hiểu hơn, giúp phần Task Response trở nên rõ ràng và dễ hiểu hơn.
 
 Ví dụ, trong bài viết của bạn, bạn có thể thêm những thông tin cụ thể hơn để giải thích vì sao làm việc chăm chỉ là yếu tố quan trọng để thành công. Bạn có thể đề cập đến những lợi ích và kỹ năng nhất định mà những người làm việc chăm chỉ phải sở hữu để hoàn thành công việc một cách tốt nhất. Bạn cũng có thể đưa ra ví dụ cụ thể về những người thành công như Elon Musk, Jeff Bezos, Steve Jobs,... để minh họa ý tưởng của bạn.
 
@@ -76,12 +68,12 @@ Lexical Resource:
     + Trong câu "Therefore, the most important characteristic that someone could have to succeed it’s to be hard worker", từ "it's" nên được thay thế bằng "is".
     + Trong câu "Being a hard worker means to have the best predisposition to do a good job and finish it fast", từ "predisposition" không phù hợp trong trường hợp này. Bạn có thể thay thế bằng từ "attitude" hoặc "approach".
 
-- Bạn có thể cải thiện kỹ năng vựng của mình bằng cách đọc nhiều tài liệu đa dạng và ghi chú lại những từ mới mà bạn gặp phải. Hãy chắc chắn rằng bạn hiểu được các từ khi sử dụng chúng trong ngữ cảnh phù hợp. Đồng thời, hãy kiểm tra chính tả và sử dụng từ đúng cách để tránh sai lầm.
+- Bạn có thể cải thiện kỹ năng vựng của mình bằng cách đọc nhiều tài liệu đa dạng và ghi chú lại những từ mới mà bạn gặp phải. Hãy chắc chắn rằng bạn hiểu được các từ khi sử dụng chúng trong ngữ cảnh phù hợp.
 
 
 Grammatical Range and Accuracy:
 
-Dưới đây là đánh giá chi tiết về Grammatical Range and Accuracy trong bài viết của bạn:
+Dưới đây là đánh giá chi tiết về bài viết của bạn:
 
 1. Lỗi sai về cấu trúc câu:
 
@@ -107,30 +99,14 @@ Dưới đây là đánh giá chi tiết về Grammatical Range and Accuracy tro
 
 - "Being a hard worker means to have the best predisposition" - Từ "means" nên được sửa thành "means to have". Vì vậy, câu sẽ trở thành "Being a hard worker means to have the best predisposition".
 
-Tổng kết, bài viết của bạn có một số lỗi sai ngữ pháp, tuy nhiên, chúng không ảnh hưởng quá nhiều đến ý nghĩa chính của bài viết. Bạn cần chú ý hơn đến cấu trúc câu và sử dụng từ vựng chính xác hơn để tăng tính chính xác và phong phú của bài viết.
-
 
 Score:
 
-Overall:
+Overall: 5.0
 
-Score_TR:
-Score_CC:
-Score_LR:
-Score_GA:
-
-Task Response: 7.0
-(Your essay fully addresses the prompt and presents a clear opinion backed up with relevant examples. However, the development of some ideas could be improved and the conclusion is too brief.)
-
-Coherence and Cohesion: 6.5
-(Your essay uses a range of cohesive devices but they are not always used effectively and the flow of ideas could be smoother. There is some repetitive language and the response is organized but not always clearly.)
-
-Lexical Resource: 6.5
-(You have used a range of vocabulary with accuracy, although some words are used inappropriately and there is some repetition. Nonetheless, the vocabulary does just enough to convey your ideas.)
-
-Grammatical Range and Accuracy: 6.5
-(You have demonstrated a good range of grammatical structures, but there are some errors in verb tense, subject-verb agreement, and prepositions. Overall, the essay is easy to understand and the errors do not impede communication.)
-
-Overall, I estimate your score to be approximately 6.75 based on the four scoring criteria. However, please note that the actual score that you would receive on the exam may differ depending on the specificities of the task and other factors beyond the scope of this evaluation.
+Score_TR: 5.0
+Score_CC: 6.0
+Score_LR: 5.0
+Score_GA: 5.0
 
 

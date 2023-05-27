@@ -76,7 +76,7 @@ if __name__ == "__main__":
 
         sep_indexes = [
             lines.index('Essay:\n', 2, 10),
-            lines.index('Revised:\n', 7, 20),
+            lines.index('Revised:\n', 7, 30),
             lines.index('Task Response:\n', 20),
             lines.index('Coherence and Cohesion:\n', 20),
             lines.index('Lexical Resource:\n', 20),

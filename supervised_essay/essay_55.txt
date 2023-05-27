@@ -30,15 +30,11 @@ Feedback:
 
 Task Response:
 
-Task Response: 6.0
-
 Bài viết của bạn hiển thị được sự hiểu biết về đề bài và cung cấp đủ thông tin để trả lời câu hỏi. Tuy nhiên, một số ý chưa được phát triển đầy đủ và có thể cần thêm các thông tin để tăng tính đầy đủ trong việc trả lời câu hỏi. 
 
 Gợi ý cải thiện: Bạn nên đọc lại đề bài và chắc chắn rằng bạn đang cung cấp đủ thông tin để trả lời câu hỏi hoàn toàn và chính xác. Hạn chế sử dụng các ý tục lệ và sử dụng các ý tưởng cụ thể và rõ ràng hơn. 
 
 Ví dụ, trong phần đầu tiên, bạn giải thích rằng "những người tự làm chủ đang trở nên thông minh hơn", nhưng bạn không giải thích rõ ràng là tại sao và đưa ra các ví dụ cụ thể để minh họa cho ý này. Bạn có thể cải thiện phần này bằng cách bổ sung thêm ví dụ hoặc các lập luận để chứng minh rằng những người tự làm chủ thông minh hơn so với nhân viên làm công.
-
-Ngoài ra, bạn cần phải đảm bảo rằng các chữ viết hoa, dấu chấm, dấu phẩy và cách bố trí văn bản phù hợp để tăng khả năng đọc hiểu và đánh giá bài viết của bạn.
 
 
 Coherence and Cohesion:
@@ -47,12 +43,10 @@ Trong bài viết của bạn, mặc dù có sự liên kết giữa các ý th�
 
 Bạn cũng có xu hướng sử dụng các từ nối một cách phổ biến như "thus", "for example" và "in other words", nhưng không sử dụng chúng đúng cách hoặc không liên kết chúng với ý trước đó một cách hợp lý và trôi chảy. Ví dụ, trong câu "People may make an adapted plan on themselves, make rules as they want. As a result, there will be no any disputes about working rules", mặc dù có sử dụng từ "as a result" để liên kết ý, tuy nhiên ý trước đó không có một sự kết nối dễ hiểu rõ ràng.
 
-Bạn cần sử dụng ngôn từ liền mạch hơn và kết nối các ý một cách hợp lý để tăng tính thống nhất và sự liên kết của bài viết.
-
 
 Lexical Resource:
 
-Trong bài viết của bạn, tôi nhận thấy sử dụng một số từ vựng cơ bản để hình dung và mô tả về chủ đề. Tuy nhiên, nội dung của bài viết của bạn loãng và khó hiểu do sử dụng không đầy đủ vốn từ vựng. Dưới đây là một số đánh giá chi tiết về Lexical Resource của bài viết của bạn:
+Trong bài viết của bạn, tôi nhận thấy sử dụng một số từ vựng cơ bản để hình dung và mô tả về chủ đề. Tuy nhiên, nội dung của bài viết của bạn loãng và khó hiểu do sử dụng không đầy đủ vốn từ vựng:
 
 - Từ vựng cơ bản: bạn sử dụng một số từ vựng phổ biến và đơn giản để trình bày ý tưởng của mình. Ví dụ như "self-employed", "employer", "disputes", "adapted plan", "crowd". Đây là các từ thông dụng cho chủ đề này và góp phần trình bày ý tưởng của bạn.
 
@@ -61,8 +55,6 @@ Trong bài viết của bạn, tôi nhận thấy sử dụng một số từ v�
 - Sử dụng từ không chính xác: Bạn đã sử dụng một số từ không chính xác và không phù hợp. Ví dụ, bạn sử dụng "complete it" thay vì "embrace it" và "unexpected debate" thay vì "dispute". 
 
 - Kết hợp từ không chính xác: Trong một số trường hợp, bạn đã sử dụng từ sai hoặc không phù hợp về mặt nghĩa trong ngữ cảnh của câu. Ví dụ, bạn sử dụng "(...) discipline will deteriorate" thay vì "(...) discipline may weaken" trong khi deteriorate sử dụng để chỉ một tình trạng xấu đi rõ ràng hơn.
-
-Để nâng cao mức độ đa dạng và chính xác của từ vựng, bạn nên đọc thêm nhiều tài liệu học thuật, trang báo, sách vở và xem phim, từ đó cải thiện khả năng tiếng Anh của mình. Nên chú ý xem xét các từ đồng nghĩa, cấu trúc câu và sử dụng từ chính xác sẽ giúp cho bài viết của bạn trở nên mạch lạc và sâu sắc hơn.
 
 
 Grammatical Range and Accuracy:
@@ -78,48 +70,13 @@ Trong bài viết của bạn, vẫn có một số lỗi sai cú pháp và sai 
 - Paragraph 3:
     - "If people will ignore this factors" - lỗi ngữ pháp, nên là "If people ignore these factors, they could fail"
 
-Tổng số lỗi của bài viết của bạn là 6 lỗi. Tuy nhiên, bạn cũng có một số câu có cấu trúc tốt và sử dụng ngữ pháp hợp lý. Vì vậy, tôi cho rằng điểm của bạn ở Grammatical Range and Accuracy là 5.0.
-
 
 Score:
 
 Overall:
 
-Score_TR:
-Score_CC:
-Score_LR:
-Score_GA:
-
-Sure, here is a detailed breakdown of the estimated score for each criteria:
-
-Task Response (TR):
-- Addresses all parts of the task: 6.0
-- Presents a clear position throughout the response: 6.0
-- Presents relevant main ideas but may not be developed or supported: 6.0
-
-Overall TR score: 6.0
-
-Coherence and Cohesion (CC):
-- Uses a mix of simple and complex structures: 5.0
-- Attempts to use linking words and phrases but not always appropriately: 5.5 
-- Sequences information and ideas logically: 6.0 
-
-Overall CC score: 5.5
-
-Lexical Resource (LR):
-- Attempts to use less common vocabulary but with limited success: 4.5
-- Has an awareness of collocation but may not always control it: 5.0
-- May produce occasional errors in word choice, spelling or word formation: 5.5
-
-Overall LR score: 5.0
-
-Grammatical Range and Accuracy (GRA): 
-- Uses a range of simple and complex structures: 5.0
-- Produces frequent errors in grammar and punctuation: 4.5
-- May fail to convey intended meaning in places: 5.0 
-
-Overall GRA score: 5.0
-
-Therefore, the estimated overall score for this essay is 5.3, which is a mid-range score.
-
+Score_TR: 6.0
+Score_CC: 6.0
+Score_LR: 6.0
+Score_GA: 6.0
 
