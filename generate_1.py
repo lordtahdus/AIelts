@@ -44,24 +44,24 @@ if __name__ == "__main__":
 
     ##################################################
 
-    index = 55
+    index = 64
 
-    link = 'https://writing9.com/text/646b7f867e89e60018c7fc89-nowadays-many-people-choose-to-be-self-employed-rather-than-to'
+    link = "https://writing9.com/text/6473113a7e89e60018c80bac-some-people-think-that-newly-built-houses-should-follow-the"
 
     topic = """\
-Nowadays, many people choose to be self-employed, rather than to work for a company or organisation. 
-
-why might this be the case? what could be the disadvantage of being self-employed?\
+Some people think that newly built houses should follow the style of old houses in local areas. Others think that people should have freedom to build houses of their own style. Discuss both these views and give your own opinion.\
 """
 
     essay = """\
-In present life, plenty of people prefer to work independently, than to work for some organizations. This essay will discuss why is this happenig and find some disadvantages of being self-employed.
+There are those who think that people who make houses newly have to comply with the traditional style in municipal areas, whereas others consider that they have to design their own residences by themselves. Deciding whether or not it is wise to own style is subjective but for many it can be positive. 
 
-First of all, I ant to begin with saying something about its reasons of happening. People are becoming more clever and smart in this time. Thus, some individuals understand the pluses of being freelancer. People may make an adapted plan on themselves, make rules as they want. As a result, there will be no any disputes about working rules. For example, some people do not like when employers are manipulating on them, and there can appear a unexpected debate. Due to this reasons, the number of self-employed persons are increasing steadily.
+On the one hand, if new citizens follow the conventional custom to create their dwellings, it would render the scenery of the town beautiful. To be specific, it would make the local area more famous in the country. For instance, one city in Kyoto decided a rule of building to oblige the traditional form in 2018, it generated some positive effects on the residents and town because it became the most popular area in Japan in 2020. Thus, this trend would produce some beneficial results. 
 
-Secondly, this approach has the disadvantages as well. The crowd sometimes go to complete it, but ignore its drawbacks. Person's discipline will deteriorate when no one is watching them. Thus, their work will bring them less result than they expected. For instance, self-employed people do their work in any time they wanted. They have no a constant time to work. In other words their day and their plans will fail. It is the most common disadvantages of being independently
+on the other hand, a lot of individuals build their own dwellings since they want to live in their favorite houses. It means that house owners design what they would like to do in their own residences. To illustrate, many families attach a garden in their houses to fulfill their hope such as playing with their children or watching nature. Hence, if newcomers are able to erect their home freely, they can design what they like. 
 
-To summarise, after analysing the situation, it is felt that it is okay that many people prefer to being self-employed. It helps to develop the country. But they should consider any drawbacks of it. If people will ignore this factors, they could fail.\
+In my view, it depends on what house the person like to live in. There is no specific residence that fits everyone, and I think if individuals think that harmony with other residents is more essential than their favorites, they should comply the rule of old house, and vice versa. 
+
+In conclusion, there are pros and cons for traditional custom and own style. It depends on the individual’s choice. Therefore, people have to consider what they want to obtain from their own buildings.\
 """
 
     ##################################################
