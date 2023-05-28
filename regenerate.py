@@ -81,7 +81,7 @@ if __name__ == "__main__":
             lines.index('Coherence and Cohesion:\n', 20),
             lines.index('Lexical Resource:\n', 20),
             lines.index('Grammatical Range and Accuracy:\n', 20),
-            lines.index('Score:\n', 40),
+            lines.index('Score:\n', 40)
         ]
         topic = lines[1:sep_indexes[0]]
         topic = ''.join(topic).strip()
@@ -103,7 +103,7 @@ if __name__ == "__main__":
             ''.join(cc).strip(),
             ''.join(lr).strip(),
             ''.join(ga).strip(),
-            ''.join(score).strip(),
+            ''.join(score).strip()
         ]
 
     syntaxes = [
