@@ -35,8 +35,6 @@ Feedback:
 
 Task Response:
 
-Task Response:
-
 Trong bài viết của bạn, bạn đã trả lời đầy đủ yêu cầu của đề bài bằng cách đưa ra cả lợi và hại của việc liều lĩnh. Tuy nhiên, bạn nên đi sâu hơn vào lợi ích của việc liều lĩnh, vì phần lớn bài viết tập trung vào những hạn chế của việc liều lĩnh. 
 
 Bạn khá rõ ràng trong việc trình bày quan điểm của mình vào phần giới thiệu và phần kết luận. Tuy nhiên, bạn nên phát triển luận điểm của mình hơn nữa và đưa ra các ví dụ cụ thể để làm rõ quan điểm của mình. Ví dụ: bạn có thể đề cập đến các nhà kinh doanh nổi tiếng như Steve Jobs, Elon Musk, Jeff Bezos... để chứng minh rằng việc liều lĩnh đã giúp họ thành công trong sự nghiệp. 
@@ -57,24 +55,12 @@ Một gợi ý cho bạn là nên dành thêm thời gian để sửa các lỗi
 
 Lexical Resource:
 
-Lexical Resource của bài viết của bạn có những ưu điểm cũng như nhược điểm như sau:
-Ưu điểm:
-- Bạn đã sử dụng một loạt các từ vựng khác nhau để trình bày ý tưởng của mình.
-- Bạn đã sử dụng từ vựng phong phú để đổi từ và tránh sự lặp lại trong bài viết.
-- Bạn đã sử dụng các từ nối khác nhau để kết nối các ý tưởng khác nhau trong bài viết, chẳng hạn như "on the one hand" và "moreover", làm cho bài viết trở nên mạch lạc hơn.
-
 Nhược điểm:
 - Bạn đã sử dụng một số từ sai hoặc không chính xác, đây là một số trường hợp:
    + "advantage" thay vì "advantages" - lỗi đánh vần.
    + "make up because" thay vì "make up for" - sử dụng sai một thành ngữ.
    + "run a plan B" thay vì "have a plan B" - sử dụng sai cụm từ chỉ định.
 - Một số câu trong bài viết của bạn không chính xác ngữ pháp. Chẳng hạn như "Taking risks are needed in people's life" nên là "taking risks is needed in people's lives", vì "risk" là danh từ đếm được. Ngoài ra, câu "Businessmen should start taking the opportunity and take a different way to look different and unique" cũng không chính xác. Bạn có thể sửa đổi câu này để hiểu rõ hơn.
-
-Những gợi ý mà tôi đưa ra để cải thiện Lexical Resource của bạn là:
-- Nêu rõ ý tưởng của bạn một cách chính xác, tránh sử dụng từ sai hoặc không chính xác.
-- Sử dụng các thành ngữ, câu tục ngữ hoặc thành ngữ để trình bày ý tưởng của bạn một cách chính xác.
-- Đọc lại bài viết của bạn sau khi hoàn thành để phát hiện và sửa đổi các lỗi ngữ pháp và sử dụng từ vựng không chính xác.
-
 
 Grammatical Range and Accuracy:
 
@@ -97,8 +83,6 @@ Bài viết của bạn có một vài lỗi chính tả và lỗi cấu trúc n
 - "advantage" instead of "advantages".
 - "make up because" instead of "make up for".
 - "run a plan B" instead of "have a plan B". 
-
-Tổng thể, bạn cần phải chú ý đến cách sử dụng động từ, thì, giới từ và hình thức từ trong bài viết của mình. Bạn nên đọc lại bài viết và chỉnh sửa những lỗi sai để nâng cao điểm số về Grammatical Range and Accuracy trong bài thi IELTS của mình.
 
 
 Score:
