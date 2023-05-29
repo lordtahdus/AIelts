@@ -73,7 +73,7 @@ Trong bài viết của bạn, vẫn có một số lỗi sai cú pháp và sai 
 
 Score:
 
-Overall:
+Overall: 6.0
 
 Score_TR: 6.0
 Score_CC: 6.0
