@@ -2,7 +2,7 @@
 # import required module
 import os
 # assign directory
-directory = 'assets/band_5.0'
+directory = 'assets/band_8.5'
  
 # iterate over files in
 # that directory
@@ -16,7 +16,7 @@ for filename in os.listdir(directory):
     with open(file, 'r', encoding="utf-8") as f:
         lines = f.readlines()
         
-        print(lines)
+        # print(lines)
         
         topic_essay_revised = lines[0: lines.index('Feedback:\n')]
         feedback = lines[lines.index('Feedback:\n'):]
