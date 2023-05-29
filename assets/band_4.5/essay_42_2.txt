@@ -24,12 +24,12 @@ In conclusion, while there are valid arguments supporting the idea of rewarding 
 
 Feedback:
 
-Task Response: 1.0
+Task Response:
 Trong bài viết của bạn, dường như bạn không thực sự trả lời câu hỏi được đặt ra trong đề bài. Đề bài yêu cầu bạn bàn luận về ý kiến ​​của những người tin rằng học đại học là con đường tốt nhất đến một sự nghiệp thành công so với những người tin rằng làm việc ngay sau khi tốt nghiệp trường phổ thông tốt hơn. Tuy nhiên, trong bài viết của bạn, bạn đang bàn luận về cách thưởng cho học sinh có thành tích tốt nhất hoặc cách thưởng cho những người đã cải thiện nhiều nhất.
 
 Do đó, bài viết của bạn không đáp ứng đầy đủ nội dung của đề bài và có thể dẫn đến điểm số thấp trong tiêu chí Task Response. Để trả lời tốt tiêu chí này, bạn nên đảm bảo rằng bài viết của mình phù hợp với nội dung của đề bài và bàn luận đầy đủ về cả hai quan điểm trong đề bài.
 
-Coherence and Cohesion: 7.0
+Coherence and Cohesion:
 Trong bài viết của bạn, sự liên kết và mạch lạc của ý tưởng đã được thể hiện tốt. Tuy nhiên, có một số lỗi nhỏ mà bạn có thể cải thiện để đạt điểm cao hơn:
 
 Transition words (Từ nối): Bạn đã sử dụng một số từ nối, nhưng có thể sử dụng chúng một cách linh hoạt hơn để tạo sự mạch lạc giữa các ý tưởng. Ví dụ, bạn có thể sử dụng "Furthermore" (Hơn nữa) hoặc "Moreover" (Hơn nữa) để kết nối các ý tưởng bổ sung, và "On the other hand" (Mặt khác) hoặc "However" (Tuy nhiên) để chỉ sự tương phản giữa các quan điểm.
@@ -38,7 +38,7 @@ Paragraph development (Phát triển đoạn văn): Hãy chắc chắn rằng m�
 
 Sentence structure (Cấu trúc câu): Cố gắng sử dụng các cấu trúc câu đa dạng để mang lại sự mạch lạc và sự phong phú cho bài viết của bạn. Điều này có thể bao gồm việc sử dụng các cấu trúc câu phức tạp hơn, câu điều kiện hoặc cấu trúc so sánh. Việc sử dụng các cấu trúc câu đa dạng giúp tăng tính thú vị và chất lượng của bài viết của bạn.
 
-Lexical Resource: 4.0
+Lexical Resource:
 Bài viết của bạn không sử dụng từ vựng phù hợp với chủ đề. Về mặt bài viết của bạn, có một số vấn đề nhỏ có thể cải thiện để tăng tính chính xác và đa dạng.
 
 "pupils" - Từ này thường được sử dụng để chỉ học sinh ở cấp tiểu học hoặc trung học cơ sở. Trong bài viết của bạn, từ "students" hoặc "individuals" có thể phù hợp hơn để ám chỉ các học sinh sau khi tốt nghiệp trung học.
@@ -51,7 +51,7 @@ Bài viết của bạn không sử dụng từ vựng phù hợp với chủ đ
 
 "the highest level" - Từ này có thể được thay thế bằng cụm từ "the top position" hoặc "the highest achievement" để mô tả ý của bạn.
 
-Grammatical Range and Accuracy: 7.0
+Grammatical Range and Accuracy:
 
 Có một số lỗi ngữ pháp và sai sót nhỏ trong bài viết của bạn:
 
@@ -73,4 +73,11 @@ Sửa thành: "...rewarding someone while they are trying hard..."
 "takes him to the highest level one day" có thể được sửa thành "will lead them to the highest level in the future" để diễn đạt ý nghĩa rõ ràng hơn.
 Sửa thành: "...and takes them to the highest level in the future."
 
-Score: 4.5
+Score:
+
+Overall: 4.5
+
+Score_TR: 1.0
+Score_CC: 7.0
+Score_LR: 4.0
+Score_GA: 7.0
