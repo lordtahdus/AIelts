@@ -44,24 +44,24 @@ if __name__ == "__main__":
 
     ##################################################
 
-    index = 64
+    index = 67
 
-    link = "https://writing9.com/text/6473113a7e89e60018c80bac-some-people-think-that-newly-built-houses-should-follow-the"
+    link = "https://writing9.com/text/6470dfa17e89e60018c807ec-some-people-think-that-it-is-fine-for-professional-sportmen"
 
     topic = """\
-Some people think that newly built houses should follow the style of old houses in local areas. Others think that people should have freedom to build houses of their own style. Discuss both these views and give your own opinion.\
+Some people think that it is fine for professional sportmen and sportwomen to misbehave on or off the field, as long as they are playing well.
+
+Do you agree or disagree this statement?\
 """
 
     essay = """\
-There are those who think that people who make houses newly have to comply with the traditional style in municipal areas, whereas others consider that they have to design their own residences by themselves. Deciding whether or not it is wise to own style is subjective but for many it can be positive. 
+It is argued that the best way to solve the problems related with environment is to increase the cost of fuel. I completely disagree with this idea for several distinct reasons.
 
-On the one hand, if new citizens follow the conventional custom to create their dwellings, it would render the scenery of the town beautiful. To be specific, it would make the local area more famous in the country. For instance, one city in Kyoto decided a rule of building to oblige the traditional form in 2018, it generated some positive effects on the residents and town because it became the most popular area in Japan in 2020. Thus, this trend would produce some beneficial results. 
+On the one hand, it may be right solution for environment protection to increase the cost of fuel as nowadays everyone has his or her private car. Naturally, the rate of fuel usage is very high and it tend to pollute the environment . Moreover, when fossil fuels are burned the release large amounts of carbon dioxide and greenhouse gas into the air. Greenhouse gases trap heat in our atmosphere causing global warming. Because of these problems the cost of fossil fuel should be increased to reduce problems with environment.
 
-on the other hand, a lot of individuals build their own dwellings since they want to live in their favorite houses. It means that house owners design what they would like to do in their own residences. To illustrate, many families attach a garden in their houses to fulfill their hope such as playing with their children or watching nature. Hence, if newcomers are able to erect their home freely, they can design what they like. 
+However, I do not believe that it may reduce all environmental problems as there are other things that impact on environment more than fuels. First of all, human activity is causing environmental degradation, which is the deterioration of the environment through depletion of resources  such as air, water, soil and destruction  of ecosystem and and the extinction of wildlife. For instance, when waters run dry people cannot get enough to drink, wash or feed crops and economic  decline may occur. In addition inadequate sanitation a problem for 2.4 billion people can lead to deadly diarrheal diseases, including  cholera and thyphoid fever  and other water-borne illnesses.
 
-In my view, it depends on what house the person like to live in. There is no specific residence that fits everyone, and I think if individuals think that harmony with other residents is more essential than their favorites, they should comply the rule of old house, and vice versa. 
-
-In conclusion, there are pros and cons for traditional custom and own style. It depends on the individual’s choice. Therefore, people have to consider what they want to obtain from their own buildings.\
+In conclusion, I think increasing costs of fuels could not solve all environmental problems as there are many factors that influence on environment.\
 """
 
     ##################################################
