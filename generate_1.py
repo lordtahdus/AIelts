@@ -44,24 +44,24 @@ if __name__ == "__main__":
 
     ##################################################
 
-    index = 67
+    index = 72
 
-    link = "https://writing9.com/text/6470dfa17e89e60018c807ec-some-people-think-that-it-is-fine-for-professional-sportmen"
+    link = "https://writing9.com/text/6475e70b91cbdc0018c4d6e9-many-children-are-encouraged-by-their-parents-to-get-a"
 
     topic = """\
-Some people think that it is fine for professional sportmen and sportwomen to misbehave on or off the field, as long as they are playing well.
+Many children are encouraged by their parents to get a part time job in their free time.
 
-Do you agree or disagree this statement?\
+What are the advantages and disadvantages to children of doing so?\
 """
 
     essay = """\
-It is argued that the best way to solve the problems related with environment is to increase the cost of fuel. I completely disagree with this idea for several distinct reasons.
+Many children are stimulated by their parents to work in part-time jobs in their leisure time. The main benefits are children are going to be more responsible and they will realise the difficulties of earning money. However, the main drawbacks are a lack of interest in school and unlimited financial independence. 
 
-On the one hand, it may be right solution for environment protection to increase the cost of fuel as nowadays everyone has his or her private car. Naturally, the rate of fuel usage is very high and it tend to pollute the environment . Moreover, when fossil fuels are burned the release large amounts of carbon dioxide and greenhouse gas into the air. Greenhouse gases trap heat in our atmosphere causing global warming. Because of these problems the cost of fossil fuel should be increased to reduce problems with environment.
+Children are depending financially on their parents and they need to ask money from their fathers to buy the things they like. When children got a job at an early age, they will be independent individuals economically and, as a result, they will buy whatever they are wishing. If they are working after  school hours, they will have less time to concentrate on their school subject and, consequently, they will fail exams. For example,  students who are using their free time to work, are likely to have less qualified occupations in the future. 
 
-However, I do not believe that it may reduce all environmental problems as there are other things that impact on environment more than fuels. First of all, human activity is causing environmental degradation, which is the deterioration of the environment through depletion of resources  such as air, water, soil and destruction  of ecosystem and and the extinction of wildlife. For instance, when waters run dry people cannot get enough to drink, wash or feed crops and economic  decline may occur. In addition inadequate sanitation a problem for 2.4 billion people can lead to deadly diarrheal diseases, including  cholera and thyphoid fever  and other water-borne illnesses.
+The first advantage is the work that they are working on will make them more responsible. This is to say, having a job is making people more aware of the problems that their parents are facing. Another benefit is children will understand how hard is to earn money. If they are gaining experience in earning money, they will be more careful about the money they are spending. Since they are receiving a salary regularly, they will be more aware of how difficult earn money. For instance, students who start to receive remuneration earlier than their peers, are likely to manage their money more properly. 
 
-In conclusion, I think increasing costs of fuels could not solve all environmental problems as there are many factors that influence on environment.\
+To conclude, the positive impacts are children will have more responsibility at an early age and they will understand the importance of money. However, the negative impacts are they will fail in their assignments and have hazardous financial freedom.\
 """
 
     ##################################################
