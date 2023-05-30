@@ -119,23 +119,9 @@ Các lỗi sai trên phần nhiều là do sử dụng từ vựng khó hiểu h
 
 Score:
 
-Overall:
+Overall: 6.5
 
-Score_TR:
-Score_CC:
-Score_LR:
-Score_GA:
-
-Based on your essay, here is an estimate of the scores for each criterion:
-
-1. Task Response: 6.0 - You have addressed the topic and provided your own opinion on the matter. However, there are some minor issues with clarity and accuracy in your writing, which may have affected your score.
-
-2. Coherence and Cohesion: 6.5 - You have organized your ideas well and provided clear transitions between your paragraphs. However, there are some instances of repetition and awkward phrasing that could be improved.
-
-3. Lexical Resource: 6.5 - You have used a range of vocabulary, but there are some inaccuracies and misplaced words that could be improved. With some attention to word choice and organization, you could improve your score in this category.
-
-4. Grammatical Range and Accuracy: 5.5 - Your grammar is mostly correct, but there are quite a few errors in subject-verb agreement, word order, and prepositions which lowers your score. To improve your score, you should focus on improving your accuracy in grammar.
-
-Overall, your estimated band score is around 6.0 to 6.5. Keep practicing and working on your weaknesses to improve your score.
-
-
+Score_TR: 6
+Score_CC: 6.5
+Score_LR: 6.5
+Score_GA: 5.5

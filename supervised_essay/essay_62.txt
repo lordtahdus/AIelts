@@ -87,31 +87,9 @@ Bài viết của bạn có một vài lỗi chính tả và lỗi cấu trúc n
 
 Score:
 
-Overall:
+Overall: 6
 
-Score_TR:
-Score_CC:
-Score_LR:
-Score_GA:
-
-Sure, here is an estimated score for each criteria:
-
-Task Response: 
-- The essay addressed the prompt and presented both advantages and disadvantages of taking risks. The opinion was clearly stated and supported. 
-Score: 7 
-
-Coherence and Cohesion: 
-- The essay was organized into a clear introduction, body paragraphs, and conclusion with cohesive paragraphs focused on single ideas. However, some sentences were unclear and may confuse the reader. 
-Score: 6 
-
-Lexical Resource: 
-- Some vocabulary was used accurately, but there were some mistakes with word choices and collocations. 
-Score: 5.5 
-
-Grammatical Range and Accuracy: 
-- The essay had some grammatical mistakes with subject-verb agreement and verb tenses. However, a variety of sentence structures and connectors were used. 
-Score: 5 
-
-Overall, the estimated score for this essay would be around 5.5-6.
-
-
+Score_TR: 7
+Score_CC: 6
+Score_LR: 5.5
+Score_GA: 5

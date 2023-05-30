@@ -79,18 +79,9 @@ Grammatical Range and Accuracy là một trong những tiêu chí quan trọng �
 
 Score:
 
-Overall:
+Overall: 7
 
-Score_TR:
-Score_CC:
-Score_LR:
-Score_GA:
-
-Task Response: 7
-Coherence and Cohesion: 7
-Lexical Resource: 7
-Grammatical Range and Accuracy: 6
-
-Tổng điểm: 27/40 ( tương đương 6.75/9.0)
-
-
+Score_TR: 7
+Score_CC: 7
+Score_LR: 7
+Score_GA: 6

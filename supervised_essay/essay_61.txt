@@ -17,16 +17,12 @@ Revised:
 
 Here's an edited version, following the IELTS structure guidelines:
 
-Introduction:
 The issue of whether professionals like doctors, nurses, and teachers deserve higher salaries than sports and entertainment personalities is a subject of heated debate. While some argue that athletes and entertainers also make significant contributions, I believe that the former group should receive higher pay due to the critical role they play in society.
 
-Body Paragraph 1: 
 Doctors and nurses are essential workers who often have to work in emergency situations and even risk their lives. During times of crisis like the COVID-19 pandemic, doctors and nurses are on the front lines, putting themselves at great risk to treat patients. As such, their sacrifices and contributions are immeasurable, and they deserve higher salaries to reflect the importance of their work.
 
-Body Paragraph 2:
 Teachers play a vital role in shaping the future through educating and training the next generation. Their job requires patience, skill, and dedication, and they must continually improve their craft to create a better society. If the pay for teaching is lower than that of sports and entertainment, it can lead to a shortage of teachers in the future, which would have serious implications for our society.
 
-Conclusion:
 In conclusion, while athletes and entertainers might also contribute greatly to society, the contributions of doctors, nurses, and teachers are essential for the wellbeing and future of our communities. Therefore, they deserve higher salaries to reflect the importance of their work. In short, by providing incentives and recognition, society can encourage more people to pursue these critical professions, ultimately leading to a better future for us all.
 
 
@@ -108,19 +104,9 @@ Vì vậy, bài viết của bạn có một số lỗi ngữ pháp. Hãy lưu �
 
 Score:
 
-Overall:
+Overall: 7
 
-Score_TR:
-Score_CC:
-Score_LR:
-Score_GA:
-
-Task Response: 7 - Bài viết của bạn đã trả lời đúng câu hỏi được đưa ra trong đề bài, nhưng bạn có thể cung cấp các argument và lập luận mạch lạc hơn để đạt được điểm cao hơn.
-
-Coherence and Cohesion: 6.5 - Mặc dù bài viết của bạn có sự kết nối, nhưng cần sắp xếp thứ tự các ý chính một cách rõ ràng và sử dụng các dấu hiệu trình tự tốt hơn để giúp người đọc có thể hiểu được nội dung một cách tốt nhất.
-
-Lexical Resource: 7 - Bạn sử dụng một số từ vựng tốt, điều này giúp bài viết của bạn đạt được mức điểm trung bình cho yếu tố này. Tuy nhiên, bạn cũng có một số lỗi ngữ pháp và cách sử dụng từ không chính xác.
-
-Grammatical Range and Accuracy: 6.5 - Bạn sử dụng một số cấu trúc câu tốt, nhưng bài viết của bạn có nhiều lỗi ngữ pháp và sử dụng từ không chính xác, điều này khiến mức độ ngữ pháp của bài viết của bạn không cao.
-
-Trong tổng thể, bài viết của bạn đạt được điểm số trung bình và bạn cần cải thiện một số khía cạnh để đạt được mức điểm cao hơn. Hãy cố gắng đọc thêm các tài liệu tham khảo và luyện tập viết để nâng cao kỹ năng của mình. Chúc may mắn!
+Score_TR: 7
+Score_CC: 6.5
+Score_LR: 7
+Score_GA: 6.5
