@@ -10,7 +10,7 @@ for filename in os.listdir(directory):
 
     # checking if it is a file
     if os.path.isfile(file):
-        print(file[-12:])
+        print(file[17:])
     
     # read file
     with open(file, 'r', encoding="utf-8") as f:
@@ -21,4 +21,4 @@ for filename in os.listdir(directory):
                 print(band)
 
     # move the supervised_essay to assets with corresponding band
-    os.rename(f'{file}', f'assets/band_{band}/{file[-12:]}')
+    os.rename(f'{file}', f'assets/band_{band}/{file[17:]}')

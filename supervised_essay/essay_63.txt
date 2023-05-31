@@ -72,9 +72,9 @@ Dưới đây là đánh giá chi tiết về Grammatical Range and Accuracy c�
 
 Score:
 
-Overall: 7
+Overall: 7.0
 
-Score_TR: 7
-Score_CC: 7
-Score_LR: 7
-Score_GA: 6
+Score_TR: 7.0
+Score_CC: 7.0
+Score_LR: 7.0
+Score_GA: 6.0

@@ -105,9 +105,9 @@ Dưới đây là một số lỗi sai thường gặp trong bài viết của b
 
 Score:
 
-Overall: 6.5
+Overall: 6.0
 
-Score_TR: 6
-Score_CC: 6.5
-Score_LR: 6.5
-Score_GA: 5.5
+Score_TR: 6.0
+Score_CC: 6.0
+Score_LR: 6.0
+Score_GA: 6.0

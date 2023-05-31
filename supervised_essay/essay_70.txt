@@ -17,8 +17,6 @@ Overall , I must say that the high-risk people put up their lives in does not wo
 
 Revised:
 
-Revised Essay:
-
 In recent years, there has been a significant growth in the number of people opting for cosmetic surgery to enhance their appearance. This trend has given rise to several questions about the reasons behind this phenomenon. This essay aims to discuss the factors contributing to the increased popularity of plastic surgery and evaluate whether it is a positive or negative development.
 
 One of the primary reasons for the surge in cosmetic surgery is the societal pressure to conform to a certain beauty standard. The media has idealized a particular definition of beauty, and people who do not fit this description feel compelled to undergo plastic surgery to meet these unrealistic expectations. Consequently, individuals may seek to change their physical features to fulfil the beauty norm, which is unfairly imposed by society.
@@ -36,11 +34,10 @@ Task Response:
 
 Trong bài viết của bạn, bạn đã trả lời đầy đủ yêu cầu của đề bài bằng cách giải thích tại sao ngày càng nhiều người lựa chọn phẫu thuật thẩm mỹ để cải thiện giao diện của họ. Bạn cũng đã đưa ra ý kiến của mình về vấn đề này. Tuy nhiên, bạn chỉ đưa ra một ví dụ và không nuôi dưỡng ý tưởng của mình một cách đầy đủ.
 
-Để cải thiện tiêu chí Task Response trong bài của bạn, bạn có thể:
+Bạn có thể:
 
 - Đưa ra nhiều lập luận hơn để phát triển ý kiến của mình. Bạn có thể tìm kiếm thông tin từ các nguồn đáng tin cậy và sử dụng chúng để hỗ trợ ý tưởng của bạn.
 - Tránh viết quá ngắn hoặc quá dài, hãy tập trung vào việc trình bày các ý chính một cách rõ ràng và dễ hiểu.
-- Sử dụng một số cụm từ nối như "moreover", "in addition", "furthermore", "however" để tăng tính logic và liên kết giữa các ý tưởng.
 
 Ví dụ:
 
@@ -49,7 +46,7 @@ Ví dụ:
 
 Coherence and Cohesion:
 
-Trong bài viết của bạn, phần Coherence and Cohesion đã được trình bày một cách khá rõ ràng và có tính liên kết giữa các ý và câu. Tuy nhiên, một số lỗi như sau:
+Bài viết của bạn đã được trình bày một cách khá rõ ràng và có tính liên kết giữa các ý và câu. Tuy nhiên, một số lỗi như sau:
 
 - Câu "In the midst of an increasing number of plastic surgery submissions, we see arising some questions about why people are submitting themselves to plastic surgery just to change their appearances" có thể được cải thiện bằng cách thay đổi thành "With the increasing number of plastic surgery submissions, questions have been raised about why people are altering their appearances with such procedures". Câu này sẽ trở nên súc tích và sử dụng cấu trúc ngữ pháp chính xác hơn.
 - Trong câu "Media once has shown a Canadian young man who wanted to look like a Korean singer, best known as a very trendy K-pop singer", chúng ta nên sử dụng thì quá khứ đơn "showed" thay vì "has shown" để phù hợp với trường hợp đang được nêu tả. Ngoài ra, sử dụng từ "best" có thể thay đổi thành "who is popularly known".
@@ -88,27 +85,10 @@ Các chỉnh sửa nhỏ này sẽ giúp bài viết của bạn trở nên chí
 
 Score:
 
-Overall:
+Overall: 6.0
 
-Score_TR:
-Score_CC:
-Score_LR:
-Score_GA:
-
-Based on the essay you provided, here is an estimated score breakdown for each of the four criteria:
-
-Task Response: 6.0 or 6.5
-- You have addressed all aspects of the task, but could provide more specific examples and elaboration to develop your arguments.
-
-Coherence and Cohesion: 6.0 
-- Your ideas are presented logically and coherently, but you could use more linking words/phrases to create clearer connections between sentences and paragraphs.
-
-Lexical Resource: 6.0 
-- You use some appropriate vocabulary, but also use some awkward/uncommon expressions or word choices. A wider range of vocabulary would improve your score in this category.
-
-Grammatical Range and Accuracy: 6.0 or 6.5
-- Your grammar and sentence structures are mostly accurate, but some errors still occur. More varied sentence structures and fewer errors would lead to a higher score in this category. 
-
-Overall, this essay shows some strengths in organizing ideas and addressing the task requirements, but there is still room for improvement in vocabulary, grammar, and providing specific examples to support your arguments. With some revisions and improvements, you could potentially score in the mid to high 6s or even the low 7s.
-
+Score_TR: 6.0
+Score_CC: 5.0
+Score_LR: 7.0
+Score_GA: 6.0
 

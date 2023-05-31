@@ -82,9 +82,9 @@ Bài viết của bạn có một vài lỗi chính tả và lỗi cấu trúc n
 
 Score:
 
-Overall: 6
+Overall: 6.0
 
-Score_TR: 7
-Score_CC: 6
+Score_TR: 7.0
+Score_CC: 6.0
 Score_LR: 5.5
-Score_GA: 5
+Score_GA: 5.0

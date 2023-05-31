@@ -102,9 +102,9 @@ Vì vậy, bài viết của bạn có một số lỗi ngữ pháp. Hãy lưu �
 
 Score:
 
-Overall: 7
+Overall: 7.0
 
-Score_TR: 7
+Score_TR: 7.0
 Score_CC: 6.5
-Score_LR: 7
+Score_LR: 7.0
 Score_GA: 6.5
