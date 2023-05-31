@@ -44,24 +44,18 @@ if __name__ == "__main__":
 
     ##################################################
 
-    index = 72
+    index = 78
 
-    link = "https://writing9.com/text/6475e70b91cbdc0018c4d6e9-many-children-are-encouraged-by-their-parents-to-get-a"
+    link = "b"
 
     topic = """\
-Many children are encouraged by their parents to get a part time job in their free time.
+Unemployment remains the biggest challenge to school-leavers in most countries.
 
-What are the advantages and disadvantages to children of doing so?\
+How far do you agree with this assessment?\
 """
 
     essay = """\
-Many children are stimulated by their parents to work in part-time jobs in their leisure time. The main benefits are children are going to be more responsible and they will realise the difficulties of earning money. However, the main drawbacks are a lack of interest in school and unlimited financial independence. 
-
-Children are depending financially on their parents and they need to ask money from their fathers to buy the things they like. When children got a job at an early age, they will be independent individuals economically and, as a result, they will buy whatever they are wishing. If they are working after  school hours, they will have less time to concentrate on their school subject and, consequently, they will fail exams. For example,  students who are using their free time to work, are likely to have less qualified occupations in the future. 
-
-The first advantage is the work that they are working on will make them more responsible. This is to say, having a job is making people more aware of the problems that their parents are facing. Another benefit is children will understand how hard is to earn money. If they are gaining experience in earning money, they will be more careful about the money they are spending. Since they are receiving a salary regularly, they will be more aware of how difficult earn money. For instance, students who start to receive remuneration earlier than their peers, are likely to manage their money more properly. 
-
-To conclude, the positive impacts are children will have more responsibility at an early age and they will understand the importance of money. However, the negative impacts are they will fail in their assignments and have hazardous financial freedom.\
+In recent years, unemployment became the biggest problem for the young generation all over the world. There are several other challenges which are currently being faced by the students right after their college such as, relationship failures, loss of self-identity, drug addiction, etc. In this essay, I will provide my opinion on this assessment, as I mostly agree to this and will elaborate on various other obstacles that folks are facing soon after their education.\
 """
 
     ##################################################
