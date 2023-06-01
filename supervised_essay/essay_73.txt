@@ -17,8 +17,6 @@ In Conclusion, while there are detrimental to attending their normal doctor, I s
 
 Revised:
 
-Here's the edited essay with correct IELTS structure:
-
 In recent years, an increasing number of individuals with health complications are turning to alternative forms of medicine instead of visiting their regular doctor. While some believe that having the same doctor can have disadvantages, in my opinion, alternative medicines are crucial for treating patients.
 
 People who trust alternative medications more than doctors have their own reasons for doing so. Firstly, the high fees charged by doctors for prescriptions can dissuade patients from seeking a diagnosis and instead push them towards internet sources and home remedies. They feel that giving money to a doctor is a waste. Secondly, mild symptoms might make people think that they can cure themselves without visiting a doctor.
@@ -63,16 +61,16 @@ Trong một số trường hợp, bạn không sử dụng các từ nối ý t�
 - " People who TRUST ALTERNATIVE MEDICATIONS MORE THAN DOCTORS have their own justification. First of all, NOW A DAYS MEDICAL SCIECNE HAS BECOME A PROFESSON ITSELF AND DOCTORS CHARGES HEAVY PRESCRITION FEES" - không có từ nối ý tưởng để kết nối câu đầu tiên và câu thứ hai.
 - "On the one hand, by having a choice of treatments, one can not only increase their health astronomically, but they can also completely satisfy THEMSELVES COMPLETELY with other methods of cure." - câu này có phần lặp lại và không cần thiết.
 
-Bạn nên sử dụng các từ nối ý tưởng để kết nối các ý tưởng và câu trong bài viết của mình, giúp văn bản trở nên suôn sẻ hơn và dễ hiểu hơn cho người đọc.
+Ngoài ra, bạn không nên ghi in hoa tất cả các chữ cái trong câu văn.
 
 
 Lexical Resource:
 
 Trong bài viết của bạn, trình bày và sử dụng từ vựng khá đa dạng và thích hợp với chủ đề. Tuy nhiên, vẫn còn một số lỗi và sự lặp lại của từ.
 
-Ví dụ, trong câu sau, từ "PRESCRIPTION" được viết sai chính tả: "DOCTORS CHARGES HEAVY **PRESCRITION** FEES." Ngoài ra, từ "HOMEREMIDY" cũng bị viết sai chính tả. Thay vào đó, bạn có thể sử dụng thuật ngữ "home remedies" để miêu tả các phương pháp tự chữa bệnh.
+Ví dụ, trong câu sau, từ "prescription" được viết sai chính tả: "DOCTORS CHARGES HEAVY **PRESCRITION** FEES." Ngoài ra, từ "homeremedy" cũng bị viết sai chính tả. Thay vào đó, bạn có thể sử dụng thuật ngữ "home remedies" để miêu tả các phương pháp tự chữa bệnh.
 
-Ngoài ra, bạn cũng sử dụng một số từ không phù hợp với ngữ cảnh. Ví dụ, bạn sử dụng từ "ASTRONOMICALLY" để miêu tả sự cải thiện sức khỏe trong câu "By having a choice of treatments, one can not only increase their health astronomically." Tuy nhiên, từ này không rõ ràng và thường được sử dụng để miêu tả các con số lớn, chứ không phải sức khỏe.
+Ngoài ra, bạn cũng sử dụng một số từ không phù hợp với ngữ cảnh. Ví dụ, bạn sử dụng từ "astronomically" để miêu tả sự cải thiện sức khỏe trong câu "By having a choice of treatments, one can not only increase their health astronomically." Tuy nhiên, từ này không rõ ràng và thường được sử dụng để miêu tả các con số lớn, chứ không phải sức khỏe.
 
 Cũng có một số từ bị lặp lại trong bài viết, ví dụ như "treatments" và "patients". Để tránh sự lặp lại, bạn có thể sử dụng từ tương đương như "therapies" và "individuals" hoặc thay thế các từ bằng các cụm từ ví dụ như "alternative methods of healing" hoặc "people with health conditions".
 
@@ -89,30 +87,16 @@ Trong bài viết của bạn, có một số lỗi ngữ pháp và sai sót v�
 - "For instance, there are various options, like yoga, acupuncture, and Chinese medicines, which are better for treating patients." -> nên sửa lại thành "For example, there are various options, such as yoga, acupuncture, and traditional Chinese medicine, which are believed to be effective in treating some medical conditions."
 - "On the other, alternative therapies are less expensive and heal people from the inside out." -> nên sửa lại thành "On the other hand, alternative therapies are often less expensive and can help to improve overall health and well-being."
 
-Trong tổng thể, bạn cần chú ý đến độ chính xác ngữ pháp và sử dụng các từ ngữ phù hợp trong bài viết. Nếu có bất kỳ lỗi nào, bạn nên sửa lại để bài viết trở nên chính xác và dễ đọc hơn.
+Trong tổng thể, bạn cần chú ý đến độ chính xác ngữ pháp và sử dụng các từ ngữ phù hợp trong bài viết.
 
 
 Score:
 
-Overall:
+Overall: 7.0
 
-Score_TR:
-Score_CC:
-Score_LR:
-Score_GA:
-
-Task Response: 6.5-7.0
-Bài viết của bạn đã đưa ra hai quan điểm, bao gồm cả lợi và hại của việc sử dụng phương pháp điều trị thay thế. Bạn cũng có một số ví dụ và luận điểm phù hợp với chủ đề. Tuy nhiên, đôi khi ý kiến của bạn chưa được phát triển một cách rõ ràng, và phần nào còn thiếu triển vọng và độ phức tạp.
-
-Coherence and Cohesion: 6.5-7.0
-Về cơ bản, bạn đã có một cấu trúc văn bản khá rõ ràng, đưa ra các vấn đề một cách có tổ chức và hợp lý trong bài viết. Tuy nhiên, vẫn còn một số câu không rõ nghĩa và cảm giác không được kết nối hợp lý với nhau.
-
-Lexical Resource: 6.0-6.5
-Bài viết của bạn sử dụng một số từ vựng chính xác và phù hợp, tuy nhiên, vẫn còn nhiều từ không được sử dụng đúng cách. Bạn cũng cần lưu ý về các sai sót chính tả - ví dụ như "HOMEREMIDY" - để đạt được một điểm số cao hơn cho tiếng Anh.
-
-Grammatical Range and Accuracy: 6.0-6.5
-Bài viết của bạn có một số lỗi ngữ pháp và sai sót, đặc biệt là trong việc sử dụng cấu trúc câu phức tạp và các từ nối. Tuy nhiên, những lỗi này không gây ra sự chèn ép với ý kiến ​​và lập luận của bạn. Bạn cần cố gắng luyện tập nhiều hơn để cải thiện cách sử dụng ngữ pháp và các cấu trúc câu. 
-
-Tổng điểm: 25.0 - 27.0 (tương đương band 6.5-7.0)
+Score_TR: 7.0
+Score_CC: 7.0
+Score_LR: 7.0
+Score_GA: 7.0
 
 
