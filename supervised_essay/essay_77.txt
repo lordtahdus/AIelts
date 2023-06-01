@@ -28,8 +28,6 @@ Feedback:
 
 Task Response:
 
-Task Response:
-
 Bạn đã trả lời rõ ràng câu hỏi trong đề bài và đã phát triển ý tưởng một cách chi tiết. Bạn đã đưa ra hai ví dụ cụ thể để hỗ trợ ý kiến của mình về việc sử dụng công nghệ cao để giảm tỷ lệ tội phạm. Tuy nhiên, cho dù bạn đã đưa ra ví dụ, nhưng bạn có thể cải thiện việc giải thích chúng cho rõ ràng và logic hơn.
 
 Gợi ý cải thiện:
@@ -39,13 +37,11 @@ Khi đưa ra ví dụ, hãy chú ý cùng giải thích rõ ràng, để độc 
 
 Coherence and Cohesion:
 
-Trong bài viết của bạn, Coherence and Cohesion được thể hiện qua cách bố trí chủ đề đúng cách và chia các ý thành các đoạn hợp lý. Tuy nhiên, cần chú ý và sửa để bài viết trở nên trôi chảy hơn.
+Bài viết của bạn được thể hiện qua cách bố trí chủ đề đúng cách và chia các ý thành các đoạn hợp lý. Tuy nhiên, cần chú ý và sửa để bài viết trở nên trôi chảy hơn.
 
 Ví dụ, trong đoạn thứ nhất, câu "This essay agrees that living in computer era reduced the amont of crime in society." có thể được sửa thành "This essay agrees that living in the computer era has reduced the amount of crime in society." Điều này giúp câu trở nên chính xác hơn về ngữ pháp và trôi chảy hơn về lối viết.
 
 Ngoài ra, điều quan trọng là kết nối các ý với nhau một cách mượt mà để tăng tính mạch lạc của văn bản. Ví dụ, bạn có thể sửa câu "Therefore, adopting cameras which are developed in modern technology can mininmise offence rate." thành "Therefore, adopting cameras developed with the latest technology can effectively minimize the rate of offenses." Trong câu này, bạn đã tận dụng từ ghép 'the latest' thay vì 'modern', để tránh sự lặp lại và làm cho câu trở nên lưu loát hơn.
-
-Tóm lại, bạn đã bố trí các đoạn một cách hợp lý trong bài viết của mình. Tuy nhiên, để trở nên mượt mà hơn, việc sửa một số lỗi chính tả và cải thiện sự kết nối giữa các ý sẽ rất hữu ích.
 
 
 Lexical Resource:
@@ -74,12 +70,8 @@ Trong bài viết của bạn, sử dụng ngôn từ không quá phức tạp n
 
 11. "developed in modern technology": từ "developed" nên được sửa thành "developed using modern technology".
 
-Tổng quan, bài viết của bạn có thể được cải thiện bằng cách sử dụng ngôn từ chính xác và phù hợp hơn với ngữ cảnh, cũng như đọc lại và chỉnh sửa các lỗi chính tả và lỗi ngữ pháp.
-
 
 Grammatical Range and Accuracy:
-
-Grammatical Range and Accuracy của bài viết của bạn được đánh giá là 6. Tuy nhiên, bài viết của bạn vẫn còn một số lỗi sai ngữ pháp cần được sửa chữa để nâng cao điểm số.
 
 Dưới đây là một số lỗi sai ngữ pháp được tìm thấy trong bài viết của bạn:
 
@@ -106,19 +98,11 @@ Dưới đây là một số lỗi sai ngữ pháp được tìm thấy trong b�
 
 Score:
 
-Overall:
+Overall: 7.0
 
-Score_TR:
-Score_CC:
-Score_LR:
-Score_GA:
-
-Task Response: 8. Bài viết của bạn hoàn thành nhiệm vụ của đề bài đầy đủ và cụ thể. Luận điểm của bạn đã được hỗ trợ và diễn giải một cách logic và sáng suốt. Bạn đã giải thích cụ thể về việc việc sử dụng công nghệ có thể giảm tỷ lệ tội phạm, đáp ứng yêu cầu của câu hỏi của đề bài.
-
-Coherence and Cohesion: 7. Bài viết của bạn có tổ chức tốt và có chủ đề rõ ràng được giải thích bằng nhiều ý chính bổ sung. Mỗi đoạn tập trung vào một chủ đề cụ thể. Mặc dù có một vài lỗi liên quan đến cách thông tin được trình bày, tổ chức đoạn văn của bạn là logic, đủ để giải thích những luận điểm chính một cách rõ ràng.
-
-Lexical Resource: 6. Bài viết của bạn sử dụng một loại ngôn từ đơn giản và có nhiều lặp lại, chủ yếu là để tránh sử dụng từ mới hơn. Bạn rất cố gắng sử dụng những từ ngữ liên quan đến chủ đề của đề bài nhưng cần mở rộng từ vựng hơn. Bạn cũng cần cải thiện về cấu trúc câu và phong cách viết.
-
-Grammatical Range and Accuracy: 6. Bài viết có một số lỗi ngữ pháp và chuỗi ngữ pháp không được sắp xếp logic, dẫn đến sự khó hiểu khi đọc. Bạn cần cải thiện về cấu trúc câu và chính tả để đảm bảo độ chính xác và dễ hiểu khi viết các bài luận IELTS.
+Score_TR: 7.0
+Score_CC: 7.0
+Score_LR: 7.0
+Score_GA: 7.0
 
 
