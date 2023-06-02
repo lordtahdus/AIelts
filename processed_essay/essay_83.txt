@@ -1,6 +1,6 @@
 Topic:
 
-"Some people think that it's a good idea to socialise with work colleagues during evenings and weekends. Other people think it's important to keep working life completely seperate from social life."
+"Some people think that it is a good idea to socialise with work colleagues during evenings and weekends. Other people think it is important to keep working life completely seperate from social life."
 
 Essay:
 
@@ -19,24 +19,12 @@ But since we are all humans with our own sensitive points, it is important to be
 
 Revised:
 
-Here's the edited version with an IELTS structure:
-
-Introduction:
 Due to the significant time spent at work, some people believe that socializing with colleagues outside of work hours is beneficial. In contrast, others suggest that it is essential to keep one's professional and personal lives separate. In this essay, we will examine both sides of the argument and evaluate the benefits and drawbacks of each.
 
-Body Paragraph 1:
-On the one hand, some individuals prefer to avoid establishing personal relationships with their working colleagues, maintaining a comfortable distance separating their professional and social lives. Conversely, individuals with outgoing personalities may find it challenging to keep their work interactions purely professional.
+On the one hand, some individuals prefer to avoid establishing personal relationships with their working colleagues, maintaining a comfortable distance separating their professional and social lives. Conversely, individuals with outgoing personalities may find it challenging to keep their work interactions purely professional. However, it is vital to consider a positive work atmosphere since employees spend a significant portion of their time at their workplace. Various tensions between coworkers can have a detrimental impact on one's private life, resulting in stress and discomfort. Socializing with colleagues outside of work can provide an opportunity to connect with coworkers, learn about one another's hobbies and interests, and create a relaxed, positive atmosphere away from the strain and pressure of work.
 
-Body Paragraph 2:
-However, it is vital to consider a positive work atmosphere since employees spend a significant portion of their time at their workplace. Various tensions between coworkers can have a detrimental impact on one's private life, resulting in stress and discomfort.
-
-Body Paragraph 3:
-Socializing with colleagues outside of work can provide an opportunity to connect with coworkers, learn about one another's hobbies and interests, and create a relaxed, positive atmosphere away from the strain and pressure of work.
-
-Body Paragraph 4:
 On the other hand, there are instances where the line between one's work and personal lives can become blurred, leading to potential issues. For example, dating a coworker may create an unpleasant situation in the event of a breakup, and a friendship between two colleagues can spark unwanted rumors. However, communication is an essential tool in resolving tensions that may arise in such situations.
 
-Conclusion:
 In conclusion, while there are potential risks associated with socializing with colleagues outside of work, various benefits, such as the positive atmosphere it can create, outweigh the cons of establishing personal relationships in a professional setting. So, it is necessary to maintain a balance between one's professional and personal lives to ensure a harmonious and productive workplace.
 
 
@@ -53,12 +41,10 @@ Trong bài viết của bạn, bạn đã đề cập đến những góc nhìn 
 - Dùng câu đầy đủ và tránh sử dụng cách viết tắt để tránh nhầm lẫn và giúp cho bài viết của bạn tăng tính chuyên nghiệp.
 - Sử dụng các từ vựng và ngữ pháp chính xác hơn để tránh việc bị lặp lại và không có sự xuyên suốt trong bài viết. 
 
-Tóm lại, nói chung bài viết của bạn đã trả lời câu hỏi đề bài nhưng bạn có thể cải thiện bài viết của mình bằng cách lưu ý đến các chi tiết của câu hỏi, thể hiện rõ quan điểm của mình và sử dụng từ vựng và ngữ pháp chính xác.
-
 
 Coherence and Cohesion:
 
-Bài viết của bạn có cấu trúc khá rõ ràng và liên kết các ý tưởng với nhau một cách hợp lý, tuy nhiên cần chú ý một số điểm sau:
+Bài viết của bạn cần chú ý một số điểm sau:
 
 - Trong đoạn thứ hai, bạn đã sử dụng từ "depend" hai lần trong một câu, làm cho cấu trúc câu trở nên lặp đi lặp lại, không mượt mà và tạo cảm giác lẫn nhau. Nên thay đổi cách diễn đạt và sử dụng từ vựng đa dạng hơn để tránh lặp lại cùng một từ trong một câu hoặc đoạn văn.
 

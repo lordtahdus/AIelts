@@ -16,24 +16,18 @@ In conclusion, gaining the proper experience and learning new skills is so impor
 
 Revised:
 
-Here is an edited version of the essay:
-
 Education is believed by many to be crucial for securing a decent job, while others argue that developing soft skills and gaining experience is more important. In this essay, I will discuss both views and provide my own opinion.
 
 On the one hand, completing university education can benefit individuals when it comes to job prospects. Many multinational companies and small businesses tend to recruit fresh graduates from universities and colleges. Furthermore, education provides a solid foundation of theoretical knowledge that can be used to understand practical situations in the workplace. This is especially important in professional fields that require specialized knowledge, where those without a degree may struggle to catch up with industry expectations. Moreover, educational qualifications are often necessary for career progression, as employers are keen to promote those who have a strong educational background.
 
 On the other hand, work experience and soft skills are equally important, if not more so when it comes to employability. Practical knowledge and skillsets are crucial in any profession, and individuals who have gained these through experience tend to be highly valued by employers. Moreover, developing emotional intelligence, communication skills, and other essential soft skills can set one apart from others even if they have similar educational credentials. In many cases, employers prioritize experience over education, as they know that those who have worked in the field are well-equipped to handle challenges and problems that arise.
 
-In my opinion, both education and experience have their own advantages and disadvantages. While university education can prepare individuals with theoretical knowledge and open doors for better job opportunities, experience provides practical exposure and hones skills that are crucial in the workplace. However, I believe that education should be considered as the foundation for career growth. While experience can be gained over time, a lack of formal education may limit opportunities for individuals in the long run.
-
-In conclusion, while work experience and soft skills play an important role in employability, university education should not be overlooked. In fact, it is an essential aspect of career development and lays the groundwork for a successful and fulfilling career.
+In conclusion, both education and experience have their own advantages and disadvantages. While university education can prepare individuals with theoretical knowledge and open doors for better job opportunities, experience provides practical exposure and hones skills that are crucial in the workplace. However, I believe that education should be considered as the foundation for career growth. While experience can be gained over time, a lack of formal education may limit opportunities for individuals in the long run.
 
 
 Feedback:
 
 Task Response:
-
-Task Response: 
 
 Trong bài viết của bạn, bạn đã trả lời đầy đủ cả hai quan điểm được nêu ra trong đề bài và đã đưa ra quan điểm cá nhân ở phần kết luận. Tuy nhiên, một số ý được diễn đạt không rõ ràng và có thể dẫn đến sự hiểu lầm.
 
@@ -49,7 +43,7 @@ Gợi ý cải thiện:
 
 Coherence and Cohesion:
 
-Coherence and Cohesion là một trong những tiêu chí được đánh giá cao trong kỹ năng viết IELTS. Dưới đây là một số đánh giá chi tiết về phần này trong bài viết của bạn:
+Dưới đây là một số đánh giá chi tiết về phần này trong bài viết của bạn:
 
 1. Cấu trúc bài viết
 Bạn đã có cấu trúc bài viết rõ ràng, từ giới thiệu cho đến kết luận. Tuy nhiên, cần phải chú ý đến thứ tự của các ý kiến. Sau khi nói về quan điểm của người ủng hộ đại học, bạn đã đưa ra ví dụ về lý do tại sao đại học quan trọng. Sau đó bạn đã chuyển sang nói về quan điểm của người ủng hộ kinh nghiệm, nhưng lại không đưa ra ví dụ cụ thể cho lời luận này. Do đó, để tăng cường tính liên kết và logic của bài viết, bạn cần đảm bảo rằng các ý kiến đều được hỗ trợ bằng dẫn chứng thích đáng.
@@ -65,7 +59,7 @@ Tóm lại, để cải thiện khả năng viết của mình, bạn cần đ�
 
 Lexical Resource:
 
-Tài liệu của bạn sử dụng đa dạng từ vựng phù hợp để diễn đạt các ý kiến và trả lời câu hỏi. Bạn cũng có sử dụng một số từ đồng nghĩa để tránh sự lặp lại. Ngoài ra, bạn còn sử dụng thành công một số cụm từ thông dụng như "mid-small scale industries", "feasible solutions", và "self-development". Tuy nhiên, trong quá trình sử dụng từ vựng, tồn tại vài sai sót.
+Trong quá trình sử dụng từ vựng, tồn tại vài sai sót.
 
 - "adequate experience": Từ "adequate" nên được thay thế bằng một từ khác như "sufficient" hoặc "suitable", nhằm giúp câu văn trở nên chính xác hơn.
 
@@ -102,26 +96,11 @@ Ngoài ra, bạn cũng cần hạn chế sử dụng các từ trái nghĩa theo
 
 Score:
 
-Overall:
+Overall: 7.0
 
-Score_TR:
-Score_CC:
-Score_LR:
-Score_GA:
-
-Task Response: 7.0
-- Bài viết đầy đủ đưa ra cả hai quan điểm trong đề bài và có kết luận riêng của mình.
-
-Coherence and Cohesion: 7.5
-- Cấu trúc bài viết rõ ràng và sắp xếp thông suốt.
-- Có sử dụng các từ nối và từ liên kết hiệu quả nhưng vẫn còn một số từ lặp lại.
-
-Lexical Resource: 7.0
-- Sử dụng từ vựng phù hợp với đề bài và chủ đề nhưng còn lặp từ và dùng từ không chính xác.
-
-Grammatical Range and Accuracy: 6.5
-- Có sử dụng đa dạng ngữ pháp và câu hợp lý nhưng vẫn còn một số lỗi ngữ pháp cơ bản và thiếu từ.
-
-Tổng điểm: 7.0. Đây là một bài viết khá tốt và có thể đạt được mức điểm 7.0 trong bài thi IELTS Writing Task 2. Để nâng cao điểm số, bạn cần hạn chế sử dụng từ lặp lại và tránh các lỗi ngữ pháp cơ bản.
+Score_TR: 7.0
+Score_CC: 7.0
+Score_LR: 7.0
+Score_GA: 7.0
 
 
