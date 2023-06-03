@@ -79,7 +79,7 @@ Ngoài ra, có một số lỗi về cấu trúc câu và chính tả trong bài
 
 Score:
 
-Overall:
+Overall: 8.0
 
 Score_TR: 8.0
 Score_CC: 8.0
