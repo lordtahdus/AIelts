@@ -16,8 +16,6 @@ In Conclusion, investing in colonizing another sphere should not be a priority w
 
 Revised:
 
-Here is the revised essay according to IELTS structure:
-
 Many people believe that in the future, it may become necessary for humans to live on another planet. Consequently, some argue that we should spend money now on researching planets for possible colonization, with Mars being the most likely candidate. While this view has some merit, I believe that alternative options should take priority, and investing in space exploration should not be our primary concern. 
 
 Firstly, solving existing problems on Earth should take precedence over exploring other planets. Rather than trying to migrate to other worlds, we should focus on addressing issues such as climate change, deforestation, air and water pollution. By addressing these problems, we improve the chances of survival and growth on Earth. It will also provide a better environment for living beings on our planet. This approach requires government and private companies to work together to prevent the rapid destruction of our earth.
@@ -39,12 +37,8 @@ Bạn đã trả lời đủ yêu cầu của đề bài, nhưng cần phát tri
 
 Ngoài ra, bạn cũng nên chỉ rõ hơn về lý do hoặc quan điểm của mình khi viết bài vì điều này làm cho nội dung của bạn trở nên sâu sắc hơn và dễ hiểu hơn. Khi giải thích về việc tập trung vào giải quyết các vấn đề môi trường, bạn có thể đề cập đến những hệ quả xấu của việc sống trên các hành tinh khác, chẳng hạn như rủi ro về y tế, khó khăn trong việc vận chuyển hàng hóa và di dời. 
 
-Với những gợi ý này, tôi hy vọng bạn có thể cải thiện điểm số của mình trong khía cạnh Task Response trong các bài viết IELTS sắp tới. Chúc bạn may mắn!
-
 
 Coherence and Cohesion:
-
-Điểm số của bạn cho tiêu chí Coherence and Cohesion là 7.5, tuy nhiên bài viết của bạn vẫn còn một số lỗi trong sắp xếp ý và kết nối giữa các câu, đoạn văn và ý kiến phù hợp với đề bài. Dưới đây là những lỗi điển hình mà tôi thấy trong bài viết của bạn:
 
 1. Điểm dừng chưa hợp lý: Bài viết của bạn cần thêm các điểm dừng hợp lý để phân cách các ý kiến khác nhau và làm cho bài viết trở nên dễ đọc hơn. Có thể bạn sử dụng các từ nối để liên kết các ý với nhau, ví dụ như "furthermore", "on the other hand" hoặc "in conclusion".
 
@@ -77,12 +71,9 @@ Tuy nhiên, vẫn còn một số lỗi về cách sử dụng từ vựng, ví 
 - Trong câu "final leads to dooms of humanity and the earth planet", nên sử dụng "leads to the doom of humanity and the planet" thay vì "dooms of" vì danh từ đếm được chỉ có một trong khi trong câu của bạn sử dụng danh từ đếm được ở dạng số nhiều.
 - Từ "sphere" trong bài viết của bạn được dùng nhiều để chỉ "planet", tuy nhiên từ này ít được sử dụng trong tiếng Anh. Thay vào đó, bạn có thể sử dụng "planet", "world" hay "globe" để kết nối ý kiến của mình một cách rõ ràng hơn.
 
-Tổng quan, bạn cần chú ý sử dụng từ vựng đúng ngữ cảnh và đúng cách để tránh các lỗi đơn giản. Ngoài ra, bạn nên đa dạng hóa từ vựng của mình để bài viết trở nên phong phú hơn và đạt điểm cao trong kỹ năng Lexical Resource của IELTS Writing.
 
 
 Grammatical Range and Accuracy:
-
-Chào bạn! Dưới đây là đánh giá chi tiết hơn về Grammatical Range and Accuracy của bài viết của bạn:
 
 1. Các lỗi về chủ ngữ và động từ:
 
@@ -103,20 +94,11 @@ Tổng thể, bài viết của bạn sử dụng các cấu trúc ngữ pháp �
 
 Score:
 
-Overall:
+Overall: 6.5
 
-Score_TR:
-Score_CC:
-Score_LR:
-Score_GA:
-
-Dưới đây là điểm số dự kiến cho từng tiêu chí chấm điểm:
-
-1. Task Response: 7.0
-2. Coherence and Cohesion: 7.5
-3. Lexical Resource: 6.5
-4. Grammatical Range and Accuracy: 6.5
-
-Tổng điểm dự kiến của bài viết của bạn là 27/40. Bạn cần cải thiện trong việc sử dụng từ vựng, ngữ pháp và trình bày ý kiến để đạt được điểm cao hơn. Chúc bạn may mắn!
+Score_TR: 7.0
+Score_CC: 7.0
+Score_LR: 6.0
+Score_GA: 6.0
 
 
