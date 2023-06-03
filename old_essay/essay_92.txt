@@ -16,8 +16,6 @@ finally, the advice is something important and necessary to improve yourself, yo
 
 Revised:
 
-Here is the edited essay:
-
 In today's society, there is a debate on whether it is better for young individuals to seek advice from older people or from those of the same age group. I strongly believe that older individuals can provide superior advice, however, the younger population can also offer valuable insights.
 
 On the one hand, older individuals have undoubtedly gained a lot of valuable life experience and wisdom through their years. They may have already faced situations similar to what young people are currently experiencing. By sharing their experiences, they can offer invaluable guidance that the younger generation can learn from and apply in their own lives. Furthermore, they can provide feedback on a wide range of topics, including career paths, personal growth, and relationships. These insights can help young people navigate through life's challenges with greater ease and confidence.
@@ -59,7 +57,7 @@ Ví dụ:
 - "while some people prefer advice from young people, another one prefers from older": "another one" không phải là một cụm từ mà bạn cần sử dụng đại từ "others".
 - "people with more experience of life can be helpful most of the time": phần cuối câu có thể sai, bạn có thể sử dụng "most of the time, people with more life experience can be helpful." để tránh lỗi sai này và giữ thành phần của câu nguyên tắc.
 
-Vậy nên, để cải thiện Coherence and Cohesion, bạn cần chú ý đến cách sắp xếp các ý theo một cách có tổ chức, có kế hoạch và tránh các lỗi ngữ pháp về mặt nối từ.
+Vậy nên, bạn cần chú ý đến cách sắp xếp các ý theo một cách có tổ chức, có kế hoạch và tránh các lỗi ngữ pháp về mặt nối từ.
 
 
 Lexical Resource:
@@ -93,28 +91,13 @@ Lỗi này là do sử dụng sai trợ từ "than" khi so sánh.
 6. "the advice is something important and necessary to improve yourself" => advice is something important and necessary to improve oneself. 
 Lỗi này là do dùng sai đại từ nhân xưng.
 
-Tổng thể, bài viết của bạn vẫn còn các lỗi ngữ pháp nhỏ và inconsistent trong suy nghĩ, do đó cần được chú ý và sửa chữa để tăng điểm trong IELTS Writing.
-
 
 Score:
 
-Overall:
+Overall: 5.5
 
-Score_TR:
-Score_CC:
-Score_LR:
-Score_GA:
-
-Dựa trên bài viết của bạn, tôi đánh giá các tiêu chí như sau:
-
-Task Response: 6.0 - Bạn đã trình bày hai quan điểm khác nhau về chủ đề, nhưng đoạn văn của bạn không phản ánh đầy đủ các ý kiến khác nhau về chủ đề. 
-
-Coherence and Cohesion: 6.0 - Bạn có sử dụng các từ nối để giúp kết nối giữa các ý và câu, tuy nhiên việc tổ chức đoạn văn còn chưa rõ ràng, người đọc cảm thấy khó hiểu.
-
-Lexical Resource: 6.0 - Bạn đã sử dụng một số từ trung bình để diễn đạt ý kiến của mình. Bạn có thể mở rộng từ vựng của mình bằng cách sử dụng các từ phức tạp hơn.
-
-Grammatical Range and Accuracy: 5.5 - Bạn đã sử dụng đúng các thì và phân cách một cách chính xác, nhưng có một số lỗi ngữ pháp đã gây khó khăn cho người đọc.
-
-Tổng điểm của bài viết của bạn là 23.5/40. Điểm số này tương đối thấp, bạn cần tập trung vào việc cải thiện chất lượng của bài viết bằng cách tăng mức độ thú vị, độ phức tạp, và sử dụng các câu phức hợp hơn. Tăng tính logic trong cách tổ chức bài viết sẽ giúp người đọc hiểu được hơn. Ngoài ra, bạn cũng cần chú ý đến ngữ pháp và cách sử dụng từ để tránh những sai sót khi viết.
-
+Score_TR: 5.0
+Score_CC: 6.0
+Score_LR: 6.0
+Score_GA: 5.0
 
