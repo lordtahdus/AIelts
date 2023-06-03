@@ -25,21 +25,12 @@ In my opinion, online shopping is the future and brands should now adapt to the 
 
 Revised:
 
-Here's an edited version of your essay with an IELTS structure:
-
-Introduction
 In today's modern world, online shopping has become increasingly popular, providing people with the convenience of shopping from the comfort of their own homes. However, some argue that the growth of online shopping will lead to the closing of all physical shops and stores in towns and cities. In this essay, I will express my opinion on whether I agree or disagree with this statement and provide relevant examples to support my argument.
 
-Body Paragraph 1
 Online shopping has undoubtedly made life more convenient and efficient for many people. With the click of a button, shoppers can purchase almost anything without ever having to leave their homes. Furthermore, online shopping has also made lives easier for introverts who may not enjoy interacting with sales staff personnel in a physical store. Traffic and parking issues, extensive physical activity for elderly people, and crowded outlets are other factors that deter people from visiting physical stores. All of these factors combined contribute to the rise in popularity of virtual marketplaces and online stores.
 
-Body Paragraph 2
-One reason why physical shops and stores may close due to online shopping is the cost to benefit ratio. Running a physical shop or store requires extensive costs such as rent, lighting, music, staff, and interior. These costs remain fixed even if there is a low number of incoming customers. In contrast, managing an online store is cheaper, as it provides flexibility in service. Customers can visit a virtual store, make purchases, and complaints can be handled through bots providing enhanced customer service. A lack of substantial fixed costs enables online stores to generate higher profits.
+One reason why physical shops and stores may close due to online shopping is the cost to benefit ratio. Running a physical shop or store requires extensive costs such as rent, lighting, music, staff, and interior. These costs remain fixed even if there is a low number of incoming customers. In contrast, managing an online store is cheaper, as it provides flexibility in service. Customers can visit a virtual store, make purchases, and complaints can be handled through bots providing enhanced customer service. A lack of substantial fixed costs enables online stores to generate higher profits. One real-life example of physical stores closing due to online shopping is Forever 21, a clothing brand that has closed its physical stores and is now focusing solely on online sales. Furthermore, Amazon and Ali Express are two major tech giants that have transformed the way people shop. These two companies alone have disrupted the idea of having physical stores. 
 
-Body Paragraph 3
-One real-life example of physical stores closing due to online shopping is Forever 21, a clothing brand that has closed its physical stores and is now focusing solely on online sales. Furthermore, Amazon and Ali Express are two major tech giants that have transformed the way people shop. These two companies alone have disrupted the idea of having physical stores. 
-
-Conclusion
 In conclusion, online shopping has become more popular than physical stores, and it is true that the growth of online shopping may lead to the closing of all shops and stores in the future. Therefore, brands should adapt to this changing environment, or they will be left behind like Blackberry when touchscreen smartphones came along. However, despite the advantages of online shopping, physical stores still play a crucial role in society as they provide people with a sense of community and opportunity to interact with others.
 
 
@@ -53,9 +44,7 @@ Gợi ý cải thiện: Bạn có thể tham khảo thêm các tài liệu để
 
 Coherence and Cohesion:
 
-Bài viết của bạn có một sự sắp xếp rõ ràng, mạch lạc và có sự liên kết giữa các ý tưởng. Tuy nhiên, một số lỗi như sai ngữ pháp, cách sắp xếp khối ý và sử dụng liên từ không phù hợp vẫn cần được cải thiện.
-
-Để cải thiện Coherence and Cohesion trong bài viết của bạn, bạn có thể làm những việc sau:
+Bài viết của bạn chưa có một sự sắp xếp rõ ràng, mạch lạc và có sự liên kết giữa các ý tưởng. Một số lỗi như cách sắp xếp khối ý và sử dụng liên từ không phù hợp vẫn cần được cải thiện:
 
 1. Cùng loại nên tạo lại cấu trúc câu:
 Bạn nên thống nhất cấu trúc câu để viết trơn tru và đúng cú pháp. Ví dụ như trong đoạn thứ hai, bạn có câu "Few clicks done and you have that newly launched pair of shoes from Zara at your doorstep." Câu này có thể được sửa thành "With just a few clicks, you can have the newly launched pair of shoes from Zara delivered right to your doorstep." Với một cấu trúc câu thống nhất, từ ngữ rõ ràng và ngữ pháp chính xác hơn.
@@ -64,7 +53,7 @@ Bạn nên thống nhất cấu trúc câu để viết trơn tru và đúng cú
 Việc sử dụng liên từ phù hợp giữa các ý tưởng là rất quan trọng để bài viết trở nên mượt mà và dễ đọc. Bạn nên chú ý đến việc sử dụng các liên từ chính xác và ổn định giữa các câu và đoạn. Ví dụ, trong đoạn thứ ba, bạn nên sử dụng "Another reason" thay vì "Some factors" để liên kết ý tưởng của câu trước với câu sau của đoạn.
 
 3. Chia khối ý rõ ràng:
-Để trình bày ý tưởng một cách rõ ràng, bạn nên chia bài viết thành các khối ý, sau đó sắp xếp chúng theo một trình tự logic. Ví dụ, bạn nên bắt đầu bài viết với một ý tưởng tóm tắt, kết thúc bằng một kết luận, và sắp xếp những khối ý chính theo một trật tự logic với các ý tưởng liên kết hợp lý. Điều này sẽ giúp người đọc hiểu một cách dễ dàng và bài viết trở nên mạch lạc hơn.
+Để trình bày ý tưởng một cách rõ ràng, bạn nên chia bài viết thành các khối ý, sau đó sắp xếp chúng theo một trình tự logic. Ví dụ, bạn nên bắt đầu bài viết với một ý tưởng tóm tắt, kết thúc bằng một kết luận, và sắp xếp những khối ý chính theo một trật tự logic với các ý tưởng liên kết hợp lý. Điều này sẽ giúp người đọc hiểu một cách dễ dàng và bài viết trở nên mạch lạc hơn. Bạn nên tránh sử dụng các dấu chấm liệt kê, thay vào đó bạn nên ghi chung trong một bài viết.
 
 Ví dụ, trong đoạn thứ hai, bạn có thể chia thành hai câu thành hai khối ý khác nhau: 
 "Online marketplaces have made shopping easier and more convenient, especially for introverts who dislike visiting physical outlets because of the presence of sales personnel. "
@@ -88,9 +77,7 @@ Ngoài ra, nếu bạn sử dụng thêm một vài từ vựng đa dạng và c
 
 Grammatical Range and Accuracy:
 
-Chúng ta sẽ đi vào phần đánh giá Grammar Range and Accuracy của bạn như sau:
-
-Overall, ngữ pháp của bạn khá tốt và không có quá nhiều lỗi sai. Tuy nhiên, trong quá trình viết, bạn vẫn còn mắc một số lỗi ngữ pháp như sau:
+Trong quá trình viết, bạn vẫn còn mắc một số lỗi ngữ pháp như sau:
 
 1. "laying" trong câu đầu tiên nên được sửa thành "lying" để đảm bảo động từ được sử dụng đúng dạng.
 
@@ -106,33 +93,14 @@ Overall, ngữ pháp của bạn khá tốt và không có quá nhiều lỗi sa
 
 7. Trong câu "One real example of dissolution of physical outlets is FOREVER 21", từ "dissolution" không hoàn toàn phù hợp trong trường hợp này. Thay vào đó, bạn có thể sử dụng "closure" để thể hiện ý tưởng.
 
-Với những chỉnh sửa nhỏ như vậy, bài viết của bạn sẽ cải thiện đáng kể về mặt ngữ pháp và đạt được kết quả tốt hơn trong kỳ thi IELTS.
-
 
 Score:
 
-Overall:
+Overall: 6.0
 
-Score_TR:
-Score_CC:
-Score_LR:
-Score_GA:
-
-Tôi sẽ đánh giá từng tiêu chí và cung cấp một số ý kiến chi tiết của mình về điểm số của bạn.
-
-Task Response: 7.0 - 8.0
-Bài viết của bạn đã trả lời đầy đủ yêu cầu đề bài. Tuy nhiên, nếu bạn viết thêm về ý kiến ngược lại (disagree), bài viết sẽ trở nên đa dạng hơn và có độ phủ đầy đủ hơn. Điểm số của bạn trong tiêu chí này có thể từ 7.0 đến 8.0, phụ thuộc vào độ sâu và độ khả thi của ý tưởng.
-
-Coherence and Cohesion: 8.0 - 9.0
-Bài viết của bạn có cấu trúc rõ ràng và sắp xếp logic. Việc bạn sử dụng các liên từ để kết nối các ý tưởng là rất tốt. Mặc dù vậy, bạn nên cải thiện cách sử dụng các từ trình bày ý tưởng để đưa ra những ý kiến rõ ràng và dễ hiểu hơn. Điểm số của bạn trong tiêu chí này có thể từ 8.0 đến 9.0.
-
-Lexical Resource: 7.0 - 8.0
-Từ vựng của bạn được sử dụng khá tốt. Chọn từ vựng phù hợp với chủ đề và ý tưởng được trình bày. Tuy nhiên, bạn có thể sử dụng những từ vựng đa dạng hơn và chính xác hơn để nâng cao điểm số của mình. Ở mức từ vựng 7.0 đến 8.0 đóng vai trò chủ yếu là sự sử dụng phù hợp và không có sự trùng lặp nhiều các từ vựng.
-
-Grammatical Range and Accuracy: 7.0 - 8.0
-Việc sử dụng ngữ pháp của bạn khá tốt. Bạn đã sử dụng đúng các mẫu câu, các cấu trúc ngữ pháp và cách sử dụng tính từ phó từ và các danh từ để biểu thị tình trạng hiện tại và quá khứ. Tuy nhiên, trong vài trường hợp, bạn đã dùng các câu rườm rà hoặc chưa chính xác và có thể ảnh hưởng đến tính chính xác bol pen của bài viết của bạn. Điểm số của bạn trong tiêu chí này có thể từ 7.0 đến 8.0.
-
-Tổng điểm: 7.5 - 8.5
-Tổng điểm cho bài viết của bạn là từ 7.5 đến 8.5. Bài viết của bạn hoàn toàn có thể đáp ứng được yêu cầu của IELTS Writing Task 2. Tuy nhiên, để đạt được điểm số cao, bạn cần tiếp tục luyện tập để cải thiện kỹ năng viết và nâng cao vốn từ vựng của mình.
+Score_TR: 7.0
+Score_CC: 5.0
+Score_LR: 6.0
+Score_GA: 6.0
 
 

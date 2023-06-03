@@ -16,7 +16,6 @@ Of course sometimes in an other hand some matters can appear when line between p
 
 But since we are all humans with our own sensitive points, it is important to be keep a good atmosphere at work by speaking out all the problems to release all the tensions. Communication is the key but also sharing a good time with coworkers away from work can be a nice way to understand more each other."
 
-
 Revised:
 
 Due to the significant time spent at work, some people believe that socializing with colleagues outside of work hours is beneficial. In contrast, others suggest that it is essential to keep one's professional and personal lives separate. In this essay, we will examine both sides of the argument and evaluate the benefits and drawbacks of each.
@@ -39,22 +38,20 @@ Trong bài viết của bạn, bạn đã đề cập đến những góc nhìn 
 - Sử dụng các cụm từ cốt lõi của đề bài và kết nối chúng với ý tưởng của bạn một cách rõ ràng và hiệu quả.
 - Thảo luận về các mặt tích cực và tiêu cực của việc kết hợp cuộc sống cá nhân và công việc để bài viết trở nên đầy đủ hơn và trực quan hơn.
 - Dùng câu đầy đủ và tránh sử dụng cách viết tắt để tránh nhầm lẫn và giúp cho bài viết của bạn tăng tính chuyên nghiệp.
-- Sử dụng các từ vựng và ngữ pháp chính xác hơn để tránh việc bị lặp lại và không có sự xuyên suốt trong bài viết. 
+- Sử dụng các từ vựng và ngữ pháp chính xác hơn để tránh việc bị lặp lại và không có sự xuyên suốt trong bài viết.
 
 
 Coherence and Cohesion:
 
-Bài viết của bạn cần chú ý một số điểm sau:
+Bài viết của bạn có sự liên kết logic giữa các ý và câu trong cùng một đoạn. Tuy nhiên, để mang lại sự liên kết chặt chẽ hơn giữa các đoạn, bạn có thể sử dụng các liên từ và các từ trật tự để giúp cho luận điểm của mình trở nên rõ ràng hơn.
 
-- Trong đoạn thứ hai, bạn đã sử dụng từ "depend" hai lần trong một câu, làm cho cấu trúc câu trở nên lặp đi lặp lại, không mượt mà và tạo cảm giác lẫn nhau. Nên thay đổi cách diễn đạt và sử dụng từ vựng đa dạng hơn để tránh lặp lại cùng một từ trong một câu hoặc đoạn văn.
+Một số lỗi về liên kết trong bài viết của bạn:
 
-- Trong đoạn thứ ba, bạn đã sử dụng chữ "out" thay vì "our". Điều này làm cho câu bị sai chính tả và cần được sửa lại.
+- Trong đoạn thứ hai, câu "On the other side" có thể không phải là lựa chọn tốt để bắt đầu một đoạn mới do nó không liên kết mạch lạc với nội dung đoạn trước đó. Bạn có thể sử dụng liên từ "However" thay thế để chỉ sự khác biệt giữa hai quan điểm hoặc tận dụng từ "In contrast" để nối liền ý tưởng cũ và mới.
+- Câu "Of course sometimes in an other hand some matters can appear when line between private and professional life start be fuzzy" có cấu trúc chữa lỗi. Thay vì "an other hand", bạn nên sử dụng "on the other hand" hoặc "in another aspect". Câu này cũng có thể được viết lại thành "However, there may be some drawbacks when the boundary between private and professional life is unclear".
+- Đặt tên cho đoạn của bạn là một cách tốt để xác định nội dung và giúp cho đoạn của bạn được tập trung hơn. Chỉ định một tiêu đề trong mỗi đoạn sẽ giúp nâng cao tính chặt chẽ của liên kết giữa các đoạn.
 
-- Trong đoạn cuối cùng, bạn đã sử dụng đại từ "they" để thay thế cho chủ ngữ trước đó. Tuy nhiên, không rõ chủ ngữ này là ai và từ hoặc cụm từ nào được thay thế bằng "they". Nên làm rõ hơn về chủ ngữ và sử dụng đại từ đồng nhất với chủ ngữ.
-
-- Ngoài ra, các từ nối (conjunctions) và cấu trúc câu có thể được sử dụng phong phú hơn để mang lại sự liên kết mạch lạc giữa các ý tưởng. Bạn có thể sử dụng từ "Furthermore," "Moreover," hoặc "In addition," để chỉ sự kết nối thêm giữa các ý tưởng. 
-
-Với những điểm này, bạn có thể cải thiện bài viết của mình bằng cách sử dụng từ vựng và cấu trúc câu đa dạng, tránh lặp lại từ quá nhiều, và sử dụng các từ nối phù hợp để liên kết các ý tưởng với nhau.
+Một số gợi ý để tăng cường liên kết giữa các câu và đoạn: sử
 
 
 Lexical Resource:
@@ -89,20 +86,11 @@ Bên cạnh đó, một số lỗi nội dung cũng được cần phải lưu �
 
 Score:
 
-Overall:
+Overall: 5.0
 
-Score_TR:
-Score_CC:
-Score_LR:
-Score_GA:
-
-Task Response: 6.5 
-Coherence and Cohesion: 6.0 
-Lexical Resource: 6.0 
-Grammatical Range and Accuracy: 5.5-6.0 
-
-Tổng điểm: 24.0-24.5 (điểm ở dải B+) 
-
-Vui lòng lưu ý rằng các điểm số chỉ là ước tính và có thể thay đổi tùy theo cách thức tổ chức và đánh giá của trường/ấn bản. Nếu bạn muốn biết chính xác điểm số của mình, hãy liên hệ với nhà tổ chức kỳ thi IELTS.
+Score_TR: 6.0
+Score_CC: 4.0
+Score_LR: 5.0
+Score_GA: 5.0
 
 
