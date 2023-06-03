@@ -44,23 +44,23 @@ if __name__ == "__main__":
 
     ##################################################
 
-    index = 86
+    index = 100
 
-    link = "abb"
+    link = "https://writing9.com/text/5daf2e0d635c680018ccc763"
 
     topic = """\
-Some people say that the only reason for learning a foreign language is in order to travel to or work in a foregin country. Others say that these are not the only reasons why someone should learn a foreign language.
-Discuss both these views and give your own opinion\
+In many countries, smoking is now illegal in public places. Many people
+believe that such a ban is justified. Do you agree or disagree?\
 """
 
     essay = """\
-Nowadays,  learning foreign languages has become more common. While some people think the only reason why people should learn other languages is for work or travel, argue that there are more reasons contributing to this case and I personally think they are right.
+Smoking has been banned in public places like parks, hospitals, public transport and restaurants in many nations. This essay agrees with this initiative because it reduces the harmful effects of passive smoking and also encourages smokers to quit. 
 
-On the one hand, the point of learning a language is that one can use it to communicate with others.  This is why some people think the only reason for learning other languages is for work purposes or travelling. This is considered a practical use of knowing a foreign language. In this case, there is no need to learn the advanced details of the language and the person can use it for communication with other people. The people who think these reasons are the only things that matter during learning a language argue that practical use of language is more important. For example, if someone gets a job offer from another country, it gives him a strong reason for learning the language of that country.
+The primary reason why making it illegal to smoke in public makes sense is preventing people from having to breathe in second-handsmoke. Passive smoking can lead to many smoking-related diseases such as lung cancer, heart disease and stroke, and is something that non-smokers cannot avoid in the presence of a smoker. The British Medical Association found that non-smokers who were regularly exposed to tobacco smoke were 4 times more likely to develop lung cancer, than those who did not have to breathe in second-hand smoke.
 
-On the other hand,  there is actually more to a language than just learning how to communicate, therefore, people believe there are lots of reasons for learning a language. By doing so,  people can read books from other countries and become more familiar with their literature.  Learning a foreign language also enables people how to watch foreign movies in their original form and get more information about their culture and the way people of these countries live.  Since translation cannot always convert the meaning of these things, a lot of people study other languages for these reasons.
+The second main reason is that this ban helps those addicted to cigarettes quit their habit. When smokers and non-smokers socialize together, the smokers are often ostracised from the group because they have to leave the company of everyone else if they want to light up. As a result, smokers who decided to quit would feel more a part of the social gatherings they attend, and this should encourage people who smoke to give it up. This has proven particularly effective in Ireland, the first country to introduce a nationwide ban, where people have to leave a bar or restaurant and smoke outside.
 
-In conclusion,  while it is true that many people learn other languages just because of work or travel,  I think there are Muslims contributing to the purpose of learning foreign languages.\
+In conclusion, making it against the law to smoke around strangers should be encouraged because it prevents innocent people from dying of passive smoking and reduces the number of smokers.\
 """
 
     ##################################################
