@@ -89,31 +89,9 @@ Ngoài ra, bạn cũng cần chú ý đến các lỗi chính tả có thể x�
 
 Score:
 
-Overall:
+Overall: 8
 
-Score_TR:
-Score_CC:
-Score_LR:
-Score_GA:
-
-Sure, here is my detailed estimate:
-
-Task Response: 8-8.5
-- Bài viết đáp ứng đủ yêu cầu về chủ đề và ngôn ngữ.
-- Luận điểm rõ ràng và thuyết phục, nhưng vẫn có thể lặp lại một số ý quan trọng.
-
-Coherence and Cohesion: 8-8.5
-- Bài viết có cấu trúc rõ ràng và dễ hiểu.
-- Tuy nhiên, một số từ vựng được lặp lại quá nhiều và gây mất điểm cho liên kết ý.
-
-Lexical Resource: 8-8.5
-- Sử dụng từ vựng phù hợp với chủ đề và sử dụng kỹ thuật ngôn ngữ tốt.
-- Tuy nhiên, vẫn còn một số lổi chính tả và sử dụng một vài từ vựng không chính xác.
-
-Grammatical Range and Accuracy: 8-8.5
-- Sử dụng ngôn ngữ đơn giản và dễ hiểu.
-- Đáp ứng các yêu cầu về ngữ pháp, nhưng cần lưu ý một số lỗi ngữ pháp và cú pháp không chính xác.
-
-Tổng điểm: 32-34 (điểm ở giữa của một phân đoạn 8.0-9.0)
-
-
+Score_TR: 8
+Score_CC: 8
+Score_LR: 7
+Score_GA: 8

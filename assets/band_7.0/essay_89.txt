@@ -35,12 +35,8 @@ Về phần Task Response, bài viết của bạn hoàn thành tốt yêu cầu
 
 3. Cần có một phần thân bài rõ ràng và logic hơn. Hiện tại, bài viết của bạn đã có cấu trúc chung chung với hai đoạn thân bài giới thiệu lợi ích và hại của việc đi làm trước khi đi học đại học. Tuy nhiên, nội dung của những đoạn này có thể cần được sắp xếp một cách hợp lý hơn để giúp người đọc theo dõi được những ý chính một cách dễ dàng hơn.
 
-Để cải thiện phần Task Response, bạn có thể tham khảo thêm các ví dụ cụ thể hơn và phát triển các ý chính một cách rõ ràng và logic hơn trong bài viết của mình. Bạn nên sắp xếp những ý chính theo cách mà chúng liên quan chặt chẽ với nhau và có thể giúp cho người đọc dễ dàng theo dõi luận điểm của bạn.
-
 
 Coherence and Cohesion:
-
-Bài viết của bạn có một kết cấu rõ ràng, bao gồm phần giới thiệu, hai đoạn thân bài và một kết luận. Bố cục này giúp cho người đọc có thể dễ dàng theo dõi luồng ý của bài viết.
 
 Bạn sử dụng các từ nối, đại từ và từ liên kết để kết nối ý tưởng một cách mượt mà. Ví dụ, bạn sử dụng từ nối "On the one hand" và "On the other hand" để biểu thị hai quan điểm khác nhau. Cụm từ "As a result" được sử dụng để kết nối ý tưởng giữa câu trước đó và sau đó.
 
@@ -62,8 +58,6 @@ Trong bài viết của bạn, tôi thấy bạn sử dụng một phạm vi t�
 - "A certain number of people believe that young people should emphasize work at some time" - từ "emphasize" không sử dụng đúng cách trong trường hợp này. Bạn có thể sử dụng từ "focus on" thay thế để ghi chú rõ hơn về việc tập trung học tập sau khi đã từng có kinh nghiệm làm việc nhất định.
 - "They can achieve high academic result" - từ "result" đúng, tuy nhiên bạn nên sử dụng "results" để thể hiện nhiều thành tích hơn là một thành tích duy nhất.
 
-Tổng thể, bài viết của bạn sử dụng từ vựng khá đa dạng và phù hợp với chủ đề, tuy nhiên bạn cần chú ý tới các lỗi nhỏ để sử dụng từ vựng hiệu quả hơn.
-
 
 Grammatical Range and Accuracy:
 
@@ -81,23 +75,12 @@ Bài viết của bạn có đa dạng cấu trúc câu và chứa rất ít l�
 
 6. "Although, working a while after high school gives chances for students to earn some money and gain some skills from field work, there are some disadvantages, for example people’s learning ability become slower further some people never come back to higher education." - Câu này cần phải được phân tách thành hai câu để diễn đạt ý tưởng rõ ràng hơn. Ví dụ: "Although working for a while after high school provides students with opportunities to gain work experience and earn money, taking a gap year has its drawbacks. For instance, some students may find it difficult to return to academic study and their learning ability may decline." 
 
-Tổng quan, bài viết của bạn được viết rất chặt chẽ và đúng ngữ pháp với chỉ số sai lỗi thấp. Chỉ những lỗi nhỏ và dễ sửa là tìm thấy.
-
 
 Score:
 
-Overall:
+Overall: 7
 
-Score_TR:
-Score_CC:
-Score_LR:
-Score_GA:
-
-Task Response: 7
-Coherence and Cohesion: 7.5
-Lexical Resource: 7.5
-Grammatical Range and Accuracy: 6.5
-
-Overall Band Score: 7
-
-
+Score_TR: 7
+Score_CC: 7
+Score_LR: 7
+Score_GA: 6
