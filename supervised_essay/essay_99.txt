@@ -15,24 +15,16 @@ In my conclusion, the purchase of printed newspapers or books will be decreasing
 
 Revised:
 
-Here is the edited essay with IELTS structure:
-
-Introduction:
 People nowadays debate whether electronic books and newspapers will ultimately replace printed ones due to their apparent advantages. This essay agrees with the notion that in the future, the majority of individuals will likely opt to read information online rather than pay for physical publications.
 
-Body Paragraph 1:
 The foremost reason why conventional newspapers and books may become obsolete is their negative impact on the environment. Traditional books and newspapers rely on the use of wood, making deforestation an inevitable repercussion of their production. Governments combat this matter by implementing higher taxes on these types of products. The consequence of these actions is that their prices increase, leading customers to prioritize cheaper and hence more environmentally friendly alternatives.
 
-Body Paragraph 2:
 Moreover, electronic books and newspapers offer several favorable attributes. The absence of physical copies makes digital books less hazardous to the environment as they do not require physical materials to manufacture. As a result, their prices are often more affordable than printed publications. Additionally, these items can be updated at any given time, allowing individuals to remain updated on the news regardless of their location, which is not the case with printed copies. Lastly, electronic copies offer high-quality images and videos that print publications cannot match.
 
-Conclusion:
 To sum up, while printed newspapers and books have seemingly served society for an extended period, it is likely that they will eventually be replaced by digital versions. Prevailing evidence suggests that ebooks and online news outlets offer the same, if not more, advantages than their print counterparts such as environmental friendliness, affordability, and updated information.
 
 
 Feedback:
-
-Task Response:
 
 Bài viết của bạn đã đáp ứng tốt yêu cầu của đề bài bằng cách trả lời đầy đủ câu hỏi được đưa ra trong đề bài. Tuy nhiên, để cải thiện hơn, bạn có thể cung cấp thêm các ví dụ cụ thể hoặc dẫn chứng để giải thích cho những ý kiến của bạn. Ví dụ, trong phần giải thích lý do tại sao sách in và báo giấy sẽ không còn được mua, bạn có thể thêm các con số hoặc thống kê để bổ sung cho lập luận của mình. Bạn cũng có thể đưa ra các ý kiến khác để đối lập với quan điểm của mình, sau đó phải bảo vệ lại quan điểm của mình một cách chi tiết và thuyết phục hơn.
 
@@ -55,8 +47,6 @@ Ngầm hiểu từ được sử dụng ở câu này có thể gây ra một s�
 
 "Câu đó" trong câu sau cũng có thể được làm rõ hơn để giúp kết nối ý tốt hơn:
 "This is an extraordinary benefit for busy people who has a limit of time per day. Finaly, the high quality and vivid image helps the digital books and newspapers outweigh the conventional ones."
-
-Ngoài ra, cần chú ý đến việc sử dụng từ vựng phù hợp và tránh lặp lại từ quá nhiều, như đã đề cập trong phần đánh giá tài nguyên từ vựng.
 
 
 Lexical Resource:
@@ -83,29 +73,18 @@ Ngoài ra, bạn có thể sử dụng các từ ngữ đồng nghĩa và các c
 
 Grammatical Range and Accuracy:
 
-Bài viết của bạn có grammer rất tốt và không có nhiều lỗi đáng kể, nhưng vẫn có một vài lỗi nhỏ. Dưới đây là một số lỗi và gợi ý để bạn có thể cải thiện chúng:
+Dưới đây là một số lỗi và gợi ý để bạn có thể cải thiện chúng:
 
 - Từ "plethora" trong câu "Conventional books and newspapers are made from wood, and hence a plethora of trees has to be cut to provide materials for paper manufacturing process" nên được sử dụng trong ngữ cảnh thích hợp. Điều này có thể dẫn đến hiểu lầm vì từ này không phổ biến trong văn nói và có nghĩa là "một lượng lớn đáng kể".
 - Câu "Therefore, their price is much cheaper than the printed books and newspapers, and people can afford to buy them" có lỗi cú pháp vì thiếu một từ "so", nên đúng phải là "Therefore, their price is much cheaper than the printed books and newspapers, so people can afford to buy them".
 - Câu "Secondly, people can easily update news or information anytime and anywhere as long as they have a smartphone connecting to wifi" có sai lỗi ngữ pháp do thiếu động từ "are" sau cụm danh từ "smartphone". Câu đúng phải là "Secondly, people can easily update news or information anytime and anywhere as long as they have a smartphone that is connecting to wifi".
 
-Tổng kết, bài viết của bạn có grammatical range and accuracy tốt và rất ít lỗi, chỉ cần chú ý những sai lầm nhỏ để cải thiện bài viết của mình.
-
 
 Score:
 
-Overall:
+Overall: 7.5
 
-Score_TR:
-Score_CC:
-Score_LR:
-Score_GA:
-
-Task Response: 8.5
-Coherence and Cohesion: 8
-Lexical Resource: 8
-Grammatical Range and Accuracy: 8.5
-
-Tổng điểm: 33 (điểm tương đối cao)
-
-
+Score_TR: 8.0
+Score_CC: 7.0
+Score_LR: 7.0
+Score_GA: 8.0
