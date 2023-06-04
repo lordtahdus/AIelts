@@ -1,7 +1,7 @@
 Topic:
 
-"In many countries, smoking is now illegal in public places. Many people
-believe that such a ban is justified. Do you agree or disagree?"
+"In many countries, smoking is now illegal in public places. Many people believe that such a ban is justified. 
+Do you agree or disagree?"
 
 Essay:
 
@@ -16,8 +16,6 @@ In conclusion, making it against the law to smoke around strangers should be enc
 
 Revised:
 
-Here's the edited essay according to the IELTS structure:
-
 Smoking has been prohibited in public areas, such as parks, hospitals, public transportation, and restaurants, in various countries. Proponents believe that the ban is justified, a view with which this essay concurs, because it decreases the harmful impacts of passive smoking and motivates smokers to quit.
 
 To begin with, outlawing smoking in public places is a reasonable approach to preventing non-smokers from inhaling second-hand smoke. Passive smoking can result in a variety of tobacco-related diseases, such as lung cancer, heart disease, and stroke, which non-smokers cannot avoid when in the presence of smokers. According to the British Medical Association, non-smokers who frequently inhale tobacco smoke are four times more likely to develop lung cancer than those who do not.
@@ -31,8 +29,6 @@ Feedback:
 
 Task Response:
 
-Task Response là một trong những tiêu chí chính trong việc đánh giá bài viết IELTS Writing Task 2 của bạn. Vì vậy, để đạt điểm tốt, bạn cần phải có một câu trả lời chính xác và đầy đủ thông tin về câu hỏi được đưa ra trong đề bài.
-
 Trong bài viết của bạn, tôi nhận thấy rằng bạn đã trả lời đầy đủ câu hỏi trong đề bài bằng cách đưa ra lý do tại sao nên cấm hút thuốc ở nơi công cộng. Tuy nhiên, một số gợi ý để cải thiện bài viết của bạn có thể là:
 
 - Đảm bảo rằng bạn đưa ra ít nhất hai lý do để hỗ trợ luận điểm của mình. Trong bài viết của bạn, bạn đã chỉ đưa ra hai lý do: bảo vệ sức khỏe của người khác và khuyến khích những người hút thuốc từ bỏ thói quen này.
@@ -44,7 +40,7 @@ Trong bài viết của bạn, tôi nhận thấy rằng bạn đã trả lời 
 
 Coherence and Cohesion:
 
-Bài viết của bạn đạt được mức độ Rất Tốt trong tiêu chí Coherence and Cohesion. Tuy nhiên, vẫn có một số điểm có thể cải thiện như sau:
+Bài viết của bạn vẫn có một số điểm có thể cải thiện như sau:
 
 1. Kết nối giữa các ý chính:
 Bạn đã sử dụng các từ nối để kết nối các ý chính trong bài viết của mình. Tuy nhiên, việc sử dụng các từ nối này vẫn có thể được cải thiện bằng cách sử dụng một loạt các từ với các mức độ liên kết khác nhau.
@@ -68,8 +64,6 @@ Ngoài ra, bạn cũng có thể tăng tính liên kết trong bài viết bằn
 - Furthermore
 - Consequently
 - Nonetheless
-
-Với những điểm cần được cải thiện như trên, bạn có thể cải thiện kỹ năng viết của mình để đạt được mức độ xuất sắc hơn trong tiêu chí Coherence and Cohesion.
 
 
 Lexical Resource:
@@ -95,16 +89,14 @@ Một số lỗi ngữ pháp cơ bản cần được chú ý trong bài viết 
 - Subject-verb disagreement: Lỗi xảy ra khi chủ ngữ và động từ không phù hợp. Ví dụ: "The British Medical Association found that non-smokers who were regularly exposed to tobacco smoke were 4 times more likely to develop lung cancer, than those who did not have to breathe in second-hand smoke." (Bạn có thể sửa lỗi bằng cách sử dụng động từ phù hợp với chủ ngữ "non-smokers", ví dụ: "The British Medical Association found that non-smokers who were regularly exposed to tobacco smoke were 4 times more likely to develop lung cancer than those who were not exposed to second-hand smoke.")
 - Word order: Thứ tự các từ trong câu không đúng, điều này có thể gây khó hiểu cho người đọc. Ví dụ: "In conclusion, making it against the law to smoke around strangers should be encouraged because it prevents innocent people from dying of passive smoking and reduces the number of smokers." (Bạn có thể chỉnh lại thứ tự các từ để câu trở thành một câu hoàn chỉnh và dễ hiểu hơn, ví dụ: "In conclusion, prohibiting smoking in public places should be encouraged because it prevents innocent people from being exposed to secondhand smoke and helps reduce the number of smokers.") 
 
-Hy vọng những thông tin này sẽ giúp bạn hoàn thiện bài viết của mình!
-
 
 Grammatical Range and Accuracy:
 
 Đánh giá về Grammatical Range and Accuracy trong bài viết của bạn:
 
-Liên tục là một tính chất chính của các bài viết IELTS đạt điểm cao và bài viết của bạn không phải là một ngoại lệ. Bạn đã sử dụng các cấu trúc ngữ pháp khác nhau một cách hiệu quả, góp phần làm cho bài viết của bạn thoạt nhìn có vẻ phong phú và không đơn điệu.
+Bạn đã sử dụng các cấu trúc ngữ pháp khác nhau một cách hiệu quả, góp phần làm cho bài viết của bạn thoạt nhìn có vẻ phong phú và không đơn điệu.
 
-Về mặt độ chính xác, bạn đã sử dụng các thì và các cấu trúc ngữ pháp chính xác. Tuy nhiên, một vài lỗi ngữ pháp nhỏ có thể được phát hiện trong bài viết của bạn, ví dụ như:
+Về độ chính xác, bạn đã sử dụng các thì và các cấu trúc ngữ pháp chính xác. Tuy nhiên, một vài lỗi ngữ pháp nhỏ có thể được phát hiện trong bài viết của bạn, ví dụ như:
 
 1. "Smoking has been banned in public places like parks, hospitals, public transport and restaurants in many countries" - Thay vì viết "in many countries", bạn nên viết "in many nations" để chính xác hơn về cách sử dụng từ.
 
@@ -112,28 +104,12 @@ Về mặt độ chính xác, bạn đã sử dụng các thì và các cấu tr
 
 3. "When smokers and non-smokers socialize together, the smokers are often ostracised from the group because they have to leave the company of everyone else if they want to light up" - Bạn có thể sử dụng từ "socialize" một cách không chính xác. Thay vì viết như vậy, bạn có thể sử dụng "spend time together" thay cho "socialize".
 
-Tổng thể, bài viết của bạn còn khá sạch từ vựng và ngữ pháp, bao gồm những cấu trúc ngữ pháp cơ bản cũng như phức tạp. Bạn cũng đã sử dụng các cấu trúc câu khác nhau, vì vậy bạn có thể tự tin trong việc vận dụng các cấu trúc ngữ pháp trong bài thi. Tuy nhiên, để thu hút được sự chú ý của ban giám khảo, bạn nên cố gắng giữ cho bài viết của mình luôn chính xác ngữ pháp một cách cẩn thận.
-
 
 Score:
 
-Overall:
+Overall: 7.0
 
-Score_TR:
-Score_CC:
-Score_LR:
-Score_GA:
-
-Based on the IELTS scoring criteria, I would estimate the score for each criteria as follows:
-
-Task Response: 8.0 - Your essay does a good job of addressing the prompt and expressing your opinion. You clearly state your position and explain your reasons for agreeing with the smoking ban.
-
-Coherence and Cohesion: 8.0 - Your essay is well-organized and easy to follow. You use transition words effectively to connect your ideas and make your essay easy to read.
-
-Lexical Resource: 7.0 - Your vocabulary is quite good and relevant to the topic. However, you could have used some more advanced vocabulary to improve your score in this area.
-
-Grammatical Range and Accuracy: 8.0 - You demonstrate a good range of grammatical structures and use them effectively. Your errors are few and do not detract from the overall clarity of your writing.
-
-Overall, I would estimate your essay's IELTS band score to be around 8.0, which is a very strong score. Your essay is well-written and addresses the prompt effectively, with strong reasoning and clear supporting evidence. With some minor improvements in your vocabulary, you could potentially score even higher in the Lexical Resource category.
-
-
+Score_TR: 7.0
+Score_CC: 7.0
+Score_LR: 7.0
+Score_GA: 7.0
