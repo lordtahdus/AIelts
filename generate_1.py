@@ -44,19 +44,27 @@ if __name__ == "__main__":
 
     ##################################################
 
-    index = 110
+    index = 115
 
-    link = "https://writing9.com/text/5ca027656ee679cd043e1255"
+    link = "https://writing9.com/text/5facf06d2659b800183a4c46-some-think-scientists-should-be-allowed-to-send-messages-into"
 
     topic = """\
-More and more people want to own famous brands of cars, clothes and other items. What are the reason for this. Is this a positive or negative trend?\
+Some think scientists should be allowed to send messages into space to communicate with other life forms while others believe this is too dangerous.
+
+
+Discuss both sides and give your own opinion.\
 """
 
     essay = """\
-Nowadays, the trend of purchasing well-known brands of vehicles, clothes and other goods has been increasing. This raises the question why it is happening and how society will be effected. From my perspective, I suppose it will have a negative impact on society.
-There are many compelling reasons why more and more people are obsessed with owning the famous brand of items. Firstly, Owing to the availability of mass media, people might be unconciously overwhelmed by commercials which display captivating fashion pieces  by touching the smart phone, watching TV or even walk on the street. Therefore, the repetitive slogan and remarkable logo of some famous brands are planted into their brains. Not only young people but also elderly people are the target of advertising agencies. Another explanation is their desire for social acceptance that drives them into  buying well reputed and expensive to show off and post their stunning pictures on social media like Facebook, etc,. to attract more attention and admiration. Lastly, famous brand ‘s popularity and high cost are often supposed to associate with the high-qualified items so consumers often flick into to purchase the well-known brands.
-Nonetheless, as I believe this trend is largely detrimental to this country’s tradition and culture. Because a country’s history and customs have a strong tie to the existence of domestically produced goods . If the endless development of world-renowned brands continues, these famous items will expel the locally made products from commodity market, thus the disappearance of domestic product, lead to the economic crisis in the future. Given the dominance of the internationally famous brands, this will create the clothing styles difference in poverty and wealth, leading to the background discrimination.
-To summarize,  the well-known commodities have a negative influence in domestically made products consumption, society and economic rate of a country due to the excessive advertising.\
+It is thought that some scientists need to touch with ailean species, while others think that is too risky to human. This essay examines both types of views, and I will give my perspective below.
+
+Firstly, Anyone cannot certain that who lives in space. Also, try to touch with something strange species is dangerous because I said, nobody sees them and has no information about them. If that situation has come true, there is no one will charge about that it is a too huge problem to human society so, it is completely wrong that try to touch with ailean. Individuals in Earth, they do not want to take a big risk.
+
+Secondly, on the other hand, it has a bright side also. For example, if we can find an alien and they are friendly with Earth, people would live a better world because maybe they give to a human about their uninnovated technology. Also, economical aspects, researching and development can make a lot of job opportunities for people. That R&D organisation such as NASA needs good manpower obviously  because they keep going their work.
+
+According to a survey conducted by a local newspaper named 'BULLET TIMES' in 2018 approximately 80% of respondents answered 'agree' to question 'Do you agree with a project that tries to touch with other life forms in space?' This result means people live on the Earth, they would like to touch with ailean and they wondering a space.
+
+Finally, in my opinion, researching and development need to human life because it will give a lot of advantages more than disadvantages. I always imagine living on Mars.\
 """
 
     ##################################################
