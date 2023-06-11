@@ -44,23 +44,19 @@ if __name__ == "__main__":
 
     ##################################################
 
-    index = 100
+    index = 110
 
-    link = "https://writing9.com/text/5daf2e0d635c680018ccc763"
+    link = "https://writing9.com/text/5ca027656ee679cd043e1255"
 
     topic = """\
-In many countries, smoking is now illegal in public places. Many people
-believe that such a ban is justified. Do you agree or disagree?\
+More and more people want to own famous brands of cars, clothes and other items. What are the reason for this. Is this a positive or negative trend?\
 """
 
     essay = """\
-Smoking has been banned in public places like parks, hospitals, public transport and restaurants in many nations. This essay agrees with this initiative because it reduces the harmful effects of passive smoking and also encourages smokers to quit. 
-
-The primary reason why making it illegal to smoke in public makes sense is preventing people from having to breathe in second-handsmoke. Passive smoking can lead to many smoking-related diseases such as lung cancer, heart disease and stroke, and is something that non-smokers cannot avoid in the presence of a smoker. The British Medical Association found that non-smokers who were regularly exposed to tobacco smoke were 4 times more likely to develop lung cancer, than those who did not have to breathe in second-hand smoke.
-
-The second main reason is that this ban helps those addicted to cigarettes quit their habit. When smokers and non-smokers socialize together, the smokers are often ostracised from the group because they have to leave the company of everyone else if they want to light up. As a result, smokers who decided to quit would feel more a part of the social gatherings they attend, and this should encourage people who smoke to give it up. This has proven particularly effective in Ireland, the first country to introduce a nationwide ban, where people have to leave a bar or restaurant and smoke outside.
-
-In conclusion, making it against the law to smoke around strangers should be encouraged because it prevents innocent people from dying of passive smoking and reduces the number of smokers.\
+Nowadays, the trend of purchasing well-known brands of vehicles, clothes and other goods has been increasing. This raises the question why it is happening and how society will be effected. From my perspective, I suppose it will have a negative impact on society.
+There are many compelling reasons why more and more people are obsessed with owning the famous brand of items. Firstly, Owing to the availability of mass media, people might be unconciously overwhelmed by commercials which display captivating fashion pieces  by touching the smart phone, watching TV or even walk on the street. Therefore, the repetitive slogan and remarkable logo of some famous brands are planted into their brains. Not only young people but also elderly people are the target of advertising agencies. Another explanation is their desire for social acceptance that drives them into  buying well reputed and expensive to show off and post their stunning pictures on social media like Facebook, etc,. to attract more attention and admiration. Lastly, famous brand ‘s popularity and high cost are often supposed to associate with the high-qualified items so consumers often flick into to purchase the well-known brands.
+Nonetheless, as I believe this trend is largely detrimental to this country’s tradition and culture. Because a country’s history and customs have a strong tie to the existence of domestically produced goods . If the endless development of world-renowned brands continues, these famous items will expel the locally made products from commodity market, thus the disappearance of domestic product, lead to the economic crisis in the future. Given the dominance of the internationally famous brands, this will create the clothing styles difference in poverty and wealth, leading to the background discrimination.
+To summarize,  the well-known commodities have a negative influence in domestically made products consumption, society and economic rate of a country due to the excessive advertising.\
 """
 
     ##################################################
