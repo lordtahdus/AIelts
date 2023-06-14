@@ -75,12 +75,12 @@ Tổng thể, bài viết của bạn đã sử dụng các câu phức tạp v�
 
 Score:
 
-Overall:
+Overall: 7.0
 
-Score_TR:
-Score_CC:
-Score_LR:
-Score_GA:
+Score_TR: 7.0
+Score_CC: 7.5
+Score_LR: 7.0
+Score_GA: 7.0
 
 Based on the analysis provided, I would estimate the following scores for each criteria:
 

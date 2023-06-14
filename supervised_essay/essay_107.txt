@@ -12,7 +12,6 @@ Furthermore, short-term employment doesn't affect the worker much, but it has a 
 
 In conclusion, I firmly believe that changing livelihood is a great experiment for an individual to try, until they do not struggle with the new work, and receives the desired outcome."
 
-
 Revised:
 
 Here's an edited version of your essay:
@@ -30,12 +29,11 @@ Feedback:
 
 Task Response:
 
-Bạn đã đưa ra các ý kiến tương đối đầy đủ và trả lời được câu hỏi của đề bài. Tuy nhiên, bạn cần chú ý đến việc phát triển ý tưởng của mình và đưa ra ví dụ cụ thể hơn để giúp đọc giả hiểu rõ ý của bạn hơn.
+Task Response trong bài viết của bạn đã đáp ứng đầy đủ yêu cầu của đề bài. Tuy nhiên, đôi khi bạn phát biểu không rõ ràng và có thể gây hiểu nhầm cho người đọc. Vì vậy, bạn có thể đưa thêm ví dụ hoặc minh họa để rõ ràng hơn trong việc trình bày ý tưởng của mình.
 
-Gợi ý cải thiện:
-- Bạn nên phát triển ý tưởng của mình và đưa ra ví dụ cụ thể để phát triển và minh họa ý tưởng.
-- Đồng thời, nên sử dụng các từ nối để giúp kết nối ý tưởng trong bài viết của bạn trở nên liền mạch hơn và dễ hiểu hơn. 
-- Bạn cũng có thể chú trọng đến thao tác phân tích đề bài, giúp định hướng cho bài viết một cách chính xác và rõ ràng hơn.
+Ví dụ, trong phần giải thích về lý do tại sao nhiều người thay đổi nghề nghiệp, bạn có thể đưa thêm ví dụ số hóa như: tình trạng thất nghiệp cao, xu hướng công nghiệp hóa, hoặc sự phát triển của kinh tế ứng dụng như công nghệ thông tin, mạng xã hội,...Điều này giúp cho người đọc có thể tưởng tượng và hiểu rõ hơn những vấn đề liên quan đến việc thay đổi nghề nghiệp.
+
+Vì vậy, bạn cần chú ý rõ ràng và minh bạch hơn trong việc trình bày những ý tưởng của mình để đưa ra quan điểm thích hợp và giúp độc giả hiểu thấu ý tưởng của bạn.
 
 
 Coherence and Cohesion:
@@ -83,21 +81,11 @@ Một khi bạn đã biết được những lỗi này, bạn có thể luyện
 
 Score:
 
-Overall:
+Overall: 6.0
 
-Score_TR:
-Score_CC:
-Score_LR:
-Score_GA:
-
-Task Response: 6 - Bạn đã trả lời đầy đủ câu hỏi, tuy nhiên cần cung cấp ví dụ cụ thể hơn để phát triển ý của mình.
-
-Coherence and Cohesion: 6.5 - Bài viết của bạn được tổ chức rõ ràng và có mối liên kết hợp lý giữa các ý, tuy nhiên cần sử dụng thêm từ nối để tăng tính liền mạch cho bài viết.
-
-Lexical Resource: 6 - Vốn từ vựng của bạn đã đủ để trình bày ý của mình, tuy nhiên cần cải thiện thêm khả năng sử dụng từ đồng nghĩa và từ trái nghĩa để tránh lặp lại trong văn phong của bạn.
-
-Grammatical Range and Accuracy: 5.5 - Bạn đã sử dụng tiếng Anh đúng và dễ hiểu, tuy nhiên cần chú ý đến việc sử dụng thì và ngữ pháp trong tiếng Anh.
-
-Tổng điểm: 6 (tổng điểm trung bình của 4 tiêu chí trên)
+Score_TR: 6.0
+Score_CC: 6.5
+Score_LR: 6.0
+Score_GA: 5.5
 
 
