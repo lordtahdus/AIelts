@@ -44,26 +44,24 @@ if __name__ == "__main__":
 
     ##################################################
 
-    index = 109
+    index = 120
 
-    link = "aaab"
+    link = "https://writing9.com/text/5f9056605d29660018ef9bdf-some-people-say-that-the-main-environmental-problem-of-our"
 
     topic = """\
-Some of the methods used in advertising are unethical and unacceptable in today’s society.
+Some people say that the main environmental problem of our time is the loss of particular species of plants and animals. Others say that there are more important environmental problems.
 
-To what extent do you agree with this view?
-
-Give reasons for your answer and include any relevant examples from your own experience or knowledge.\
+Discuss both these views and give your own opinion\
 """
 
     essay = """\
-It is certainly true to say that the strategies used for advertising by some organisations are considered immoral and not acceptable in today's community. The essay is fully agreed with this statement and talk about why people think so along with some method in the following paras with a reasoned conclusion.
+Some people hold the view that our recent main environmental trouble is the loss of many species of plants and animals, while others think that there are more critical environmental problems. While I think plants and animals extinction is one of the main environmental problems, I still believe that there are many problems in our environment which are also important.
 
-The first strategy that's unacceptable in these present days is misrepresentation of products. To be more precise, sometimes advertisers attach a slogan such as this product available for a limited amount of time, which consequently put impacts on people to buy the product within given time to take advantage of it without a consideration. For example, a TV channel Shop CJ, where always one time limit is displayed with all products in order to increase the sales.
+I  understand why some people hold the belief that  species extinction is the most important environmental problem. The main point for this is that the social media these days give people many information about endangered species. In addition, many people know that losing any kind of plants or animals can break the food chain, which forms life on earth. By gathering information for many sources which only concern about plants and animals can lead people to the thought that species loss is the biggest problem in the environment. 
 
-A second approach for advertising that most of the Internet users use is pop up of websites. Actually, it is totally irritate the dwellers, because what data they want, open after a several pop-up sites. For instance, the Techmahindra.com, where for every click one pop up site is open. Another adverts of this kind is related to those companies which hire famous personalities to promote and to encourage people to buy their products. A best known example of this is Varun Dhawan, who promote fairness cream which is often has some negative consequences.
+Nevertheless, I would argue that there are many environmental problems that are more important than species loss for several reasons. The first point is that the declination of natural resources. This can be seen in many Western countries that they often have wars because of oil needs. The second point is that many people all around the world today are deprived of freshwater. This is because the more developing the industry is, the more polluted the water is. 
 
-In conclusion, I would like to point out that many advertisers use different approaches to advert their products and most of these methods are not appreciated by the citizens,because it's just encourage them to buy the certain things\
+In conclusion, while I agree that the loss of many species of plants and animals is an important problem, I am of the opinion that there are more important environmental problems that people need to concern.\
 """
 
     ##################################################
