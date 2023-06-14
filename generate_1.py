@@ -44,23 +44,26 @@ if __name__ == "__main__":
 
     ##################################################
 
-    index = 105
+    index = 109
 
-    link = "aaa"
+    link = "aaab"
 
     topic = """\
-International tourism has brought enormous benefits to many places. At the same time, there is concern about its impact on local inhabitants and the environment.
-Do the disadvantages of international tourism outweigh the advantages?\
+Some of the methods used in advertising are unethical and unacceptable in today’s society.
+
+To what extent do you agree with this view?
+
+Give reasons for your answer and include any relevant examples from your own experience or knowledge.\
 """
 
     essay = """\
-Nowadays people often travel from one country to another country just for a holiday or vacation. These kinds of activities are familiarly known as International or Global Tourism. There are a lot of benefits that global tourism gives to everyone, which could be in every aspect of economics of international exposure, but the problem is this condition can bring consequences as well. This essay will be addressing some benefits and consequences that happen due to this trend.
+It is certainly true to say that the strategies used for advertising by some organisations are considered immoral and not acceptable in today's community. The essay is fully agreed with this statement and talk about why people think so along with some method in the following paras with a reasoned conclusion.
 
-First, for the advantages, At least two parties will enjoy the benefit of these activities. First is the Government. Because people are visiting a foreign country, the government will receive some amount as a duty that paid by the visitor. Second is the local people that live around those places where visitor visit. Local people usually having a business like accommodation, transportation, and Culinary that get profit from the visitors.
+The first strategy that's unacceptable in these present days is misrepresentation of products. To be more precise, sometimes advertisers attach a slogan such as this product available for a limited amount of time, which consequently put impacts on people to buy the product within given time to take advantage of it without a consideration. For example, a TV channel Shop CJ, where always one time limit is displayed with all products in order to increase the sales.
 
-On the other hand, some consequences might happen, especially for nature tourism. For instance, some habitat will be impacted because of forbidden activities which are being done by some undisciplined tourist. To avoid these kinds of disadvantages, the Government needs to create some prevention action to make sure this won't happen. For example, the Government would create rules that every tourist should be accompanied by a local guide.
+A second approach for advertising that most of the Internet users use is pop up of websites. Actually, it is totally irritate the dwellers, because what data they want, open after a several pop-up sites. For instance, the Techmahindra.com, where for every click one pop up site is open. Another adverts of this kind is related to those companies which hire famous personalities to promote and to encourage people to buy their products. A best known example of this is Varun Dhawan, who promote fairness cream which is often has some negative consequences.
 
-To wrap up, There are unlimited advantages that global tourism can bring to a country or even to the local people. These benefits will overcome the problem that might happen because of this international tourism activity. Also, To ensure there is no damage to the habitat and the environment Government must have good rules to make sure the damage won't happen.\
+In conclusion, I would like to point out that many advertisers use different approaches to advert their products and most of these methods are not appreciated by the citizens,because it's just encourage them to buy the certain things\
 """
 
     ##################################################

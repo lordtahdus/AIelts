@@ -94,26 +94,10 @@ Một số lỗi mà tôi tìm thấy trong bài viết của bạn bao gồm l�
 
 Score:
 
-Overall:
+Overall: 6.5
 
-Score_TR:
-Score_CC:
-Score_LR:
-Score_GA:
-
-Task Response: 7.0
-Bạn đã trả lời đầy đủ câu hỏi và đưa ra quan điểm rõ ràng trong bài viết của mình.
-
-Coherence and Cohesion: 6.5
-Cấu trúc bài viết của bạn khá ổn, tuy nhiên cần bổ sung các từ nối để kết nối ý tưởng trong đoạn văn.
-
-Lexical Resource: 6.5
-Bạn sử dụng từ vựng phù hợp và đa dạng, tuy nhiên cần sử dụng chính xác hơn để tránh gây nhầm lẫn.
-
-Grammatical Range and Accuracy: 6.5
-Bạn sử dụng các cấu trúc ngữ pháp đa dạng và sử dụng đúng hầu hết các thì, tuy nhiên còn hiện diện một số lỗi nhỏ.
-
-Tổng điểm: 6.5+6.5+6.5+7.0= 26.5/4= 6.6
-Bài viết của bạn được đánh giá ở mức 6.6, tương đương với band điểm trung bình trên kỳ thi IELTS. Điểm số có thể được nâng cao bằng cách cải thiện các yếu điểm đã được nhắc đến để tăng tính hợp lý và giúp ý tưởng trở nên dễ đọc và hiểu rõ hơn.
-
+Score_TR: 7.0
+Score_CC: 6.5
+Score_LR: 6.5
+Score_GA: 6.5
 
