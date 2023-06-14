@@ -44,27 +44,23 @@ if __name__ == "__main__":
 
     ##################################################
 
-    index = 115
+    index = 105
 
-    link = "https://writing9.com/text/5facf06d2659b800183a4c46-some-think-scientists-should-be-allowed-to-send-messages-into"
+    link = "aaa"
 
     topic = """\
-Some think scientists should be allowed to send messages into space to communicate with other life forms while others believe this is too dangerous.
-
-
-Discuss both sides and give your own opinion.\
+International tourism has brought enormous benefits to many places. At the same time, there is concern about its impact on local inhabitants and the environment.
+Do the disadvantages of international tourism outweigh the advantages?\
 """
 
     essay = """\
-It is thought that some scientists need to touch with ailean species, while others think that is too risky to human. This essay examines both types of views, and I will give my perspective below.
+Nowadays people often travel from one country to another country just for a holiday or vacation. These kinds of activities are familiarly known as International or Global Tourism. There are a lot of benefits that global tourism gives to everyone, which could be in every aspect of economics of international exposure, but the problem is this condition can bring consequences as well. This essay will be addressing some benefits and consequences that happen due to this trend.
 
-Firstly, Anyone cannot certain that who lives in space. Also, try to touch with something strange species is dangerous because I said, nobody sees them and has no information about them. If that situation has come true, there is no one will charge about that it is a too huge problem to human society so, it is completely wrong that try to touch with ailean. Individuals in Earth, they do not want to take a big risk.
+First, for the advantages, At least two parties will enjoy the benefit of these activities. First is the Government. Because people are visiting a foreign country, the government will receive some amount as a duty that paid by the visitor. Second is the local people that live around those places where visitor visit. Local people usually having a business like accommodation, transportation, and Culinary that get profit from the visitors.
 
-Secondly, on the other hand, it has a bright side also. For example, if we can find an alien and they are friendly with Earth, people would live a better world because maybe they give to a human about their uninnovated technology. Also, economical aspects, researching and development can make a lot of job opportunities for people. That R&D organisation such as NASA needs good manpower obviously  because they keep going their work.
+On the other hand, some consequences might happen, especially for nature tourism. For instance, some habitat will be impacted because of forbidden activities which are being done by some undisciplined tourist. To avoid these kinds of disadvantages, the Government needs to create some prevention action to make sure this won't happen. For example, the Government would create rules that every tourist should be accompanied by a local guide.
 
-According to a survey conducted by a local newspaper named 'BULLET TIMES' in 2018 approximately 80% of respondents answered 'agree' to question 'Do you agree with a project that tries to touch with other life forms in space?' This result means people live on the Earth, they would like to touch with ailean and they wondering a space.
-
-Finally, in my opinion, researching and development need to human life because it will give a lot of advantages more than disadvantages. I always imagine living on Mars.\
+To wrap up, There are unlimited advantages that global tourism can bring to a country or even to the local people. These benefits will overcome the problem that might happen because of this international tourism activity. Also, To ensure there is no damage to the habitat and the environment Government must have good rules to make sure the damage won't happen.\
 """
 
     ##################################################
