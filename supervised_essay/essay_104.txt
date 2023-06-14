@@ -82,23 +82,12 @@ Tổng thể, bài viết của bạn đã sử dụng các cấu trúc ngữ ph
 
 Score:
 
-Overall:
+Overall: 7.0
 
-Score_TR:
-Score_CC:
-Score_LR:
-Score_GA:
+Score_TR: 7.0
+Score_CC: 7.0
+Score_LR: 7.5
+Score_GA: 7.0
 
-Based on the overall quality of your writing, the score for each criterion may be estimated as follows:
-
-Task Response: 7.0 - Your essay provides a clear and organized response to all aspects of the prompt. However, there may be some minor issues in fully addressing each part of the task.
-
-Coherence and Cohesion: 7.0 - Your writing has a clear and logical structure, and ideas are well-connected through appropriate transitions. However, there may be some minor issues with organizing your ideas or sentence structure in certain parts of the essay.
-
-Lexical Resource: 7.5 - Your essay effectively uses an extensive range of vocabulary, and terms are used accurately and appropriately to convey your ideas. However, some minor issues in word choice or usage may be present in certain parts of the essay.
-
-Grammatical Range and Accuracy: 7.0 - Your writing displays a strong command of grammatical structures, with few errors in sentence structure, verb tense, or word order. However, there may be some minor mistakes in grammar, punctuation, or word form in certain parts of the essay.
-
-Overall, your essay shows a strong ability to respond to the prompt and communicate ideas effectively with a variety of language structures and vocabulary. With some minor revisions, it has the potential to score 7.0 or higher on each criterion.
 
 

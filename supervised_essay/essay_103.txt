@@ -41,7 +41,7 @@ Gợi ý cải thiện:
 
 Coherence and Cohesion:
 
-Coherence and Cohesion đánh giá bố cục và liên kết ý tưởng của bài viết. Trong bài viết của bạn, bố cục khá gọn gàng và được chia thành 3 đoạn, trong đó mỗi đoạn đều hội tụ một ý chính riêng.
+Trong bài viết của bạn, bố cục khá gọn gàng và được chia thành 3 đoạn, trong đó mỗi đoạn đều hội tụ một ý chính riêng.
 
 Tuy nhiên, có một số lỗi sai trong việc sử dụng từ nối và từ liên kết. Chung quy lại, đoạn văn của bạn cần thêm sự mượt mà trong phong cách viết.
 
@@ -94,21 +94,11 @@ Bạn đã sử dụng một số mẫu câu và cấu trúc ngữ pháp phù h�
 
 Score:
 
-Overall:
+Overall: 6.0
 
-Score_TR:
-Score_CC:
-Score_LR:
-Score_GA:
-
-Sure, here is a breakdown of the score for each criterion:
-
-Task Response: 6 - There is some discussion of both views, but the essay does not thoroughly address the arguments on each side or provide well-developed examples to support the points made.
-
-Coherence and Cohesion: 7 - The essay has a clear structure and the flow of ideas is generally easy to follow. However, there are some awkward sentences and errors in punctuation.
-
-Lexical Resource: 6 - The essay uses vocabulary appropriately, but there is limited variety and some repetitive phrasing. There is room for improvement in the use of more precise and effective vocabulary.
-
-Grammatical Range and Accuracy: 6 - There are errors in grammatical structures and some misspellings. The essay would benefit from more precise and varied sentence structures, as well as increased attention to correct grammar and spelling.
+Score_TR: 6.0
+Score_CC: 7.0
+Score_LR: 6.0
+Score_GA: 6.0
 
 

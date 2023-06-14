@@ -85,21 +85,10 @@ Tuy nhiên, các lỗi này không ảnh hưởng nhiều đến hiệu quả c�
 
 Score:
 
-Overall:
+Overall: 7.0
 
-Score_TR:
-Score_CC:
-Score_LR:
-Score_GA:
-
-Task Response: 7 - Your response covers both sides of the argument and provides relevant examples. However, you could have provided a stronger and more clear argument to fully answer the prompt.
-
-Coherence and Cohesion: 7 - Overall, your essay is well-organized and easy to read. You effectively use transition words and phrases to connect your ideas. However, you could have used a wider range of linking words to improve the coherence of your essay.
-
-Lexical Resource: 7 - Your vocabulary is diverse, and you use relevant words to express your ideas. However, there are some unclear or inaccurate phrases which can reduce the overall score.
-
-Grammatical Range and Accuracy: 6 - Although you used a variety of sentence structures, there were some errors and inaccuracies in grammar throughout the essay. With some more attention to grammar, you could improve your score in this category.
-
-Overall, the estimated score is 27/40. Your essay has potential but to score higher, it needs to be written more carefully, using clearer arguments and more accurate grammar.
-
+Score_TR: 7.0
+Score_CC: 7.0
+Score_LR: 7.0
+Score_GA: 6.0
 
