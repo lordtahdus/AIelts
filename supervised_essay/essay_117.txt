@@ -7,7 +7,6 @@ Essay:
 
 "Crime rates have been on the rise in the past decades, despite the culprit aware of the consequences he shall face for the offence committed by him.It is often argued that, capital punishment is beneficial for the well being of the nation and the citizens attached to it.I strongly concur with the fact that capital punishment should be improvised.
 
-
 To begin with, punishments are essential for maintaining peace throughout the country.People are familiar with the law and order of their nation and if the law is broken, it usually means that injustice has taken place and harmony is being disturbed.Punishing a culprit makes the fear vanish from the minds of innocent people.For instance, Ajmal Kasab, a terrorist was killed in the attacks and peace was finally restored.
 
 On the other hand, offence rates define the character of a country. Having said this, no matter how developed or developing a country is, if the crimes committed are increasing every year it reflects a bad character of the country to the world. This leads to the downfall of the economy and many other global factors are affected. For example, tourists avoid such places where they don't feel safe or places which have a bad image in the world.This ultimately leads to the loss of economy. Hence, executing a criminal for a harsh crime and preparing several punishments according to the weightage of crimes should be done.
@@ -17,24 +16,16 @@ To summarise, I strongly believe that capital punishments should be a part of la
 
 Revised:
 
-Here is the edited essay with IELTS structure:
-
-Introduction:
 In recent years, crime has become a widespread issue globally, despite stricter laws and severe consequences that offenders may face. Some people claim that capital punishment is beneficial for the well-being of a country. I agree that improving the capital punishment system would help to curb crime rates and maintain social order.
 
-Body Paragraph 1:
 To begin with, punishment plays a crucial role in maintaining peace throughout the country. When an individual is aware of the consequences of criminal activities, it creates a sense of fear and deters them from committing a criminal act. As a result, it can prevent potential offenders from committing violent crimes. For instance, in the case of Ajmal Kasab, a terrorist who was executed for his crimes, the act acted as a deterrent to similar attacks and contributed to maintaining peace in society.
 
-Body Paragraph 2:
 Moreover, high crime rates can tarnish a country's reputation and discourage investors and tourists from visiting or investing, leading to a loss of economic opportunities. Therefore, it is essential to address crime rates and present a positive image of the country. The implementation of severe punishments such as capital punishment for serious crimes can reduce the crime rate by deterring potential offenders and promoting a feeling of safety in society.
 
-Conclusion:
 In conclusion, I firmly believe that the capital punishment system should be improved and integrated into the law and order of the country. It promotes discipline and social order by showing the consequences of committing a crime. This helps to maintain peace and prevent the negativity that a high crime rate can bring to society. It is a practical solution for maintaining law and order in a country while simultaneously enhancing its reputation.
 
 
 Feedback:
-
-Task Response:
 
 Task Response:
 
@@ -44,31 +35,15 @@ Mặc dù vậy, có một vài điểm mà bạn có thể cải thiện. Đầ
 
 Thứ hai, trong thân bài, bạn phân tích lý do tại sao án tử hình có thể giúp giải quyết vấn đề tội phạm trong một quốc gia. Tuy nhiên, bạn có thể cần phải bổ sung thêm các ví dụ cụ thể hoặc thống kê để minh họa vấn đề này. Bạn cũng có thể nêu ra các lập luận phản đối với ủng hộ cho quan điểm của bạn, để làm cho bài luận của bạn trở nên cân bằng hơn.
 
-Vì vậy, để cải thiện phần Task Response của bài luận của bạn, bạn nên đi sâu vào phân tích vấn đề và đưa ra các ví dụ cụ thể để minh họa quan điểm của mình. Bạn cũng cần phải cân nhắc và phát triển các lập luận phản đối để tăng tính cân bằng và thuyết phục của bài luận.
-
 
 Coherence and Cohesion:
-
-Trong bài viết của bạn, sự kết nối giữa các câu và đoạn văn khá tốt. Tuy nhiên, để nâng cao điểm số Coherence and Cohesion, bạn có thể cần làm những điều sau đây:
-
-1. Phát triển ý tưởng kỹ lưỡng hơn: Một số ý của bạn có thể cần phát triển thêm để tránh làm cho bài viết trông thiếu cân đối. Ví dụ như phần thứ hai của đoạn thứ nhất, bạn có thể giải thích tại sao việc trừng phạt tội phạm lại giúp duy trì hòa bình và trật tự trong quốc gia.
-
-2. Sử dụng các liên từ và trạng từ liên kết: Để kết nối các ý tưởng của bạn, bạn có thể sử dụng các liên từ và trạng từ liên kết như "furthermore," "moreover," "however," "therefore,"... để cho người đọc hiểu rõ hơn về mối quan hệ giữa các ý tưởng.
-
-3. Hiểu rõ cấu trúc đoạn văn đúng cách: Điều này giúp bạn biết được phải đặt ý chính của đoạn ở đâu và sử dụng các câu hỗ trợ phù hợp.
-
-Ngoài ra, bài viết của bạn còn một số lỗi cú pháp và chưa có sự liên kết giữa các ý tưởng:
 
 - Câu "Punishing a culprit makes the fear vanish from the minds of innocent people" thiếu trật tự, bạn có thể sửa lại như sau: "Punishing a culprit makes the fear in the minds of innocent people vanish"
 - Câu "Having said this, no matter how developed or developing a country is" không có sự liên kết với phần trước, bạn có thể thêm vào các liên từ như "Furthermore," hay "What's more,"... để giúp ý tưởng của bạn được liên kết tốt hơn.
 - Câu "This leads to the downfall of the economy and many other global factors are affected" cần cụ thể hơn về cách tội phạm ảnh hưởng đến kinh tế và các yếu tố toàn cầu. Bạn có thể sử dụng ví dụ cụ thể để minh họa rõ hơn về ảnh hưởng của tội phạm đến kinh tế và hình ảnh của đất nước.
 
-Với sự cải thiện những điểm trên, bạn sẽ nâng cao khả năng viết luận và tốt hơn trong việc sử dụng tiếng Anh.
-
 
 Lexical Resource:
-
-Trong bài luận của bạn, bạn sử dụng một số từ vựng và cụm từ hợp lý. Tuy nhiên, một số lỗi ngữ pháp và sử dụng từ không chính xác có thể làm giảm điểm số của bạn:
 
 1. "despite the culprit aware of the consequences he shall face for the offence committed by him" 
 
@@ -90,20 +65,14 @@ Thay vì "the citizens attached to it", bạn nên sử dụng "the citizens liv
 
 Ở đây, từ "weightage" không phù hợp, bạn cần sử dụng từ "severity" để thể hiện mức độ nghiêm trọng của các tội phạm.
 
-Tổng quan, việc sử dụng từ vựng của bạn là tốt và đa dạng nhưng cần phải lưu ý để tránh các lỗi như sai chính tả hoặc sử dụng từ với ngữ cảnh không phù hợp.
-
 
 Grammatical Range and Accuracy:
-
-Có một vài lỗi ngữ pháp trong bài viết của bạn. Dưới đây là những lỗi mà tôi phát hiện được:
 
 - "despite the culprit aware" - "culprit" là danh từ và cần có một động từ để đi kèm, do đó câu nên được viết thành "despite the culprit being aware".
 - "it usually means that injustice has taken place and harmony is being disturbed" - Cấu trúc câu này khá lộn xộn. Bạn nên chia nhỏ câu này thành hai câu riêng biệt để tránh sự rối loạn. Ví dụ: "When a law is broken, it often means that injustice has taken place. This disturbance in justice can lead to a breakdown of peace and harmony."
 - "For instance, Ajmal Kasab, a terrorist was killed in the attacks and peace was finally restored" - Thiếu một từ để kết nối giữa "terrorist" và "was killed". Câu này nên được viết lại thành "For instance, Ajmal Kasab, a terrorist who was involved in the attacks, was killed, and peace was finally restored."
 - "Having said this, no matter how developed or developing a country is, if the crimes committed are increasing every year it reflects a bad character of the country to the world" - Sử dụng quá nhiều mệnh đề trong một câu. Câu này nên được chia nhỏ thành các câu riêng biệt để tránh sự lộn xộn. Ví dụ: "Regardless of whether a country is developed or developing, a rise in crime rates reflects poorly on the country's image and reputation."
 - "This ultimately leads to the loss of economy" - "loss of economy" không phải là một cụm từ chính xác. Bạn nên sử dụng cụm từ "economic loss" để diễn tả ý của mình.
-
-Tổng thể, việc sử dụng ngữ pháp trong bài viết của bạn khá tốt, nhưng cần chú ý đến việc sử dụng các từ và cấu trúc câu một cách chính xác để tránh các lỗi của câu.
 
 
 Score:

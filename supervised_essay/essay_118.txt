@@ -33,7 +33,6 @@ Task Response:
 Task Response:
 Ở phần mở bài, bạn đã giới thiệu chủ đề và đưa ra hai quan điểm. Trong phần thân bài, bạn đã thảo luận cả hai quan điểm với những ví dụ thích hợp. Cuối cùng, bạn đã đưa ra ý kiến của mình về vấn đề và kết luận bài viết một cách rõ ràng. Bài viết của bạn rõ ràng đã trả lời đầy đủ câu hỏi của đề bài.
 
-Gợi ý cải thiện:
 Tuy nhiên, bạn có thể cải thiện Task Response bằng cách đặt lại câu hỏi ở đầu bài viết trong phần kết luận để giải quyết một cách chính thức trước câu hỏi của đề bài. Bằng cách này, bạn sẽ giúp cho độc giả dễ dàng hơn trong việc nắm bắt ý chính của bài viết của mình. Ngoài ra, hãy chắc chắn rằng bạn đã trả lời đầy đủ câu hỏi và sử dụng các từ kết nối để giúp đưa ra các ý kiến của mình một cách mạch lạc.
 
 
@@ -56,8 +55,6 @@ Với những điều này, bạn có thể cải thiện thêm sự liên kết
 
 Lexical Resource:
 
-Trong bài viết của bạn, mặc dù bạn đã sử dụng những từ vựng phổ biến và đơn giản để diễn đạt các ý tưởng, song bạn có thể nâng cao tầm vực từ ngữ của mình để biểu đạt các ý tưởng một cách chính xác và tránh sự lặp lại. Bên dưới là một số gợi ý với từng điểm về tầm vực từ ngữ mà bạn có thể cải thiện:
-
 1. Đa dạng từ vựng:
 - Thay vì sử dụng từ "problem" nhiều lần, bạn có thể sử dụng các từ khác như "issue", "challenge", "difficulty", "complication" để tránh lặp lại.
 - Thay vì sử dụng "government" liên tục, bạn có thể sử dụng các thuật ngữ thường được sử dụng để chỉ các tổ chức quản lý như "authorities", "administration", "officials", "regulators".
@@ -70,12 +67,8 @@ Trong bài viết của bạn, mặc dù bạn đã sử dụng những từ v�
 - Thay vì sử dụng "youngsters" để chỉ những người trẻ tuổi lái xe, bạn có thể sử dụng "adolescents", "teenagers", "young drivers" để biểu đạt ý tưởng một cách chuyên nghiệp hơn.
 - Thay vì sử dụng từ "rules" để đề cập đến quy định, bạn có thể sử dụng các từ khác như "regulations", "policies", "laws" để phong phú hơn và tránh lặp lại.
 
-Về mặt ngôn ngữ, tuy có một số từ phổ biến được lặp lại, nhưng bạn vẫn có thể cải thiện đáng kể bài viết của mình bằng cách sử dụng đa dạng từ vựng phù hợp với chủ đề và phong cách của bài viết.
-
 
 Grammatical Range and Accuracy:
-
-Bài viết của bạn có một số lỗi ngữ pháp như sau:
 
 1. "while others argue that there are a plethora of ways to solve this problem.I believe various measures can be taken by the government to tackle the above issue." 
 - Lỗi chấm câu: cần phải thêm dấu chấm câu trước đoạn sau: "I believe various measures can be taken by the government to tackle the above issue."
