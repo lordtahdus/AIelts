@@ -1,4 +1,3 @@
-
 # import required module
 import os
 # assign directory
