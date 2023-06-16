@@ -21,4 +21,7 @@ for filename in os.listdir(directory):
                 print(band)
 
     # move the supervised_essay to assets with corresponding band
-    os.rename(f'{file}', f'assets/band_{band}/{file[17:]}')
+    # os.rename(f'{file}', f'assets/band_{band}/{file[17:]}')
+
+    # move the supervised_essay to assets in unassessed folder
+    os.rename(f'{file}', f'assets/unassessed_essays/{file[17:]}')
