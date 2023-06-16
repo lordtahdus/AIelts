@@ -50,20 +50,12 @@ Tuy nhiên, để cải thiện yếu tố Task Response, có một số điểm
 
 3. Ngoài ra, bạn nên liên kết các ý của mình với nhau một cách rõ ràng hơn để giúp cho người đọc hiểu được mối quan hệ giữa các ý và các bằng chứng của bạn.
 
-Vì vậy, để cải thiện Task Response, bạn cần phải lưu ý rõ ràng các yêu cầu của đề bài, cung cấp các lý do cụ thể để minh chứng cho quan điểm của mình, và liên kết các ý của mình với nhau một cách rõ ràng.
-
 
 Coherence and Cohesion:
-
-Trong bài viết của bạn, việc kết nối giữa các câu khá yếu, dẫn đến sự rời rạc và khó theo dõi các ý kiến lập luận của bạn. Bạn có thể cải thiện điểm này bằng cách sử dụng các từ nối để kết nối các ý kiến. 
-
-Có một số lỗi cần lưu ý như sau:
 
 - "Firstlyt being a collective is a very important issue." Lỗi chính tả (thiếu chữ "t"), cần sửa thành "Firstly, being part of a collective is a very important issue."
 - "Nowadays people dont help each other enough." Lỗi sai động từ, nên sử dụng dạng thể khẳng định "donate" hoặc "volunteer" thay vì "help," và sửa câu thành "Nowadays, people do not donate or volunteer enough to help others."
 - "Moreover some people really need a help if we dont help them who are going to help us when we need a help." Câu này cấu trúc lộn xộn và chứa nhiều lỗi. Có thể sửa lại thành "Furthermore, if we do not help those in need, who will help us when we are in need? Some people truly need assistance and it is our responsibility to aid them."
-
-Với sự cải thiện này, bài viết của bạn sẽ trở nên dễ đọc hơn và điểm số cũng sẽ được tăng cao hơn trong tiêu chí Coherence and Cohesion.
 
 
 Lexical Resource:
@@ -75,12 +67,8 @@ Trong bài viết của bạn, bạn sử dụng nhiều từ ngữ đơn giản
 - Thay vì sử dụng "people" trong cả hai câu đầu tiên của bài viết, bạn có thể sử dụng các từ như "individuals", "citizens", "members of society" để tránh lặp lại từ quá nhiều lần.
 - Thay vì sử dụng "society" trong cả hai câu đầu tiên của bài viết, bạn có thể sử dụng các từ như "community", "neighbourhood", "local area" để biểu đạt ý tưởng một cách cụ thể hơn.
 
-Tuy nhiên, bài viết của bạn không có nhiều lỗi về từ vựng. Một lỗi thường gặp là sử dụng sai từ đồng nghĩa hoặc không hiểu rõ ý nghĩa của từ mình sử dụng. Bạn có thể sử dụng từ điển để tìm hiểu các từ vựng mới và cách sử dụng chúng một cách chính xác hơn.
-
 
 Grammatical Range and Accuracy:
-
-Trong bài viết của bạn, có một số lỗi ngữ pháp, dưới đây là chi tiết:
 
 - "Nowadays free public service has been important topic." --> "Nowadays, free public service has become an important topic."
 - "Some people think free public service must be a obligate" --> "Some people think that free public service should be obligatory."
@@ -91,7 +79,6 @@ Trong bài viết của bạn, có một số lỗi ngữ pháp, dưới đây l
 - "Secondly when we help to somebody we really feel like a human." --> "Secondly, when we help somebody, we feel more human."
 - "Lastly its pyscological effect is also very important." --> "Lastly, its psychological effect is also very important."
 
-Ngoài ra, còn một số câu không rõ ràng và thiếu nối từ để nối văn bản lại một cách mạch lạc. Bạn nên cẩn thận hơn về cách sử dụng nối từ và kết hợp các câu văn lại một cách sáng suốt hơn.
 
 
 Score:
