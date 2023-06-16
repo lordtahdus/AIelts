@@ -19,26 +19,6 @@ In conclusion, in my opinion, every human being should make a little change in t
 
 Revised:
 
-Task Response:
-
-The essay addresses the topic of why many elderly people do not exercise despite doctors advising them to do so and suggests possible solutions to this problem. The main ideas presented are relevant to the topic, but there could be more emphasis on the reasons and solutions.
-
-Coherence and Cohesion:
-
-The essay has a clear introduction, body paragraphs, and conclusion. However, the coherence of the essay could be improved by organizing the body paragraphs more logically and smoothly linking the ideas.
-
-Lexical Resource:
-
-The writer has used a range of vocabulary, but some words are not used accurately or appropriately. There are some spelling and grammatical errors that could be corrected.
-
-Grammatical Range and Accuracy:
-
-There are noticeable errors in grammar and sentence structures. These errors affect the clarity and accuracy of the essay.
-
-Overall, the essay needs improvements to its structure, coherence, grammar, and vocabulary to reach a band score of 6 or higher. Please see the edited essay below:
-
-----------------------
-
 Some elderly people fail to engage in regular exercise, despite advice from doctors to do so. This issue may have several underlying reasons, and effective solutions are necessary to promote better health among older people.
 
 One of the reasons why some people do not exercise is that they do not act on doctors' advice to do so. Another factor is that they may have developed a sedentary lifestyle, which can be detrimental to their health in the long run. Furthermore, elderly people in crowded cities may not have access to safe and open spaces where they can exercise. Also, age-related conditions such as weak eyesight and bones can make it challenging for the elderly to engage in physical activities.
@@ -51,8 +31,6 @@ In conclusion, increasing physical activity among the elderly requires a coordin
 Feedback:
 
 Task Response:
-
-Task Response trong bài viết của bạn:
 
 Essay của bạn đã đề cập đầy đủ đến các yêu cầu của đề bài bằng cách đưa ra các nguyên nhân và giải pháp liên quan đến vấn đề của người già không có đủ tập thể dục. Tuy nhiên, bạn cần tuân thủ chặt chẽ với yêu cầu của đề bài hơn để tránh sự mập mờ về quan điểm của bạn. 
 
@@ -87,12 +65,10 @@ Trong bài viết của bạn, sử dụng một số từ vựng khá tốt nh�
 - "Young children and students should be taught the importance of exercising and playing sports" cần thay đổi thành "Young children and students should be taught the importance of exercise and sports".
 - "Make young children aware of the benefits of physical activities from their parents and teachers" cần thay đổi thành "Make parents and teachers aware of the benefits of physical activities for young children".
 
-Với việc cải thiện từ vựng và sử dụng chính xác các từ vựng, bạn có thể tăng điểm trong tiêu chí Lexical Resource của bài viết của mình.
-
 
 Grammatical Range and Accuracy:
 
-Okay, dưới đây là đánh giá chi tiết về Grammatical Range and Accuracy trong bài viết của bạn:
+Dưới đây là đánh giá chi tiết về Grammatical Range and Accuracy trong bài viết của bạn:
 
 - Điểm mạnh:
    + Sử dụng các câu đơn giản và phức hợp đầy đủ và chính xác. 
@@ -118,11 +94,6 @@ Okay, dưới đây là đánh giá chi tiết về Grammatical Range and Accura
 
    "Moreover, in overcrowded cities, the elderly rarely have the opportunity to workout" 
    --> nên sửa thành "Moreover, in overcrowded cities, the elderly rarely have the opportunity to work out"
-
-
-- Điểm: 6.0
-
-Như vậy, để cải thiện điểm số về Grammatical Range and Accuracy, bạn nên chú ý đến việc sử dụng dạng câu và thì chính xác hơn, cũng như tránh lỗi cú pháp, đặc biệt là động từ. Cần phải đọc lại bài viết và chỉnh sửa để loại bỏ các lỗi này, giúp bài viết của bạn trở nên chính xác và dễ hiểu hơn.
 
 
 Score:

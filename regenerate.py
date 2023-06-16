@@ -31,6 +31,11 @@ def run():
     user_options[5] = int(input('Regenerate Grammatical Range and Accuracy? '))
     user_options[6] = int(input('Regenerate Score? '))
 
+    # check for all user inputs are 0 and 1
+    for option in user_options:
+        assert option in [0,1], "Your input should be only 0 and 1"
+
+    # write the new generated output
     with open(f"processed_essay/essay_{index}.txt", "w", encoding="utf-8") as f:
         f.write(f"""Topic:\n\n{topic}\n\nEssay:\n\n{essay}\n\n""")
 
