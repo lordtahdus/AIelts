@@ -44,24 +44,22 @@ if __name__ == "__main__":
 
     ##################################################
 
-    index = 120
+    index = 125
 
-    link = "https://writing9.com/text/5f9056605d29660018ef9bdf-some-people-say-that-the-main-environmental-problem-of-our"
+    link = "https://writing9.com/text/5eec33919f3c5b0018014dd4"
 
     topic = """\
-Some people say that the main environmental problem of our time is the loss of particular species of plants and animals. Others say that there are more important environmental problems.
-
-Discuss both these views and give your own opinion\
+Is online studying better than offline studying?\
 """
 
     essay = """\
-Some people hold the view that our recent main environmental trouble is the loss of many species of plants and animals, while others think that there are more critical environmental problems. While I think plants and animals extinction is one of the main environmental problems, I still believe that there are many problems in our environment which are also important.
+Many people believe that online study is better than offline study. Personally, I totally agree with this view.
 
-I  understand why some people hold the belief that  species extinction is the most important environmental problem. The main point for this is that the social media these days give people many information about endangered species. In addition, many people know that losing any kind of plants or animals can break the food chain, which forms life on earth. By gathering information for many sources which only concern about plants and animals can lead people to the thought that species loss is the biggest problem in the environment. 
+The main reason for studying online is that it provides a flexible schedule and environment for students and teachers. Studying online helps PEOPLE to avoid commuting to class, which means less time IS spent on the bus and more study time sitting on your couch. You do not have to worry about going to school or university in poor conditions like snowstorm, heavy rain and skipping a significant lesson. In fact, when learning online, you chose your own learning platform that better fit your needs. It could be your bedroom, your study, your street café, or your local gym.
 
-Nevertheless, I would argue that there are many environmental problems that are more important than species loss for several reasons. The first point is that the declination of natural resources. This can be seen in many Western countries that they often have wars because of oil needs. The second point is that many people all around the world today are deprived of freshwater. This is because the more developing the industry is, the more polluted the water is. 
+Another reason why online learning is better than traditional learning is that it provides the opportunity for individuals to build valuable life and professional skills. For instance, the independent study aspects of distance learning can help students improve their time management skills and self – study skills because when learning online at home, you ought to concentrate on the lesson and take note of that without checking with the teacher. In addition, online learning also offers a range of platforms by which students and teachers communicate with each other, including email, web chat, and video conferences. As a consequence, with online learning, students can gain the technical skills required in their future careers.
 
-In conclusion, while I agree that the loss of many species of plants and animals is an important problem, I am of the opinion that there are more important environmental problems that people need to concern.\
+In conclusion, I believe that online learning is more effective than traditional studying for the reasons set out above.\
 """
 
     ##################################################
