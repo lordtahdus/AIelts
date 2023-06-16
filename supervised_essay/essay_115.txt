@@ -1,8 +1,6 @@
 Topic:
 
 "Some think scientists should be allowed to send messages into space to communicate with other life forms while others believe this is too dangerous.
-
-
 Discuss both sides and give your own opinion."
 
 Essay:
@@ -36,8 +34,6 @@ In conclusion, I believe that the value of researching and developing capabiliti
 Feedback:
 
 Task Response:
-
-Trong bài viết của bạn, điểm số cho Task Response của bạn là 6/9 điểm. Tuy nhiên, để đạt được mức điểm cao hơn, bạn có thể cải thiện như sau:
 
 1. Đọc đề bài kỹ trước khi bắt đầu viết và đảm bảo rằng bạn hiểu đúng những gì được yêu cầu. Viết những ý không liên quan đến đề bài hoặc không trả lời đủ các câu hỏi có thể khiến bạn mất điểm.
 
@@ -101,27 +97,12 @@ Tổng thể, bạn cần chú ý đến các lỗi ngữ pháp và sử dụng 
 
 Score:
 
-Overall:
+Overall: 5.0
 
-Score_TR:
-Score_CC:
-Score_LR:
-Score_GA:
+Score_TR: 5.5
+Score_CC: 4.5
+Score_LR: 5.0
+Score_GA: 5.0
 
-Sure, let me provide a more detailed estimation of the score for each criteria.
-
-Task Response (Đáp ứng đề bài): 
-Your response to the task is partially accomplished, as you have discussed both viewpoints, but the essay lacks coherence and clarity. There are also a few grammar mistakes that could affect the reader's understanding. The score would be in the range of 5.0 to 6.0. 
-
-Coherence and Cohesion (Sắp xếp ý và liên kết giữa các ý):
-The essay lacks a clear structure and organization of ideas and the connection between them is minimal. You have used transition words, but they do not connect the ideas convincingly. The score would be in the range of 4.0 to 5.0.
-
-Lexical Resource (Sử dụng từ vựng):
-The range of vocabulary used is limited. There are some inaccuracies and inappropriate use of words that affect the meaning of sentences. The score would be in the range of 4.0 to 5.0.
-
-Grammatical Range and Accuracy (Sử dụng ngữ pháp):
-You have demonstrated a limited range of grammar and the accuracy in your writing has an impact on the overall readability and comprehension of the essay. The score would be in the range of 4.0 to 5.0.
-
-Overall, the estimated score for this essay would be in the range of 17.0 to 21.0 out of 40 based on the four criteria.
 
 

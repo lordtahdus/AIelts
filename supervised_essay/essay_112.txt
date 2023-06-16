@@ -7,10 +7,7 @@ Essay:
 "In comparison of Books and Computers , Books are manually read and computers are softwares ( electronics) installed However, both improves the knowledge of every individual, libararies has tons of fiction and non fiction books where any person can go and read in a peacefull envirnoment, It is easy access for any person who are not friendly with today's technology, as this proves that its not a waste of funds in investing in establishing of libraries, therefore it is a huge advantage as it doesnt work with automation therefore computers also play a important role in todays generation as it is easy acessibility where any questions can be easily found and personally people can manage their time management, computers has lots of softwares examples Ms.Office, Painting, social sites, Emails for corespondence, Job searching  and other sites loaded for the betterment of fast learning in future, according to my view i think both resources can be very useful as there are no gurantee for technology as it call be disconnected and time due to poor system or loss of electricity.
 In conlclusion, Environment needs both the resourses for peoples back up system. both are very handy for every human being who needs to gain knowledge in every way, as building of libraries and involving computers in it can be much more efficient for every person."
 
-
 Revised:
-
-Here is an edited version of your essay:
 
 In today's world, there is an ongoing debate regarding the usefulness of libraries and whether they are a waste of resources and money. Some suggest that computers should replace libraries, while others disagree. In this essay, I will discuss both sides of the argument and provide my opinion.
 
@@ -72,60 +69,28 @@ Trong tổng quát, để tăng điểm về Lexical Resource, bạn cần phả
 
 Grammatical Range and Accuracy:
 
-Trong bài viết của bạn, đa số các câu và từ ngữ được sử dụng một cách đúng đắn và sẽ không ảnh hưởng đến độ hiểu rõ của người đọc. Tuy nhiên, vẫn còn một số lỗi ngữ pháp nhỏ mà bạn nên chú ý đến. Sau đây là một số lỗi sai cụ thể trong từng phần của bài viết:
+Bài viết của bạn sử dụng đa dạng về cấu trúc câu và thể hiện khả năng sử dụng các thời độ và câu trực tiếp/ gián tiếp một cách hiệu quả. Tuy nhiên, một số lỗi về ngữ pháp và chính tả xuất hiện trong bài viết làm giảm độ chính xác và ảnh hưởng đến hiệu quả truyền đạt ý tưởng của bạn.
 
-1. Simple Present tense:
-- You wrote "It is easy access for any person who are not friendly with today's technology" which should be corrected to "It is easy to access for any person who is not friendly with today's technology"
-- You wrote "therefore computers also play a important role in todays generation" which should be corrected to "therefore, computers also play an important role in today's generation"
+Dưới đây là một số lỗi sai chính tả và ngữ pháp cụ thể mà tôi tìm thấy trong bài viết của bạn:
 
-2. Articles:
-- You wrote "libararies has tons" which should be corrected to "libraries have tons"
-- You wrote "computers has lots of softwares" which should be corrected to "computers have lots of software"
+- "libararies" nên sửa thành "libraries"
+- "envirnoment" nên sửa thành "environment"
+- "where any person can go and read in a peacefull envirnoment" -> "where anyone can peacefully read"
+- "as its proves" nên sửa thành "as it proves"
+- "it is a huge advantage as it doesnt work with automation therefore" nên sửa thành "it is a huge advantage since it doesn't operate on automation"
+- "computers has lots of softwares examples" nên sửa thành "computers have many software applications, for example"
+- "fast learning in future" nên sửa thành "future fast learning"
 
-3. Singular and plural nouns:
-- You wrote "computers has" which should be corrected to "computers have"
-- You wrote "any questions can be easily found" which should be corrected to "any question can be easily found"
-
-4. Passive voice:
-- You wrote "as building of libraries" which should be corrected to "as the building of libraries"
-
-5. Prepositions:
-- You wrote "invoving computers in it" which should be corrected to "involving computers in them"
-
-6. Conditional sentences:
-- Although there is no specific example of a conditional sentence in your essay, it is worth noting that it is a grammatical structure that you could use to express a hypothetical situation or a prediction about the future.
-
-Overall, your use of grammar is suitable for achieving a score of at least 6 in Grammatical Range and Accuracy. However, to improve further, you can focus on identifying and correcting minor errors like those listed above. You might also try to diversify your grammatical structures with more complex sentence structures and varied verb tenses to demonstrate greater range in your writing.
+Ngoài ra, bạn cũng cần chú ý đến động từ và danh từ số nhiều/ số ít, tránh sử dụng quá nhiều câu chung chung, cần chú ý đến cách sắp xếp câu và dấu câu để tránh khiến câu trở nên rối loạn và khó hiểu.
 
 
 Score:
 
-Overall:
+Overall: 5.5
 
-Score_TR:
-Score_CC:
-Score_LR:
-Score_GA:
-
-Sure. Here is a more detailed breakdown of the estimated score for each criteria:
-
-Task Response: 6.0
-- Bài viết của bạn chỉ đề cập đầy đủ một phần yêu cầu của đề bài
-- Bài viết của bạn không hiển thị rõ ràng sự phát triển và triển khai những ý tưởng của bạn
-- Bạn có quan điểm rõ ràng và hợp lý
-
-Coherence and Cohesion: 5.0
-- Bài viết của bạn có nhiều lỗi cú pháp và sử dụng từ không rõ ràng
-- Bạn chưa sử dụng liên từ và dấu câu một cách hiệu quả để liên kết ý tưởng
-
-Lexical Resource: 5.5
-- Bài viết của bạn sử dụng một số từ vựng phù hợp nhưng cũng có các từ được lặp lại quá nhiều
-- Bạn chưa sử dụng đa dạng các từ vựng phức tạp đủ để đạt điểm cao hơn
-
-Grammatical Range and Accuracy: 5.5
-- Bài viết của bạn có một số lỗi chính tả và động từ không đúng
-- Bạn cũng không sử dụng đủ các thì khác nhau để biểu đạt ý tưởng của mình một cách rõ ràng và hiệu quả
-
-Tổng điểm dự kiến cho bài viết của bạn là 5.5 - 6.0.
+Score_TR: 6.0
+Score_CC: 5.0
+Score_LR: 5.5
+Score_GA: 5.5
 
 

@@ -76,26 +76,16 @@ Trong bài viết của bạn, tồn tại một vài lỗi ngữ pháp và cấ
 - "For example; wellness and fitness, culinary, this is very important," -> Nên sửa thành "For example, courses in wellness and fitness or culinary arts are very important,". Bỏ đi dấu chấm phẩy ở giữa câu và thêm từ "courses in".
 - "because family and school can just show the way but they cannot change it." -> Nên sửa thành "because families and schools can only guide children, but they cannot change their behavior."
 
-Điểm tổng quan cho phần ngữ pháp: 6/10. Nên chú ý đến các lỗi ngữ pháp chính tả và cấu trúc câu để bài viết trở nên chính xác hơn.
-
 
 Score:
 
-Overall:
+Overall: 6.0
 
-Score_TR:
-Score_CC:
-Score_LR:
-Score_GA:
+Score_TR: 6.0
+Score_CC: 6.0
+Score_LR: 6.0
+Score_GA: 6.0
 
-Task Response: 7/10. Bài viết của bạn đã trả lời đầy đủ đề bài, tuy nhiên, phần kết luận của bạn cần cung cấp thêm giải pháp cụ thể để giải quyết vấn đề.
 
-Coherence and Cohesion: 6/10. Bài viết của bạn đôi khi không được mạch lạc, các ý chưa được sắp xếp theo trật tự logic, chưa sử dụng đủ các liên từ để kết nối các ý tưởng với nhau. Cần cải thiện kỹ năng sắp xếp ý tưởng và kết nối chúng một cách mạch lạc hơn.
-
-Lexical Resource: 6/10. Bạn đã sử dụng một số từ vựng phù hợp với đề bài, tuy nhiên cần sử dụng nhiều từ vựng phong phú và đa dạng hơn để sử dụng một cách chính xác và tránh sự lặp lại.
-
-Grammatical Range and Accuracy: 7/10. Bạn đã sử dụng một số câu ngữ pháp chính xác, tuy nhiên vẫn còn tồn tại một số lỗi chính tả và cấu trúc câu chưa chính xác. Cần chú ý sửa các lỗi này để bài viết trở nên hoàn thiện hơn.
-
-Tổng điểm: 6.5/10. Cần nỗ lực cải thiện để đạt được điểm cao hơn.
 
 
