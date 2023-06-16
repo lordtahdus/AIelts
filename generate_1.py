@@ -44,22 +44,25 @@ if __name__ == "__main__":
 
     ##################################################
 
-    index = 125
+    index = 130
 
-    link = "https://writing9.com/text/5eec33919f3c5b0018014dd4"
+    link = "https://writing9.com/text/60e96fab00657e00180f5f93-should-private-schools-receive-government-funding-give-reasons-for-your-answer"
 
     topic = """\
-Is online studying better than offline studying?\
+Should private schools receive government funding?
+Give reasons for your answer, and include any relevant examples from your own knowledge or experience.\
 """
 
     essay = """\
-Many people believe that online study is better than offline study. Personally, I totally agree with this view.
+Schools are an essential component for the all-around development of children; however, is it necessary for the government to invest in private schools. Even though governmental institutes need a decent amount of money to operate, I find the notion to fund private academies completely flawed since they do not charge students with high fees but they also gain sufficient profit by charging for extra-curricular activities.
 
-The main reason for studying online is that it provides a flexible schedule and environment for students and teachers. Studying online helps PEOPLE to avoid commuting to class, which means less time IS spent on the bus and more study time sitting on your couch. You do not have to worry about going to school or university in poor conditions like snowstorm, heavy rain and skipping a significant lesson. In fact, when learning online, you chose your own learning platform that better fit your needs. It could be your bedroom, your study, your street café, or your local gym.
+Most of the government-owned schools are deficient in budget. This is because these schools are backward in terms of infrastructure which requires money for renovation, and the authorities charge very little fees from students. This in turn makes it necessary for the government to provide funds as they are unable to generate enough income and thus, it is required to keep institutes functional.
 
-Another reason why online learning is better than traditional learning is that it provides the opportunity for individuals to build valuable life and professional skills. For instance, the independent study aspects of distance learning can help students improve their time management skills and self – study skills because when learning online at home, you ought to concentrate on the lesson and take note of that without checking with the teacher. In addition, online learning also offers a range of platforms by which students and teachers communicate with each other, including email, web chat, and video conferences. As a consequence, with online learning, students can gain the technical skills required in their future careers.
+Contrarily, non-governmental institutes charge high fees for children. To elaborate more, private schools provide amenities along with surplus facilities at the cost of extra money which is willingly paid by most of the parents for the future of their kids. As evidence, there is a large difference between the fees structure of private and public schools. Had these private schools not been charged this much fee, there could be a need to provide funds. However, unnecessary money is already being paid to them.
 
-In conclusion, I believe that online learning is more effective than traditional studying for the reasons set out above.\
+In addition to high tuition fees, extra money is charged for various other activities in these private schools. Firstly, parents are insisted to pay admission fees to secure a seat as there are limited slots available. Secondly, students are forced to buy books and uniforms from school only which provides these schools extra profit. Furthermore, there are made to pay examination fees, welfare amounts, and much more.
+
+To recapitulate, two main points are mentioned in this essay: reasons to provide funds to public schools, and reasons not to invest in private institutes.\
 """
 
     ##################################################
