@@ -130,3 +130,4 @@ if __name__ == "__main__":
         "Score:\n\n"
     ]
     run()
+    print("DONE!!")

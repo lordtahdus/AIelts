@@ -27,22 +27,28 @@ Feedback:
 
 Task Response:
 
-- Bài viết của bạn không thực sự trả lời tất cả các câu hỏi được đưa ra trong đề bài một cách đầy đủ. Bạn đã bàn về cả hai mặt tích cực và tiêu cực của các hoạt động mạo hiểm, nhưng việc bàn về các tác động tích cực cũng như tiêu cực cần được phát triển nhiều hơn để có thể đáp ứng đầy đủ yêu cầu của nhiệm vụ.
-- Câu thesis của bạn rõ ràng và cung cấp một khái quát ngắn gọn về các điểm chính được thảo luận.
+Trong bài viết của bạn, bạn đã cung cấp đủ thông tin để đáp ứng yêu cầu của đề bài. Bạn đã thảo luận về cả những lợi ích và hậu quả của việc tham gia vào các hoạt động mạo hiểm và đưa ra quan điểm của mình về vấn đề này. Tuy nhiên, bài viết có một số điểm yếu:
 
-Gợi ý cải thiện:
-- Bạn có thể xem xét đặt các mục dưới những tiêu đề khác nhau để giúp bài viết của bạn trả lời đầy đủ hơn các câu hỏi được đưa ra trong đề bài. Ví dụ như tác động tích cực của các hoạt động mạo hiểm có thể được đặt dưới một tiêu đề riêng biệt.
-- Bạn cũng nên đọc lại bài viết của mình và đảm bảo rằng bạn đã đưa ra đủ thông tin để trả lời các câu hỏi trong đề bài. Ví dụ như bài viết của bạn có thể cung cấp nhiều hơn là chỉ nói về "deterioration of health, with possible cardiovascular and mental issues" khi bàn về tác động tiêu cực của các hoạt động mạo hiểm.
-- Ngoài ra, bạn có thể đưa thêm ví dụ cụ thể để minh họa cho các  ý kiến của bạn, kèm theo một số dữ liệu và thông tin tham khảo để chứng minh quan điểm của bạn.
+- Bạn chưa cung cấp ví dụ cụ thể để minh họa các ý của mình. Ví dụ, trong đoạn thứ hai, bạn đề cập đến việc "having high-risk appetite could be prolific in the venture business, where a great portion of uncertainty is delivered", nhưng bạn không cung cấp các ví dụ cụ thể về những người đã thành công trong lĩnh vực kinh doanh này. Bằng cách bổ sung ví dụ, bạn có thể phát triển ý của mình và tăng điểm số cho Task Response.
+
+Để cải thiện điểm số cho Task Response, bạn có thể cải thiện bài viết của mình bằng cách cung cấp các ví dụ cụ thể và chi tiết hơn. Ví dụ, bạn có thể đề cập đến các vận động viên mạo hiểm nổi tiếng, như Felix Baumgartner - người từng nhảy dù từ không gian cao nhất trong lịch sử - để minh họa cho việc tham gia vào các hoạt động mạo hiểm có thể mang lại cảm giác hứng khởi và trải nghiệm mới lạ. Hoặc bạn có thể đề cập đến các tập đoàn đầu tư mạo hiểm, như Dropbox hay Airbnb, để minh họa cho việc chấp nhận rủi ro trong kinh do
 
 
 Coherence and Cohesion:
 
-Bài viết của bạn có tổ chức khá tốt, nhưng vẫn còn một số lỗi về coherence and cohesion. 
+Coherence and Cohesion là một trong những tiêu chí quan trọng để đánh giá khi viết một bài essay. Bạn đã hiểu rõ yêu cầu của đề bài và có những ý chính rõ ràng. Tuy nhiên, trong quá trình viết, bạn có thể mắc phải một số lỗi trong việc liên kết câu và ý trong bài viết. Dưới đây là một số lỗi sai mà tôi đã nhận thấy:
 
-Đầu tiên, đoạn thứ ba của bài viết không có tính chất thống nhất và coherence rõ ràng. Tác giả cần phải tập trung hơn vào các ý chính của mỗi đoạn để giúp cho người đọc có thể theo dõi được luận điểm một cách dễ dàng hơn.
+- "should not be followed by of thousands years of evolution": cấu trúc câu này không chính xác. Nên sửa thành "should not be followed by thousands of years of evolution".
 
-Thứ hai, dường như tác giả có xu hướng sử dụng các transition words một cách chưa hiệu quả. Ví dụ, trong đoạn thứ ba, từ "finally" được sử dụng để kết thúc một đoạn, nhưng ý chính của đoạn đó chưa được trình bày rõ ràng.
+- "In the modern highly globalised world, where most every pleasure of life can be picked and consumed, playing with death is considered extraordinary": câu này có phần khó hiểu. Nên sửa lại để câu trở nên rõ ràng hơn. Ví dụ: "In today's highly globalised world, where people have access to almost every kind of pleasure imaginable, engaging in dangerous sports or activities becomes more attractive as it offers a unique thrill."
+
+- "All in all, frequent risk-taking often leads to deterioration of health, with possible cardiovascular and mental issues": trường hợp này không có chủ từ đủ để liên kết với từ "All in all". Nên sửa lại bằng cách thêm "Therefore", "As a result" hoặc "Consequently".
+
+- "from mental disorders or just boring life": câu này thiếu từ nối để kết nối ám chỉ hai tình huống khác nhau. Nên thêm một từ nối như "due to", "because of", hoặc "as a result of".
+
+- "just in books they can live that risky experience": câu này có chỗ sai chính tả. "Just in books" nên được sửa thành "Only in books".
+
+Ngoài ra, bạn cũng có thể cải thiện Coherence and Cohesion bằng cách s
 
 
 Lexical Resource:
@@ -62,15 +68,15 @@ Trong bài viết của bạn, sử dụng từ vựng phong phú và đa dạng
 
 Grammatical Range and Accuracy:
 
-Dưới đây là một số lỗi sai cụ thể mà tôi nhận thấy:
+Trong bài viết của bạn, bạn đã sử dụng các cấu trúc ngữ pháp khác nhau để thể hiện ý tưởng của mình. Tuy nhiên, một số lỗi ngữ pháp vẫn còn tồn tại, được liệt kê và giải thích chi tiết như sau:
 
-1. "should not be followed by ofthousands years of evolution" - sai chính tả, nên là "by thousands of years of evolution".
-2. "All in all, frequent risk-taking often leads to deterioration of health, with possible cardiovascular and mental issues." - lỗi trong cấu trúc với hai mệnh đề không được nối với dấu phẩy. Có thể sửa lại thành "All in all, frequent risk-taking often leads to deterioration of health, which can result in possible cardiovascular and mental issues."
-3. "The top-notch financial periodicals, The Financial Times have been publishing" - lỗi chủ ngữ và động từ không phù hợp, nên là "The top-notch financial periodicals, such as The Financial Times, have been publishing".
-4. "which is highly beloved by bankers" - lỗi chọn từ, nên là "which is highly popular among bankers".
-5. "adding it gradually offline" - lỗi chọn từ, không rõ ý nghĩa. Có thể sửa lại thành "gradually incorporating it into their lives offline".
+1. "...should not be followed by ofthousands years of evolution." - sai chính tả, từ 'ofthousands' nên là 'thousands'.
+2. "...where most every pleasure of life can be picked and consumed..." - cấu trúc câu chưa chính xác, có thể sửa thành "where almost every pleasure in life can be accessed and enjoyed".
+3. "...playing with death is considered extraordinary." - từ 'extraordinary' nên được thay thế bằng 'unusual' hoặc 'noteworthy', vì nếu sử dụng từ 'extraordinary', ý nghĩa sẽ không phù hợp với văn bản.
+4. "...since just in books they can live that risky experience, adding it gradually offline." - cấu trúc câu chưa chính xác, có thể sửa thành "since they can live the experience of taking risks in books alone, gradually adding them to their offline lives".
+5. "...venture should be taken responsibly, with an outlook for an existing family..." - thiếu một từ khóa "the" hoặc "an", có thể sửa thành "a venture should be taken responsibly, with an outlook for a(n) existing family...".
 
-Ngoài ra, bạn cũng có thể cải thiện việc sử dụng một số thành ngữ và cấu trúc câu phức tạp để tăng điểm trong tiêu chí này.
+Tổng thể, bài viết của bạn đã sử dụng các cấu trúc ngữ pháp khá phong phú và đầy đủ, tuy nhiên, có một vài lỗi ngữ pháp nhỏ có thể được cải thiện để tăng điểm. Hãy chú ý vào chính tả và cấu trúc câu để viết một bài viết ngữ pháp hoàn hảo h
 
 
 Score:
@@ -106,4 +112,5 @@ Grammatical Range and Accuracy: 6.5
 - Has a good command of grammar and makes occasional errors: 7.0
 
 Overall estimated band score: 6.5
+
 
