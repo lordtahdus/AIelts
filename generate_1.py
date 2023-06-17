@@ -44,25 +44,23 @@ if __name__ == "__main__":
 
     ##################################################
 
-    index = 130
+    index = 141
 
-    link = "https://writing9.com/text/60e96fab00657e00180f5f93-should-private-schools-receive-government-funding-give-reasons-for-your-answer"
+    link = "https://writing9.com/text/6134e1942b4348001866dc59-an-increasing-number-of-people-are-buying-what-they-need"
 
     topic = """\
-Should private schools receive government funding?
-Give reasons for your answer, and include any relevant examples from your own knowledge or experience.\
+An increasing number of people are buying what they need online. What are the advantages and disadvantages for both individuals and companies to shopping online?
+Discuss both sides and give your opinion.\
 """
 
     essay = """\
-Schools are an essential component for the all-around development of children; however, is it necessary for the government to invest in private schools. Even though governmental institutes need a decent amount of money to operate, I find the notion to fund private academies completely flawed since they do not charge students with high fees but they also gain sufficient profit by charging for extra-curricular activities.
+For the last couple of years, online shopping has become the favourite purchasing method of many customers, mostly because of the restraint order during the pandemic and its convenience. To give people multi-dimentional views about online shopping, this essay will provide some benefits and downsides that this method possesses and conclude with a personal opinion.
 
-Most of the government-owned schools are deficient in budget. This is because these schools are backward in terms of infrastructure which requires money for renovation, and the authorities charge very little fees from students. This in turn makes it necessary for the government to provide funds as they are unable to generate enough income and thus, it is required to keep institutes functional.
+Purchasing products via social media can bring plenty of advantages to both customers and retailers. First of all, online shopping can reduce a considerable amount of time for individuals. For instance, if a person decides to use the traditional way of shopping, they will go to the store, look for  suitable products among the shelves, and purchase them, thus it will take them a lot of effort and time in order to find the goods that meet their expectation. This is entirely opposite to online shopping, which is extremely easy to buy any product. Secondly, especially for retailers, they can cut down many expenses through the social network. 
 
-Contrarily, non-governmental institutes charge high fees for children. To elaborate more, private schools provide amenities along with surplus facilities at the cost of extra money which is willingly paid by most of the parents for the future of their kids. As evidence, there is a large difference between the fees structure of private and public schools. Had these private schools not been charged this much fee, there could be a need to provide funds. However, unnecessary money is already being paid to them.
+However, despite the benefits that this method brings, there are some disadvantages that people should be aware about. The quality of the products is not guaranteed to satisfied the customers. Moreover, the confidential protection is another factor that customers should consider before deciding to purchasing through the social network.
 
-In addition to high tuition fees, extra money is charged for various other activities in these private schools. Firstly, parents are insisted to pay admission fees to secure a seat as there are limited slots available. Secondly, students are forced to buy books and uniforms from school only which provides these schools extra profit. Furthermore, there are made to pay examination fees, welfare amounts, and much more.
-
-To recapitulate, two main points are mentioned in this essay: reasons to provide funds to public schools, and reasons not to invest in private institutes.\
+In conclusion, every method have their own exemplaries and inauspiciousnesses, but I personally believe that the online shopping market will continue to grow in the future.\
 """
 
     ##################################################

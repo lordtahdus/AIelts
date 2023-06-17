@@ -44,27 +44,22 @@ if __name__ == "__main__":
 
     ##################################################
 
-    index = 60
+    index = 132
 
-    link = 'https://writing9.com/text/64692c7d7e89e60018c7f813-some-people-fail-in-school-but-end-up-being-successful'
+    link = 'https://writing9.com/text/5fdddd029c0924001808472d-new-technologies-have-changed-the-way-fro-children-to-spend'
 
     topic = """\
-Some people fail in school, but end up being successful in life.
-
-Why do you think that is the case?
-What is the most important thing to succeed in life?\
+New technologies have changed the way fro children to spend their free time do the advantages outweigh the disadvantages\
 """
 
     essay = """\
-In our society we are taught that the person who has the best scores in school, is the one that it’s going to succeed most in life. However, that is not always the case. In my opinion, this happens a because the real life is more about how agile and active is somebody when doing their job. Therefore, the most important characteristic that someone could have to succeed it’s to be hard worker.
+The advanced technoligies is changing children's free time. Some poeple claim that will creat bad influences to child but i think new technologies have benifites to them.
 
-The knowledge it’s so important in any job because this helps to do things in the right way.Nevertheless, if someone has a lot of information in their brain, but they don’t have a good attitude to work, they are not going to progress in their life. My own personal experience is a good proof of this.
+Adimittedly, the advanced technologies are agreing now due to media report lots of negative news such as a child does not make any relationships because drop into the computer and mobile phone but that is not means teachnologies caused this event to happen. The besically reason is children using it not very well beacuse thet are so young and thet can not control themselves.
 
-When I was in school, I had a friend called Maria who was the best student during my whole career. She had the best scores in my class. But, when we had to go to practice with animals, she was the worst. She couldn’t handle a cow; she was always having a bad attitude, being lazy, and she didn’t want to help others. Right now, she hasn’t been able to last in any company. I think, this is related to her personality.
+In my opinion, technologies are good for children and it is destined to play a important role in children's life. The technologies are not just game, children can get knowlegdes and more deeper insight in what disguss in classes and contacting with world through it. We are in a fast-changingcentury if children fo not know how to manipulate technologies such as new system of computer and mobile phone even virtual technologies they will be kept from society. Technologies are friends to children, thet always playing with them when they are with out families. When they want to play with technologies they have to focus on them and consider the methods of technologies' using that will lead children explore then they will be more smart. Everything borns for a reason. Children spent more time in advanced technologies is normal now they need to changing and  catch up the world rather than let the world be suit with them. 
 
-Hard worker doesn’t mean to be strong. Being a hard worker means to have the best predisposition to do a good job and finish it fast. People like that are always supporting others, transmitting good vibes, communicating well, learning from failure, and wanting to be better each time. That is what people needs to be successful in life.
-
-To conclude, work hard play harder.\
+In conclusion, people have to teach children how to make a good relationship with advanced technologies rather than criticize it.\
 """
 
     ##################################################

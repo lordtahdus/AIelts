@@ -43,23 +43,22 @@ if __name__ == "__main__":
     messages.append({"role": "system", "content": system_msg})
 
     ##################################################
+    index = 132
 
-    index = 59
-
-    link = 'https://writing9.com/text/646a32e37e89e60018c7f9a2-do-you-agree-or-disagree-with-the-following-statement-it'
+    link = 'https://writing9.com/text/5fdddd029c0924001808472d-new-technologies-have-changed-the-way-fro-children-to-spend'
 
     topic = """\
-Do you agree or disagree with the following statement: “It is better to be a follower than a leader.”\
+New technologies have changed the way fro children to spend their free time do the advantages outweigh the disadvantages\
 """
 
     essay = """\
-In daily lives people have various positions in various parts of the world. A differentiation occurs between leaders and followers. Some people prefer to be a leader and free; nonetheless, others like to be a follower and depend on others. As far as I am concerned, I would rather be a leader instead of being a follower.
+The advanced technoligies is changing children's free time. Some poeple claim that will creat bad influences to child but i think new technologies have benifites to them.
 
-Initially, a leader is a director of a group and they are able to decide freely by considering both themselves and their group. They can decide or act independently when compared to followers and other members of the group. It is a fact that, sometimes, conversations and brainstorming can be necessary to find the optimum choice, however, a leader can make a decision by themselves in a risky situation without discussions. Or even a leader can follow their own path when conflicts arise because of clash of ideas since they have the power among the group. Therefore, a leader is the independent symbol of the group and they are able to play the dominator role of a group.
+Adimittedly, the advanced technologies are agreing now due to media report lots of negative news such as a child does not make any relationships because drop into the computer and mobile phone but that is not means teachnologies caused this event to happen. The besically reason is children using it not very well beacuse thet are so young and thet can not control themselves.
 
-Secondly, a person can gain confidence by being a leader and they can use their increased confidence in diverse areas. Followers often involved in such discussions or conflicts, they are not sufficiently able to apply their own ideas. Nevertheless, by leading a society or crowd, leaders incessantly obtain self-confidence. They start to decide more legitimately and calmly when they encounter stressed and pressuring difficulties with the help of their confidence. Moreover, this confidence can assure accomplishment for leaders. In different parts of their lives, they may be successful and canalize others with a sense of self-confidence., which could bring success  Consequently, being a leader also helps people to be more confident and fulfill in different areas.
+In my opinion, technologies are good for children and it is destined to play a important role in children's life. The technologies are not just game, children can get knowlegdes and more deeper insight in what disguss in classes and contacting with world through it. We are in a fast-changingcentury if children fo not know how to manipulate technologies such as new system of computer and mobile phone even virtual technologies they will be kept from society. Technologies are friends to children, thet always playing with them when they are with out families. When they want to play with technologies they have to focus on them and consider the methods of technologies' using that will lead children explore then they will be more smart. Everything borns for a reason. Children spent more time in advanced technologies is normal now they need to changing and  catch up the world rather than let the world be suit with them. 
 
-To sum up, being a leader has positive effects and consequences. First, it helps to be more free and independent. Second, it also ensures being confident and determined. Up to me, I would definitely prefer to be a leader.\
+In conclusion, people have to teach children how to make a good relationship with advanced technologies rather than criticize it.\
 """
 
     ##################################################
