@@ -44,23 +44,22 @@ if __name__ == "__main__":
 
     ##################################################
 
-    index = 141
+    index = 150
 
-    link = "https://writing9.com/text/6134e1942b4348001866dc59-an-increasing-number-of-people-are-buying-what-they-need"
+    link = "https://writing9.com/text/5db30a9e16286e0018e3cc8d"
 
     topic = """\
-An increasing number of people are buying what they need online. What are the advantages and disadvantages for both individuals and companies to shopping online?
-Discuss both sides and give your opinion.\
+It has been seen that these days, some workplaces tend to employ equal numbers of men and women workers. Do you think it is a positive or negative development.\
 """
 
     essay = """\
-For the last couple of years, online shopping has become the favourite purchasing method of many customers, mostly because of the restraint order during the pandemic and its convenience. To give people multi-dimentional views about online shopping, this essay will provide some benefits and downsides that this method possesses and conclude with a personal opinion.
+It is now a trend in multinational companies and large organizations to give equal roles to women employees in the workplace.  This is a very healthy initiative which has led to an increase in the number of women being employed and the numbers are now catching up with that of the male employees in such organizations.  In my view, this is a highly positive development which has got a plethora of merits for our nation.
 
-Purchasing products via social media can bring plenty of advantages to both customers and retailers. First of all, online shopping can reduce a considerable amount of time for individuals. For instance, if a person decides to use the traditional way of shopping, they will go to the store, look for  suitable products among the shelves, and purchase them, thus it will take them a lot of effort and time in order to find the goods that meet their expectation. This is entirely opposite to online shopping, which is extremely easy to buy any product. Secondly, especially for retailers, they can cut down many expenses through the social network. 
+Firstly,  talent and hard work of any individual needs to be appreciated and awarded without any discrimination.  Such policies help organizations realize the potential of their employees and achieve their business goals faster.  For example, the turnaround story of Pepsico from crisis by choosing a non-board-member women to be their chief illustrates the point. 
 
-However, despite the benefits that this method brings, there are some disadvantages that people should be aware about. The quality of the products is not guaranteed to satisfied the customers. Moreover, the confidential protection is another factor that customers should consider before deciding to purchasing through the social network.
+Secondly, a recent study by the University of California on the workplace gender ratio showed that teams with an equal proportion of men and women tend to be more productive than those dominated by one gender. NASA, the most successful space exploration agency, uses the results of this study in structuring their teams and to plan even their interplanetary mission crews.   
 
-In conclusion, every method have their own exemplaries and inauspiciousnesses, but I personally believe that the online shopping market will continue to grow in the future.\
+Although it is understandable that women are physically weak as compared to men and that they are not completely out of the age-old social stigma which makes them take up more responsibilities towards their families, they have made up for such negative factors by their sheer hard work and persistence.  So, women being treated and employed just like any other human being is one of the biggest revolutions which is happening in our times and it holds the key for the sustainable development of any nation in the world.\
 """
 
     ##################################################
