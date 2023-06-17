@@ -3,19 +3,11 @@ import os
 
 from decouple import config
 
-openai.api_key = config('OPENAI_KEY_1')
+openai.api_key = config('OPENAI_KEY_211')
 
 messages = []
 system_msg = "Ielts writing editor"
 messages.append({"role": "system", "content": system_msg})
-
-
-
-
-
-
-
-
 
 
 def run():

@@ -44,22 +44,22 @@ if __name__ == "__main__":
 
     ##################################################
 
-    index = 150
+    index = 117
 
-    link = "https://writing9.com/text/5db30a9e16286e0018e3cc8d"
+    link = ""
 
     topic = """\
-It has been seen that these days, some workplaces tend to employ equal numbers of men and women workers. Do you think it is a positive or negative development.\
+"Some people argue that capital punishment is good for a country. To what extent do you agree or disagree?"
 """
 
     essay = """\
-It is now a trend in multinational companies and large organizations to give equal roles to women employees in the workplace.  This is a very healthy initiative which has led to an increase in the number of women being employed and the numbers are now catching up with that of the male employees in such organizations.  In my view, this is a highly positive development which has got a plethora of merits for our nation.
+Crime rates have been on the rise in the past decades, despite the culprit aware of the consequences he shall face for the offence committed by him.It is often argued that, capital punishment is beneficial for the well being of the nation and the citizens attached to it.I strongly concur with the fact that capital punishment should be improvised.
 
-Firstly,  talent and hard work of any individual needs to be appreciated and awarded without any discrimination.  Such policies help organizations realize the potential of their employees and achieve their business goals faster.  For example, the turnaround story of Pepsico from crisis by choosing a non-board-member women to be their chief illustrates the point. 
+To begin with, punishments are essential for maintaining peace throughout the country.People are familiar with the law and order of their nation and if the law is broken, it usually means that injustice has taken place and harmony is being disturbed.Punishing a culprit makes the fear vanish from the minds of innocent people.For instance, Ajmal Kasab, a terrorist was killed in the attacks and peace was finally restored.
 
-Secondly, a recent study by the University of California on the workplace gender ratio showed that teams with an equal proportion of men and women tend to be more productive than those dominated by one gender. NASA, the most successful space exploration agency, uses the results of this study in structuring their teams and to plan even their interplanetary mission crews.   
+On the other hand, offence rates define the character of a country. Having said this, no matter how developed or developing a country is, if the crimes committed are increasing every year it reflects a bad character of the country to the world. This leads to the downfall of the economy and many other global factors are affected. For example, tourists avoid such places where they don't feel safe or places which have a bad image in the world.This ultimately leads to the loss of economy. Hence, executing a criminal for a harsh crime and preparing several punishments according to the weightage of crimes should be done.
 
-Although it is understandable that women are physically weak as compared to men and that they are not completely out of the age-old social stigma which makes them take up more responsibilities towards their families, they have made up for such negative factors by their sheer hard work and persistence.  So, women being treated and employed just like any other human being is one of the biggest revolutions which is happening in our times and it holds the key for the sustainable development of any nation in the world.\
+To summarise, I strongly believe that capital punishments should be a part of law and order of the country as they will surely help maintaining peace, harmony and bring discipline to the people in the country.
 """
 
     ##################################################
