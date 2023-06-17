@@ -15,16 +15,12 @@ In conclusion, it is agreed that preserving the ancient values when constructing
 
 Revised:
 
-Introduction:
 Culture is an essential part of every nation's identity, and preserving it is vital. Some people suggest that new buildings should be constructed in traditional styles. This essay will explore this suggestion and examine whether I agree or disagree with it.
 
-Body Paragraph 1:
 The conservation of cultural values is a priority for many nations and should be reflected in any new building construction. Italy is an outstanding example of a country that preserves its ancient values by imposing laws that govern the construction of new buildings in areas of historical or cultural significance. This practice is spreading globally, with governments and law-makers introducing new regulations. This approach is particularly important for countries that rely heavily on tourism income.
 
-Body Paragraph 2:
 However, we cannot ignore the current technological advancements in architecture and engineering that could be used to design functional and space-efficient buildings. Therefore, when planning new buildings, it would be beneficial to incorporate modern and innovative concepts rather than solely relying on traditional designs and methods. Especially in areas of high population growth, using cutting-edge technologies and designs are essential.
 
-Conclusion:
 In conclusion, while it is important to preserve the integrity of cultural landmarks while constructing new buildings, implementation of traditional styles should be limited to specific areas with cultural significance. Furthermore, the integration of innovative technologies and designs in new building constructions should be encouraged to meet the modern-day demand. By doing so, we can strike a balance between preserving cultural heritage and meeting the contemporary construction requirements.
 
 
@@ -43,67 +39,43 @@ Cuối cùng, việc kết thúc bài viết của bạn đã tóm tắt lại n
 
 Coherence and Cohesion:
 
-Trong bài viết của bạn, sự phân đoạn rõ ràng giúp cho các ý của bạn được sắp đặt một cách hợp lý và dễ hiểu. Tuy nhiên, một số liên từ và từ nối được sử dụng không chính xác, một số từ không tương ứng với ý nghĩa của câu hoặc cụm từ, làm cho bài viết không mượt mà và mạch lạc hơn.
+Bạn đã sử dụng phương pháp sắp xếp ý kiến và kết nối chúng với nhau một cách tốt. Tuy nhiên, trong bài viết của bạn, cần cải thiện tình hình sử dụng trợ từ để giúp câu văn trở nên mượt mà hơn. Sau đây là một số gợi ý cho phần này:
 
-Ví dụ:
+- Sử dụng từ trợ từ đúng vị trí trong câu để tránh hiểu nhầm: Ví dụ: "In my view, I am partially agreed with the aforementioned statement and I will further illustrate my ideology in the next few paragraphs." Trong câu này, "partially agreed with" không thể sử dụng như một động từ khẳng định, mà nên sử dụng một động từ trợ giúp (như "am") để đưa ra quan điểm của bạn một cách chính xác hơn. 
+- Sử dụng từ trợ từ để kết nối câu và ý nghĩa: Ví dụ: "The preservation of cultural values would highly important to the countries which are relying largely on tourism income." Từ "would" trong câu này không phải là một từ trợ giúp đúng về ngữ pháp. Bạn có thể sử dụng các từ trợ từ như “is”, “may be", “could be”, “must be” để cải thiện câu một cách chính xác hơn.
 
-1. "In my view, I am partially agreed with the afforementioned statment and I will further illustrate my ideology in the next few paragraphs."
-- Từ "partially" không được sử dụng đúng cách. Nên sử dụng "partly" thay cho "partially".
-- Thay vì "afforementioned statement", bạn nên sử dụng lại từ đề bài để tránh sự lặp lại.
+Cơ sở khác để cải thiện Cohesion là sử dụng các liên từ thích hợp để kết nối các ý đúng hơn. Dưới đây là một số gợi ý để sử dụng các liên từ phù hợp:
 
-Câu mới: In my view, I partly agree with this opinion and I will further explain my position in the following paragraphs.
-
-2. "The proposed practice is already inplace in several countires."
-- Từ "inplace" nên được sử dụng với dạng liền mạch - "in place".
-- Thiếu từ "the" trước "several countries".
-
-Câu mới: The proposed practice is already in place in several countries.
-
-3. "Moreover, it would be ideal to use the latest technologies and designs in new constructions rather than adhereing to old designs."
-- Thiếu dấu phẩy sau từ "designs" để phân tách các câu với nhau.
-
-Câu mới: Moreover, it would be ideal to use the latest technologies and designs in new constructions, rather than adhering to old designs.
-
-Tổng thể, bài viết của bạn cần phòng tránh những sai sót nhỏ trong sử dụng liên từ, từ nối và văn phong để truyền tải ý tưởng một cách chặt chẽ và thu hút người đọc.
+- Sử dụng liên từ cho các ý đồng nghĩa hoặc tương phản: Ví
 
 
 Lexical Resource:
 
-Trong bài viết của bạn, bạn đã sử dụng một số từ vựng một cách linh hoạt và chính xác để diễn đạt ý tưởng của mình. Dưới đây là một số từ đã sử dụng và cách sử dụng của chúng:
+Trong bài luận của bạn, đã có sử dụng một số từ vựng chuyên môn như "richness of the culture", "preservation of cultural values", "ancient values", "space management" và "updated technology and designs", thể hiện được khả năng sử dụng từ vựng đúng và đa dạng.
 
-- Core foundation: Sử dụng từ này để mô tả tầm quan trọng của văn hóa với một quốc gia
-- Ancient buildings and monuments: Sử dụng từ này để đề cập đến những công trình cổ đại có giá trị văn hóa với một quốc gia
-- Richness of the culture: Mô tả sự phong phú và đa dạng của văn hóa
-- Preserve the true identity: Mô tả việc bảo tồn những giá trị văn hóa của một quốc gia
-- Positive trend: Mô tả xu hướng tích cực trong việc giữ gìn giá trị văn hóa khi xây dựng mới
-- Adhering: Sử dụng để chỉ việc tuân thủ các quy định và quy chuẩn
-- Latest technologies and designs: Sử dụng để nói về những công nghệ và thiết kế mới nhất
-- Significance of space management: Mô tả tầm quan trọng của quản lý không gian
-- Imparative: Sử dụng để mô tả sự cần thiết
+Tuy nhiên, tôi nhận thấy một số lỗi về cách sử dụng từ vựng trong bài luận của bạn. Ví dụ, bạn đã sử dụng từ "alligned" trong câu này "the new constructions should be alligned in a manner which preserve the true identity of the culture" nhưng từ này thường được đánh vần là "aligned". Tuy nhiên, "aligned" thường được sử dụng để miêu tả việc sắp xếp đồng phẳng các vật liệu trong cùng một mặt phẳng, trong khi trong trường hợp này, bạn có thể sử dụng từ "built" để diễn đạt ý của mình. Ngoài ra, bạn cũng đã lặp lại từ "ancient values" quá nhiều lần trong bài luận của mình, có thể sử dụng thay thế bằng những từ khác như "cultural heritage", "historical significance" hoặc "architectural legacy".
 
-Tuy nhiên, trong bài viết của bạn, có một số lỗi ngữ pháp và cách sử dụng từ như sau:
-
-- "aligned" thường được sử dụng để miêu tả việc sắp xếp đồng phẳng các vật liệu trong cùng một mặt phẳng, trong khi trong trường hợp này, bạn có thể sử dụng từ "built" để diễn đạt ý của mình
-- "throughly" phải chuyển sang "thoroughly"
-- "implicative" nên được thay bằng "imperative" để diễn đạt ý tưởng của bạn một cách chính xác hơn
-
-Tóm lại, trong bài viết, bạn đã sử dụng một số từ vựng phù hợp và chính xác, tuy nhiên cần phát triển thêm và kiểm tra lại các lỗi cú pháp và cách sử dụng từ để giúp cho bài viết của bạn trở nên chuyên nghiệp và khả thi hơn.
+Một số lỗi khác như "throughly" phải chuyển sang "thoroughly" và "implicative" nên được thay bằng "imperative" để diễn đạt ý tưởng của bạn một cách chính xác hơn
 
 
 Grammatical Range and Accuracy:
 
-Tính chính xác và phạm vi ngữ pháp của bài viết của bạn là tương đối tốt. Dưới đây là một số lỗi cần được lưu ý và cải thiện:
+Bài luận của bạn đã sử dụng các thì và từ loại đúng và chính xác, tuy nhiên, vẫn còn một số lỗi sai chút ít. Dưới đây là danh sách các lỗi sai đó:
 
-1. "The proposed practice is already inplace" -> The proposed practice is already in place.
-2. "throughly governed" -> thoroughly governed
-3. "the preservation of cultural values would highly important" -> the preservation of cultural values would be highly important
-4. "the countries which are relying" -> the countries that are relying
-5. "new constructions could be planned to attain great level" -> new constructions could be planned to attain a great level
-6. "were with significant ancient" -> were of significant ancient
-7. "adhereing" -> adhering
-8. "the said practice should be limited" -> this practice should be limited
+1. "aligned" - từ này nên được viết là "aligned"
+2. "afforementioned" - từ này nên được viết là "aforementioned"
+3. "throughly" - từ này nên được viết là "thoroughly"
+4. "governed with several laws specially in the areas with the ancient values" - câu này nên được phân ra thành các câu ngắn hơn để tránh sự rườm rà và khó hiểu.
+5. "The preservation of cultural values would highly important to the countries" - từ "would" nên sửa thành "is", để câu trở nên rõ ràng hơn.
+6. "In the contrary" - từ này nên được sửa lại thành "On the contrary"
+7. "the said notions is also very crucial aspect to be looked at" - "the said notions" nên thay bằng "this idea" để câu trở nên tự nhiên hơn.
+8. Hạn chế sử dụng "and" trong câu, thay vào đó là sử dụng các từ nối khác để tránh sự lặp lại. 
 
-Overall, bài viết của bạn có sử dụng ngữ pháp đúng và đa dạng với một số lỗi nhỏ. Tuy nhiên, tôi khuyên bạn cần chú ý hơn đến cách sử dụng các cấu trúc ngữ pháp để tránh các sai lầm. Chúc bạn may mắn với kỳ thi IELTS của mình!
+Một số gợi ý khác:
+1. Đảm bảo đặt dấu phẩy đúng vị trí để câu trở nên rõ ràng hơn.
+2. Sử dụng các từ đồng nghĩa hoặc các biểu đạt khác trong bài luận của bạn để tránh sự lặp lại.
+3. Chú ý đến cấu trúc câu để tránh sự hiểu nhầm.
+4. Đọc lại bài luận của bạn để tìm ra các lỗi sai khác.
 
 
 Score:

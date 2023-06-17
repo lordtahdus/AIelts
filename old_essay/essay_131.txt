@@ -1,6 +1,6 @@
 Topic:
 
-"It is thought by some that it is better to live in city better while other believe that life is better in the countryside. Discuss both views and give your opinion."
+"It is thought by some that it is better to live in city while other believe that life is better in the countryside. Discuss both views and give your opinion."
 
 Essay:
 
@@ -34,7 +34,7 @@ Feedback:
 
 Task Response:
 
-Task Response đánh giá sự phản hồi của bạn trên đề bài, và việc trả lời đầy đủ và sát nội dung đề bài là cực kỳ quan trọng để đạt điểm cao trong phần này. Bài viết của bạn đã đáp ứng đủ yêu cầu của đề bài, tuy nhiên, vẫn có thể có một số điểm cần cải thiện:
+Bài viết của bạn đã đáp ứng đủ yêu cầu của đề bài, tuy nhiên, vẫn có thể có một số điểm cần cải thiện:
 
 - Trong phần mở đầu, bạn nêu ra hai quan điểm khác nhau nhưng lại không đưa ra suy luận của mình. Điều này dẫn đến thiếu đi tính thuyết phục của bài viết.
 Gợi ý: Nêu rõ quan điểm của mình trong phần mở đầu để đảm bảo tính thuyết phục của bài viết.
@@ -45,7 +45,7 @@ Gợi ý: Chỉ ra lý do chính là gì cho mỗi quan điểm, sau đó trình
 - Phần kết luận của bạn cũng không chỉ ra suy luận của bạn một cách rõ ràng và một số ý kiến được liệt kê mà không có bất kỳ suy luận nào.
 Gợi ý: Đưa ra suy luận rõ ràng dựa trên các lý do và lập luận đã đưa ra trong phần thân bài.
 
-Tóm lại, để cải thiện Task Response, bạn cần phải cung cấp suy luận rõ ràng và thể hiện được các lý do và lập luận của mình phù hợp với đề bài. Đồng thời, cần phải phân phối một cách cân đối giữa hai quan điểm và tránh đưa ra liệt kê các ý kiến một cách rời rạc.
+Tóm lại, bạn cần phải cung cấp suy luận rõ ràng và thể hiện được các lý do và lập luận của mình phù hợp với đề bài. Đồng thời, cần phải phân phối một cách cân đối giữa hai quan điểm và tránh đưa ra liệt kê các ý kiến một cách rời rạc.
 
 
 Coherence and Cohesion:
@@ -58,8 +58,6 @@ Trong bài viết của bạn, việc sử dụng các liên từ và các cụm
 
 - Trong đoạn thứ ba, bạn có câu "Besides multiple facilities for the people, it will help to enhance the friendship circle." Câu này không được kết nối rõ ràng với ý trước đó. Bạn nên sử dụng các liên từ để tạo sự kết nối, ví dụ: "Moreover, large numbers of people reside in big cities, providing opportunities to meet and interact with people of different personalities and cultures. This enhances social circles and allows individuals to learn new skills."
 
-Tổng thể, việc sử dụng liên từ và các cụm từ chuyển tiếp của bạn khá tốt, tuy nhiên vẫn cần đẩy mạnh việc kết nối các ý trong bài viết phù hợp với các tiêu chí Coherence and Cohesion của IELTS.
-
 
 Lexical Resource:
 
@@ -70,8 +68,6 @@ Ví dụ, trong đoạn thứ nhất, từ "hustle-free" không phải là một
 Bên cạnh đó, trong đoạn thứ nhất, bạn dùng cụm từ "metropolitan" để diễn tả thành phố lớn. Tuy nhiên, từ "urban" hoặc "large city" sẽ phù hợp hơn, vì metropolitan có thể gây hiểu nhầm và không phổ biến trong tiếng Anh hàng ngày. 
 
 Ngoài ra, trong đoạn thứ ba, bạn sử dụng từ "enhance" để diễn tả việc mở rộng mối quan hệ xã hội. Tuy nhiên, từ "expand" hoặc "broaden" sẽ phù hợp hơn và dễ hiểu hơn. 
-
-Tổng quan, tuy từ ngữ của bạn không hoàn hảo, nhưng vẫn rất đa dạng và có khả năng sử dụng thành ngữ, trích dẫn và các từ vựng chuyên ngành thích hợp. Việc tìm hiểu thêm các từ vựng phổ biến hơn trong tiếng Anh và phù hợp với ngữ cảnh sẽ giúp nâng cao điểm số của bạn trong kỹ năng Lexical Resource.
 
 
 Grammatical Range and Accuracy:
@@ -90,7 +86,7 @@ Những điểm cần cải thiện:
 
 - Một số câu của bạn có thể phức tạp hơn nếu sử dụng cấu trúc câu khác. Chẳng hạn, trong câu "Although some individuals opined to feel the peace of nature, because of a better lifestyle and social network, I find the latter view best," bạn có thể sử dụng cấu trúc câu chủ động hơn như: "Although some people prefer to seek the peace of nature, I believe that the benefits of living in cities, such as better opportunities and a vibrant social life, outweigh the disadvantages."
 
-Tóm lại, bài viết của bạn đã sử dụng đa dạng các cấu trúc câu nhưng còn một số lỗi ngữ pháp và chính tả cần được cải thiện. Điều này có thể được đạt được thông qua việc chăm chỉ học tập và tập viết thường xuyên.
+Tóm lại, bài viết của bạn đã sử dụng đa dạng các cấu trúc câu nhưng còn một số lỗi ngữ pháp và chính tả cần được cải thiện.
 
 
 Score:
