@@ -41,8 +41,6 @@ Tuy nhiên, một số điểm cần được cải thiện là:
 - Trong phần giới thiệu của bài viết của bạn, bạn đã sử dụng cấu trúc câu phức tạp nhưng không cần thiết. Điều này có thể làm cho câu của bạn trở nên khó hiểu và mất tính chuyên nghiệp. Thay vào đó, hãy sử dụng cấu trúc câu đơn giản và dễ hiểu hơn.
 - Ngoài ra, trong phần thứ hai của bài viết của bạn, bạn có thể thêm một số ví dụ cụ thể để minh họa cho quan điểm của mình về việc làm thế nào các quảng cáo có thể gây ảnh hưởng đến quyết định mua sắm của người tiêu dùng. Điều này sẽ giúp bài viết của bạn trở nên rõ ràng hơn và dễ hiểu hơn.
 
-Với những điểm cần cải thiện này, bạn có thể cải thiện điểm số của mình trong mục Task Response. Chúc bạn thành công!
-
 
 Coherence and Cohesion:
 
@@ -55,8 +53,6 @@ Bài viết của bạn có sự liên kết và sắp xếp rõ ràng, các câ
 Để khắc phục các lỗi liên kết này, bạn có thể sử dụng một số cách thức giúp cho bài viết của mình trở nên suôn sẻ và hợp lý hơn. Ví dụ, hãy bắt đầu bằng một câu giới thiệu rõ ràng về chủ đề đề bài, sau đó giải thích quan điểm của bạn ở phần giới thiệu khái quát. Ngoài ra, bạn có thể sử dụng cách kết nối khác như từ "thus" hoặc "therefore" để thể hiện quan hệ giữa các ý.
 
 Về tổ chức, bạn có thể dùng những từ khóa để giúp văn bản của bạn trở nên mượt mà hơn, bao gồm phương pháp liên kết từ "firstly", "secondly", và "finally". Hơn nữa, hãy chuyển từ một ý sang ý khác bằng cách sử dụng các từ nối liên quan như "moreover", "furthermore", or "however".
-
-Trong tổ chức mở rộng hơn, bạn nên xác định các ý chính trong từng đoạn, cụ thể hơn, là tham khảo các từ khóa và các từ nối trong phần giới thiệu và kết thúc để giúp cho bài viết của bạn hợp lý và suôn sẻ hơn.
 
 
 Lexical Resource:
@@ -78,12 +74,8 @@ Từ vựng trong bài viết của bạn phong phú và đa dạng, nhưng vẫ
 13. "exotic locations" -> sử dụng từ "luxurious locations" sẽ chính xác hơn.
 14. "exclusive clubs" -> sử dụng từ "elite groups" để diễn tả một cách chính xác.
 
-Vui lòng lưu ý rằng các lỗi này chỉ là những lỗi nhỏ và không ảnh hưởng đến sự hiểu biết của bạn về vấn đề và tác động của quảng cáo đến các sự lựa chọn mua hàng của chúng ta.
-
 
 Grammatical Range and Accuracy:
-
-Chúng ta sẽ đánh giá kỹ hơn về Grammatical Range and Accuracy để phân tích lỗi và sửa chúng.
 
 1. "To promote the business,companies choose effective ways to reach customers as publications." - phần này có thể được sửa thành "To promote their businesses, companies choose effective ways to reach customers, such as publications."
 
@@ -92,8 +84,6 @@ Chúng ta sẽ đánh giá kỹ hơn về Grammatical Range and Accuracy để p
 3. "It consequently creates a desire to get these limited products so that one can also become a part of these exclusive clubs." - Câu này cần được sửa lại để tránh lặp lại từ "exclusive." Câu này có thể được sửa thành "As a result, it creates a desire to acquire these limited products and become part of this luxurious lifestyle."
 
 4. "In conclusion, I think advertisements do have the power to pursue us into buying unnecessary goods." - Từ "pursue" không được sử dụng chính xác. Có thể sửa lại câu thành "In conclusion, I think advertisements do have a significant impact on our purchasing decisions, often leading us to purchase unnecessary items."
-
-Sau khi sửa lỗi và điều chỉnh phần viết, Grammatical Range and Accuracy đã được cải thiện và được đánh giá là tương đối tốt trong bài viết của bạn.
 
 
 Score:

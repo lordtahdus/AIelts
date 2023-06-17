@@ -17,13 +17,9 @@ To sum up, a significant number of jobs will be control of the artificial intell
 
 Revised:
 
-Here is the edited essay:
-
 It is believed by some that artificially intelligent robots will eventually replace human workers. While some jobs that involve relatively simple skills can be readily taken over by robots, there are still skillful work that require human intervention. In this essay, I will examine the reasons why some jobs still necessitate human efforts.
 
-Robots are perfect for carrying out tasks that are less complicated and require little intervention from humans. With increasing costs associated with hiring, training and retaining human workers, many multinational companies and industries prefer to use artificial intelligence to cut down on costs and improve profits. For example, in many urban settings, traffic policemen are being replaced by sophisticated traffic control systems that can operate 24/7, and do not require breaks or vacation time.
-
-Therefore, it seems inevitable that robots will become more ubiquitous in our daily lives as technology evolves rapidly.
+Robots are perfect for carrying out tasks that are less complicated and require little intervention from humans. With increasing costs associated with hiring, training and retaining human workers, many multinational companies and industries prefer to use artificial intelligence to cut down on costs and improve profits. For example, in many urban settings, traffic policemen are being replaced by sophisticated traffic control systems that can operate 24/7, and do not require breaks or vacation time. Therefore, it seems inevitable that robots will become more ubiquitous in our daily lives as technology evolves rapidly.
 
 On the other hand, there are certain skillful jobs that cannot be carried out by robotic systems as they rely heavily on human interaction, emotions, and personal connections. For instance, jobs such as psychology, medicine, education, and social work require human professionals who can create a bond with their patients, students and clients as well as understand their individual needs and emotions. These kinds of jobs require people who possess innate qualities such as empathy, creativity, and judgment, which cannot be replicated by artificial intelligence. In other words, social evolution and human instinct cannot be replaced by machine learning or any kind of artificial intelligence.
 
@@ -34,7 +30,7 @@ Feedback:
 
 Task Response:
 
-Bài viết của bạn đã thảo luận hai quan điểm trái ngược về chủ đề được yêu cầu. Tuy nhiên, một số lời khuyên để cải thiện Task Response là bạn nên đề cập đến cả hai quan điểm của câu hỏi đặt ra đầy đủ hơn để giúp người đọc hiểu rõ hơn về chủ đề. Bạn cũng nên cố gắng để xác định rõ ràng quan điểm của mình trong bài viết. Nói rõ hơn là bạn đang ủng hộ quan điểm nào và lý do vì sao. Một khi bạn đã làm được điều đó, bạn cần đưa ra các lập luận và đầy đủ lý do để giải thích cho quan điểm của mình được hiểu rõ hơn. Tránh đưa ra quan điểm mơ hồ hoặc không thuyết phục trong bài viết.
+Bài viết của bạn đã thảo luận hai quan điểm trái ngược về chủ đề được yêu cầu. Tuy nhiên, một số lời khuyên để cải thiện Task Response là bạn nên đề cập đến cả hai quan điểm của câu hỏi đặt ra đầy đủ hơn để giúp người đọc hiểu rõ hơn về chủ đề. Bạn cũng nên cố gắng để xác định rõ ràng quan điểm của mình trong bài viết. Nói rõ hơn là bạn đang ủng hộ quan điểm nào và lý do vì sao. 
 
 
 Coherence and Cohesion:
@@ -48,8 +44,6 @@ Tuy nhiên, một số lỗi nhỏ về cách sắp xếp câu phức tạp và 
 - "Robots may be replaced to carry forward the jobs that are not too complex and can easily perform without much involvement by humans" - nên sửa thành "Robots may replace jobs that are not too complex and can be easily performed with little human involvement" để tránh sử dụng quá nhiều cụm từ. 
 - "As it will be beneficial for multinational companies and industries to gain profits through artificial intellect instead of spending highly on hiring, training and employing the human" - nên sửa thành "As it will be beneficial for multinational companies and industries to gain profits through artificial intelligence instead of spending heavily on hiring, training, and employing humans" để sử dụng danh từ số ít thay vì danh từ số nhiều, và sử dụng tính từ "heavy" thay vì "high". 
 - "Ultimately, skillfull jobs that require people excellence cannot be effectively carried out by artificial intelligence" - nên sửa thành "In conclusion, jobs that require human excellence cannot be effectively carried out by artificial intelligence" để tránh lặp lại từ "skillful" và để cộng đồng người đọc có thể hiểu được câu kết luận của bài viết.
-
-Tóm lại, tổ chức và liên kết được diễn tả rất tốt và bài viết của bạn rất dễ đọc và hiểu. Tuy nhiên, có một vài lỗi nhỏ cần chỉnh sửa để tăng độ chính xác và giúp bài viết trở nên hoàn hảo hơn.
 
 
 Lexical Resource:
@@ -79,8 +73,6 @@ Bài viết của bạn có một số lỗi nhỏ ngữ pháp. Dưới đây l�
 5. "...cannot be effectively carried out by artificial intelligence." - Nên thay đổi thành "cannot effectively be carried out by artificial intelligence."
 
 6. "...needed for the betterment of the society." - Nên dùng "the" trước từ "society" để đưa ra ý rõ ràng hơn.
-
-Với việc sửa các lỗi ngữ pháp này, bài viết của bạn sẽ trở nên hoàn chỉnh và chính xác hơn. Tuy nhiên, hãy chú ý để không mất đi ý tưởng chính của bài viết. Chúc bạn thành công!
 
 
 Score:

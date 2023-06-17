@@ -47,8 +47,6 @@ Bạn có thể phát triển ý kiến cá nhân của mình bằng cách cung 
 4. Cân bằng thông tin và quan điểm
 Trong bài viết của bạn, quan điểm cá nhân của bạn được đưa ra một cách rõ ràng và chỉ chiếm phần nhỏ so với lượng thông tin khác. Tuy nhiên, bạn cần lưu ý rằng đề bài chỉ đề cập đến việc đưa ra hai mặt tích cực và tiêu cực về chủ đề mua sắm trực tuyến. Vì vậy, đừng để quan điểm của bạn chiếm quá nhiều thời gian và chú ý cân bằng thông tin và quan điểm. 
 
-Chúc bạn thành công!
-
 
 Coherence and Cohesion:
 
@@ -64,9 +62,7 @@ Một số ví dụ về lỗi mạch lạc trong bài viết của bạn:
 - "...có thể giảm một lượng đáng kể thời gian cho cá nhân."
 Đoạn này không rõ ràng và thiếu thông tin về cách mua sắm trực tuyến giúp giảm thời gian. Bạn có thể giải thích cụ thể hơn là sử dụng các trang web/bán hàng trực tuyến hoặc ứng dụng mua sắm trực tuyến.
 - "Có một số hạn chế mà người tiêu dùng cần phải lưu ý."
-Đoạn này cũng không rõ ràng và thiếu thông tin cụ thể. Bạn có thể đề cập đến việc mua hàng giả, không đúng sản phẩm, chính sách bảo mật không tốt, v.v.
-
-Chúc bạn thành công!
+Đoạn này cũng không rõ ràng và thiếu thông tin cụ thể. Bạn có thể đề cập đến việc mua hàng giả, không đúng sản phẩm, chính 
 
 
 Lexical Resource:
@@ -77,12 +73,8 @@ Bài viết của em sử dụng các từ vựng liên quan đến chủ đề 
 - "multi-dimentional views": từ này không phổ biến và không chính xác trong ngữ cảnh này. Em có thể sử dụng "various perspectives" hoặc "different aspects" để thể hiện đầy đủ ý nghĩa của mình.
 - "the confidential protection": từ này không rõ nghĩa, có thể sử dụng "security" hoặc "privacy protection".
 
-Ngoài các lỗi trên, bài viết của em cũng có thể tăng cường thêm vốn từ vựng bằng cách sử dụng những từ đồng nghĩa và các cụm từ được sử dụng thường xuyên trong chủ đề này để giúp bài viết của em trở nên đa dạng và độc đáo.
-
 
 Grammatical Range and Accuracy:
-
-Bài viết của em có một số lỗi ngữ pháp và sai sót trong cấu trúc câu. Những lỗi này đối với dạng bài viết IELTS Task 2 có thể làm giảm điểm số. Dưới đây là một số lỗi và gợi ý để sửa chữa:
 
 1. "Purchasing products via social media can bring plenty of advantages to both customers and retailers." - Nên viết là "Purchasing products online can bring plenty of advantages to both customers and retailers."
 
@@ -97,14 +89,6 @@ Bài viết của em có một số lỗi ngữ pháp và sai sót trong cấu t
 6. "every method have their own exemplaries and inauspiciousnesses" - Nên viết là "every method has its own advantages and disadvantages."
 
 7. "Tuy nhiên, để đạt điểm cao hơn, em cần đảm bảo rằng mỗi lời khẳng định trong bài viết đều có minh chứng và ví dụ cụ thể được trình bày một cách rõ ràng và chi tiết." - Nên viết là "Tuy nhiên, để đạt điểm cao hơn, em cần đảm bảo rằng mỗi lời khẳng định trong bài viết đều được minh chứng và có ví dụ cụ thể được trình bày một cách rõ ràng và chi tiết."
-
-Một số gợi ý để cải thiện phần ngữ pháp và cấu trúc câu của bài viết:
-- Đọc lại bài viết và sử dụng các công cụ kiểm tra ngữ pháp để tìm ra các lỗi.
-- Tập trung vào việc sử dụng đúng các hình thức động từ và tính từ phù hợp, đặc biệt là các dạng thì và dạng bị động.
-- Sử dụng các cấu trúc câu đa dạng hơn để biểu thị các ý tưởng một cách hoàn chỉnh và mạch lạc.
-- Chú ý đến cách sử dụng trợ từ, đại từ và liên từ để giữ cho bài viết mạch lạc và thu hút độc giả.
-
-Chúc em thành công!
 
 
 Score:
