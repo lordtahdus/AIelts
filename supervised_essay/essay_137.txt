@@ -16,10 +16,7 @@ about undertaking family responsibility, as a result they fully enjoy their pres
 and to eclipse their mistakes. To exemplify, a research conducted by colleges revealed that teenage age is the most delighted age due to less pressure.
 To conclude, despite adults can have mental and economic support from their families, youngsters are more happy as they are free to live their life. thus it is lack of responsibility that make adolescent joyous."
 
-
 Revised:
-
-Rewritten essay:
 
 It is believed by some that the teenage years are the happiest time in a person's life, while others argue that adulthood brings more happiness, despite increased responsibilities. In this essay, both views will be examined, and a personal opinion will be given.
 
@@ -34,8 +31,6 @@ Feedback:
 
 Task Response:
 
-Task Response:
-
 Bạn đã đưa ra hai quan điểm về chủ đề và phản biện rõ ràng cho cả hai quan điểm. Tuy nhiên, bạn cần tập trung hơn vào việc trả lời đầy đủ câu hỏi của đề bài. Hãy chắc chắn rằng bạn đã nêu rõ ràng các quan điểm và đánh giá đầy đủ các lợi và hại của từng quan điểm.
 
 Gợi ý cải thiện: 
@@ -45,13 +40,14 @@ Trước khi bắt đầu viết, bạn cần tóm tắt các điểm quan trọ
 
 Coherence and Cohesion:
 
-Các ý trong bài viết của bạn được trình bày một cách rõ ràng và có tổ chức. Bạn dùng các từ nối như "some say", "others think", "on one hand", "on the other hand" để giúp người đọc thấy sự liên kết giữa các ý kiến và quan điểm của bạn. 
+Trong phần Coherence and Cohesion, em đã sử dụng các câu nối để nối các ý lại với nhau, và được phân tích như sau:
 
-Tuy nhiên, một số lỗi không liên quan đến coherence and cohesion vẫn có trong bài viết của bạn. Dưới đây là những lỗi sai cần được sửa để cải thiện bài viết của bạn:
-- "enjoy family support, resultantly" -> Cần sửa thành "enjoy the support of their family, so they can".
-- "resultantly they can share their feelings and troubles with their spouse" -> Cần sửa lại thành "thus they can share their feelings and troubles with their spouse".
-- "helping hand in order to provide financial support" -> Cần bỏ từ "in order" để câu có cấu trúc đúng.
-- "it is lack of responsibility that make adolescent joyous" -> Cần sửa lại thành "it is the lack of responsibility that makes adolescents joyful".
+- Đoạn 1: Các câu 1 và 2 đã dẫn đầu cho đề bài và đưa ra các quan điểm khác nhau. Tuy nhiên, câu 3 "This essay will argue..." không cần thiết vì chúng ta đã biết điều đó từ tiêu đề bài viết.
+- Đoạn 2: Câu 1 đã hướng dẫn cho chủ đề của đoạn, câu 2 đã cũng cố rằng người lớn tuổi có sự hỗ trợ của gia đình, và câu 3 đã liên kết câu 2 với ý chính của đoạn. Tuy nhiên, câu 4 đã đưa ra một thông tin mới không hợp nhất với chủ đề của đoạn.
+- Đoạn 3: Các câu của đoạn này đều liên quan đến chủ đề và không có sự bị đứt đoạn hay nhảy cảm xúc.
+- Đoạn 4: Câu 1 đã giới thiệu chủ đề, câu 2 đã lập luận rằng tuổi trẻ có nhiều sự tự do hơn. Tuy nhiên, câu 3 không thật sự cần thiết vì nó chỉ lặp lại chủ đề và không cung cấp thêm thông tin.
+
+Tổng thể, bài viết có sự nối kết khá tốt giữa các ý, tuy nhiên, có một số câu không hoàn toàn hợp nhất với chủ đề của đoạn hoặc đưa ra thông tin mới không được liên quan đến chủ đề. Để cải thiện coherence and cohesion
 
 
 Lexical Resource:
@@ -62,7 +58,12 @@ Ví dụ, trong câu "juveniles are not worried about undertaking family respons
 
 Có một số cụm từ hoặc thuật ngữ có thể dẫn đến hiểu lầm hoặc không phù hợp với chủ đề của bài viết. Ví dụ "most charming period" có thể thay bằng "most fulfilling period" để phù hợp hơn với ý kiến. Tương tự, trong câu "However, I ponder that youth can have more pleasure owing to more liberty", từ "pleasure" nên thay bằng từ "happiness" để phù hợp với ngữ nghĩa của câu. 
 
-Ngoài ra, bạn cũng cần đảm bảo rằng các từ thay thế hoàn toàn đúng ngữ nghĩa và phù hợp với từ vựng trong câu.
+Một số lỗi khác như:
+
+- "enjoy family support, resultantly" -> Cần sửa thành "enjoy the support of their family, so they can".
+- "resultantly they can share their feelings and troubles with their spouse" -> Cần sửa lại thành "thus they can share their feelings and troubles with their spouse".
+- "helping hand in order to provide financial support" -> Cần bỏ từ "in order" để câu có cấu trúc đúng.
+- "it is lack of responsibility that make adolescent joyous" -> Cần sửa lại thành "it is the lack of responsibility that makes adolescents joyful".
 
 
 Grammatical Range and Accuracy:
