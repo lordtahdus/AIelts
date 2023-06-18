@@ -44,22 +44,22 @@ if __name__ == "__main__":
 
     ##################################################
 
-    index = 155
+    index = 165
 
-    link = "https://writing9.com/text/5de0b65adb52040018c1232b"
+    link = "https://writing9.com/text/60c9bcf9b558f000189f33b6-overpopulation-in-many-major-urban-centers-around-the-world-is"
 
     topic = """\
-Describe an interesting conversation you had with other people.\
+Overpopulation in many major urban centers around the world is a major problem. What are the causes of this? How can this problem be solved?\
 """
 
     essay = """\
-I have to admit that I’m not much of a social person – I mean, I am quite shy and inhibited, so most of the time I tend to avoid talking to strangers. But I do remember a time when I had to talk to a complete stranger, and as I remember it was around 5 years ago, on my very first trip to Ho Chi Minh City. It was just a short conversation, but I can still remember it quite well.
+In the modern world, there is a rising concern about crowded and overfilled large cities. It is essential to address this issue, otherwise, it may lead to negative consequences such as the deficit of provision and accommodation. This essay will outline the reasons for this problem and propose possible solutions. 
 
-I was a 20-year-old freshman back then, and I was unable to navigate my way to the HCMC University of Education where I was about to start studying. Back then Google Map’s wasn’t as popular as it is nowadays, so the only way I could figure out the way was by asking a local. So after hours of wandering around, I finally resorted to asking a lady who was selling noodles at a food cart near where I was standing. I asked the lady if she would be so kind to tell me the way to the HCMC University of Education and she kindly replied by pointing to the big building across the road and saying ’it’s over there’.
+Perhaps overpopulation in megalopolises is caused by numerous opportunities there and poverty. It is not a secret that it is more likely to get a well-paid job in a big city where large corporations are located, and there is a bigger offer of leisure time activities such as museums, cinemas, parks and shopping malls. For this reason, many people prefer to move to major cities promoting overpopulation. What's more, some of these people are not so wealthy in order to control the birth rate. Consequently,  significant growth in population can occur in  poor areas.  
 
-The university was being renovated back then, so I was unable to recognise it, but before I went off to study I decided to sit down and order some noodles from the old lady and have a chat with her. It turns out that she was also from Ninh Thuan, which is my hometown. So we ended up chatting for ages about our lives and about how and why we had come to HCMC.
+However, this problem can be solved by receiving support from the authorities. Firstly, the government should introduce  restrictions on the maximum number of children per family. It would establish a balance between the increase and decline in the number of people and hold this number at a constant level. Furthermore, the governing bodies could suggest  assistance in providing free contraception. This action might prevent unwanted birth among people being not able to afford it.  
 
-You know, I think I found this conversation so interesting simply because I found Mrs Kim to be such a nice lady.  As the conversation went on and I got to know her better I realized that she had had quite a tough life, yet she had managed to maintain such a sweet and gentle personality that many other women who have been through similar struggles to her would have lost by now.\
+To sum up, the excessive population in large urban centres is a serious problem caused by city attractions and shortage of contraceptives among people. I recommend that governments solve this issue by proposing special birth policies and contribute to cheap and safe ways of birth prevention.\
 """
 
     ##################################################
