@@ -44,22 +44,22 @@ if __name__ == "__main__":
 
     ##################################################
 
-    index = 150
+    index = 155
 
-    link = "https://writing9.com/text/5db30a9e16286e0018e3cc8d"
+    link = "https://writing9.com/text/5de0b65adb52040018c1232b"
 
     topic = """\
-It has been seen that these days, some workplaces tend to employ equal numbers of men and women workers. Do you think it is a positive or negative development.\
+Describe an interesting conversation you had with other people.\
 """
 
     essay = """\
-It is now a trend in multinational companies and large organizations to give equal roles to women employees in the workplace.  This is a very healthy initiative which has led to an increase in the number of women being employed and the numbers are now catching up with that of the male employees in such organizations.  In my view, this is a highly positive development which has got a plethora of merits for our nation.
+I have to admit that I’m not much of a social person – I mean, I am quite shy and inhibited, so most of the time I tend to avoid talking to strangers. But I do remember a time when I had to talk to a complete stranger, and as I remember it was around 5 years ago, on my very first trip to Ho Chi Minh City. It was just a short conversation, but I can still remember it quite well.
 
-Firstly,  talent and hard work of any individual needs to be appreciated and awarded without any discrimination.  Such policies help organizations realize the potential of their employees and achieve their business goals faster.  For example, the turnaround story of Pepsico from crisis by choosing a non-board-member women to be their chief illustrates the point. 
+I was a 20-year-old freshman back then, and I was unable to navigate my way to the HCMC University of Education where I was about to start studying. Back then Google Map’s wasn’t as popular as it is nowadays, so the only way I could figure out the way was by asking a local. So after hours of wandering around, I finally resorted to asking a lady who was selling noodles at a food cart near where I was standing. I asked the lady if she would be so kind to tell me the way to the HCMC University of Education and she kindly replied by pointing to the big building across the road and saying ’it’s over there’.
 
-Secondly, a recent study by the University of California on the workplace gender ratio showed that teams with an equal proportion of men and women tend to be more productive than those dominated by one gender. NASA, the most successful space exploration agency, uses the results of this study in structuring their teams and to plan even their interplanetary mission crews.   
+The university was being renovated back then, so I was unable to recognise it, but before I went off to study I decided to sit down and order some noodles from the old lady and have a chat with her. It turns out that she was also from Ninh Thuan, which is my hometown. So we ended up chatting for ages about our lives and about how and why we had come to HCMC.
 
-Although it is understandable that women are physically weak as compared to men and that they are not completely out of the age-old social stigma which makes them take up more responsibilities towards their families, they have made up for such negative factors by their sheer hard work and persistence.  So, women being treated and employed just like any other human being is one of the biggest revolutions which is happening in our times and it holds the key for the sustainable development of any nation in the world.\
+You know, I think I found this conversation so interesting simply because I found Mrs Kim to be such a nice lady.  As the conversation went on and I got to know her better I realized that she had had quite a tough life, yet she had managed to maintain such a sweet and gentle personality that many other women who have been through similar struggles to her would have lost by now.\
 """
 
     ##################################################
