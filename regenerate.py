@@ -15,9 +15,6 @@ messages.append({"role": "system", "content": system_msg})
 
 
 def run():
-    # move the old_essay to old_essay folder
-    os.rename(f'processed_essay/essay_{index}.txt', f'old_essay/essay_{index}.txt')
-
     # choose which parts to regenerate
     user_options = [0,0,0,0,0,0,0]
     print('input 0 or 1')
@@ -33,7 +30,9 @@ def run():
         assert option in [0,1], "Your input should be only 0 and 1"
 
     # write the new generated output
-    with open(f"processed_essay/essay_{index}.txt", "w", encoding="utf-8") as f:
+    # the regenerated file will have the suffix "_new",
+    # which will be remove when the old essay is moved to the old folder
+    with open(f"processed_essay/essay_{index}_new.txt", "w", encoding="utf-8") as f:
         f.write(f"""Topic:\n\n{topic}\n\nEssay:\n\n{essay}\n\n""")
 
         # loop through all parts and regenerate the chosen parts
@@ -73,6 +72,11 @@ def run():
                 else:
                     f.write(reply + '\n\n\n')
 
+    # move the old_essay to old_essay folder
+    os.replace(f'processed_essay/essay_{index}.txt', f'old_essay/essay_{index}.txt')
+    
+    # remove the suffix "_new" for regenerated file
+    os.rename(f"processed_essay/essay_{index}_new.txt", f"processed_essay/essay_{index}.txt")
 
 
 if __name__ == "__main__":
