@@ -5,14 +5,10 @@ from decouple import config
 
 openai.api_key = config('OPENAI_KEY_1')
 
+# a list saves all the previous messages
 messages = []
 system_msg = "Ielts writing editor"
 messages.append({"role": "system", "content": system_msg})
-
-
-
-
-
 
 
 
@@ -22,6 +18,7 @@ def run():
     # move the old_essay to old_essay folder
     os.rename(f'processed_essay/essay_{index}.txt', f'old_essay/essay_{index}.txt')
 
+    # choose which parts to regenerate
     user_options = [0,0,0,0,0,0,0]
     print('input 0 or 1')
     user_options[0] = int(input('Regenerate Revised? '))
@@ -39,6 +36,7 @@ def run():
     with open(f"processed_essay/essay_{index}.txt", "w", encoding="utf-8") as f:
         f.write(f"""Topic:\n\n{topic}\n\nEssay:\n\n{essay}\n\n""")
 
+        # loop through all parts and regenerate the chosen parts
         for i in range(0,7):
             message = syntaxes[i]
             # Revised
@@ -49,12 +47,13 @@ def run():
                 if len(messages) == 2:
                     messages.pop(1)
                 messages.append({"role": "user", "content": message})
-            # Specific Criteria and Score
+            # Specific Criteria and Score (i = 2,3,...6)
             elif user_options[i] == 1:
                 if len(messages) == 4:
                     messages.pop(3)
                 messages.append({"role": "user", "content": message})
 
+            # Request ChatGPT
             response = openai.ChatCompletion.create(
                 model="gpt-3.5-turbo",
                 messages=messages,
@@ -64,10 +63,13 @@ def run():
             # save general feedback in messages but not print 
             if i == 1:
                 messages.append({"role": "assistant", "content": reply})
+            # write revised + specific feedback + score into the new file
             else:
                 f.write(headings[i])
+                # old part
                 if user_options[i] == 0:
                     f.write(contents[i] + '\n\n\n')
+                # regenerated part
                 else:
                     f.write(reply + '\n\n\n')
 
@@ -79,6 +81,7 @@ if __name__ == "__main__":
     with open(file, 'r', encoding="utf-8") as f:
         lines = f.readlines()
 
+        # used to separate the file into multiple parts
         sep_indexes = [
             lines.index('Essay:\n', 2, 10),
             lines.index('Revised:\n', 7, 30),
@@ -110,7 +113,7 @@ if __name__ == "__main__":
             ''.join(ga).strip(),
             ''.join(score).strip()
         ]
-
+    # Request ChatGPT syntaxes
     syntaxes = [
         f'This is IELTS writing task 2.\n\nTopic:\n"{topic}"\n\nEssay:\n"{essay}"\nPlease edit the essay according to IELTS structure',
         f'This is IELTS writing task 2.\n\nTopic:\n"{topic}"\n\nEssay:\n"{essay}"\nPlease provide me detailed feedback in Vietnamese with clear explanations, based on four scoring criteria:\nTask Response\nCoherence and Cohesion\nLexical Resource\nGrammatical Range and Accuracy',
@@ -120,6 +123,7 @@ if __name__ == "__main__":
         "Đánh giá Grammatical Range and Accuracy trong bài viết của tôi một cách chi tiết hơn và liệt kê lỗi sai (nếu có)",
         "Estimate carefully the score of each criteria"
     ]
+    # used to write in the new file
     headings = [
         "Revised:\n\n",
         "",
