@@ -44,22 +44,22 @@ if __name__ == "__main__":
 
     ##################################################
 
-    index = 117
+    index = 165
 
-    link = ""
+    link = "https://writing9.com/text/60c9bcf9b558f000189f33b6-overpopulation-in-many-major-urban-centers-around-the-world-is"
 
     topic = """\
-"Some people argue that capital punishment is good for a country. To what extent do you agree or disagree?"
+Overpopulation in many major urban centers around the world is a major problem. What are the causes of this? How can this problem be solved?\
 """
 
     essay = """\
-Crime rates have been on the rise in the past decades, despite the culprit aware of the consequences he shall face for the offence committed by him.It is often argued that, capital punishment is beneficial for the well being of the nation and the citizens attached to it.I strongly concur with the fact that capital punishment should be improvised.
+In the modern world, there is a rising concern about crowded and overfilled large cities. It is essential to address this issue, otherwise, it may lead to negative consequences such as the deficit of provision and accommodation. This essay will outline the reasons for this problem and propose possible solutions. 
 
-To begin with, punishments are essential for maintaining peace throughout the country.People are familiar with the law and order of their nation and if the law is broken, it usually means that injustice has taken place and harmony is being disturbed.Punishing a culprit makes the fear vanish from the minds of innocent people.For instance, Ajmal Kasab, a terrorist was killed in the attacks and peace was finally restored.
+Perhaps overpopulation in megalopolises is caused by numerous opportunities there and poverty. It is not a secret that it is more likely to get a well-paid job in a big city where large corporations are located, and there is a bigger offer of leisure time activities such as museums, cinemas, parks and shopping malls. For this reason, many people prefer to move to major cities promoting overpopulation. What's more, some of these people are not so wealthy in order to control the birth rate. Consequently,  significant growth in population can occur in  poor areas.  
 
-On the other hand, offence rates define the character of a country. Having said this, no matter how developed or developing a country is, if the crimes committed are increasing every year it reflects a bad character of the country to the world. This leads to the downfall of the economy and many other global factors are affected. For example, tourists avoid such places where they don't feel safe or places which have a bad image in the world.This ultimately leads to the loss of economy. Hence, executing a criminal for a harsh crime and preparing several punishments according to the weightage of crimes should be done.
+However, this problem can be solved by receiving support from the authorities. Firstly, the government should introduce  restrictions on the maximum number of children per family. It would establish a balance between the increase and decline in the number of people and hold this number at a constant level. Furthermore, the governing bodies could suggest  assistance in providing free contraception. This action might prevent unwanted birth among people being not able to afford it.  
 
-To summarise, I strongly believe that capital punishments should be a part of law and order of the country as they will surely help maintaining peace, harmony and bring discipline to the people in the country.
+To sum up, the excessive population in large urban centres is a serious problem caused by city attractions and shortage of contraceptives among people. I recommend that governments solve this issue by proposing special birth policies and contribute to cheap and safe ways of birth prevention.\
 """
 
     ##################################################
