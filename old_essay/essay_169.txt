@@ -13,8 +13,6 @@ To sum up, migration of the skilled workers will lead to skill shortage and poor
 
 Revised:
 
-Here is the edited essay:
-
 In recent years, there has been a growing trend of professionals such as doctors and teachers leaving their poorer countries to work in developed nations. This phenomenon has resulted in several problems, and in this essay, I will discuss these issues and suggest potential solutions.
 
 One significant problem of this trend is the lack of practical education in developing nations. The education system does not update its curricula, resulting in a gap between academic knowledge and practical skills. For example, while studying environmental engineering, students may learn theoretical models for reducing waste, but lack the hands-on experience to implement such strategies professionally. The solution to this problem would be for educational institutions to upgrade their courses according to market demand and teach practical skills relevant to the current job market.
@@ -30,8 +28,6 @@ Feedback:
 
 Task Response:
 
-Task Response: 5/9
-
 Bài viết của bạn đã nhận diện được vấn đề về các chuyên gia đang rời khỏi các nước nghèo của họ để làm việc ở các nước phát triển. Tuy nhiên, câu trả lời không đạt trọn vẹn yêu cầu của đề bài. Bài viết của bạn cần cụ thể hơn trong việc phân tích các vấn đề mà chuyên gia di cư gây ra. Bài viết của bạn cũng cần cải thiện đề xuất giải pháp bằng cách liên kết rõ ràng với các vấn đề đã được phân tích.
 
 Gợi ý cải thiện:
@@ -42,9 +38,9 @@ Gợi ý cải thiện:
 
 Coherence and Cohesion:
 
-Trong bài viết của bạn, coherence and cohesion không đạt điểm cao do tổ chức và phát triển ý kiến chưa rõ ràng. Bài viết của bạn chứa nhiều ý kiến không liên quan đến nhau và cảm giác chung là các ý kiến không được phát triển đầy đủ. 
+Bài viết của bạn chứa nhiều ý kiến không liên quan đến nhau và cảm giác chung là các ý kiến không được phát triển đầy đủ. 
 
-Chẳng hạn, paragraf đầu tiên của bài viết mở đầu bằng câu chủ đề: "Nowadays, the job scale in the developing countries is decreasing progressively." Tuy nhiên, câu này không được giải thích hoặc liên kết với vấn đề chính của bài viết, được đưa ra ở câu hỏi. Điều này làm cho bài viết của bạn khó hiểu và không tập trung vào đề tài chính. 
+Chẳng hạn, paragraph đầu tiên của bài viết mở đầu bằng câu chủ đề: "Nowadays, the job scale in the developing countries is decreasing progressively." Tuy nhiên, câu này không được giải thích hoặc liên kết với vấn đề chính của bài viết, được đưa ra ở câu hỏi. Điều này làm cho bài viết của bạn khó hiểu và không tập trung vào đề tài chính. 
 
 Một ví dụ khác là khi bạn đưa ra vấn đề thiếu hụt nguồn nhân lực kỹ thuật cao bằng cách dẫn chứng cho các chuyên gia di cư đến những quốc gia phát triển để làm việc. Tuy nhiên, ý kiến của bạn không được phát triển đầy đủ khi không chỉ ra rõ ảnh hưởng xấu đến nước xuất xứ của những người chuyên gia này như thế nào. Bạn cũng không giải thích tác động của sự di cư này đến quốc gia mà họ chuyển đến. 
 
@@ -72,7 +68,7 @@ Lexical Resource là một trong những tiêu chí đánh giá quan trọng tro
 - Từ collocation là một cách mà các từ được kết hợp để tạo thành một ý nghĩa riêng. Sử dụng các collocation không đúng có thể gây mất ý nghĩa của câu. 
 - Ví dụ, trong câu "it is hard for the people to find time even for themselves", thay vì sử dụng "find time for even themselves", bạn nên sử dụng "find time for themselves" để tránh sử dụng các từ đứng lẻ tẻ không tạo nên một collocation tự nhiên.
 
-Tổng quan, để cải thiện Lexical Resource trong bài viết của bạn, bạn cần sử dụng những từ và cụm từ đúng cách, sử dụng nhiều từ vựng khác nhau và sử dụng các collocation hợp lý. Điều này sẽ giúp bạn thể hiện được những ý tưởng rõ ràng hơn và mang lại điểm số cao hơn trong tiêu chí đánh giá này.
+Tổng quan, để cải thiện Lexical Resource trong bài viết của bạn, bạn cần sử dụng những từ và cụm từ đúng cách, sử dụng nhiều từ vựng khác nhau và sử dụng các collocation hợp lý.
 
 
 Grammatical Range and Accuracy:
@@ -90,8 +86,6 @@ Trong bài viết của bạn, có một số lỗi về cú pháp và mức đ�
 - "and unless Government launches new schemes for employments with a handsome pay." -> nên sửa lại thành "and unless the government implements new employment schemes with higher salaries."
 
 Ngoài ra, cần chú ý kiểm tra lại sự chính xác về sử dụng đại từ, động từ và tính từ, đặc biệt là thì trong một số câu như "Their course is not updated" (nên dùng "courses" vì đây là số nhiều), "It can be said that job opportunities in the countries like Pakistan are fewer" (nên sử dụng "fewer job opportunities" thay vì "job opportunities are fewer").
-
-Tổng quan, bài viết của bạn cần một số cải tiến về mặt ngữ pháp và đa dạng cú pháp để có thể đạt được điểm cao hơn trong tiêu chí Grammatical Range and Accuracy.
 
 
 Score:

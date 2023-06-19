@@ -29,10 +29,12 @@ def run():
     for option in user_options:
         assert option in [0,1], "Your input should be only 0 and 1"
 
+    print(".....Generating.....")
+
     # write the new generated output
-    # the regenerated file will have the suffix "_new",
+    # the regenerated file will have the suffix "...generating..._",
     # which will be remove when the old essay is moved to the old folder
-    with open(f"processed_essay/essay_{index}_new.txt", "w", encoding="utf-8") as f:
+    with open(f"processed_essay/essay_{index}...generating..._.txt", "w", encoding="utf-8") as f:
         f.write(f"""Topic:\n\n{topic}\n\nEssay:\n\n{essay}\n\n""")
 
         # loop through all parts and regenerate the chosen parts
@@ -75,8 +77,8 @@ def run():
     # move the old_essay to old_essay folder
     os.replace(f'processed_essay/essay_{index}.txt', f'old_essay/essay_{index}.txt')
     
-    # remove the suffix "_new" for regenerated file
-    os.rename(f"processed_essay/essay_{index}_new.txt", f"processed_essay/essay_{index}.txt")
+    # remove the suffix "...generating..._" for regenerated file
+    os.rename(f"processed_essay/essay_{index}...generating..._.txt", f"processed_essay/essay_{index}.txt")
 
 
 if __name__ == "__main__":
@@ -123,8 +125,8 @@ if __name__ == "__main__":
         f'This is IELTS writing task 2.\n\nTopic:\n"{topic}"\n\nEssay:\n"{essay}"\nPlease provide me detailed feedback in Vietnamese with clear explanations, based on four scoring criteria:\nTask Response\nCoherence and Cohesion\nLexical Resource\nGrammatical Range and Accuracy',
         "Đánh giá Task Response trong bài viết của tôi một cách chi tiết hơn. Bài viết của tôi có trả lời đúng câu hỏi đề bài không? Nếu không, nêu ra ví dụ để cải thiện.",
         "Đánh giá Coherence and Cohesion trong bài viết của tôi một cách chi tiết hơn. Bài viết của tôi có sự liên kết mạch lạc và hợp lí giữa tất cả các ý và các câu không? Nếu không, nêu ra ví dụ để cải thiện.",
-        "Đánh giá Lexical Resource trong bài viết của tôi một cách chi tiết hơn và liệt kê lỗi sai (nếu có)",
-        "Đánh giá Grammatical Range and Accuracy trong bài viết của tôi một cách chi tiết hơn và liệt kê lỗi sai (nếu có)",
+        "Đánh giá Lexical Resource trong bài viết của tôi một cách chi tiết hơn. Bài viết của tôi có mắc lỗi sai về từ vựng không? Nếu có, liệt kê tất cả lỗi sai.",
+        "Đánh giá Grammatical Range and Accuracy trong bài viết của tôi một cách chi tiết hơn. Bài viết của tôi có mắc lỗi sai về ngữ pháp không? Nếu có, liệt kê lỗi sai tất cả lỗi sai.",
         "Estimate carefully the score of each criteria"
     ]
     # used to write in the new file

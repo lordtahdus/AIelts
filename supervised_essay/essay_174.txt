@@ -15,18 +15,12 @@ To sum up, I firmly believe that many companies follow the right process of hiri
 
 Revised:
 
-Here is an edited version of the essay according to IELTS structure:
-
-Introduction:
 It has become common practice for companies to conduct job interviews as part of their employee selection process. While some argue that there may be better alternatives, I believe that interviews are an effective way of selecting the best candidate as they allow employers to assess a candidate's suitability for the role and give job seekers the opportunity to learn more about their potential employer.
 
-Body Paragraph 1:
 Job interviews are a crucial step for many organizations to ensure that they select the most qualified and competent candidates that align with their requirements. For example, companies such as Google have a rigorous selection process for senior positions, which involves numerous rounds of interviews. The success of this process speaks for itself as Google is known for its high-quality employees and efficient work environment.
 
-Body Paragraph 2:
 Job interviews have the advantage of being a transparent method of hiring as candidates are selected based on their merit and capabilities. This is an improvement from the past where nepotism and favoritism were prevalent, and job opportunities were based on connections and references. Additionally, job seekers can research and learn more about their potential employer through available resources such as online reviews and employee feedback. During the interview process, candidates can interact with senior colleagues and gain deeper insight into the organizational culture and values.
 
-Conclusion:
 In conclusion, I strongly endorse the use of job interviews as a suitable method of selecting employees. It allows companies to find the best fit for the job, while candidates can objectively evaluate their potential employer. Ultimately, this improves the hiring process and contributes to the success of a workplace.
 
 
@@ -38,7 +32,7 @@ Bài viết của bạn đã trả lời đúng câu hỏi trong đề bài và 
 
 Tuy nhiên, với một số đề bài IELTS khác có thể đòi hỏi bạn phải thảo luận cả quan điểm đồng ý và khác biệt với câu hỏi, và trong trường hợp đó, bạn nên cân nhắc đưa ra ví dụ để minh họa ý của mình rõ ràng hơn. Ví dụ, nếu câu hỏi là "Bạn đồng ý hoàn toàn rằng phải có thêm bài giảng về giáo dục tình dục trong trường học?", thay vì chỉ đưa ra các lý do đồng ý hoặc không đồng ý, bạn cũng có thể cho ví dụ về các trường hợp nơi việc giảng dạy về giới tính đã được triển khai thành công và có ít bệnh lây qua đường tình dục. 
 
-Vì vậy, để cải thiện kỹ năng trả lời câu hỏi đề bài trong IELTS Writing Task 2, bạn nên chú ý đọc kỹ đề bài và nêu rõ đáp án của mình sau đó nâng cao bài viết với các chi tiết phù hợp để minh họa câu trả lời của bạn.
+Vì vậy, bạn nên chú ý đọc kỹ đề bài và nêu rõ đáp án của mình sau đó nâng cao bài viết với các chi tiết phù hợp để minh họa câu trả lời của bạn.
 
 
 Coherence and Cohesion:
@@ -60,8 +54,6 @@ Ví dụ:
 Ví dụ:
 "Moreover, during the whole interview process, they will get in contact with senior colleagues which will enable the employees to get to know their employer better." -> "In addition, job seekers can get to know their potential employers better by meeting senior colleagues during the job interview process."
 
-Hy vọng những lời khuyên trên giúp bạn cải thiện sự liên kết và sắp xếp của bài viết của bạn!
-
 
 Lexical Resource:
 
@@ -77,23 +69,16 @@ Ví dụ về một số từ và thể loại từ vựng mà bạn có thể s
 - Synonyms of "employer": company, organization, corporation
 - Thành ngữ và idioms: "fit the bill", "by the skin of one's teeth", "get the green light"
 
-Ngoài ra, nếu có sử dụng tài liệu nào để luyện tập tiếng Anh, bạn có thể đọc các tài liệu về tuyển dụng hoặc thực tập tại các công ty lớn để sử dụng từ vựng về chủ đề này một cách thuần thục hơn.
-
 
 Grammatical Range and Accuracy:
 
-Chào bạn, dưới đây là đánh giá chi tiết về Grammatical Range và Accuracy trong bài viết của bạn:
-
-- Bạn có khả năng sử dụng nhiều câu trúc ngữ pháp khác nhau.
-- Tuy nhiên, có một số lỗi sai ngữ pháp ở các chỗ sau:
-	- Đoạn 1, câu 2: "as this gives the leverage to employers": chỗ này bạn cần thêm một giới từ "of" để câu trở nên rõ ràng hơn thành "as this gives the leverage of employers".
-	- Đoạn 2, câu 1: "many organisations today have a thorough selection process in order to find the best out of all that suits their requirements": câu này có thể tách thành hai câu để tránh vi phạm về cú pháp và cảm giác sẽ thông suốt hơn, ví dụ, "Many organisations today have a thorough selection process. This process is designed to find the best candidate who meets their requirements."
-	- Đoạn 2, câu 3: "some might have to take 6 to 8 rounds": từ "take" ở đây không sử dụng đúng ngữ cảnh, bạn nên sử dụng "go through" hoặc "participate in" thay cho "take": "some might have to go through / participate in 6 to 8 rounds".
-	- Đoạn 3, câu 1: "getting selected via interviews is a transparent method": ở đây, bạn có thể sử dụng "through" thay cho "via" để câu trở nên mượt mà và ngữ cảnh cũng rõ ràng hơn: "getting selected through interviews is a transparent method".
-	- Đoạn 3, câu 2: "There were days when people used to get opportunities based on their contacts and references.": ở đây, câu này không rõ ràng và thiếu một từ hoặc một số từ trong cụm từ. Bạn có thể sửa lại câu thành "In the past, people used to get job opportunities based on their personal contacts and references."
-	- Đoạn 3, câu 3: "Moreover, during the whole interview process, they will get in contact with senior colleagues which will enable the employees to get to know their employer better.": chỗ này bạn có thể sử dụng "who" thay cho "which" để câu trở nên chính xác hơn: "Moreover, during the whole interview process, they will get in contact with senior colleagues who will enable them to get to know their employer better."
-
-Hy vọng nhận xét này sẽ giúp bạn cải thiện ngữ pháp trong bài viết của mình. Chúc bạn thành công!
+Bạn có sử dụng nhiều câu trúc ngữ pháp khác nhau. Tuy nhiên, có một số lỗi sai ngữ pháp ở các chỗ sau:
+- Đoạn 1, câu 2: "as this gives the leverage to employers": chỗ này bạn cần thêm một giới từ "of" để câu trở nên rõ ràng hơn thành "as this gives the leverage of employers".
+- Đoạn 2, câu 1: "many organisations today have a thorough selection process in order to find the best out of all that suits their requirements": câu này có thể tách thành hai câu để tránh vi phạm về cú pháp và cảm giác sẽ thông suốt hơn, ví dụ, "Many organisations today have a thorough selection process. This process is designed to find the best candidate who meets their requirements."
+- Đoạn 2, câu 3: "some might have to take 6 to 8 rounds": từ "take" ở đây không sử dụng đúng ngữ cảnh, bạn nên sử dụng "go through" hoặc "participate in" thay cho "take": "some might have to go through / participate in 6 to 8 rounds".
+- Đoạn 3, câu 1: "getting selected via interviews is a transparent method": ở đây, bạn có thể sử dụng "through" thay cho "via" để câu trở nên mượt mà và ngữ cảnh cũng rõ ràng hơn: "getting selected through interviews is a transparent method".
+- Đoạn 3, câu 2: "There were days when people used to get opportunities based on their contacts and references.": ở đây, câu này không rõ ràng và thiếu một từ hoặc một số từ trong cụm từ. Bạn có thể sửa lại câu thành "In the past, people used to get job opportunities based on their personal contacts and references."
+- Đoạn 3, câu 3: "Moreover, during the whole interview process, they will get in contact with senior colleagues which will enable the employees to get to know their employer better.": chỗ này bạn có thể sử dụng "who" thay cho "which" để câu trở nên chính xác hơn: "Moreover, during the whole interview process, they will get in contact with senior colleagues who will enable them to get to know their employer better."
 
 
 Score:

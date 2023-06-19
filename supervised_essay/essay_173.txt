@@ -12,19 +12,14 @@ On the other hand, computers are also a significant invention and they are still
 
 To conclude, I believe computers play an important role in today's era and are considered a necessary innovation but we cannot ignore other major technological advancements in other industries."
 
-
 Revised:
 
-Introduction:
 It is often argued that computers are the most important invention of the last century. While I agree that computers have revolutionized various industries, I disagree that they are the most significant invention. In this essay, I will explain my perspective and provide relevant examples to support it.
 
-Body Paragraph 1:
 There have been many significant inventions in the past century that have changed the way we live. For instance, smartphones have become a necessity in today's world, serving various purposes beyond communication with friends and relatives. Navigation is now made easier by Google Maps, and drones have revolutionized photography and videography by enhancing their quality and reducing the work of cameramen.
 
-Body Paragraph 2:
 Although computers are undoubtedly a significant invention in the field of technology, they cannot be considered the most important. They are still essential in the current era as updated versions like laptops and monitors are widely used. For instance, people cannot replace computers with smartphones in offices, making them irreplaceable in some industries.
 
-Conclusion:
 To sum up, while computers have undoubtedly made a significant impact in various industries, I believe that they cannot be deemed the most important invention of the last century. Numerous other groundbreaking innovations, such as smartphones and drones in the technology industry or electric vehicles in the transportation industry, have significantly impacted our daily lives.
 
 
@@ -32,13 +27,9 @@ Feedback:
 
 Task Response:
 
-Trong bài viết của bạn, bạn đã trả lời một phần câu hỏi một cách chi tiết bằng cách trình bày quan điểm cá nhân của mình về việc liệu máy tính có phải là phát minh quan trọng nhất trong thế kỷ qua hay không. Tuy nhiên, bạn đã không đề cập đến hai phía ý kiến đó để cảm nhận rõ ràng về vấn đề này. Để cải thiện điểm Task Response, bạn có thể cố gắng:
+Bài viết của bạn có phản ánh đúng một phần câu hỏi đề bài, tuy nhiên, chưa trả lời hết một cách rõ ràng. Bạn có lập luận những yếu tố khác cũng đã có ý nghĩa lớn trong cuộc sống hiện đại, ví dụ như điện thoại di động, phương tiện di chuyển sạch và máy bay không người lái. Tuy nhiên, bạn chưa cung cấp đủ bằng chứng hoặc ví dụ để minh chứng rằng những yếu tố này quan trọng hơn những yếu tố liên quan đến máy tính.
 
-- Đọc lại đề bài và hiểu rõ câu hỏi được yêu cầu.
-- Chia bài viết thành hai phần: một phần nêu lên các lý do vì sao máy tính là phát minh quan trọng nhất trong thế kỷ qua, một phần trình bày lý do tại sao máy tính không phải là phát minh quan trọng nhất trong thế kỷ qua.
-- Sử dụng cụm từ như "On one hand" hoặc "On the other hand" để giúp phân loại ý kiến và giúp đọc giả theo dõi dễ dàng hơn.
-
-Ví dụ: Nếu bạn muốn nói rằng máy tính không phải là phát minh quan trọng nhất trong thế kỷ qua, bạn có thể trình bày lập luận về sự phát triển của các công nghệ khác như oto điện, máy bay, viễn thông và năng lượng sạch. Sau đó, bạn có thể nêu ra những lý do vì sao những phát minh này quan trọng hơn máy tính trong đời sống của chúng ta.
+Để cải thiện, bạn nên đưa ra thêm các ví dụ cụ thể hơn để chứng minh rằng các yếu tố khác đã có ảnh hưởng lớn đến cuộc sống hiện đại hơn là máy tính. Đồng thời, trong phần kết luận, bạn cần trả lời rõ ràng hơn rằng bạn đồng ý hay không đồng ý với tuyên bố ban đầu.
 
 
 Coherence and Cohesion:
@@ -75,12 +66,8 @@ Từ vựng của bạn tỏ ra không đa dạng và chưa được sử dụng
 9. "Electric vehicles are replacing fuel-used cars" - Đây là lỗi ngữ pháp. Đúng là "Electric vehicles are replacing cars and motorcycles that use fuel".
 10. "which result in a more sustainable environment and advancement in individual's life." - Câu này không rõ ràng và có lỗi cú pháp. Viết lại thành "This has resulted in a more sustainable environment and an improvement in people’s lives"
 
-Hãy chú ý đến việc sử dụng từ vựng cho phù hợp và chính xác để truyền tải ý của bạn một cách rõ ràng và hiệu quả hơn.
-
 
 Grammatical Range and Accuracy:
-
-Certainly. 
 
 Bài viết của bạn cần cải thiện về ngữ pháp. Dưới đây là phân tích chi tiết về các lỗi sai ngữ pháp trong bài viết của bạn:
 
@@ -91,8 +78,6 @@ Bài viết của bạn cần cải thiện về ngữ pháp. Dưới đây là 
 - "Another worth considering innovation of the last century is in the field of motor vehicles." Thiếu một số từ để câu hoàn chỉnh, nên sửa lại thành "Another worthy innovation of the last century is in the field of motor vehicles."
 - "Electric vehicles are replacing fuel-used cars and motorbikes which result in a more sustainable environment and advancement in individual's life." Thiếu từ để câu hoàn chỉnh, should change to "Electric vehicles are replacing fuel-used cars and motorbikes, which result in a more sustainable environment and advancements in individuals' lives."
 - "Hence, computers are one of the major advancements of the last hundred years." Thiếu cấu trúc câu phù hợp, nên sửa lại thành "Hence, computers are one of the major advancements of the last century."
-
-Chúc bạn thành công trong việc cải thiện ngữ pháp của mình!
 
 
 Score:
