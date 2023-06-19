@@ -44,24 +44,20 @@ if __name__ == "__main__":
 
     ##################################################
 
-    index = 176
+    index = 180
 
-    link = "https://writing9.com/text/5fb923018d21d500183af186-the-threat-of-nuclear-weapons-maintains-world-peace-nuclear-power"
+    link = "https://writing9.com/text/5e23f024be852b00187a5e5a"
 
     topic = """\
-The threat of nuclear weapons maintains world peace. Nuclear power provides cheap and clean energy.
-The benefits of nuclear technology far outweigh the disadvantages.
-To what extent do you agree or disagree?\
+Traffic and housing problems in major cities could be solved by moving large companies and factories and their employees to the countryside.
+To what extent do you agree or disagree with this opinion?\
 """
 
     essay = """\
-It has been believed that the fear of the atomic bomb ensures peace around the globe. Nuclear energy has many advantages such as the provision of cheap and Eco-friendly electricity, and this outweighs the disadvantages. I fully agree with this statement.
-
-Nuclear technology presents a vital role to give public protection to all citizens of the world. Moreover, many strong and powerful countries such as the USA, Russia, China, India have made nuclear weapons and utilize this whenever harmful situation happens between countries to save the citizens. For instance, In 1965, China-India war India has utilized a nuclear atom against china to save its people. Furthermore, these nuclear atomic bombs can destroy living creatures such as buildings in a fraction of seconds. To illustrate, In 1945, the United States dropped an atomic bomb over the city of Hiroshima and Nagasaki and killed many people during the attack.
-
-Nuclear power plays a beneficial role in human life and it also is used for producing various energies. It helps to generate cheap and clean energy. Nuclear power plants generate electricity from smaller atoms and releasing energy. For instance, In large cities, Nuclear power plant provides sufficient energy to give electricity. Although, some countries have made water refinement energy plants to provide clean water to its citizens and it helps for living to survive. For example, Russia has made a water refinement energy plant in 1965 for its residents with low-cost money.
-
-To conclude, this essay disagrees with the opinion of nuclear energy is beneficial rather than dangerous because using nuclear energy in the wrong way would be affected both our species and the earth itself.\
+It is common belief that there are those who protest relocation of big-size companies, factories as well as their staffs to rural areas. Yet, I firmly believe that this initiative is considered as a solution to traffic congestion and a shortage of accommodation. And this essay will address and enlist the following approaches.
+To commence with, transferring sizable corporations and their workers out of inner-city, lead to alleviate the current traveling overload. Each large-scale businesses have hordes of workers who are able to be considered as the chief culprit behind the traffic jam problem, especially in the rush hours. As a consequence, the shift of big companies together with their employees to rural areas would help tackle the congested roads. Additionally, toxic waste from the means of transports is the key factor influencing pollution. Therefore, shifting the companies, factories, and employees to the suburb is able to cut down on emissions into the atmosphere through the acts of lowering the extent of vehicles circulating on the streets.
+On top of that, it firms as together with factories transfer to the suburban area in order to relieve the pressure on urban housing supply systems. According to the recent survey, that workers have the propensity for opting for their accommodation near their works, giving rise to the apartment demand as well as the living cost. Consequently, if there has a tremendous shift in accommodation to the suburban area, city houses and apartments price will fall and be more reasonable with city dwellers.
+In conclusion, by relocating workers to rural areas to work and reside, heavy traffic conditions and shortage of accommodation in city centers could be handled. From my perspective, I am certain that the aforementioned solutions will solve the problem effectively.\
 """
 
     ##################################################
