@@ -44,22 +44,24 @@ if __name__ == "__main__":
 
     ##################################################
 
-    index = 165
+    index = 176
 
-    link = "https://writing9.com/text/60c9bcf9b558f000189f33b6-overpopulation-in-many-major-urban-centers-around-the-world-is"
+    link = "https://writing9.com/text/5fb923018d21d500183af186-the-threat-of-nuclear-weapons-maintains-world-peace-nuclear-power"
 
     topic = """\
-Overpopulation in many major urban centers around the world is a major problem. What are the causes of this? How can this problem be solved?\
+The threat of nuclear weapons maintains world peace. Nuclear power provides cheap and clean energy.
+The benefits of nuclear technology far outweigh the disadvantages.
+To what extent do you agree or disagree?\
 """
 
     essay = """\
-In the modern world, there is a rising concern about crowded and overfilled large cities. It is essential to address this issue, otherwise, it may lead to negative consequences such as the deficit of provision and accommodation. This essay will outline the reasons for this problem and propose possible solutions. 
+It has been believed that the fear of the atomic bomb ensures peace around the globe. Nuclear energy has many advantages such as the provision of cheap and Eco-friendly electricity, and this outweighs the disadvantages. I fully agree with this statement.
 
-Perhaps overpopulation in megalopolises is caused by numerous opportunities there and poverty. It is not a secret that it is more likely to get a well-paid job in a big city where large corporations are located, and there is a bigger offer of leisure time activities such as museums, cinemas, parks and shopping malls. For this reason, many people prefer to move to major cities promoting overpopulation. What's more, some of these people are not so wealthy in order to control the birth rate. Consequently,  significant growth in population can occur in  poor areas.  
+Nuclear technology presents a vital role to give public protection to all citizens of the world. Moreover, many strong and powerful countries such as the USA, Russia, China, India have made nuclear weapons and utilize this whenever harmful situation happens between countries to save the citizens. For instance, In 1965, China-India war India has utilized a nuclear atom against china to save its people. Furthermore, these nuclear atomic bombs can destroy living creatures such as buildings in a fraction of seconds. To illustrate, In 1945, the United States dropped an atomic bomb over the city of Hiroshima and Nagasaki and killed many people during the attack.
 
-However, this problem can be solved by receiving support from the authorities. Firstly, the government should introduce  restrictions on the maximum number of children per family. It would establish a balance between the increase and decline in the number of people and hold this number at a constant level. Furthermore, the governing bodies could suggest  assistance in providing free contraception. This action might prevent unwanted birth among people being not able to afford it.  
+Nuclear power plays a beneficial role in human life and it also is used for producing various energies. It helps to generate cheap and clean energy. Nuclear power plants generate electricity from smaller atoms and releasing energy. For instance, In large cities, Nuclear power plant provides sufficient energy to give electricity. Although, some countries have made water refinement energy plants to provide clean water to its citizens and it helps for living to survive. For example, Russia has made a water refinement energy plant in 1965 for its residents with low-cost money.
 
-To sum up, the excessive population in large urban centres is a serious problem caused by city attractions and shortage of contraceptives among people. I recommend that governments solve this issue by proposing special birth policies and contribute to cheap and safe ways of birth prevention.\
+To conclude, this essay disagrees with the opinion of nuclear energy is beneficial rather than dangerous because using nuclear energy in the wrong way would be affected both our species and the earth itself.\
 """
 
     ##################################################
