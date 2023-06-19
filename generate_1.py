@@ -44,20 +44,24 @@ if __name__ == "__main__":
 
     ##################################################
 
-    index = 180
+    index = 185
 
-    link = "https://writing9.com/text/5e23f024be852b00187a5e5a"
+    link = "https://writing9.com/text/602e066b9e689200183c38d3-the-world-has-seen-an-enormous-increase-in-flights-for"
 
     topic = """\
-Traffic and housing problems in major cities could be solved by moving large companies and factories and their employees to the countryside.
-To what extent do you agree or disagree with this opinion?\
+The world has seen an enormous increase in flights for leisure,business and commercial purpose around the world over recent years. 
+What do you think are the main advantages and disadvantages of such flights?
+Do you think flight should be texted more?\
 """
 
     essay = """\
-It is common belief that there are those who protest relocation of big-size companies, factories as well as their staffs to rural areas. Yet, I firmly believe that this initiative is considered as a solution to traffic congestion and a shortage of accommodation. And this essay will address and enlist the following approaches.
-To commence with, transferring sizable corporations and their workers out of inner-city, lead to alleviate the current traveling overload. Each large-scale businesses have hordes of workers who are able to be considered as the chief culprit behind the traffic jam problem, especially in the rush hours. As a consequence, the shift of big companies together with their employees to rural areas would help tackle the congested roads. Additionally, toxic waste from the means of transports is the key factor influencing pollution. Therefore, shifting the companies, factories, and employees to the suburb is able to cut down on emissions into the atmosphere through the acts of lowering the extent of vehicles circulating on the streets.
-On top of that, it firms as together with factories transfer to the suburban area in order to relieve the pressure on urban housing supply systems. According to the recent survey, that workers have the propensity for opting for their accommodation near their works, giving rise to the apartment demand as well as the living cost. Consequently, if there has a tremendous shift in accommodation to the suburban area, city houses and apartments price will fall and be more reasonable with city dwellers.
-In conclusion, by relocating workers to rural areas to work and reside, heavy traffic conditions and shortage of accommodation in city centers could be handled. From my perspective, I am certain that the aforementioned solutions will solve the problem effectively.\
+Exploration to many countries for enjoyment, trades and exchange phenomena for a few decades in the universe is enhancing drastically. From my perspective, the aircraft schedule should be extended more to create a smooth economical flow. This essay will discuss of the merits of the boarding on aeroplane and also describe some related demerits of this issue.
+
+One of the positives of doing business using an aeroplane is to increase the profit of trades. Not only that the development of the exchange issues at the same time, but also it creates a lot of savings of the time issues. Compare to the past men are now very busy with their tasks. To demonstrate, they have to go to various places which distance is too long. As a result, the more time that he lessens, the more making profit can be possible. Another advantage is that, it can reduce physical pressure. For instance, if a person goes abroad he can prosper his tasks and it would be possible if he uses aeroplane for his journey.
+
+Despite these advantages, aircraft is not a cheap issue. Moreover, a folk who is rich in his wealth can be able to use the aeroplane. This is because the costing of manufacturing plane is too high. Hence, the journey is too long to endure it for his body. As a consequence, a person must have physical stamina where he can travel to long-distance for his business works. For example, if a human wants to ordain his journey he has to prepare a lot of money. Therefore, there is no need to add any flight if a person cannot be able to purchase the aircraft journey schedule.
+
+To sum up, using aircraft is required to construct a development of the country's financial condition and in my opinion, the enhancing of flight schedule may make a more prosper for the nation. However, fair for plain travel should be reasonable so that it can be purchasable for the all classes of the people.\
 """
 
     ##################################################
