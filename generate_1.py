@@ -44,24 +44,21 @@ if __name__ == "__main__":
 
     ##################################################
 
-    index = 190
+    index = 195
 
-    link = "https://writing9.com/text/60832dd405dcca0018f95fba-some-believe-it-is-important-for-cities-and-towns-to"
+    link = "https://writing9.com/text/5eb2bef8b32f7c00182757f4"
 
     topic = """\
-Some believe it is important for cities and towns to invest heavily in building large outdoor public spaces.
-
-To what extent do you agree or disagree?\
+Some children recieve almost no encouragement from their parents regarding their performance at school, while other children recieve too much pressure from their over enthusiastic parents which can have a negative impacts on the child.
+Why do you think some parents put too much pressure on their children to perform well at school?
+What do you think the role of a parents should be in their child education?\
 """
 
     essay = """\
-With the development of populations in cities and towns, the living density is rising sharply in recent years. People need more outdoor space to relax and take activities, so I think it is important to invest suitably in building outdoor public areas, not heavily.
-
-Building large outdoor public space in the city and town could provide an area for the citizen to relax and enjoy the free time. Due to the heavy working stress in the office, people need an outdoor space to relax. In addition, most public parks or outdoor activity areas are close to the huge community. Residents could easily arrive there, and walk around or play with their children. For instance, I live in the city place area, there is a huge public area in front of my apartment. There are a dog park, soccer field, and some activity equipment. I saw a lot of people went to the park when they get off work. Some people were walking their dogs, and some people play with their children. Therefore, the outdoor public field is an important relaxing place in people’s daily life. 
-
-However, although building outdoor public is beneficial to citizen, that does not mean the government needs to invest a lot of funding into that. A suitable amount of money is acceptable. For example, the government need to research the data of public construction expense every year for all districts in the city and town. Moreover, the authority should arrange a number of investment reasonably for building public parks and activities. After they made the decision, residents have the right to vote to agree or disagree. If do so, it will be an effective way to control the cost of public construction. Therefore, the government could support the construction of the public space, but investing a reasonable amount of money is acceptable.
-
-In conclusion, for this discussion, I agree to build more public outdoor areas in cities and towns, because people need this kind of place to relax and enjoy the leisure time. However, the government needs to control the investment. The amount of spending should be calculated in advance.\
+The parents are playing a very essential role behind the success of their offsprings.Fewer guardians do not interfere with toddler school activities.Whereas, some parents show over attitude regarding students' action which have bad effects on the minor development.So, I intend to explore the reasons behind this practice along with parents' responsibility in order to youngsters study.
+To regard with cause of why parents put an excess of pressure on children.Firstly, it is true that the parents always think about children better future.Therefore, they force their children to obtain high grades.However, due to this practice, children do not able to maintain focus on performance just because of parents fear.As a result, they choose the wrong path in the term of success like doing the cheating, give money to teachers for high marking and sometimes, skips their classes and exams.Further point is that, childhood is a very crucial stage in the whole life.At that time, toddler decided where they want to make future with the help of parents.Therefore, with love and care children can share their feelings with parents.Yet, due to pressure, they may choose bad society rather than successful life.As a result, bonding with family members may be become weak.
+Moving further, parents should take steps wisely while keeping negative and positive outcomes in mind.Moreover, parents select corporal punishment, but somewhere it has negative impacts.Therefore, parents should make strong relationship with children, which act as children may explore their feelings without any fear and worry.By this, parents can make right decision with the aid of adolescent interest.Another point is that, the parents guide children regarding fruitful effects of education along with make schedule for playing and studying which may be proved very effective in order to kid may make mind fresh and sharp.
+In conclusion, parents should always treat children in well manner which by this they can avoid bad society and also run into positive path.\
 """
 
     ##################################################
