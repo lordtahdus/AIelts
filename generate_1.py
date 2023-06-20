@@ -44,24 +44,24 @@ if __name__ == "__main__":
 
     ##################################################
 
-    index = 185
+    index = 190
 
-    link = "https://writing9.com/text/602e066b9e689200183c38d3-the-world-has-seen-an-enormous-increase-in-flights-for"
+    link = "https://writing9.com/text/60832dd405dcca0018f95fba-some-believe-it-is-important-for-cities-and-towns-to"
 
     topic = """\
-The world has seen an enormous increase in flights for leisure,business and commercial purpose around the world over recent years. 
-What do you think are the main advantages and disadvantages of such flights?
-Do you think flight should be texted more?\
+Some believe it is important for cities and towns to invest heavily in building large outdoor public spaces.
+
+To what extent do you agree or disagree?\
 """
 
     essay = """\
-Exploration to many countries for enjoyment, trades and exchange phenomena for a few decades in the universe is enhancing drastically. From my perspective, the aircraft schedule should be extended more to create a smooth economical flow. This essay will discuss of the merits of the boarding on aeroplane and also describe some related demerits of this issue.
+With the development of populations in cities and towns, the living density is rising sharply in recent years. People need more outdoor space to relax and take activities, so I think it is important to invest suitably in building outdoor public areas, not heavily.
 
-One of the positives of doing business using an aeroplane is to increase the profit of trades. Not only that the development of the exchange issues at the same time, but also it creates a lot of savings of the time issues. Compare to the past men are now very busy with their tasks. To demonstrate, they have to go to various places which distance is too long. As a result, the more time that he lessens, the more making profit can be possible. Another advantage is that, it can reduce physical pressure. For instance, if a person goes abroad he can prosper his tasks and it would be possible if he uses aeroplane for his journey.
+Building large outdoor public space in the city and town could provide an area for the citizen to relax and enjoy the free time. Due to the heavy working stress in the office, people need an outdoor space to relax. In addition, most public parks or outdoor activity areas are close to the huge community. Residents could easily arrive there, and walk around or play with their children. For instance, I live in the city place area, there is a huge public area in front of my apartment. There are a dog park, soccer field, and some activity equipment. I saw a lot of people went to the park when they get off work. Some people were walking their dogs, and some people play with their children. Therefore, the outdoor public field is an important relaxing place in people’s daily life. 
 
-Despite these advantages, aircraft is not a cheap issue. Moreover, a folk who is rich in his wealth can be able to use the aeroplane. This is because the costing of manufacturing plane is too high. Hence, the journey is too long to endure it for his body. As a consequence, a person must have physical stamina where he can travel to long-distance for his business works. For example, if a human wants to ordain his journey he has to prepare a lot of money. Therefore, there is no need to add any flight if a person cannot be able to purchase the aircraft journey schedule.
+However, although building outdoor public is beneficial to citizen, that does not mean the government needs to invest a lot of funding into that. A suitable amount of money is acceptable. For example, the government need to research the data of public construction expense every year for all districts in the city and town. Moreover, the authority should arrange a number of investment reasonably for building public parks and activities. After they made the decision, residents have the right to vote to agree or disagree. If do so, it will be an effective way to control the cost of public construction. Therefore, the government could support the construction of the public space, but investing a reasonable amount of money is acceptable.
 
-To sum up, using aircraft is required to construct a development of the country's financial condition and in my opinion, the enhancing of flight schedule may make a more prosper for the nation. However, fair for plain travel should be reasonable so that it can be purchasable for the all classes of the people.\
+In conclusion, for this discussion, I agree to build more public outdoor areas in cities and towns, because people need this kind of place to relax and enjoy the leisure time. However, the government needs to control the investment. The amount of spending should be calculated in advance.\
 """
 
     ##################################################
