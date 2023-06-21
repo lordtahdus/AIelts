@@ -44,21 +44,19 @@ if __name__ == "__main__":
 
     ##################################################
 
-    index = 195
+    index = 200
 
-    link = "https://writing9.com/text/5eb2bef8b32f7c00182757f4"
+    link = "https://writing9.com/text/5ead5ca8f3aa390018411655"
 
     topic = """\
-Some children recieve almost no encouragement from their parents regarding their performance at school, while other children recieve too much pressure from their over enthusiastic parents which can have a negative impacts on the child.
-Why do you think some parents put too much pressure on their children to perform well at school?
-What do you think the role of a parents should be in their child education?\
+Nowadays museums have become more and more important. What are the purposes of places such as museums and how should they be funded?\
 """
 
     essay = """\
-The parents are playing a very essential role behind the success of their offsprings.Fewer guardians do not interfere with toddler school activities.Whereas, some parents show over attitude regarding students' action which have bad effects on the minor development.So, I intend to explore the reasons behind this practice along with parents' responsibility in order to youngsters study.
-To regard with cause of why parents put an excess of pressure on children.Firstly, it is true that the parents always think about children better future.Therefore, they force their children to obtain high grades.However, due to this practice, children do not able to maintain focus on performance just because of parents fear.As a result, they choose the wrong path in the term of success like doing the cheating, give money to teachers for high marking and sometimes, skips their classes and exams.Further point is that, childhood is a very crucial stage in the whole life.At that time, toddler decided where they want to make future with the help of parents.Therefore, with love and care children can share their feelings with parents.Yet, due to pressure, they may choose bad society rather than successful life.As a result, bonding with family members may be become weak.
-Moving further, parents should take steps wisely while keeping negative and positive outcomes in mind.Moreover, parents select corporal punishment, but somewhere it has negative impacts.Therefore, parents should make strong relationship with children, which act as children may explore their feelings without any fear and worry.By this, parents can make right decision with the aid of adolescent interest.Another point is that, the parents guide children regarding fruitful effects of education along with make schedule for playing and studying which may be proved very effective in order to kid may make mind fresh and sharp.
-In conclusion, parents should always treat children in well manner which by this they can avoid bad society and also run into positive path.\
+Currently, people are prone to be fading away and even be jeopardized by conventional architectures. Hence, there are several purposes for museums and galleries and a series of steps being taken are expected to preserve and strengthen the importance of these traditional buildings.
+At the outset, the main function of museums and galleries is to demonstrate local citizens the fact regarding their ancestors’ lifestyle, traditional heritages, as well as local cultures. In other words, it is also one of the best means to educate children by the way that it creates a favorable condition for teenagers to gain deeper insight into the sacrifice of our predecessors and cultivate patriotism. Meanwhile, by enhancing the statue of museums domestic economy and countries’ image will be promoted because of the traveling industry which could appeal to a surge growth number of worldwide tourists by the charm of local architectures.
+Encountering these potential targets, the governments have to take steps to preserve and upgrade these traditional values. Firstly, Governments could invest a large amount of money on social media such as TV or newspaper to promote museums and galleries image to emphasize the merits the traditional buildings bring and restore the appearance of it. Moreover, it could raise a citizen’s awareness of traditional identities. Besides, in terms of educating the next generation well, the government should spare no efforts to set up an educational fund. Authorities, for instance, could organize adolescences to visit it, and advocate that only by face-to-face could they appreciate the real values of culture and spirits in their country, and enjoy the historical and aesthetic atmosphere in the conventional architectures.
+In my conclusion, without these conventional architectures, we would lose valuable treasures and are likely to be at a loss under the background of globalization when overseas cultures intrude. Consequently, nothing is more important to make a considerable investment fund on traditional buildings.\
 """
 
     ##################################################
