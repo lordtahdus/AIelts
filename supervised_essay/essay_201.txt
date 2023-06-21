@@ -5,8 +5,11 @@ Topic:
 Essay:
 
 "These days with the advent of new technologies such as AI, a lot of people have lost their businesses and have been replaced by them. Someone may say that this process will continue, resulting in the loose of all the jobs. While others say that there are professions that only living humans can do. I agree with the latter opinion and process this view in this essay.
+
 Most importantly, professions dealing with feelings are difficult to be managed by AI. It is a privilege for human beings to be moved, shocked or angry and needless to say, those emotions can not be understood by artificially made things. For example, jobs such as mental counsellors can not be replaced. This is because there are no patterns or concrete solutions that can be applied to a mental problem. Problems regarding sentiments are always different and so the solutions are uncountable like stars. It is impossible for AI to deal with it using a pattern programmed previously. 
+
 On the other hand, someone may say that if we give all the accumulated information about a job, AI will be able to run the work. I agree to some extent but the more jobs AI steals, the more works people will nurture. AI is special in that it can use effectively all the past information. However, it is unable to make new things because it lacks creativity. Therefore, only humans are able to make innovations and innovative jobs can not be replaced by humans. 
+
 In conclusion, AI will never replace all jobs because it can not understand feelings and give birth to innovations.
 "
 
@@ -15,16 +18,12 @@ Revised:
 
 Possible IELTS Writing Task 2 essay edit:
 
-Introduction:
 The widespread use of artificial intelligence (AI) has resulted in job loss for many people, leading some to predict that eventually all work will be done by AI robots. However, in my opinion, there are certain professions that only humans can do, due to the complex nature of emotions and creativity.
 
-Body Paragraph 1:
 One major reason why not all jobs can be automated is that some roles require dealing with emotions, which is difficult for AI. Humans have the ability to feel and express a wide range of emotions, including surprise, anger, fear, and joy, which cannot be replicated by robots. For instance, jobs like mental counseling or social work demand empathy and understanding, which AI cannot provide. Although machines can process vast amounts of data and detect patterns, they cannot comprehend the nuances of human emotions and experiences.
 
-Body Paragraph 2:
 Another reason why AI will not replace all jobs is that new professions will emerge that require human inventiveness and creativity. AI can perform routine tasks and solve well-defined problems more efficiently than humans, but it cannot engage in imaginative thinking or generate original ideas. Therefore, fields that involve innovation, such as research and development, engineering, and arts, will continue to require human expertise. For example, a painter or musician can offer unique insights and perspectives that cannot be replicated by computers. 
 
-Conclusion:
 In conclusion, I believe the claim that all jobs will eventually be taken over by AI is unfounded. There will always be professions that demand human qualities such as emotion and creativity. While AI may replace some jobs, it will also create new opportunities for humans to engage in meaningful work. Therefore, we should focus on enhancing our own skills and adapting to the changing nature of work, instead of fearing or resisting technological progress.
 
 
