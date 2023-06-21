@@ -43,22 +43,19 @@ if __name__ == "__main__":
     messages.append({"role": "system", "content": system_msg})
 
     ##################################################
-    index = 132
+    index = 201
 
-    link = 'https://writing9.com/text/5fdddd029c0924001808472d-new-technologies-have-changed-the-way-fro-children-to-spend'
+    link = "https://writing9.com/text/6492c006fd0ea70018199e2c-q-some-people-believe-that-eventually-all-jobs-will"
 
     topic = """\
-New technologies have changed the way fro children to spend their free time do the advantages outweigh the disadvantages\
+SOME PEOPLE BELIEVE THAT EVENTUALLY ALL JOBS WILL BE DONE BY ARTIFICIALLY INTELLIGENT ROBOTS. WHAT IS YOUR OPINION?\
 """
 
     essay = """\
-The advanced technoligies is changing children's free time. Some poeple claim that will creat bad influences to child but i think new technologies have benifites to them.
-
-Adimittedly, the advanced technologies are agreing now due to media report lots of negative news such as a child does not make any relationships because drop into the computer and mobile phone but that is not means teachnologies caused this event to happen. The besically reason is children using it not very well beacuse thet are so young and thet can not control themselves.
-
-In my opinion, technologies are good for children and it is destined to play a important role in children's life. The technologies are not just game, children can get knowlegdes and more deeper insight in what disguss in classes and contacting with world through it. We are in a fast-changingcentury if children fo not know how to manipulate technologies such as new system of computer and mobile phone even virtual technologies they will be kept from society. Technologies are friends to children, thet always playing with them when they are with out families. When they want to play with technologies they have to focus on them and consider the methods of technologies' using that will lead children explore then they will be more smart. Everything borns for a reason. Children spent more time in advanced technologies is normal now they need to changing and  catch up the world rather than let the world be suit with them. 
-
-In conclusion, people have to teach children how to make a good relationship with advanced technologies rather than criticize it.\
+These days with the advent of new technologies such as AI, a lot of people have lost their businesses and have been replaced by them. Someone may say that this process will continue, resulting in the loose of all the jobs. While others say that there are professions that only living humans can do. I agree with the latter opinion and process this view in this essay.
+Most importantly, professions dealing with feelings are difficult to be managed by AI. It is a privilege for human beings to be moved, shocked or angry and needless to say, those emotions can not be understood by artificially made things. For example, jobs such as mental counsellors can not be replaced. This is because there are no patterns or concrete solutions that can be applied to a mental problem. Problems regarding sentiments are always different and so the solutions are uncountable like stars. It is impossible for AI to deal with it using a pattern programmed previously. 
+On the other hand, someone may say that if we give all the accumulated information about a job, AI will be able to run the work. I agree to some extent but the more jobs AI steals, the more works people will nurture. AI is special in that it can use effectively all the past information. However, it is unable to make new things because it lacks creativity. Therefore, only humans are able to make innovations and innovative jobs can not be replaced by humans. 
+In conclusion, AI will never replace all jobs because it can not understand feelings and give birth to innovations.
 """
 
     ##################################################

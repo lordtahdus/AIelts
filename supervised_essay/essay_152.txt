@@ -8,28 +8,18 @@ Essay:
 
 To begin with, while IT-specialists unsuccessfully atepmt to catch up hackers, ordinary users scarely take benefits from existing software due to IT-illiteracy. Individuals browse suspicious web-sites and receive unsolicited messages without realizing probable consequences. As a result, they provide hackers with an acces to  personal data, such as name, bank account number or even chattings.Moreover,  victims of cybercrimes often face with psychological abusement, such as cyber bulling or exploitation. As for corporations, the main reason for being endangered is an increased number of persons with an acces to corporation's data. Particularly, each corporation with remote branches has to use share servers, and each computer with an authorized acces can be crashed. Finally, a remarkable ammount of data thefs occurs due to improper usage of official gadgets.
 
- Overall, some steps shoud be implemented in order to manage more relevant security politics. Firstly, goverments should shift theirs focuses onto development of legal framework in cyberspace.Some kind of management authority in privacy also might be created. Clear terms of investigations and conprehensible punishment politics would  trigger a sustaintial decline in cybercrime. Another one measure would be reinforcing of privacy politics among corporations. For instance, each employee who receives an access to corporation's data should be scrupulously testified in cyber security knowledge and skills. In addition, a prohibition ro use official gadgets for personal purposes might also reduce a number of random data thefts.
+Overall, some steps shoud be implemented in order to manage more relevant security politics. Firstly, goverments should shift theirs focuses onto development of legal framework in cyberspace.Some kind of management authority in privacy also might be created. Clear terms of investigations and conprehensible punishment politics would  trigger a sustaintial decline in cybercrime. Another one measure would be reinforcing of privacy politics among corporations. For instance, each employee who receives an access to corporation's data should be scrupulously testified in cyber security knowledge and skills. In addition, a prohibition ro use official gadgets for personal purposes might also reduce a number of random data thefts.
 
 To conclude, I would say, that despite various causes for cybercrime, such measures, as creating privacy policy and reconsideration of privacy rules for users, might be highly effective in both categories."
 
 
 Revised:
 
-Here's an edited version of the essay based on IELTS writing structure:
-
-Introduction:
-
 It is well-known that cybercrime, such as hacking and identity theft, is becoming a growing concern for many people today. This essay will discuss the problems caused by cybercrime and provide possible solutions that ordinary people and businesses can adopt.
-
-Body Paragraph 1:
 
 The rising incidence of cybercrime can be attributed to the proliferation of malicious software, as opposed to secure technology. Ordinary users exacerbate the situation by being IT-illiterate, which makes it easier for them to fall prey to hacking and identity theft. As a result, they easily give hackers access to their sensitive personal information, such as bank account numbers and private chats. Furthermore, cybercrime victims often face psychological abuse such as cyberbullying. Corporations are also at risk due to the increased number of people with access to their data through shared servers, and the possibility of data theft through the misuse of official gadgets.
 
-Body Paragraph 2:
-
 To effectively address the problem of cybercrime, several measures must be implemented. Governments should institute a legal framework that focuses on the development of privacy policies in cyberspace and the establishment of a management authority responsible for enforcing these policies. Clear guidelines on investigations and punishment for cybercrime would also go a long way in reducing its incidence. Corporations must reinforce their privacy policies by subjecting employees who have access to their data to rigorous cyber security training and skills assessments. In addition, employees should be prohibited from using official gadgets for personal purposes to reduce incidents of data theft.
-
-Conclusion:
 
 In conclusion, cybercrime is a major concern for individuals and corporations alike. While several factors have contributed to its rise, the implementation of privacy policies and stringent cybersecurity measures can go a long way in mitigating its effects. Ultimately, it is everyone's responsibility to be vigilant in safeguarding their personal information and using technology responsibly.
 
@@ -45,8 +35,6 @@ Tuy nhiên, một số lời khuyên về cải thiện bài viết của bạn 
 - Thêm thông tin và ví dụ cụ thể để mở rộng và giải thích các điểm ý kiến của bạn. Bạn có thể sử dụng các câu hỏi và các ví dụ cụ thể để giải thích rõ các ý kiến của mình.
 - Sắp xếp các ý kiến của bạn một cách hợp lý bằng cách sử dụng các từ nối câu và cấu trúc câu phức tạp hơn. Điều này sẽ giúp tăng tính logic và sự liên kết của bài viết của bạn.
 - Bổ sung một vài ý kiến ​​khác và đưa ra các mặt tích cực và tiêu cực của các giải pháp của bạn. Điều này sẽ giúp cho bài viết của bạn trở nên thú vị hơn và cho người đọc có được cái nhìn tổng quát hơn về vấn đề này.
-- Sử dụng từ vựng và thành ngữ phức tạp hơn để tăng tính phong phú của bài viết của bạn. Tuy nhiên, bạn nên đảm bảo rằng bạn sử dụng chúng một cách đúng đắn và không gây ra hiểu nhầm cho người đọc.
-- Kiểm tra cẩn thận các lỗi chính tả và ngữ pháp để đảm bảo tính chính xác của bài viết. Các lỗi ngữ pháp và chính tả có thể làm giảm điểm số của bạn trong thang điểm tổng thể.
 
 
 Coherence and Cohesion:
@@ -78,8 +66,6 @@ Trong câu này, bạn nên sử dụng từ "thefts" thay vì "thefs". Ngoài r
 
 Đề xuất sửa đổi: Finally, a remarkable amount of data thefts occur due to improper usage of official devices. 
 
-Tổng thể, để cải thiện sự nhất quán và liên kết trong bài viết của bạn, bạn cần chú ý đến cách bố trí câu và sử dụng các từ liên kết phù hợp để tạo ra các mẫu câu và đoạn văn dễ hiểu và hợp lý.
-
 
 Lexical Resource:
 
@@ -101,12 +87,8 @@ Trong bài viết của bạn, bạn đã sử dụng một loạt các từ v�
 
 8. Từ "prohibition ro" viết sai chính tả. Ý của bạn trong câu này là "prohibition of".
 
-Tổng thể, bài viết của bạn đã sử dụng một loạt các từ vựng phổ biến và đa dạng để diễn đạt suy nghĩ của mình. Tuy nhiên, bạn có thể cải thiện bài viết của mình bằng cách sử dụng các từ vựng phức tạp hơn và đa dạng hơn để tăng sự phong phú và độ chính xác của bài viết của mình. Bạn cũng nên chú ý đến việc sử dụng các từ đúng mặc cho những lỗi nhỏ về chính tả.
-
 
 Grammatical Range and Accuracy:
-
-Grammatical Range and Accuracy là một trong những tiêu chí đánh giá quan trọng nhất trong IELTS Writing Task 2. Dưới đây là một số lỗi phổ biến trong Grammar và các gợi ý để cải thiện bài viết của bạn:
 
 1. Sai cấu trúc câu: Bài viết của bạn đôi khi sử dụng các câu không hoàn chỉnh sau đó đóng dấu chấm thay vì nối chúng lại thành câu hoàn chỉnh.
 
@@ -117,20 +99,6 @@ Grammatical Range and Accuracy là một trong những tiêu chí đánh giá qu
 4. Lỗi đại từ: Sử dụng đại từ sai có thể dẫn đến nhầm lẫn và làm giảm tính chính xác của bài viết.
 
 5. Lỗi trật tự từ: Bạn cần phải đặt các từ và cụm từ trong câu theo đúng trật tự để giúp cho câu có nghĩa và được hiểu rõ ràng.
-
-Một số gợi ý để bạn cải thiện Grammatical Range and Accuracy:
-
-1. Tập trung sử dụng các cấu trúc câu đơn giản trước khi thử sử dụng các cấu trúc phức tạp hơn.
-
-2. Làm quen với cách sử dụng các thì và điểm ngữ pháp để sử dụng chính xác.
-
-3. Sử dụng các danh từ và giới từ đúng cách, chú ý đến sự phù hợp của từ trong ngữ cảnh.
-
-4. Kiểm tra lại việc sử dụng đại từ và đảm bảo chúng được sử dụng chính xác.
-
-5. Tập trung đến cách sắp xếp các từ và cụm từ trong câu để đảm bảo chúng có trật tự đúng và đủ ý nghĩa.
-
-Mặc dù bài viết của bạn có một số lỗi ngữ pháp nhỏ, nhưng tổng thể, bạn đã sử dụng một loạt các câu trực quan và đa dạng, cũng như điểm dấu chấm câu. Bạn nên chú ý đến các lỗi nhỏ trong ngữ pháp và chính tả của mình để tránh các lỗi thường gặp như sai chính tả và lỗi cú pháp cơ bản.
 
 
 Score:
