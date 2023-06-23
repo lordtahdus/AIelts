@@ -43,19 +43,22 @@ if __name__ == "__main__":
     messages.append({"role": "system", "content": system_msg})
 
     ##################################################
-    index = 201
+    index = 205
 
-    link = "https://writing9.com/text/6492c006fd0ea70018199e2c-q-some-people-believe-that-eventually-all-jobs-will"
+    link = "https://writing9.com/text/649506d4fd0ea7001819a34b-some-people-say-that-advertising-encourages-us-to-buy-things"
 
     topic = """\
-SOME PEOPLE BELIEVE THAT EVENTUALLY ALL JOBS WILL BE DONE BY ARTIFICIALLY INTELLIGENT ROBOTS. WHAT IS YOUR OPINION?\
+Some people say that advertising encourages us to buy things we really do not need. Others say that advertisements tell us about new products that may improve our lives. Which viewpoint do you agree with? Use specific reasons and examples to support your answer.\
 """
 
     essay = """\
-These days with the advent of new technologies such as AI, a lot of people have lost their businesses and have been replaced by them. Someone may say that this process will continue, resulting in the loose of all the jobs. While others say that there are professions that only living humans can do. I agree with the latter opinion and process this view in this essay.
-Most importantly, professions dealing with feelings are difficult to be managed by AI. It is a privilege for human beings to be moved, shocked or angry and needless to say, those emotions can not be understood by artificially made things. For example, jobs such as mental counsellors can not be replaced. This is because there are no patterns or concrete solutions that can be applied to a mental problem. Problems regarding sentiments are always different and so the solutions are uncountable like stars. It is impossible for AI to deal with it using a pattern programmed previously. 
-On the other hand, someone may say that if we give all the accumulated information about a job, AI will be able to run the work. I agree to some extent but the more jobs AI steals, the more works people will nurture. AI is special in that it can use effectively all the past information. However, it is unable to make new things because it lacks creativity. Therefore, only humans are able to make innovations and innovative jobs can not be replaced by humans. 
-In conclusion, AI will never replace all jobs because it can not understand feelings and give birth to innovations.
+Promoting their products through various channels has been always the most popular tool for the companies to sell their products. Although some people believe that we can discover new merchandise via marketing, I personally agree that the advertisement has the power of convincing people to purchase unnecessary items.
+
+On the one hand, advertisement is required to allow people to learn about the products that can be beneficial to them. Some items specifically made for target audience may not be found in the neighbourhood stores. As a consequence of the development of online marketing, people from all around the world have access to a wide range of products and they can effortlessly order them online.  For instance, my mother has diabetes and she has been dealing with some challenges such as non-healing wounds that come with this disease. One day we saw a TV ad about a scar cream that was specifically produced for diabetes patients. We ordered that cream online and she has been satisfied with the results. I can say that it helped her greatly. If we did not see the on-screen ad about this cream, she would not have had the chance to heal her scars.
+
+On the other hand, marketing has the power of convincing people to purchase the items they do not necessarily require. There are a great number of various products’ promotions on social media, TV and radio. Doubtlessly, we can say that most of these products are not there in aid of people but for the companies’ profit. Additionally, they are designed to create spending temptation. It is hard to withstand especially the discounts or offers accompanying these products. For example, although I create a shopping list every time before I do grocery shopping, I end up buying more items for the reason that the flyers I receive push me to purchase more than I need. There are so many discounts, offers I come across that if I do not take advantage of them, I feel like I would lose a great deal. This is the power that the advertising companies have over us.
+
+In conclusion, although the product promotion have advantages such as helping people find out the items that are beneficial to them, more often than not it triggers people to spend money on the items that they are not in need of.
 """
 
     ##################################################
