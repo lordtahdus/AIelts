@@ -13,8 +13,6 @@ In conclusion, by relocating workers to rural areas to work and reside, heavy tr
 
 Revised:
 
-Here is the edited essay with an IELTS structure:
-
 It is commonly believed that moving large companies and factories, along with their employees, to the countryside could provide a solution to traffic congestion and housing shortages in major cities. While there are those who protest the relocation of such companies, I strongly agree that this could be an effective strategy. This essay will address the following reasons for my opinion.
 
 Firstly, transferring sizable corporations and their workers to rural areas could alleviate current traffic overload. Large-scale businesses have numerous employees who often contribute to traffic congestion, particularly during rush hour. Thus, relocating these companies and workers outside of urban areas could reduce traffic congestion. Furthermore, transportation emissions from commuters and workers play a significant role in environmental pollution. By moving these companies and factories to suburban areas, the number of vehicles on urban roads would decrease, leading to a reduction in air pollution.
@@ -46,7 +44,7 @@ Bên cạnh đó, bạn cũng sử dụng các từ nối phù hợp và hợp l
 
 Lexical Resource:
 
-Bài viết của bạn đã sử dụng một số từ vựng phù hợp và đa dạng như "initiative", "congested roads", "toxic waste", "accommodation", "propensity",... Tuy nhiên, vẫn còn một số lỗi sử dụng từ vựng cần được cải thiện. Dưới đây là một số gợi ý để bạn cải thiện phần này:
+Bài viết của bạn đã sử dụng một số từ vựng phù hợp và đa dạng như "initiative", "congested roads", "toxic waste", "accommodation", "propensity",... Tuy nhiên, vẫn còn một số lỗi sử dụng từ vựng cần được cải thiện.
 
 - Câu này có sử dụng từ "populace" để chỉ người dân nhưng từ này đã không phổ biến và không được sử dụng nhiều lắm. Bạn có thể sử dụng từ "residents" hoặc "citizens" thay thế.
 Ví dụ: "This relocation can benefit not only the populace but also the environment."
@@ -64,7 +62,7 @@ Ví dụ: "This relocation can benefit not only the populace but also the enviro
 
 Grammatical Range and Accuracy:
 
-Trong bài viết của bạn, bạn đã sử dụng đa dạng các kiểu câu để diễn đạt ý kiến của mình. Điều này giúp bài viết của bạn không bị đơn điệu. Tuy nhiên, vẫn có một vài lỗi về cấu trúc câu và động từ mà bạn cần cải thiện:
+Trong bài viết của bạn, bạn đã sử dụng đa dạng các kiểu câu để diễn đạt ý kiến của mình. Tuy nhiên, vẫn có một vài lỗi về cấu trúc câu và động từ mà bạn cần cải thiện:
 
 1. Câu: "Each large-scale businesses have hordes of workers who are able to be considered as the chief culprit behind the traffic jam problem, especially in the rush hours."
 Lỗi: Số nhiều của danh từ "business" bị thiếu.
