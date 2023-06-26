@@ -43,22 +43,22 @@ if __name__ == "__main__":
     messages.append({"role": "system", "content": system_msg})
 
     ##################################################
-    index = 205
+    index = 206
 
-    link = "https://writing9.com/text/649506d4fd0ea7001819a34b-some-people-say-that-advertising-encourages-us-to-buy-things"
+    link = "https://writing9.com/text/6496e3ddc002d70019eac8a4-some-people-think-that-it-is-more-beneficial-to-take"
 
     topic = """\
-Some people say that advertising encourages us to buy things we really do not need. Others say that advertisements tell us about new products that may improve our lives. Which viewpoint do you agree with? Use specific reasons and examples to support your answer.\
+Some people think that it is more beneficial to take part in sports which are played in teams, like football, while other people think that taking part in individual sports, like tennis or swimming, is better. Discuss both views and give your own opinion.
 """
 
     essay = """\
-Promoting their products through various channels has been always the most popular tool for the companies to sell their products. Although some people believe that we can discover new merchandise via marketing, I personally agree that the advertisement has the power of convincing people to purchase unnecessary items.
+As a human being who wants to get fit from time to time, sports play a big role to make us healthy. There are numerous type of sports in this world, yet, it can be divided into two sections, individual and team sports. While there are still debates over which type is better, here I would like to describe my views on both types and choose which one is better. 
 
-On the one hand, advertisement is required to allow people to learn about the products that can be beneficial to them. Some items specifically made for target audience may not be found in the neighbourhood stores. As a consequence of the development of online marketing, people from all around the world have access to a wide range of products and they can effortlessly order them online.  For instance, my mother has diabetes and she has been dealing with some challenges such as non-healing wounds that come with this disease. One day we saw a TV ad about a scar cream that was specifically produced for diabetes patients. We ordered that cream online and she has been satisfied with the results. I can say that it helped her greatly. If we did not see the on-screen ad about this cream, she would not have had the chance to heal her scars.
+Swimming, tennis, or even running are several sports that consider as individual sports. In this type of sports, our success is highly dependent on our performance and determination to achieve our goals. If the athletes want to be the winner, they must train harder than anyone else and set the goal as high as they can. Our achievements are not relying on outside factors. For example, Usain Bolt as a runner from Jamaica, always comes to the training earlier and trains as hard as he could. Therefore he achieves several medals at the Olympics. 
 
-On the other hand, marketing has the power of convincing people to purchase the items they do not necessarily require. There are a great number of various products’ promotions on social media, TV and radio. Doubtlessly, we can say that most of these products are not there in aid of people but for the companies’ profit. Additionally, they are designed to create spending temptation. It is hard to withstand especially the discounts or offers accompanying these products. For example, although I create a shopping list every time before I do grocery shopping, I end up buying more items for the reason that the flyers I receive push me to purchase more than I need. There are so many discounts, offers I come across that if I do not take advantage of them, I feel like I would lose a great deal. This is the power that the advertising companies have over us.
+On the other hand, team sports such as basketball and football  count heavily on teamwork. Even though each individual has tremendous skills, if they cannot work as a team, their team will fail. As social creatures, human cannot life on their own, our life will be depends on someone. Therefore, teamwork will be one of the key for us to survive not only in sports, but also in our entire life. 
 
-In conclusion, although the product promotion have advantages such as helping people find out the items that are beneficial to them, more often than not it triggers people to spend money on the items that they are not in need of.
+To summarize, both individual and team sports have their own benefits, however, to achieve more in sports and also in our life, I rather to choose team sports.
 """
 
     ##################################################
