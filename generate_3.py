@@ -43,22 +43,26 @@ if __name__ == "__main__":
     messages.append({"role": "system", "content": system_msg})
 
     ##################################################
-    index = 209
+    index = 210
 
-    link = "https://writing9.com/text/dnafiqnfnqiniqqádnkankdkqnk"
+    link = "https://writing9.com/text/649c3f1d8824d200198b8519-in-some-countries-it-is-thought-advisable-that-children-begin"
 
     topic = """\
-Some people think that it is more beneficial to take part in sports which are played in teams, like football, while other people think that taking part in individual sports, like tennis or swimming, is better. Discuss both views and give your own opinion.
+In some countries it is thought advisable that children begin formal education at four years old, while in others they do not have to start school until they are seven or eight.
+
+How far do you agree with either of these views?
 """
 
     essay = """\
-As a human being who wants to get fit from time to time, sports play a big role to make us healthy. There are numerous type of sports in this world, yet, it can be divided into two sections, individual and team sports. While there are still debates over which type is better, here I would like to describe my views on both types and choose which one is better. 
+Age is a vital factor for children to learn. It is stated that children in some countries begin their formal education when they are four years old. Conversely, others started school at seven or eight years old. Personally, children should start learning at the age of seven. Their brain is ready for learning at this age. Children at seven will Study more effectively. There are reasons to support this view. 
 
-Swimming, tennis, or even running are several sports that consider as individual sports. In this type of sports, our success is highly dependent on our performance and determination to achieve our goals. If the athletes want to be the winner, they must train harder than anyone else and set the goal as high as they can. Our achievements are not relying on outside factors. For example, Usain Bolt as a runner from Jamaica, always comes to the training earlier and trains as hard as he could. Therefore he achieves several medals at the Olympics. 
+To start with, Children at seven have a higher ability to learn. They are grown up enough for learning and understanding efficiently. Since their brain is developed enough to distinguish situations, they can learn with more comprehension. They are able to take better advantages from their brain at this age. When their brain is developed, they will be able to gain a lot of advantages from that. They can comprehend easy things faster than those who start to learn at a young age. This means that starting to teach children at age of seven will provide more advantages for children. 
 
-On the other hand, team sports such as basketball and football  count heavily on teamwork. Even though each individual has tremendous skills, if they cannot work as a team, their team will fail. As social creatures, human cannot life on their own, our life will be depends on someone. Therefore, teamwork will be one of the key for us to survive not only in sports, but also in our entire life. 
+Next, children at this age will be able to control and manage their stress and behavior while studying. This is an essential reason because they need to be able to focus particularly on their task. They can manage their emotions while learning. This cannot be taught to kids at four. They are too young to control their behavior and emotions in the classroom. Therefore, pupils at the age of seven can control themselves to focus on lessons. This means that children at seven will have enough maturity to control themselves.  
 
-To summarize, both individual and team sports have their own benefits, however, to achieve more in sports and also in our life, I rather to choose team sports.
+On the other hand, some countries send kids to go on formal education while they are just four. This can motivate children to learn since they were young. They can be taught the skill of learning at a young age, so they can learn more easily when they are grown up. However, the age of four should be a period of playing and entertaining. Since at this age it is too complicated for kids to learn in a formal lesson. Therefore, it is not the right time to send them to school. 
+
+In conclusion, children should be taught in a formal lesson when they are seven. Kids at this age have a higher ability to learn. Their brain is developed enough to comprehend the lesson. In addition, they are grown enough to control themselves while learning. Children at age four are not grown enough to control themselves.
 """
 
     ##################################################

@@ -30,8 +30,6 @@ Feedback:
 
 Task Response:
 
-Có, tôi sẽ đánh giá Task Response của bài viết của bạn theo tiêu chí chi tiết hơn.
-
 1. Yêu cầu đề bài có được trả lời không?
 - Đề bài yêu cầu bạn thảo luận cả hai quan điểm và đưa ra quan điểm cá nhân của mình. Trong bài viết của bạn, bạn đã trả lời đúng yêu cầu này bằng cách phân tích cả hai loại thể thao và đưa ra ý kiến cá nhân của bạn về loại nào tốt hơn.
 
