@@ -3,7 +3,7 @@ import os
 
 from decouple import config
 
-openai.api_key = config('OPENAI_KEY_1')
+openai.api_key = config('OPENAI_KEY_3')
 
 # a list saves all the previous messages
 messages = []

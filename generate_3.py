@@ -43,9 +43,9 @@ if __name__ == "__main__":
     messages.append({"role": "system", "content": system_msg})
 
     ##################################################
-    index = 206
+    index = 207
 
-    link = "https://writing9.com/text/6496e3ddc002d70019eac8a4-some-people-think-that-it-is-more-beneficial-to-take"
+    link = "https://writing9.com/text/dnfnafjn"
 
     topic = """\
 Some people think that it is more beneficial to take part in sports which are played in teams, like football, while other people think that taking part in individual sports, like tennis or swimming, is better. Discuss both views and give your own opinion.
@@ -76,10 +76,47 @@ To summarize, both individual and team sports have their own benefits, however, 
         syntaxes = [
             f'This is IELTS writing task 2.\n\nTopic:\n"{topic}"\n\nEssay:\n"{essay}"\nPlease edit the essay according to IELTS structure',
             f'This is IELTS writing task 2.\n\nTopic:\n"{topic}"\n\nEssay:\n"{essay}"\nPlease provide me detailed feedback in Vietnamese with clear explanations, based on four scoring criteria:\nTask Response\nCoherence and Cohesion\nLexical Resource\nGrammatical Range and Accuracy',
-            "Đánh giá Task Response trong bài viết của tôi một cách chi tiết hơn. Bài viết của tôi có trả lời đúng câu hỏi đề bài không? Nếu không, nêu ra ví dụ để cải thiện.\nĐây là cấu trúc của đánh giá:\n<Lỗi cần cải thiện>\n<Ví dụ cải thiện>",
-            "Đánh giá Coherence and Cohesion trong bài viết của tôi một cách chi tiết hơn. Bài viết của tôi có sự liên kết mạch lạc và hợp lí giữa tất cả các ý và các câu không? Nếu không, nêu ra ví dụ để cải thiện.\nĐây là cấu trúc của đánh giá:\n<Lỗi cần cải thiện>\n<Ví dụ cải thiện>",
-            "Đánh giá Lexical Resource trong bài viết của tôi một cách chi tiết hơn. Bài viết của tôi có mắc lỗi sai về từ vựng không? Nếu có, liệt kê tất cả lỗi sai.\nĐây là cấu trúc của đánh giá:\n<Lỗi cần cải thiện>\n<Ví dụ cải thiện>",
-            "Đánh giá Grammatical Range and Accuracy trong bài viết của tôi một cách chi tiết hơn. Bài viết của tôi có mắc lỗi sai về ngữ pháp không? Nếu có, liệt kê lỗi sai tất cả lỗi sai.\nĐây là cấu trúc của đánh giá:\n<Lỗi cần cải thiện>\n<Ví dụ cải thiện>",
+            """\
+            Đánh giá Task Response trong bài viết của tôi một cách chi tiết hơn theo những tiêu chí sau:
+            Câu hỏi yêu cầu đề bài có được trả lời không?
+            Giải thích đầy đủ tất cả các phần của nhiệm vụ không?
+            Ý tưởng có được mở rộng đầy đủ không?
+
+            Nếu không, nêu ra ví dụ để cải thiện.
+            Đây là cấu trúc của đánh giá:
+            Lỗi cần cải thiện
+            Ví dụ cải thiện
+            """,
+            """\
+            Đánh giá Coherence and Cohesion trong bài viết của tôi một cách chi tiết hơn theo những tiêu chí sau:
+            Bài viết của tôi có sự liên kết mạch lạc và hợp lí giữa tất cả các ý và các câu không?
+            Các liên kết câu có tự nhiên và logic không?
+
+            Nếu không, nêu ra ví dụ để cải thiện.
+            Đây là cấu trúc của đánh giá:
+            Lỗi cần cải thiện
+            Ví dụ cải thiện
+            """,
+            """\
+            Đánh giá Lexical Resource trong bài viết của tôi một cách chi tiết hơn theo những tiêu chí sau:
+            Bài viết của tôi có mắc lỗi sai về từ vựng không?
+            Từ vựng dùng có tự nhiên và thích hợp không?
+
+            Nếu có, liệt kê tất cả lỗi sai.
+            Đây là cấu trúc của đánh giá:
+            Lỗi cần cải thiện
+            Ví dụ cải thiện
+            """,
+            """\
+            Đánh giá Grammatical Range and Accuracy trong bài viết của tôi một cách chi tiết hơn theo những tiêu chí sau:
+            Bài viết của tôi có mắc lỗi sai về ngữ pháp không?
+            Ngữ pháp có được dùng đúng không?
+            
+            Nếu có, liệt kê lỗi sai tất cả lỗi sai.
+            Đây là cấu trúc của đánh giá:
+            Lỗi cần cải thiện
+            Ví dụ cải thiện
+            """,
             "Estimate carefully the score of each criteria"
         ]
         headings = [
