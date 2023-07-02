@@ -1,10 +1,11 @@
 import openai
 from decouple import config
 
+from similarity_check import *
 from link_check import *
 
 def run():
-    # while input != "quit()":
+    global generated_content
     with open(f"processed_essay/essay_{index}.txt", "a", encoding="utf-8") as f:
         for i in range(0,7):
             message = syntaxes[i]
@@ -27,7 +28,8 @@ def run():
                 model="gpt-3.5-turbo",
                 messages=messages)
             reply = response["choices"][0]["message"]["content"]
-
+            # Add generated output to do similarity check
+            generated_content += reply
             # save general feedback in messages but not print 
             if i == 1:
                 messages.append({"role": "assistant", "content": reply})
@@ -39,30 +41,29 @@ if __name__ == "__main__":
     openai.api_key = config('OPENAI_KEY_3')
 
     messages = []
+    generated_content = ""
     system_msg = "Ielts writing editor"
     messages.append({"role": "system", "content": system_msg})
 
     ##################################################
-    index = 210
+    index = 212
 
-    link = "https://writing9.com/text/649c3f1d8824d200198b8519-in-some-countries-it-is-thought-advisable-that-children-begin"
+    link = "https://writing9.com/text/64a14ea2d38ec40018b4e5a4-the-most-important-aim-of-science-should-be-to-improve"
 
     topic = """\
-In some countries it is thought advisable that children begin formal education at four years old, while in others they do not have to start school until they are seven or eight.
+The most important aim of science should be to improve people’s lives. 
 
-How far do you agree with either of these views?
+To what extent do you agree or disagree?
 """
 
     essay = """\
-Age is a vital factor for children to learn. It is stated that children in some countries begin their formal education when they are four years old. Conversely, others started school at seven or eight years old. Personally, children should start learning at the age of seven. Their brain is ready for learning at this age. Children at seven will Study more effectively. There are reasons to support this view. 
+There is a fact that the improvement of people’s lives should be the most significant purpose of science. I personally agree with this matter. The reasons why I believe will be addressed in this passage.
 
-To start with, Children at seven have a higher ability to learn. They are grown up enough for learning and understanding efficiently. Since their brain is developed enough to distinguish situations, they can learn with more comprehension. They are able to take better advantages from their brain at this age. When their brain is developed, they will be able to gain a lot of advantages from that. They can comprehend easy things faster than those who start to learn at a young age. This means that starting to teach children at age of seven will provide more advantages for children. 
+The most important reason why I advocate this notion is that all investigations need to be funded, in other words, the government should consider some budgets for doing them and this money has been collected from the people. For example, annually the individuals have to pay taxation and as a result, they would be entitled to benefit from the outcomes of the science. Without no money, the scientists will not be able to fulfil their purposes in their projects and they will fail undoubtedly.
 
-Next, children at this age will be able to control and manage their stress and behavior while studying. This is an essential reason because they need to be able to focus particularly on their task. They can manage their emotions while learning. This cannot be taught to kids at four. They are too young to control their behavior and emotions in the classroom. Therefore, pupils at the age of seven can control themselves to focus on lessons. This means that children at seven will have enough maturity to control themselves.  
+Another substantial reason for this opinion is that we are living in a fast-changing world and science plays a vital role in people’s lives. This role can be classified in various aspects. Firstly, technology can help people to benefit from various equipment, for example, computers, smartphones and the Internet. Secondly, science is able to investigate healthcare facilities and introduce new medications to the people perfectly. For example, vaccination is an outstanding approach that results in the crowd is living easier.
 
-On the other hand, some countries send kids to go on formal education while they are just four. This can motivate children to learn since they were young. They can be taught the skill of learning at a young age, so they can learn more easily when they are grown up. However, the age of four should be a period of playing and entertaining. Since at this age it is too complicated for kids to learn in a formal lesson. Therefore, it is not the right time to send them to school. 
-
-In conclusion, children should be taught in a formal lesson when they are seven. Kids at this age have a higher ability to learn. Their brain is developed enough to comprehend the lesson. In addition, they are grown enough to control themselves while learning. Children at age four are not grown enough to control themselves.
+In conclusion, there is a statement regarding this fact that the most essential goal of scientific activities should be people’s lives. I personally agree with this matter, due to the fact that the money is needed to afford scientific projects should be gained by the population. Additionally, the science consists of different classifications that are able to assist the society live more convenient such as creation of various appliances and healthcare amenities.
 """
 
     ##################################################
@@ -127,9 +128,13 @@ In conclusion, children should be taught in a formal lesson when they are seven.
             "Score:\n\nOverall:\n\nScore_TR:\nScore_CC:\nScore_LR:\nScore_GA:\n"
         ]
         
-        print(".....Generating.....")
+        print(f".....Generating essay {index}.....")
 
         run()
+
+        # Print similarity score
+        og_content = topic + essay
+        similarity_check([og_content, generated_content])
 
         # append the link in the links.csv
         with open('links.csv', "a") as f:
