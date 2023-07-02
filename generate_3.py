@@ -46,24 +46,22 @@ if __name__ == "__main__":
     messages.append({"role": "system", "content": system_msg})
 
     ##################################################
-    index = 212
+    index = 213
 
-    link = "https://writing9.com/text/64a14ea2d38ec40018b4e5a4-the-most-important-aim-of-science-should-be-to-improve"
+    link = "https://writing9.com/text/64a14dc3d38ec40018b4e59e-nowadays-women-as-well-as-men-work-full-time-therefore-women"
 
     topic = """\
-The most important aim of science should be to improve people’s lives. 
-
-To what extent do you agree or disagree?
+Nowadays, women, as well as men, work full-time. Therefore, women and men should share household tasks equally. (e.g. cleaning and looking after children). To what extent do you agree or disagree?
 """
 
     essay = """\
-There is a fact that the improvement of people’s lives should be the most significant purpose of science. I personally agree with this matter. The reasons why I believe will be addressed in this passage.
+Recent trends show that both men and women are working full-time compared to older days. Some people think that men cannot do most of the household tasks, whereas others argue that men should equally do work at home to help women. Balancing the household tasks equally for both is always debatable. 
 
-The most important reason why I advocate this notion is that all investigations need to be funded, in other words, the government should consider some budgets for doing them and this money has been collected from the people. For example, annually the individuals have to pay taxation and as a result, they would be entitled to benefit from the outcomes of the science. Without no money, the scientists will not be able to fulfil their purposes in their projects and they will fail undoubtedly.
+To begin with, men always feel that they are responsible for managing the economic situation of the family such as daily needs, expenses, children's education and financial growth. So this contributes to men's mindset to focus on the financial stability of the family. Although women are responsible for children's needs, cooking, washing clothes and cleaning etc. For example these factor affects the recent days, where women are equally contributing to the family by working full time and managing household work is quite difficult these days. 
 
-Another substantial reason for this opinion is that we are living in a fast-changing world and science plays a vital role in people’s lives. This role can be classified in various aspects. Firstly, technology can help people to benefit from various equipment, for example, computers, smartphones and the Internet. Secondly, science is able to investigate healthcare facilities and introduce new medications to the people perfectly. For example, vaccination is an outstanding approach that results in the crowd is living easier.
+On the other hand, mature people think that they are equally responsible for household work to help women to be more balanced inside and outside the home. These people help out with cleaning, teaching kids, washing clothes, etc. where women need help with their day-to-day activities. Hence balancing  work at home would help to have a peaceful and understanding life between couples to avoid misunderstandings or conflicts. My colleagues experienced problems when they do not share the workload at home due to women facing more workloads and suffering. 
 
-In conclusion, there is a statement regarding this fact that the most essential goal of scientific activities should be people’s lives. I personally agree with this matter, due to the fact that the money is needed to afford scientific projects should be gained by the population. Additionally, the science consists of different classifications that are able to assist the society live more convenient such as creation of various appliances and healthcare amenities.
+To conclude, I strongly agree that men should equally share the tasks with women at home to lead a peaceful and healthy life. With the growing culture of women working full-time and it would continue for future years, men should understand the difficulty and support women the most in the living location.
 """
 
     ##################################################
@@ -134,7 +132,11 @@ In conclusion, there is a statement regarding this fact that the most essential 
 
         # Print similarity score
         og_content = topic + essay
-        similarity_check([og_content, generated_content])
+        score = similarity_check([og_content, generated_content])
+        print(score)
+
+        with open('similar_scores.csv', "a") as f:
+            f.write(f"\nEssay {index}: {score}")
 
         # append the link in the links.csv
         with open('links.csv', "a") as f:

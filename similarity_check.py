@@ -1,11 +1,6 @@
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-# Sample documents
-documents = [
-    "I love cats and dogs.",
-    "Dogs are great."
-]
 
 def similarity_check(documents: list):
     # Build the TF-IDF matrix
@@ -17,4 +12,4 @@ def similarity_check(documents: list):
 
     # Calculate the similarity scores
     similarity_score = round(cosine_similarities[0, 1], 3)
-    print(f"Similarity score: {similarity_score}")
+    return (f"Similarity score: {similarity_score}")

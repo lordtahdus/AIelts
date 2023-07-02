@@ -19,8 +19,6 @@ In conclusion, there is a statement regarding this fact that the most essential 
 
 Revised:
 
-Here is the edited version of the essay:
-
 There is an ongoing debate concerning whether the improvement of people's lives should be the primary aim of science. I strongly agree that science should prioritize enhancing people's lives. In this essay, I will discuss the reasons to support this perspective.
 
 Firstly, it is crucial to fund scientific research to carry out investigations effectively. These funds are primarily gathered from the public through taxes. Without adequate financial support, scientists would be unable to fulfill their objectives and make significant advancements. Therefore, improving people's lives should be the main goal of science, as it directly impacts the funding it receives.
@@ -34,9 +32,6 @@ Feedback:
 
 Task Response:
 
-Trả lời yêu cầu của bạn:
-
-Task Response:
 - Bài viết của bạn đáp ứng yêu cầu của đề bài bằng cách đưa ra một quan điểm rõ ràng: đồng ý rằng mục tiêu quan trọng nhất của khoa học nên là cải thiện cuộc sống của con người.
 - Các lý do bạn đưa ra là có liên quan và hỗ trợ quan điểm của bạn.
 - Tuy nhiên, bạn có thể mở rộng và phát triển ý tưởng của mình để đạt điểm số cao hơn.
@@ -52,9 +47,7 @@ Ví dụ cho lỗi cải thiện:
 
 Coherence and Cohesion:
 
-Đánh giá Coherence and Cohesion trong bài viết của bạn:
-
-Trong bài viết của bạn, có sự liên kết mạch lạc và hợp lí giữa các ý và câu chứa trong bài viết. Tuy nhiên, một số chi tiết tiếng Anh không được sắp xếp một cách tự nhiên và logic, gây cản trở cho sự liên kết tổng thể của bài viết. Dưới đây là danh sách các lỗi cần sửa đối với Coherence and Cohesion:
+Trong bài viết của bạn, có sự liên kết mạch lạc và hợp lí giữa các ý và câu chứa trong bài viết. Tuy nhiên, một số chi tiết tiếng Anh không được sắp xếp một cách tự nhiên và logic, gây cản trở cho sự liên kết tổng thể của bài viết.
 
 Lỗi cần sửa:
 1. Sự lặp lại từ và cụm từ: Bạn đã sử dụng một số từ và cụm từ như "people's lives," "scientific activities," "various," và "science" nhiều lần trong bài viết. Điều này gây sự lập đi lập lại và không đa dạng về từ vựng.
@@ -65,8 +58,6 @@ Ví dụ cải thiện: "The allocation of funds for scientific investigations i
 
 3. Sử dụng từ ngữ không tự nhiên và không logic: Có một số từ và cụm từ trong bài viết không được sử dụng một cách tự nhiên và không hợp lý, gây khó khăn cho việc hiểu ý của bạn.
 Ví dụ cải thiện: "Science, in its various disciplines, plays a vital role in shaping our rapidly evolving world. Firstly, technology enables individuals to benefit from a wide range of tools and devices such as computers, smartphones, and the Internet. Secondly, the field of science and research focuses on healthcare advancements and the development of new medications for the benefit of the public. For instance, vaccinations have significantly improved public health and made living more convenient."
-
-Hy vọng đánh giá này giúp bạn hiểu rõ hơn về các lỗi trong Coherence and Cohesion của bài viết. Mong rằng bạn có thể áp dụng phản hồi này để nâng cao kỹ năng viết của mình.
 
 
 Lexical Resource:
@@ -89,12 +80,8 @@ Trong bài viết của bạn, có một số lỗi về từ vựng và sử d�
    - Lỗi cần sửa: "due to the fact that"
    - Ví dụ cho lỗi cải thiện: "because" or "since"
 
-Ngoài những lỗi trên, chúng tôi cũng khuyến nghị bạn sử dụng từ vựng hợp lý và không lạm dụng các từ mà bạn đã sử dụng nhiều lần. Điều này sẽ làm cho bài viết của bạn trở nên đa dạng và chuyên nghiệp hơn.
-
 
 Grammatical Range and Accuracy:
-
-Tôi đã xem xét lại bài viết của bạn và phát hiện một số lỗi về ngữ pháp trong Grammatical Range and Accuracy. Dưới đây là danh sách các lỗi cần sửa cùng với ví dụ giúp bạn cải thiện:
 
 1. Lỗi cần sửa: "Without no money"
    Ví dụ cho lỗi cải thiện: "Without any funding" hoặc "Without sufficient funds"
@@ -113,8 +100,6 @@ Tôi đã xem xét lại bài viết của bạn và phát hiện một số l�
 
 6. Lỗi cần sửa: "the money is needed to afford scientific projects should be gained by the population"
    Ví dụ cho lỗi cải thiện: "The funds needed to support scientific projects should be acquired through taxation or other means from the population"
-
-Mong rằng danh sách này sẽ giúp bạn làm rõ những lỗi sai về ngữ pháp trong bài viết của bạn và cải thiện điểm số trong tiêu chí Grammatical Range and Accuracy.
 
 
 Score:
