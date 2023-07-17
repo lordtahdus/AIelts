@@ -14,6 +14,9 @@ at once (which are stored in need_regen folder).
 The required format is to put "?" next to the headings that need regeneration.
 For other parts that don't need regeneration, just leave it blank.
 
+After regenerated successfully, the essay will relocate back to supervised essay,
+where we can give another check.
+
 Example:
 
     Revised:
@@ -22,7 +25,7 @@ Example:
     Lexical Resource:?
     Grammatical Range and Accuracy:
 
-In this case, TR and LR will be regenerated
+In this case, TR and LR will be regenerated.
 """
 
 
@@ -33,7 +36,7 @@ system_msg = "Ielts writing editor"
 messages.append({"role": "system", "content": system_msg})
 
 
-def get_user_options_and_contents() -> tuple(dict(List), dict(List)):
+def get_user_options_and_contents() -> tuple[dict, dict]:
     """
     Get the parts that need to be regenerated for all essays
     """
@@ -56,7 +59,7 @@ def get_user_options_and_contents() -> tuple(dict(List), dict(List)):
             # print(lines)
 
             # initialise for each essay
-            essay_index = file[6:-4]
+            essay_index = file[17:-4]
             user_options_all[essay_index] = []
             contents_all[essay_index] = []
 
@@ -65,21 +68,22 @@ def get_user_options_and_contents() -> tuple(dict(List), dict(List)):
                 lines.index('Essay:\n', 2, 10)
             ]
 
-            for row, item in enumerate(lines):
-                
-                for part in [
+            parts = [
                     "Revised:", "Task Response:", "Coherence and Cohesion:",
                     "Lexical Resource:", "Grammatical Range and Accuracy:", "Score:"
-                ]:
+            ]
+            for row, item in enumerate(lines):
+                for part in parts:
                     if part in item:
+                        parts.remove(part) # remove the part when it is first occurred
                         sep_indexes.append(row)
-                        if len(item) != len(part):
+                        if len(item.strip()) != len(part):
                             assert item[len(part)] == "?", "Wrong format"
                             user_options_all[essay_index].append(1)
                         else:
                             user_options_all[essay_index].append(0)
-                
-            contents_all.append(get_contents_each_essay(lines, sep_indexes))
+            
+            contents_all[essay_index] = get_contents_each_essay(lines, sep_indexes)
 
     return (user_options_all, contents_all)
 
@@ -113,33 +117,70 @@ def request_ChatGPT(messages):
     response = openai.ChatCompletion.create(
         model="gpt-3.5-turbo",
         messages=messages,
-        max_tokens= 500)
+        max_tokens= 500
+    )
     reply = response["choices"][0]["message"]["content"]
     return reply
 
-    
+
+def get_specific_syntaxes(contents_each: List):
+    syntaxes = [
+        f'This is IELTS writing task 2.\n\nTopic:\n"{contents_each[0]}"\n\nEssay:\n"{contents_each[1]}"\nPlease edit the essay according to IELTS structure',
+        f'This is IELTS writing task 2.\n\nTopic:\n"{contents_each[0]}"\n\nEssay:\n"{contents_each[1]}"\nPlease provide me detailed feedback in Vietnamese with clear explanations, based on four scoring criteria:\nTask Response\nCoherence and Cohesion\nLexical Resource\nGrammatical Range and Accuracy',
+        """\
+Đánh giá Task Response trong bài viết của tôi một cách chi tiết hơn theo những tiêu chí sau:
+Yêu cầu đề bài có được trả lời không?
+Bài viết có giải thích đầy đủ tất cả các phần của nhiệm vụ không?
+Ý tưởng có được mở rộng đầy đủ không?
+
+Nếu có, liệt kê tất cả lỗi sai của Task Response theo cấu trúc sau:
+Lỗi cần sửa
+Ví dụ cho lỗi cải thiện
+""",
+        """\
+Đánh giá Coherence and Cohesion trong bài viết của tôi một cách chi tiết hơn theo những tiêu chí sau:
+Bài viết của tôi có sự liên kết mạch lạc và hợp lí giữa tất cả các ý và các câu không?
+Các liên kết câu có tự nhiên và logic không?
+
+Nếu có, liệt kê tất cả lỗi sai của Coherence and Cohesion theo cấu trúc sau:
+Lỗi cần sửa
+Ví dụ cho lỗi cải thiện
+""",
+        """\
+Đánh giá Lexical Resource trong bài viết của tôi một cách chi tiết hơn theo những tiêu chí sau:
+Bài viết của tôi có mắc lỗi sai về từ vựng không?
+Từ vựng dùng có tự nhiên và thích hợp không?
+
+Nếu có, liệt kê tất cả lỗi sai của Lexical Resource theo cấu trúc sau:
+Lỗi cần sửa
+Ví dụ cho lỗi cải thiện
+""",
+        """\
+Đánh giá Grammatical Range and Accuracy trong bài viết của tôi một cách chi tiết hơn theo những tiêu chí sau:
+Bài viết của tôi có mắc lỗi sai về ngữ pháp không?
+
+Nếu có, liệt kê tất cả lỗi sai của Grammatical Range and Accuracy theo cấu trúc sau:
+Lỗi cần sửa
+Ví dụ cho lỗi cải thiện
+""",
+        "Estimate carefully the score of each criteria"
+    ]
+    return syntaxes
+
+
 def run():
 
     user_options_all, contents_all = get_user_options_and_contents()
-
+    
     print(".....Start Generating.....")
     
     for essay_index in user_options_all.keys():
-        user_options_each = user_options_all[essay_index]
-        contents_each = contents_all[essay_index]
+        user_options_each: List = user_options_all[essay_index]
+        contents_each: List = contents_all[essay_index]
 
-        # Request ChatGPT syntaxes
-        # TODO
-        syntaxes = [
-            f'This is IELTS writing task 2.\n\nTopic:\n"{contents_each[0]}"\n\nEssay:\n"{contents_each[1]}"\nPlease edit the essay according to IELTS structure',
-            f'This is IELTS writing task 2.\n\nTopic:\n"{contents_each[0]}"\n\nEssay:\n"{contents_each[1]}"\nPlease provide me detailed feedback in Vietnamese with clear explanations, based on four scoring criteria:\nTask Response\nCoherence and Cohesion\nLexical Resource\nGrammatical Range and Accuracy',
-            "Đánh giá Task Response trong bài viết của tôi một cách chi tiết hơn. Bài viết của tôi có trả lời đúng câu hỏi đề bài không? Nếu không, nêu ra ví dụ để cải thiện.\nĐây là cấu trúc của đánh giá:\n<Lỗi cần cải thiện>\n<Ví dụ cải thiện>",
-            "Đánh giá Coherence and Cohesion trong bài viết của tôi một cách chi tiết hơn. Bài viết của tôi có sự liên kết mạch lạc và hợp lí giữa tất cả các ý và các câu không? Nếu không, nêu ra ví dụ để cải thiện.\nĐây là cấu trúc của đánh giá:\n<Lỗi cần cải thiện>\n<Ví dụ cải thiện>",
-            "Đánh giá Lexical Resource trong bài viết của tôi một cách chi tiết hơn. Bài viết của tôi có mắc lỗi sai về từ vựng không? Nếu có, liệt kê tất cả lỗi sai.\nĐây là cấu trúc của đánh giá:\n<Lỗi cần cải thiện>\n<Ví dụ cải thiện>",
-            "Đánh giá Grammatical Range and Accuracy trong bài viết của tôi một cách chi tiết hơn. Bài viết của tôi có mắc lỗi sai về ngữ pháp không? Nếu có, liệt kê lỗi sai tất cả lỗi sai.\nĐây là cấu trúc của đánh giá:\n<Lỗi cần cải thiện>\n<Ví dụ cải thiện>",
-            "Estimate carefully the score of each criteria"
-        ]
-
+        # ChatGPT requesting syntaxes
+        syntaxes = get_specific_syntaxes(contents_each)
+        
         # check for all user inputs are 0 and 1
         for option in user_options_each:
             assert option in [0,1], "Your input should be only 0 and 1"
@@ -151,7 +192,9 @@ def run():
             f.write(f"""Topic:\n\n{contents_each[0]}\n\nEssay:\n\n{contents_each[1]}\n\n""")
             
             print(f"{essay_index}...")
-            
+
+            user_options_each.insert(1, 0) # this exists because of General Feedback
+
             # loop through all parts and regenerate the chosen parts
             for i in range(0,7):
 
@@ -188,12 +231,12 @@ def run():
                     else:
                         f.write(reply + '\n\n\n')
 
-            # move the old_essay to old_essay folder
-            os.replace(f'need_regen/essay_{essay_index}.txt', f'old_essay/essay_{essay_index}.txt')
-            # remove the suffix "...generating..._" for regenerated file
-            os.rename(f"need_regen/essay_{essay_index}...generating..._.txt", f"need_regen/essay_{essay_index}.txt")
+        # move the old_essay to old_essay folder
+        os.replace(f'need_regen/essay_{essay_index}.txt', f'old_essay/essay_{essay_index}.txt')
+        # remove the suffix "...generating..._" for the regenerated and move to supervised folder
+        os.replace(f"need_regen/essay_{essay_index}...generating..._.txt", f"supervised_essay/essay_{essay_index}.txt")
 
-            print(f"DONE {essay_index}")
+        print(f"DONE {essay_index}")
 
 
 if __name__ == "__main__":

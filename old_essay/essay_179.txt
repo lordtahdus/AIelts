@@ -25,7 +25,7 @@ In conclusion, although there are concerns about the dependability of green ener
 
 Feedback:
 
-Task Response:
+Task Response:?
 
 Bạn đã trả lời đúng câu hỏi đặt ra trong đề bài bằng cách thảo luận cả hai quan điểm trái ngược về sự phổ biến của năng lượng xanh và tác động của nó đến việc giảm chi phí và bảo vệ môi trường cũng như việc trở thành nguồn năng lượng đáng tin cậy. 
 
@@ -34,7 +34,7 @@ Tuy nhiên, một phần của đề bài yêu cầu bạn đưa ra ý kiến c�
 Tổng quan, bài viết của bạn đã trả lời đúng câu hỏi đề bài. Tuy nhiên, để cải thiện, bạn có thể đưa ra ý kiến của mình về hai quan điểm đối lập theo cách rõ ràng và trình bày lý do cho ý kiến của bạn một cách chi tiết hơn.
 
 
-Coherence and Cohesion:
+Coherence and Cohesion:?
 
 Bài viết của bạn có sự liên kết chặt chẽ giữa các ý tưởng và câu. Bạn đã sử dụng các từ nối phù hợp để giữ cho bài viết của bạn dễ hiểu. Bạn đã sử dụng "On the one hand" để nói về quan điểm đầu tiên của bạn. Bạn cũng đã sử dụng từ nối "this is the fact" để giải thích ý tưởng của bạn về rủi ro cung ứng liên quan đến năng lượng xanh. 
 
@@ -43,10 +43,20 @@ Tuy nhiên, bạn có thể cải thiện bài viết của mình bằng cách s
 
 Lexical Resource:
 
-Bạn đã sử dụng từ vựng và cụm từ liên quan đến chủ đề rất tốt và hiệu quả trong bài viết của mình. Tôi không nhận thấy bất kỳ lỗi về từ vựng nào trong bài viết của bạn. Tuy nhiên, có một số từ bạn nên chú ý sử dụng chính xác hơn để tránh nhầm lẫn. Ví dụ, bạn đã sử dụng từ "implicate" trong câu "green energy could undermine (implicate) the reliability of the global energy supply". Từ "implicate" không được sử dụng đúng trong trường hợp này và nên sử dụng từ "undermine" thay thế. Ngoài ra, bạn có thể thêm một số từ đồng nghĩa để tránh sử dụng lại các từ quá thường xuyên.
+Trong bài viết của bạn, bạn sử dụng các từ vựng phù hợp với chủ đề. Tuy nhiên, vẫn có một số từ vựng bị lặp lại quá nhiều lần và một vài lỗi về sử dụng các từ.
+
+Các từ vựng bị lặp lại quá nhiều lần:
+- "green energy": từ này xuất hiện quá nhiều lần trong bài viết của bạn.
+- "renewable energy": cũng là từ vựng xuất hiện quá nhiều lần và có thể thay thế bằng một số từ vựng khác như "sustainable energy", "clean energy", "alternative energy"...
+
+Các lỗi về sử dụng từ:
+- "since it contributes to the preservation of the environment and also may be economically viable": "may be economically viable" có thể thay thế bằng các từ vứng khác như "is cost-effective", "is financially feasible" hoặc "is financially viable".
+- "This is the fact that it may largely depend on unreliable conditions such as wind, wave and rain": "This is the fact that" có thể thay thế bằng "The fact is that", "The truth is that" hoặc "It is a fact that".
+- "On the other hand, fossil fuels are a larger threat to energy security since they are certainly finite in quantity": "lớn hơn" có thể thay thế bằng "a greater", "a bigger", "a more significant".
+- "One day the earth’s oil can full out": "full out" là một lỗi chính tả, từ này nên được sửa thành "run out".
 
 
-Grammatical Range and Accuracy:
+Grammatical Range and Accuracy:?
 
 Tổng thể, bài viết của bạn đã sử dụng ngữ pháp đúng và sử dụng một loạt các cấu trúc giúp bài viết của bạn trở nên phong phú hơn. Tuy nhiên, một số lỗi ngữ pháp đã được phát hiện trong bài viết của bạn:
 
