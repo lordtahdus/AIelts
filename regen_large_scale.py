@@ -116,7 +116,7 @@ def request_ChatGPT(messages):
 
 def get_specific_syntaxes(contents_each: List):
     syntaxes = [
-        f'This is IELTS writing task 2.\n\nTopic:\n"{contents_each[0]}"\n\nEssay:\n"{contents_each[1]}"\nPlease edit the essay according to IELTS structure',
+        f'Đây là bài IELTS Writing Task 2.\n\nTopic:\n"{contents_each[0]}"\n\nEssay:\n"{contents_each[1]}"\nHãy sửa bài văn này theo đúng cấu trúc của một bài viết IELTS',
         """\
 Đánh giá Task Response trong bài viết của tôi một cách chi tiết hơn.\
 Bài viết của tôi có trả lời đúng câu hỏi đề bài không?\
