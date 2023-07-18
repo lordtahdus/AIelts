@@ -65,37 +65,23 @@ Bài viết của bạn sử dụng thành công một số từ vựng khá đa
 
 Grammatical Range and Accuracy:
 
-Đúng theo yêu cầu của bạn, dưới đây là danh sách các lỗi sai ngữ pháp trong bài viết của bạn theo các tiêu chí của Grammatical Range and Accuracy:
+Đánh giá Grammatical Range and Accuracy (Sự linh hoạt và chính xác ngữ pháp):
 
-1. Thiếu động từ trong một số câu:
-   Lỗi cần sửa: "She (go) to the supermarket yesterday."
-   Ví dụ cho lỗi cải thiện: "She went to the supermarket yesterday."
+Bài viết của bạn có một số lỗi sai ngữ pháp và cần được sửa chữa. Dưới đây là danh sách các lỗi cần sửa và giải thích đi kèm:
 
-2. Sai thì trong các câu:
-   Lỗi cần sửa: "He has a lot of homework to do tomorrow."
-   Ví dụ cho lỗi cải thiện: "He will have a lot of homework to do tomorrow."
+1. "I understand why some people hold the belief that species extinction is the most important environmental problem." -> Sử dụng "why" không đúng trong trường hợp này. Nên sửa thành "I understand that some people hold the belief that species extinction is the most important environmental problem."
 
-3. Sử dụng sai các từ nối:
-   Lỗi cần sửa: "I love to cook, but I don't like to eat."
-   Ví dụ cho lỗi cải thiện: "I love to cook, and I also enjoy eating."
+2. "The main point for this is that the social media these days give people many information about endangered species." -> Sử dụng "many information" không chính xác. Nên sửa thành "The main point for this is that social media these days provide people with a lot of information about endangered species."
 
-4. Thiếu hoặc thừa mạo từ:
-   Lỗi cần sửa: "I have appointment doctor."
-   Ví dụ cho lỗi cải thiện: "I have an appointment with the doctor."
+3. "By gathering information for many sources which only concern about plants and animals can lead people to the thought that species loss is the biggest problem in the environment." -> Câu này cần được hiệu chỉnh để rõ ràng hơn. Nên sửa thành "Gathering information from various sources that focus solely on plants and animals can lead people to believe that species loss is the biggest environmental problem."
 
-5. Lỗi cú pháp trong câu:
-   Lỗi cần sửa: "Running in the morning being good for health."
-   Ví dụ cho lỗi cải thiện: "Running in the morning is good for health."
+4. "Nevertheless, I would argue that there are many environmental problems that are more important than species loss for several reasons." -> Sử dụng "for" không chính xác trong trường hợp này. Nên sửa thành "Nevertheless, I would argue that there are many environmental problems that are more important than species loss for several reasons."
 
-6. Sử dụng sai thể không ngôi trong câu:
-   Lỗi cần sửa: "Me and my friend went to the beach yesterday."
-   Ví dụ cho lỗi cải thiện: "My friend and I went to the beach yesterday."
+5. "The first point is that the declination of natural resources." -> Sử dụng "declination" không chính xác. Nên sửa thành "The first point is the depletion of natural resources."
 
-7. Sử dụng sai dạng từ loại:
-   Lỗi cần sửa: "I have a lot of coffees in my room."
-   Ví dụ cho lỗi cải thiện: "I have a lot of coffee in my room."
+6. "This can be seen in many Western countries that they often have wars because of oil needs." -> Cấu trúc câu không hoàn chỉnh và không chính xác. Nên sửa thành "This can be seen in many Western countries, where conflicts frequently arise due to oil scarcity."
 
-Đây là những lỗi ngữ pháp mà tôi tìm thấy trong bài viết của bạn. Hãy chắc chắn kiểm tra và sửa chúng để cải
+7. "
 
 
 Score:

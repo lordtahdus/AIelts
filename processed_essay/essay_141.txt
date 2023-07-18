@@ -13,10 +13,7 @@ However, despite the benefits that this method brings, there are some disadvanta
 
 In conclusion, every method have their own exemplaries and inauspiciousnesses, but I personally believe that the online shopping market will continue to grow in the future."
 
-
 Revised:
-
-Here's the edited essay:
 
 Over recent years, there has been a rise in the number of people turning to online shopping to purchase their desired products. This trend can be attributed to several factors, including the convenience offered by online shopping and the recent social distancing protocols imposed due to the pandemic. In this essay, we will discuss the advantages and disadvantages of online shopping for both individuals and companies.
 
@@ -24,9 +21,7 @@ Online shopping has numerous benefits for both consumers and retailers. Firstly,
 
 However, online shopping has some disadvantages that individuals and companies should consider. Firstly, the quality of products purchased online may not meet the consumers’ expectations. Also, customers must be wary of confidentiality and security risks associated with online transactions.
 
-In conclusion, both traditional and online shopping have their pros and cons. In my opinion, online shopping will continue to gain traction in the future, but consumers must take precautions to ensure their safety and protect their financial information." 
-
-Note: The essay has been edited to follow the IELTS structure, which includes an introduction, two body paragraphs (one for the advantages and one for the disadvantages), and a conclusion. Additionally, the essay includes a clear thesis statement in the introduction and a personal opinion in the conclusion.
+In conclusion, both traditional and online shopping have their pros and cons. In my opinion, online shopping will continue to gain traction in the future, but consumers must take precautions to ensure their safety and protect their financial information.
 
 
 Feedback:
@@ -45,7 +40,7 @@ Bạn nên trả lời đầy đủ và đúng thông tin cho toàn bộ câu h�
 Bạn có thể phát triển ý kiến cá nhân của mình bằng cách cung cấp nhiều luận điểm hơn đối với tác động của mua sắm trực tuyến đến cá nhân và doanh nghiệp. Ngoài ra, bạn nên tránh sử dụng những cụm từ đơn giản như "tôi tin rằng" và luôn lựa chọn sử dụng cách diễn đạt trung thực và sáng tạo.
 
 4. Cân bằng thông tin và quan điểm
-Trong bài viết của bạn, quan điểm cá nhân của bạn được đưa ra một cách rõ ràng và chỉ chiếm phần nhỏ so với lượng thông tin khác. Tuy nhiên, bạn cần lưu ý rằng đề bài chỉ đề cập đến việc đưa ra hai mặt tích cực và tiêu cực về chủ đề mua sắm trực tuyến. Vì vậy, đừng để quan điểm của bạn chiếm quá nhiều thời gian và chú ý cân bằng thông tin và quan điểm. 
+Trong bài viết của bạn, quan điểm cá nhân của bạn được đưa ra một cách rõ ràng và chỉ chiếm phần nhỏ so với lượng thông tin khác. Tuy nhiên, bạn cần lưu ý rằng đề bài chỉ đề cập đến việc đưa ra hai mặt tích cực và tiêu cực về chủ đề mua sắm trực tuyến. Vì vậy, đừng để quan điểm của bạn chiếm quá nhiều thời gian và chú ý cân bằng thông tin và quan điểm.
 
 
 Coherence and Cohesion:
@@ -62,16 +57,24 @@ Một số ví dụ về lỗi mạch lạc trong bài viết của bạn:
 - "...có thể giảm một lượng đáng kể thời gian cho cá nhân."
 Đoạn này không rõ ràng và thiếu thông tin về cách mua sắm trực tuyến giúp giảm thời gian. Bạn có thể giải thích cụ thể hơn là sử dụng các trang web/bán hàng trực tuyến hoặc ứng dụng mua sắm trực tuyến.
 - "Có một số hạn chế mà người tiêu dùng cần phải lưu ý."
-Đoạn này cũng không rõ ràng và thiếu thông tin cụ thể. Bạn có thể đề cập đến việc mua hàng giả, không đúng sản phẩm, chính 
+Đoạn này cũng không rõ ràng và thiếu thông tin cụ thể. Bạn có thể đề cập đến việc mua hàng giả, không đúng sản phẩm, chính
 
 
 Lexical Resource:
 
-Bài viết của em sử dụng các từ vựng liên quan đến chủ đề mua sắm trực tuyến một cách đầy đủ và chính xác như "online shopping", "social media", "traditional way of shopping", "suitable products", "retailers", "expenses", v.v... Tuy nhiên, trong bài viết có một vài lỗi về từ vựng sau:
+Trong bài viết của bạn, Lexical Resource được sử dụng với sự linh hoạt và đa dạng. Có sự sử dụng đúng các từ ngữ và thuật ngữ liên quan đến chủ đề "mua sắm trực tuyến". Tuy nhiên, vẫn còn một số lỗi nhỏ và cách diễn đạt có thể cải thiện, dưới đây là một số gợi ý để bạn cân nhắc:
 
-- "the restraint order": từ này không hiểu được ý nghĩa chính xác của em, thay vào đó có thể sử dụng "lockdowns" hoặc "restrictions" để diễn đạt rõ hơn về sự giới hạn hoạt động do dịch bệnh.
-- "multi-dimentional views": từ này không phổ biến và không chính xác trong ngữ cảnh này. Em có thể sử dụng "various perspectives" hoặc "different aspects" để thể hiện đầy đủ ý nghĩa của mình.
-- "the confidential protection": từ này không rõ nghĩa, có thể sử dụng "security" hoặc "privacy protection".
+1. "the number of people turning to online shopping" - Bạn có thể sử dụng từ "embracing" thay cho "turning to" để thể hiện sự chấp nhận và ủng hộ của người mua hàng đối với mua sắm trực tuyến.
+
+2. "the convenience offered by online shopping" - Bạn có thể mở rộng mô tả bằng cách nói rõ cụ thể những tiện ích cụ thể của mua sắm trực tuyến, ví dụ như tiết kiệm thời gian, sự linh hoạt trong việc so sánh giá và lựa chọn sản phẩm.
+
+3. "the recent social distancing protocols" - Có thể thay "protocols" bằng "measures" để tránh lặp lại từ ngữ.
+
+4. "Online shopping has numerous benefits" - Để tránh lặp lại "has", bạn có thể sử dụng "offers" thay cho "has" để mô tả sự hưởng lợi.
+
+5. "save individuals a significant amount of time" - Bạn có thể thêm "considerable" trước "amount of time" để làm nổi bật hơn sự tiết kiệm thời gian.
+
+6. "search the shelves for the product" - Bạn có thể sử dụng từ "browse" (đọc qua nhanh) thay vì "search" để hợp ngữ cảnh hơn.
 
 
 Grammatical Range and Accuracy:

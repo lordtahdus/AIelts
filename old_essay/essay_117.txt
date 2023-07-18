@@ -52,13 +52,25 @@ Ví dụ:
 
 Lexical Resource:?
 
-Từ vựng trong bài viết của bạn đủ để trình bày quan điểm của mình một cách rõ ràng. Tuy nhiên, còn một số lỗi và vấn đề bạn cần cải thiện như sau:
+Về mặt ngữ pháp, bài viết của bạn không có nhiều lỗi sai. Dưới đây là danh sách những lỗi đã phát hiện:
 
-1. Từ vựng cơ bản: Trong số các từ bạn sử dụng, có nhiều từ có tính thông thường và không phù hợp với một bài viết IELTS, ví dụ như "harsh crime". Cần sử dụng các từ vựng phù hợp hơn và đa dạng hơn để chứng tỏ khả năng sử dụng từ vựng của bạn.
+1. "leads" nên là "lead": Câu "The rise in drug abuse leads to an increased number of addicts" cần chỉnh sửa thành "The rise in drug abuse lead to an increased number of addicts".
 
-2. Sử dụng các thành ngữ không chính xác: Trong câu sau, "punishing a culprit makes the fear vanish from the minds of innocent people", bạn sử dụng thành ngữ 'makes the fear vanish' nhưng nó không hoàn toàn chính xác. Thay vì đó, bạn có thể sử dụng từ "eliminate" để biểu thị ý tương tự. 
+2. "addiction treatment, mental health counseling, and support to drug addicts during their recovery process": Cần chỉnh sửa thành "addiction treatment, mental health counseling, and support for drug addicts during their recovery process".
 
-3. Sử dụng các từ không chính xác: Trong câu cuối bài viết, bạn sử dụng từ "weightage" nhưng từ này không phù hợp trong cách sử dụng của bạn. Thay vào đó, bạn có thể chọn từ "severity" để biểu thị ý tương tự. 
+3. "By educating the younger generation about the dangers of drug abuse, investing in rehabilitation centers, and providing support to drug addicts, we can make a significant impact in reducing drug abuse in our communities.": Câu này có thể lại theo cấu trúc "By educating the younger generation about the dangers of drug abuse, investing in rehabilitation centers, and providing support for drug addicts, we can make a significant impact on reducing drug abuse in our communities."
+
+Về mặt từ vựng, bài viết của bạn không có nhiều lỗi sai. Tuy nhiên, có một vài cụm từ hoặc từ mà bạn có thể thay đổi để nó trở nên tự nhiên và phong phú hơn. 
+
+1. "abuse of drugs": Thay thế cụm từ này bằng "drug misuse" hoặc "drug addiction".
+
+2. "severe consequences on society": Bạn có thể thay thế thành "serious ramifications for society" để mang tính chất từ vựng phong phú hơn.
+
+3. "violent crimes related to drug abuse": Thay thế thành "drug-related violent crimes" để nó nghe tự nhiên hơn.
+
+4. "engage in street aggression": Bạn có thể thay thế thành "participate in street violence" hoặc "commit acts of street aggression" để thể hiện ý nghĩa một cách rõ ràng hơn.
+
+5. "mitigating its spread": Bạn có thể thay
 
 
 Grammatical Range and Accuracy:

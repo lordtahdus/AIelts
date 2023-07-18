@@ -76,7 +76,19 @@ Tổng thể, từ vựng của bạn là rất tốt và có sự phong phú.  
 
 Grammatical Range and Accuracy:
 
-Rất tiếc, nhưng tôi không thể đánh giá Grammatical Range and Accuracy trong bài viết của bạn mà không có nội dung cụ thể. Vì vậy, nếu bạn có thể cung cấp cho tôi bài viết của bạn, tôi sẽ rất vui lòng giúp bạn xem xét và cung cấp phản hồi chi tiết hơn về lỗi ngữ pháp có thể có.
+Bài viết của bạn trong cả khá rõ ràng và không có nhiều lỗi về ngữ pháp. Tuy nhiên, tôi đã tìm thấy một số lỗi như sau:
+
+1. "The abuse of drugs is on the rise in many countries" - ở đây, nên sử dụng "are" thay cho "is" để phù hợp với "drugs" (plural).
+
+2. "leads to an increased number of addicts who resort to criminal activities" - ở đây, nên sửa thành "leads to an increase in the number of addicts who resort to criminal activities" để ngữ pháp chính xác hơn.
+
+3. "There is also a notable increase in violent crimes related to drug abuse" - ở đây, câu này đang mô tả một sự tăng lên, nên bạn nên sử dụng "has been" thay cho "is" để chỉ hiện tại hoàn thành.
+
+4. "Moreover, drug dealers often engage in street aggression to promote addiction" - ở đây, nên sử dụng "in promoting" thay cho "to promote" để câu trở nên rõ ràng hơn.
+
+5. "starts from primary school" - ở đây, nên sử dụng "should start" để diễn tả một hành động nên làm trong tương lai.
+
+6. "Programs can be implemented in schools and colleges" - ở đây, nên sử dụng "Programs should be implemented" để thể hiện tính nên làm.
 
 
 Score:

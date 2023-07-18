@@ -1,7 +1,5 @@
 Topic:
 
-Topic:
-
 "Some people argue that capital punishment is good for a country. To what extent do you agree or
 disagree?"
 
@@ -52,16 +50,21 @@ Ví dụ:
 
 Lexical Resource:
 
-Đây là một bài viết ngắn nên không có nhiều lỗi từ vựng. Tuy nhiên, có một vài lỗi nhỏ cần được sửa chữa và cải thiện.
+Bài viết của bạn có sử dụng một số từ vựng phong phú và đa dạng để diễn đạt ý kiến của bạn về việc cải thiện hệ thống án tử hình. Tuy nhiên, có một số lỗi cần sửa và cải thiện trong nguồn từ vựng của bạn. Dưới đây là danh sách các lỗi và giải thích cách sửa chúng:
 
-Lỗi cần sửa:
-1. Sử dụng từ không chính xác: Có một số từ được sử dụng không phù hợp trong văn bản, gây hiểu lầm hoặc không đạt được ý muốn diễn đạt. Ví dụ: "tôi đã nhận được một nghề" - thay vì "tôi đã nhận được một việc làm" hoặc "tôi đã nhận được một công việc".
+1. "Beneficial for the well-being of a country": Bạn có thể thay thế "beneficial" bằng "advantageous" hoặc "positive" để tạo sự đa dạng từ vựng.
 
-Ví dụ cho lỗi cải thiện:
-1. Sử dụng từ chính xác: Tôi đã nhận được một việc làm mới ở một công ty lớn.
+2. "Maintain social order": Một vài từ vựng thay thế có thể là "uphold", "preserve", hoặc "safeguard social order" để tránh lặp lại từ "maintain".
 
-Tổng kết:
-Tuy bài viết không có nhiều lỗi về từ vựng, nhưng cần lưu ý sử dụng từ chính xác và phù hợp với ngữ cảnh để truyền đạt ý nghĩa chính xác.
+3. "Curbing crime rates": Thay vì dùng "curbing", bạn có thể sử dụng các từ như "reducing", "controlling", hoặc "lowering crime rates" để tránh từ vựng lặp lại.
+
+4. "Implementing severe punishments": Một cách viết khác có thể là "introducing harsh penalties" hoặc "enforcing strict punishments" để giữ cho từ vựng của bạn linh hoạt và đa dạng.
+
+5. "Creating a sense of fear": Bạn có thể sử dụng "instilling a sense of fear" hoặc "evoking a feeling of fear" để thay thế từ "creating" và làm cho câu văn có âm điệu phong phú hơn.
+
+6. "Deterring potential offenders": Để tránh lặp lại từ "offenders", bạn có thể thay thế bằng "discouraging potential criminals" hoặc "preventing potential lawbreakers".
+
+7. "Contributed to maintaining peace in society": Thay "contributed to" bằng "helped maintain" làm cho câu văn mượt hơn.
 
 
 Grammatical Range and Accuracy:

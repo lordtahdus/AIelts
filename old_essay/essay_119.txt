@@ -20,7 +20,6 @@ In conclusion, free public service must be obligate because of the being a colle
 
 Also to feel like human it is really important. Lastly its pyscological effect is also very important."
 
-
 Revised:
 
 Nowadays, the idea of unpaid community service has become a topical issue. While some people believe that obligatory volunteer work, such as charity work, helping the elderly, or teaching sports to younger children, should be a part of the high school curriculum, others disagree. In my opinion, such community service should indeed be compulsory for high school students for a number of reasons.
@@ -38,22 +37,19 @@ Feedback:
 
 Task Response:?
 
-Trong bài viết của bạn, nội dung đã chứa đủ các yếu tố của đề bài yêu cầu và bạn đã trình bày quan điểm cá nhân của mình.
-
-Tuy nhiên, để cải thiện yếu tố Task Response, có một số điểm mà bạn nên chú ý:
-
-1. Đọc kỹ lại đề bài và hiểu rõ yêu cầu của đề bài trước khi bắt đầu viết.
-
-2. Trong bài viết của bạn, không nêu rõ những lý do cụ thể tại sao dịch vụ công cộng nên bắt buộc cho học sinh trung học. Một cách để cải thiện Task Response là trình bày các lý do cụ thể và minh chứng để giải thích quan điểm của bạn.
-
-3. Ngoài ra, bạn nên liên kết các ý của mình với nhau một cách rõ ràng hơn để giúp cho người đọc hiểu được mối quan hệ giữa các ý và các bằng chứng của bạn.
+Tas
 
 
 Coherence and Cohesion:?
 
-- "Firstlyt being a collective is a very important issue." Lỗi chính tả (thiếu chữ "t"), cần sửa thành "Firstly, being part of a collective is a very important issue."
-- "Nowadays people dont help each other enough." Lỗi sai động từ, nên sử dụng dạng thể khẳng định "donate" hoặc "volunteer" thay vì "help," và sửa câu thành "Nowadays, people do not donate or volunteer enough to help others."
-- "Moreover some people really need a help if we dont help them who are going to help us when we need a help." Câu này cấu trúc lộn xộn và chứa nhiều lỗi. Có thể sửa lại thành "Furthermore, if we do not help those in need, who will help us when we are in need? Some people truly need assistance and it is our responsibility to aid them."
+Đánh giá Tas
+Đánh giá Coherence and Cohesion:
+
+Bài viết của bạn có sự liên kết mạch lạc và hợp lý giữa các ý và câu. Bạn đã sử dụng các từ nối và cấu trúc câu có mối liên hệ với nhau để tạo ra sự mạch lạc và hợp lí cho bài viết. Tuy nhiên, còn một số sửa đổi cần được thực hiện để nâng cao hiệu quả của sự liên kết và cung cấp một dòng suy nghĩ không bị gián đoạn.
+
+Lỗi cần sửa:
+1. Paragraph 2: Cần thêm một câu mở đầu hoặc một câu giới thiệu để tạo ra sự liên kết từ đoạn trước và để mở đầu cho đề cập đến những lợi ích của làm công việc tình nguyện.
+2. Paragraph 3: Cần sửa cấu trúc câu để tạo ra mối liên hệ hơn giữa "students" và "they" trong câu "When students dedicate their time and effort to aiding those in need, they are likely to develop
 
 
 Lexical Resource:
@@ -68,15 +64,11 @@ Trong bài viết của bạn, bạn sử dụng nhiều từ ngữ đơn giản
 
 Grammatical Range and Accuracy:?
 
-- "Nowadays free public service has been important topic." --> "Nowadays, free public service has become an important topic."
-- "Some people think free public service must be a obligate" --> "Some people think that free public service should be obligatory."
-- "Students are learn" --> "Students are learning"
-- "Being a good and sensitive society is very crucial." --> "Having a good and sensitive society is very crucial."
-- "People should help the people who are need it." --> "People should help those who are in need."
-- "Moreover some people really need a help" --> "Moreover, some people really need help."
-- "Secondly when we help to somebody we really feel like a human." --> "Secondly, when we help somebody, we feel more human."
-- "Lastly its pyscological effect is also very important." --> "Lastly, its psychological effect is also very important."
+Đánh giá Grammatical Range an
 
+- Không có lỗi sai về ngữ pháp trong bài viết của bạn. Câu phức và câu đơn được sử dụng đúng, không có lỗi cấu trúc hay sai lỗi tương thích giữa các thành phần câu.
+
+Overall, your grammatical range and accuracy are strong in this essay. You demonstrate a good command of sentence structure, and there are no noticeable errors in grammar or sentence construction. Well done!
 
 
 Score:

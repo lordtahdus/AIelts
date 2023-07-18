@@ -37,36 +37,30 @@ Feedback:
 
 Task Response:
 
-Đánh giá Task Response trong bài viết của bạn:
+Đánh giá Task Response (Phản hồi yêu cầu đề bài):
+- Bài viết của bạn không đáp ứng đầy đủ yêu cầu của đề bài. Bạn chỉ đưa ra quan điểm đồng ý với việc công việc tình nguyện nên là bắt buộc trong chương trình trung học mà không đề cập đến mức độ đồng ý của mình.
+- Đề bài yêu cầu bạn phải nêu mức độ đồng ý hoặc không đồng ý với tuyên bố. Bạn cần đưa ra lập luận về quan điểm của mình và sau đó đề cập đến những lợi ích hoặc hạn chế của việc bắt buộc công việc tình nguyện trong chương trình trung học.
 
-Yêu cầu đề bài có được trả lời không?
-- Yes, the essay answers the task prompt clearly.
+Coherence and Cohesion (Tính mạch lạc và sắp xếp ý):
+- Bài viết của bạn không có sự sắp xếp ý kiến logic và mạch lạc. Các ý kiến của bạn không được phát triển một cách đầy đủ và không có sự kết nối rõ ràng giữa chúng.
+- Bạn cần sắp xếp lại bài viết của mình thành các đoạn và tuân thủ cấu trúc luận điểm rõ ràng với câu mở đầu, phát triển và kết luận rõ ràng.
 
-Bài viết có giải thích đầy đủ tất cả các phần của nhiệm vụ không?
-- Yes, the essay provides sufficient explanation for all parts of the task.
-
-Ý tưởng có được mở rộng đầy đủ không?
-- No, the ideas in the essay need to be further expanded and supported with more details and examples.
-
-Lỗi cần sửa:
-1. Lack of development in the body paragraphs: The body paragraphs should provide in-depth explanations and examples to support the main ideas. However, in some paragraphs, the ideas are not fully developed and lack supporting evidence.
-Example for improvement: In the second body paragraph, instead of simply mentioning the benefits of exercise, provide specific examples such as improved cardiovascular health or weight management. 
-
-2. Inconsistency in addressing the task prompt: The essay occasionally veers off topic and does not directly address the task prompt in some parts. This creates confusion for the reader and reduces the coherence of the essay.
-Example for improvement: In the third body paragraph, which discusses the importance of a healthy lifestyle, make sure to connect the ideas back to the effects on academic performance as stated in the task prompt.
-
-3. Lack of clear organization: The overall organization of the essay could be improved to enhance clarity and coherence. The introduction could be more concise and include a clear thesis statement, while the body paragraphs could be better structured with topic sentences and supporting details.
-Example for improvement: Begin the introduction with a brief overview of the impact of lifestyle on academic performance, followed by a clear thesis statement stating your position on the topic.
-
-4. Conclusion does not summarize main points: The conclusion should provide a summary of the main points discussed in the essay. However, in the current writing, the conclusion does not effectively summarize the key ideas presented in the body paragraphs.
-Example for improvement: In the conclusion, briefly recap the main points discussed in each body paragraph, emphasizing the importance of a healthy lifestyle in improving academic performance.
-
-Overall, the essay requires improvements in developing ideas and staying on topic. Additionally, organizing the essay more effectively will enhance the clarity and coherence of the writing.
+Lexical Resource (Từ vựng):
+- Bạn cần cải thiện vốn từ vựng của mình để sử dụng các từ ngữ phức tạp và phù hợp với chủ đề.
+- Hãy cố gắng sử dụng từ ngữ và cụm từ phức tạp hơn để trình bày ý kiến của bạn
 
 
 Coherence and Cohesion:
 
-Để đánh giá về Coherence and Cohesion trong bài viết của bạn, tôi cần xem bài viết cụ thể mà bạn đã viết để có thể nêu ra các lỗi và ví dụ cụ thể để cải thiện.
+Lỗi cần sửa:
+- Thiếu sự tương phản như ý kiến đồng ý và không đồng ý với tuyên bố trong đề bài.
+- Thiếu sự liên kết giữa các ý kiến và các câu.
+- Câu mở đầu không đề cập đến mức độ đồng ý hoặc không đồng ý của bạn.
+
+Giải thích:
+- Để đáp ứng đầy đủ yêu cầu của đề bài, bạn cần đưa ra mức độ đồng ý hoặc không đồng ý của mình với tuyên bố. Bạn có thể sử dụng cấu trúc như "Tôi đồng ý/ không đồng ý với quan điểm này" và sau đó trình bày các lý do và ví dụ để tạo sự thuyết phục.
+- Bạn cần xác định các ý chính trong bài viết và giữ cho chúng liên kết mạch lạc. Có thể sử dụng các từ kết nối như "đầu tiên", "thứ hai" và "cuối cùng" để chỉ rõ mối quan hệ giữa các ý.
+- Câu mở đầu của bạn cần đề cập rõ ràng đến mức độ đồng ý của bạn với tuyên bố trong đề bài để chuẩn bị người đọc cho ý kiến của bạn.
 
 
 Lexical Resource:
@@ -81,7 +75,19 @@ Trong bài viết của bạn, bạn sử dụng nhiều từ ngữ đơn giản
 
 Grammatical Range and Accuracy:
 
-Rất tiếc, bạn chưa đưa ra bài viết của bạn nên tôi không thể xác định xem có lỗi ngữ pháp nào trong nó hay không. Hãy cung cấp bài viết của bạn để tôi có thể giúp bạn kiểm tra và chỉ ra những lỗi cần sửa.
+Rất tiếc, bài viết trước đó của bạn có quá nhiều lỗi và sự mắc lỗi ngữ pháp nghiêm trọng, đủ để khiến nội dung không rõ ràng và khó hiểu. Dưới đây là một số ví dụ về các lỗi ngữ pháp trong bài viết của bạn:
+
+- Lỗi ngữ pháp: "Firstlyt being a collective"
+Giải thích: Từ "Firstlyt" không đúng và cần phải sửa thành "Firstly". Bạn cũng có thể sử dụng "First" thay vì "Firstly".
+- Lỗi ngữ pháp: "Nowadays people dont help each other enough."
+Giải thích: "dont" cần phải được thay thế bằng "don't". Bạn cần sử dụng dấu ngoặc kép để bao quanh câu này để làm rõ vấn đề.
+- Lỗi ngữ pháp: "If goverment make it compulsory for high school."
+Giải thích: "goverment" cần phải được sửa thành "government". "make" cần phải được sửa thành "makes" để phù hợp với chủ ngữ số ít "government".
+- Lỗi ngữ pháp: "Being a good and sensitive society is very crucial."
+Giải thích: Câu này không có cấu trúc hoàn chỉnh và chưa chính xác. Bạn nên bổ sung các từ và cấu trúc câu để cung cấp thông tin rõ ràng hơn.
+- Lỗi ngữ pháp: "For example when i help to somebody"
+Giải thích: "i" cần phải được viết hoa thành "I". Bạn cũng cần thay "to" bằng "someone" để câu trở nên chính xác hơn.
+- Lỗi ngữ pháp: "Lastly its pyscological
 
 
 Score:
