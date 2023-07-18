@@ -178,6 +178,7 @@ def run():
         with open(f"need_regen/essay_{essay_index}...generating..._.txt", "w", encoding="utf-8") as f:
             f.write(f"""Topic:\n\n{contents_each[0]}\n\nEssay:\n\n{contents_each[1]}\n\n""")
             print(f"{essay_index}...")
+            print(user_options_each)
 
             # loop through all parts and regenerate the chosen parts
             for i in range(0,6):

@@ -20,6 +20,7 @@ In conclusion, free public service must be obligate because of the being a colle
 
 Also to feel like human it is really important. Lastly its pyscological effect is also very important."
 
+
 Revised:
 
 Nowadays, the idea of unpaid community service has become a topical issue. While some people believe that obligatory volunteer work, such as charity work, helping the elderly, or teaching sports to younger children, should be a part of the high school curriculum, others disagree. In my opinion, such community service should indeed be compulsory for high school students for a number of reasons.
@@ -35,38 +36,24 @@ To conclude, I strongly support the idea of making unpaid community service a ma
 
 Feedback:
 
-Task Response:
+Task Response:?
 
-Đánh giá Task Response trong bài viết của bạn:
+Trong bài viết của bạn, nội dung đã chứa đủ các yếu tố của đề bài yêu cầu và bạn đã trình bày quan điểm cá nhân của mình.
 
-Yêu cầu đề bài có được trả lời không?
-- Yes, the essay answers the task prompt clearly.
+Tuy nhiên, để cải thiện yếu tố Task Response, có một số điểm mà bạn nên chú ý:
 
-Bài viết có giải thích đầy đủ tất cả các phần của nhiệm vụ không?
-- Yes, the essay provides sufficient explanation for all parts of the task.
+1. Đọc kỹ lại đề bài và hiểu rõ yêu cầu của đề bài trước khi bắt đầu viết.
 
-Ý tưởng có được mở rộng đầy đủ không?
-- No, the ideas in the essay need to be further expanded and supported with more details and examples.
+2. Trong bài viết của bạn, không nêu rõ những lý do cụ thể tại sao dịch vụ công cộng nên bắt buộc cho học sinh trung học. Một cách để cải thiện Task Response là trình bày các lý do cụ thể và minh chứng để giải thích quan điểm của bạn.
 
-Lỗi cần sửa:
-1. Lack of development in the body paragraphs: The body paragraphs should provide in-depth explanations and examples to support the main ideas. However, in some paragraphs, the ideas are not fully developed and lack supporting evidence.
-Example for improvement: In the second body paragraph, instead of simply mentioning the benefits of exercise, provide specific examples such as improved cardiovascular health or weight management. 
-
-2. Inconsistency in addressing the task prompt: The essay occasionally veers off topic and does not directly address the task prompt in some parts. This creates confusion for the reader and reduces the coherence of the essay.
-Example for improvement: In the third body paragraph, which discusses the importance of a healthy lifestyle, make sure to connect the ideas back to the effects on academic performance as stated in the task prompt.
-
-3. Lack of clear organization: The overall organization of the essay could be improved to enhance clarity and coherence. The introduction could be more concise and include a clear thesis statement, while the body paragraphs could be better structured with topic sentences and supporting details.
-Example for improvement: Begin the introduction with a brief overview of the impact of lifestyle on academic performance, followed by a clear thesis statement stating your position on the topic.
-
-4. Conclusion does not summarize main points: The conclusion should provide a summary of the main points discussed in the essay. However, in the current writing, the conclusion does not effectively summarize the key ideas presented in the body paragraphs.
-Example for improvement: In the conclusion, briefly recap the main points discussed in each body paragraph, emphasizing the importance of a healthy lifestyle in improving academic performance.
-
-Overall, the essay requires improvements in developing ideas and staying on topic. Additionally, organizing the essay more effectively will enhance the clarity and coherence of the writing.
+3. Ngoài ra, bạn nên liên kết các ý của mình với nhau một cách rõ ràng hơn để giúp cho người đọc hiểu được mối quan hệ giữa các ý và các bằng chứng của bạn.
 
 
-Coherence and Cohesion:
+Coherence and Cohesion:?
 
-Để đánh giá về Coherence and Cohesion trong bài viết của bạn, tôi cần xem bài viết cụ thể mà bạn đã viết để có thể nêu ra các lỗi và ví dụ cụ thể để cải thiện.
+- "Firstlyt being a collective is a very important issue." Lỗi chính tả (thiếu chữ "t"), cần sửa thành "Firstly, being part of a collective is a very important issue."
+- "Nowadays people dont help each other enough." Lỗi sai động từ, nên sử dụng dạng thể khẳng định "donate" hoặc "volunteer" thay vì "help," và sửa câu thành "Nowadays, people do not donate or volunteer enough to help others."
+- "Moreover some people really need a help if we dont help them who are going to help us when we need a help." Câu này cấu trúc lộn xộn và chứa nhiều lỗi. Có thể sửa lại thành "Furthermore, if we do not help those in need, who will help us when we are in need? Some people truly need assistance and it is our responsibility to aid them."
 
 
 Lexical Resource:
@@ -79,9 +66,17 @@ Trong bài viết của bạn, bạn sử dụng nhiều từ ngữ đơn giản
 - Thay vì sử dụng "society" trong cả hai câu đầu tiên của bài viết, bạn có thể sử dụng các từ như "community", "neighbourhood", "local area" để biểu đạt ý tưởng một cách cụ thể hơn.
 
 
-Grammatical Range and Accuracy:
+Grammatical Range and Accuracy:?
 
-Rất tiếc, bạn chưa đưa ra bài viết của bạn nên tôi không thể xác định xem có lỗi ngữ pháp nào trong nó hay không. Hãy cung cấp bài viết của bạn để tôi có thể giúp bạn kiểm tra và chỉ ra những lỗi cần sửa.
+- "Nowadays free public service has been important topic." --> "Nowadays, free public service has become an important topic."
+- "Some people think free public service must be a obligate" --> "Some people think that free public service should be obligatory."
+- "Students are learn" --> "Students are learning"
+- "Being a good and sensitive society is very crucial." --> "Having a good and sensitive society is very crucial."
+- "People should help the people who are need it." --> "People should help those who are in need."
+- "Moreover some people really need a help" --> "Moreover, some people really need help."
+- "Secondly when we help to somebody we really feel like a human." --> "Secondly, when we help somebody, we feel more human."
+- "Lastly its pyscological effect is also very important." --> "Lastly, its psychological effect is also very important."
+
 
 
 Score:

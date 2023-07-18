@@ -14,6 +14,7 @@ Nevertheless, I would argue that there are many environmental problems that are 
 
 In conclusion, while I agree that the loss of many species of plants and animals is an important problem, I am of the opinion that there are more important environmental problems that people need to concern."
 
+
 Revised:
 
 Some people argue that the main environmental issue of our time is the extinction of particular species of plants and animals, while others assert that there are more pressing environmental problems. In my opinion, although the loss of biodiversity is significant, there are other environmental dilemmas that deserve equal or more attention.
@@ -44,7 +45,7 @@ Trong bài viết của bạn, những từ nối như "while", "nevertheless" v
 
 Tuy nhiên, vẫn có một số lỗi trong việc sử dụng các từ nối và cụm từ liên kết. Ví dụ, câu này "I still believe that there are many problems in our environment which are also important" có thể sử dụng từ nối "however" để tăng tính rõ ràng và thuyết phục.
 
-Một lỗi khác liên quan đến cách kết nối các ý kiến trong bài viết. Trong phần thân bài, bạn đưa ra một số ý kiến về vấn đề môi trường mà bạn cho là còn quan trọng hơn việc mất các loài động thực vật. Tuy nhiên, hầu hết các ý kiến này đều được liệt kê một cách cứng nhắc, không được liên kết với nhau hoặc với quan điểm tổng quan của bài viết.
+Một lỗi khác liên quan đến cách kết nối các ý kiến trong bài viết. Trong phần thân bài, bạn đưa ra một số ý kiến về vấn đề môi trường mà bạn cho là còn quan trọng hơn việc mất các loài động thực vật. Tuy nhiên, hầu hết các ý kiến này đều được liệt kê một cách cứng nhắc, không được liên kết với nhau hoặc với quan điểm tổng quan của bài viết. 
 
 
 Lexical Resource:
@@ -63,39 +64,15 @@ Bài viết của bạn sử dụng thành công một số từ vựng khá đa
 10. “People need to concern” - Sử dụng “concern” như một động từ là không chính xác. Thay vào đó, bạn có thể sử dụng “be concerned with” hoặc “be aware of“.
 
 
-Grammatical Range and Accuracy:
+Grammatical Range and Accuracy:?
 
-Đúng theo yêu cầu của bạn, dưới đây là danh sách các lỗi sai ngữ pháp trong bài viết của bạn theo các tiêu chí của Grammatical Range and Accuracy:
+Bài viết của bạn đã sử dụng đa dạng các cấu trúc câu cũng như một số kỹ thuật ngữ pháp khác nhau, điều này giúp bài viết của bạn không bị nhàm chán và trở nên dễ đọc. Tuy nhiên, bài viết còn một số lỗi về cấu trúc ngữ pháp và sử dụng các loại câu.
 
-1. Thiếu động từ trong một số câu:
-   Lỗi cần sửa: "She (go) to the supermarket yesterday."
-   Ví dụ cho lỗi cải thiện: "She went to the supermarket yesterday."
+1. Đầu tiên, một số câu của bạn không rõ ràng về ý nghĩa, ví dụ: "The main point for this is that the social media these days give people many information about endangered species". Ở đây, "main point" không rõ ràng đó là gì và câu bị khuyết đi chữ "pieces" sau "many".
 
-2. Sai thì trong các câu:
-   Lỗi cần sửa: "He has a lot of homework to do tomorrow."
-   Ví dụ cho lỗi cải thiện: "He will have a lot of homework to do tomorrow."
+2. Bạn cũng sử dụng các loại câu không hoàn toàn đúng cách. Ví dụ: "By gathering information for many sources which only concern about plants and animals can lead people to the thought that species loss is the biggest problem in the environment". Ở đây, câu không hoàn toàn chính xác về cấu trúc, có thể sửa lại thành "By gathering information from many sources that focus solely on plants and animals, people may be led to believe that species loss is the most pressing environmental problem".
 
-3. Sử dụng sai các từ nối:
-   Lỗi cần sửa: "I love to cook, but I don't like to eat."
-   Ví dụ cho lỗi cải thiện: "I love to cook, and I also enjoy eating."
-
-4. Thiếu hoặc thừa mạo từ:
-   Lỗi cần sửa: "I have appointment doctor."
-   Ví dụ cho lỗi cải thiện: "I have an appointment with the doctor."
-
-5. Lỗi cú pháp trong câu:
-   Lỗi cần sửa: "Running in the morning being good for health."
-   Ví dụ cho lỗi cải thiện: "Running in the morning is good for health."
-
-6. Sử dụng sai thể không ngôi trong câu:
-   Lỗi cần sửa: "Me and my friend went to the beach yesterday."
-   Ví dụ cho lỗi cải thiện: "My friend and I went to the beach yesterday."
-
-7. Sử dụng sai dạng từ loại:
-   Lỗi cần sửa: "I have a lot of coffees in my room."
-   Ví dụ cho lỗi cải thiện: "I have a lot of coffee in my room."
-
-Đây là những lỗi ngữ pháp mà tôi tìm thấy trong bài viết của bạn. Hãy chắc chắn kiểm tra và sửa chúng để cải
+3. Bài viết của bạn cũng có một số lỗi cú pháp cơ bản, ví dụ: "In addition, many people know that losing any kind of plants or animals can break the food chain, which forms life on earth". Ở đây, bạn sử dụng sai thứ tự của các từ "which forms life on earth". Thay vào đó, bạn có thể viết lại thành "which forms life on earth's ecosystem".
 
 
 Score:
