@@ -12,24 +12,16 @@ The university was being renovated back then, so I was unable to recognise it, b
 
 You know, I think I found this conversation so interesting simply because I found Mrs Kim to be such a nice lady.  As the conversation went on and I got to know her better I realized that she had had quite a tough life, yet she had managed to maintain such a sweet and gentle personality that many other women who have been through similar struggles to her would have lost by now."
 
-
 Revised:
 
-Here is an edited version of the essay with an IELTS structure:
-
-Introduction: 
 As an introverted person, I generally avoid initiating conversations with strangers. However, there was one instance that I recall where I found myself engaging in a captivating conversation with a stranger. It happened about five years ago during my first trip to Ho Chi Minh City. 
 
-Body Paragraph 1: Setting the Scene
 At the time, I was a 20-year-old college student who had trouble navigating my way to the HCMC University of Education. Since Google Maps wasn't as common then, I decided to ask a local for directions. After hours of wandering, I finally came across a lady selling noodles at a food cart and asked her for help. She kindly gave me directions by pointing in the direction of the big building across the road.
 
-Body Paragraph 2: The Conversation
 Although I had figured out where to go, I decided to sit down and order some noodles from the lady, whose name I later found out was Mrs. Kim. It turned out that we both hailed from Ninh Thuan, my hometown. We found ourselves engaging in a lengthy conversation about our lives, including our reasons for moving to Ho Chi Minh City. 
 
-Body Paragraph 3: Why the conversation was interesting
 Despite being a chance meeting, I found Mrs. Kim's story intriguing. It was evident that she had faced difficulties throughout her life, but she remained kind-hearted and gentle-natured. Her resilient spirit made a lasting impression on me. 
 
-Conclusion: 
 Overall, that seemingly random conversation with Mrs. Kim was one that stuck with me over the years. It showed me that sometimes the most engaging interactions can happen unexpectedly, and that there's always value in connecting with people, even if it's just for a brief moment in time.
 
 
@@ -48,37 +40,43 @@ Tổng thể, bài viết của bạn đã trả lời đầy đủ yêu cầu c
 
 Coherence and Cohesion:
 
-Bài viết của bạn có một sự mạch lạc tốt với các ý được sắp xếp hợp lý. Tuy nhiên, có một số điểm có thể cần cải thiện như sau:
+Bài viết của bạn có một sự liên kết mạch lạc và hợp lí trong hầu hết các phần. Tuy nhiên, có một số điểm mà bạn có thể cải thiện để làm cho bài viết của mình thêm mạch lạc và thống nhất. Dưới đây là một số lỗi phổ biến về sự liên kết và thống nhất mà bạn có thể cải thiện:
 
-- Đoạn mở đầu, bạn sử dụng "I mean" không theo cách thông thường. Thay vào đó, bạn có thể cân nhắc sử dụng các từ khác như "admittedly", "frankly", "to be honest"...
-- Trong câu thứ hai của đoạn mở đầu, bạn có thể sử dụng "so" hoặc "therefore" để liên kết với ý sau đó.
-- Một số từ được sử dụng có thể được thay thế bằng những từ mượt mà và trôi chảy hơn. Ví dụ, "resorted to" có thể thay bằng "decided to" hoặc "opted to". "Wandering around" cũng có thể thay bằng "looking around" hoặc "exploring".
-- Có một số câu phụ dài hơi trong bài viết của bạn, ví dụ như: "So after hours of wandering around, I finally resorted to asking a lady who was selling noodles at a food cart near where I was standing" - ở đây bạn có thể chia nhỏ câu phụ này thành các câu đơn giản nhằm đảm bảo độ mạch lạc của bài viết.
-- Các từ nối được sử dụng nhưng có thể không hoàn toàn phù hợp với ý muốn của câu. Ví dụ, "as the conversation went on" có thể thay thế bằng "as we kept talking" để tránh lặp lại từ "conversation".
+1. Cụm từ mở đầu: Trong đoạn mở đầu, trong câu ""I mean"" và câu ""But I do remember a time when"", có một sự lặp lại không cần thiết. Hãy chú ý mang đến sự trôi chảy tự nhiên cho câu chuyện của bạn bằng cách loại bỏ các câu lặp lại không cần thiết.
 
-Tóm lại, dù có một số điểm cần cải thiện nhưng bài viết của bạn đã đạt được kết quả tốt với sự mạch lạc khá rõ ràng. Nếu bạn có thể sử dụng các từ nối và cấu trúc ngữ pháp phức tạp hơn, bài viết của bạn sẽ trở nên mượt mà và trôi chảy hơn.
+2. Mục tiêu của cuộc trò chuyện: Trong câu ""I decided to sit down and order some noodles from the old lady and have a chat with her"", nên đặt mục tiêu rõ ràng cho cuộc trò chuyện của bạn để đảm bảo sự liên kết rõ ràng. Hãy đề cập đến lý do bạn muốn trò chuyện với bà Kim và những gì bạn mong đợi từ cuộc trò chuyện.
+
+3. Kết nối giữa các ý: Để làm cho bài viết thêm mạch lạc, hãy sử dụng các cụm từ kết nối, như "furthermore", "in addition", "moreover" để liên kết giữa các ý và các câu trong bài viết của bạn. Điều này giúp nâng cao sự thống nhất và dễ hiểu của bài viết.
 
 
 Lexical Resource:
 
-Trong bài viết của bạn, bạn đã sử dụng một số từ và cụm từ phù hợp với nội dung của đề bài, như "inhibited", "resorted to", "chatting for ages", "tough life", "gentle personality". Tuy nhiên, để nâng cao điểm số tiêu chí này, bạn cần sử dụng thêm những từ vựng và cụm từ phức tạp hơn để miêu tả chi tiết hơn về nhân vật, cảnh quan và hoàn cảnh của cuộc trò chuyện.
+Trong bài viết của bạn, việc sử dụng từ vựng là khá đa dạng và phù hợp với ngữ cảnh của câu chuyện. Tuy nhiên, có một số điểm nhỏ cần chú ý:
 
-Ví dụ, bạn có thể sử dụng các từ và cụm từ như "cordial", "mutual interests", "commenced a conversation", "unfolded the story" để miêu tả cách bạn bắt đầu cuộc trò chuyện với người lạ. Bạn cũng có thể sử dụng các từ vựng phức tạp hơn để miêu tả những khía cạnh khác nhau của cuộc trò chuyện, ví dụ như "exchanged opinions on cultural differences", "elaborated on the hardships of living in a bustling metropolis", "delved into philosophical discussions on the nature of happiness and purpose".
+1. "...so most of the time I tend to avoid talking to strangers" - Từ "strangers" nên có số nhiều là "strangers" để phù hợp với "most of the time".
 
-Tuy nhiên, lỗi ngữ pháp và cách sử dụng từ vựng cũng có thể ảnh hưởng đến điểm số của tiêu chí này. Ví dụ, trong câu "It was just a short conversation, but I can still remember it quite well", "it" nên được thay bằng "the conversation" để giúp câu trở nên rõ ràng hơn. Ngoài ra, bạn cũng có thể cần phải xem xét cách sử dụng các từ vựng đã chọn để đảm bảo chúng được sử dụng đúng cách và trong bối cảnh phù hợp.
+2. "...on my very first trip to Ho Chi Minh City" - "Very first" cần được chia thành hai từ riêng rẽ để trở thành "my first" để tránh sự lặp lại.
+
+3. "...but before I went off to study I decided to sit down and order some noodles" - Từ "study" có thể thay thế bằng "attend classes" để mô tả hành động cụ thể hơn.
+
+4. "As the conversation went on and I got to know her better I realized that she had had quite a tough life" - Bạn đã sử dụng cấu trúc "had had" để diễn tả quá khứ hoàn thành trong câu này. Bạn có thể sử dụng cấu trúc khác để tránh lặp lại từ "had", ví dụ: "I realized that she had faced significant hardships in her life".
+
+Ngoài các điểm trên, bài viết của bạn có sử dụng từ vựng phong phú và phù hợp với ngữ cảnh của câu chuyện.
 
 
-Grammatical Range and Accuracy:
+Grammatical Range and Accuracy:?
 
-Bài viết của bạn đã sử dụng ngôn ngữ chính xác trong trình bày ý của mình. Tuy nhiên, vẫn còn vài lỗi sai ngữ pháp.
+Về tổng thể, bài viết của bạn có ngữ pháp tương đối chính xác và rõ ràng. Tuy nhiên, tôi đã tìm thấy một số lỗi sai nhỏ và gợi ý cách sửa chúng:
 
-Some examples of grammatical errors in your writing include:
-
-- "Back then Google Map’s wasn’t as popular as it is nowadays": There is a mistake in the use of the apostrophe in "Map's". It should be "Google Maps".
-- "So we ended up chatting for ages about our lives and about how and why we had come to HCMC": In this sentence, the verb "had come" should be changed to "came" to match the tense used earlier in the sentence, "we ended up chatting".
-- "yet she had managed to maintain such a sweet and gentle personality that many other women who have been through similar struggles to her would have lost by now": In this sentence, the phrase "to her" is unnecessary and should be removed. It should read "many other women who have been through similar struggles would have lost by now".
-
-Các lỗi sai này không ảnh hưởng đến khả năng hiểu ý của bài viết nhưng nếu bạn có thể khắc phục được chúng thì dịch vụ viết của bạn sẽ càng tốt hơn. Mong rằng những đánh giá trên sẽ giúp bạn cải thiện kỹ năng của mình trong việc viết IELTS.
+1. In the first sentence, instead of saying "I'm not much of a social person," it would be better to use "I'm not very sociable" or "I don't enjoy socializing."
+2. In the second sentence, it would be more appropriate to use "so most of the time I tend to avoid talking to strangers" instead of "so most of the time I tend to escape conversations with strangers."
+3. In the third sentence, the phrase "it was around 5 years ago" should be followed by a comma to separate it from the rest of the sentence.
+4. In the fourth sentence, instead of saying "Back then Google Map’s wasn’t as popular as it is nowadays," it should be "Back then, Google Maps wasn't as popular as it is nowadays."
+5. In the fifth sentence, it would be better to use "So after hours of wandering around, I finally resorted to asking a lady" instead of "So after hours of getting lost, I finally found it in myself to ask a lady."
+6. In the sixth sentence, it would be more appropriate to say "I asked the lady if she would be so kind as to tell me the way" instead of "I asked the lady if she would be so kind to tell me the way."
+7. In the seventh sentence, instead of saying "and say ’it’s over there’," it would be more accurate to say "and replied, 'it's over there.'"
+8. In the eighth sentence, instead of saying "but before I went off to study I decided to sit down and order some noodles from the old lady and have a chat with her," you can rephrase it as "Before continuing my journey to the university, I sat down, ordered some noodles from the old lady, and struck up a conversation with her."
+9. In the ninth sentence, "chatting for ages about our lives and about how and why we had come to HCMC" can be improved by saying "chatting for a long time about our lives and the reasons we had come to H
 
 
 Score:

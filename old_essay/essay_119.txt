@@ -35,21 +35,32 @@ To conclude, I strongly support the idea of making unpaid community service a ma
 
 Feedback:
 
-Task Response:?
+Task Response:
 
-Tas
+Đánh giá Task Response (Phản hồi yêu cầu đề bài):
+- Bài viết của bạn không đáp ứng đầy đủ yêu cầu của đề bài. Bạn chỉ đưa ra quan điểm đồng ý với việc công việc tình nguyện nên là bắt buộc trong chương trình trung học mà không đề cập đến mức độ đồng ý của mình.
+- Đề bài yêu cầu bạn phải nêu mức độ đồng ý hoặc không đồng ý với tuyên bố. Bạn cần đưa ra lập luận về quan điểm của mình và sau đó đề cập đến những lợi ích hoặc hạn chế của việc bắt buộc công việc tình nguyện trong chương trình trung học.
+
+Coherence and Cohesion (Tính mạch lạc và sắp xếp ý):
+- Bài viết của bạn không có sự sắp xếp ý kiến logic và mạch lạc. Các ý kiến của bạn không được phát triển một cách đầy đủ và không có sự kết nối rõ ràng giữa chúng.
+- Bạn cần sắp xếp lại bài viết của mình thành các đoạn và tuân thủ cấu trúc luận điểm rõ ràng với câu mở đầu, phát triển và kết luận rõ ràng.
+
+Lexical Resource (Từ vựng):
+- Bạn cần cải thiện vốn từ vựng của mình để sử dụng các từ ngữ phức tạp và phù hợp với chủ đề.
+- Hãy cố gắng sử dụng từ ngữ và cụm từ phức tạp hơn để trình bày ý kiến của bạn
 
 
-Coherence and Cohesion:?
-
-Đánh giá Tas
-Đánh giá Coherence and Cohesion:
-
-Bài viết của bạn có sự liên kết mạch lạc và hợp lý giữa các ý và câu. Bạn đã sử dụng các từ nối và cấu trúc câu có mối liên hệ với nhau để tạo ra sự mạch lạc và hợp lí cho bài viết. Tuy nhiên, còn một số sửa đổi cần được thực hiện để nâng cao hiệu quả của sự liên kết và cung cấp một dòng suy nghĩ không bị gián đoạn.
+Coherence and Cohesion:
 
 Lỗi cần sửa:
-1. Paragraph 2: Cần thêm một câu mở đầu hoặc một câu giới thiệu để tạo ra sự liên kết từ đoạn trước và để mở đầu cho đề cập đến những lợi ích của làm công việc tình nguyện.
-2. Paragraph 3: Cần sửa cấu trúc câu để tạo ra mối liên hệ hơn giữa "students" và "they" trong câu "When students dedicate their time and effort to aiding those in need, they are likely to develop
+- Thiếu sự tương phản như ý kiến đồng ý và không đồng ý với tuyên bố trong đề bài.
+- Thiếu sự liên kết giữa các ý kiến và các câu.
+- Câu mở đầu không đề cập đến mức độ đồng ý hoặc không đồng ý của bạn.
+
+Giải thích:
+- Để đáp ứng đầy đủ yêu cầu của đề bài, bạn cần đưa ra mức độ đồng ý hoặc không đồng ý của mình với tuyên bố. Bạn có thể sử dụng cấu trúc như "Tôi đồng ý/ không đồng ý với quan điểm này" và sau đó trình bày các lý do và ví dụ để tạo sự thuyết phục.
+- Bạn cần xác định các ý chính trong bài viết và giữ cho chúng liên kết mạch lạc. Có thể sử dụng các từ kết nối như "đầu tiên", "thứ hai" và "cuối cùng" để chỉ rõ mối quan hệ giữa các ý.
+- Câu mở đầu của bạn cần đề cập rõ ràng đến mức độ đồng ý của bạn với tuyên bố trong đề bài để chuẩn bị người đọc cho ý kiến của bạn.
 
 
 Lexical Resource:
@@ -62,13 +73,21 @@ Trong bài viết của bạn, bạn sử dụng nhiều từ ngữ đơn giản
 - Thay vì sử dụng "society" trong cả hai câu đầu tiên của bài viết, bạn có thể sử dụng các từ như "community", "neighbourhood", "local area" để biểu đạt ý tưởng một cách cụ thể hơn.
 
 
-Grammatical Range and Accuracy:?
+Grammatical Range and Accuracy:
 
-Đánh giá Grammatical Range an
+Rất tiếc, bài viết trước đó của bạn có quá nhiều lỗi và sự mắc lỗi ngữ pháp nghiêm trọng, đủ để khiến nội dung không rõ ràng và khó hiểu. Dưới đây là một số ví dụ về các lỗi ngữ pháp trong bài viết của bạn:
 
-- Không có lỗi sai về ngữ pháp trong bài viết của bạn. Câu phức và câu đơn được sử dụng đúng, không có lỗi cấu trúc hay sai lỗi tương thích giữa các thành phần câu.
-
-Overall, your grammatical range and accuracy are strong in this essay. You demonstrate a good command of sentence structure, and there are no noticeable errors in grammar or sentence construction. Well done!
+- Lỗi ngữ pháp: "Firstlyt being a collective"
+Giải thích: Từ "Firstlyt" không đúng và cần phải sửa thành "Firstly". Bạn cũng có thể sử dụng "First" thay vì "Firstly".
+- Lỗi ngữ pháp: "Nowadays people dont help each other enough."
+Giải thích: "dont" cần phải được thay thế bằng "don't". Bạn cần sử dụng dấu ngoặc kép để bao quanh câu này để làm rõ vấn đề.
+- Lỗi ngữ pháp: "If goverment make it compulsory for high school."
+Giải thích: "goverment" cần phải được sửa thành "government". "make" cần phải được sửa thành "makes" để phù hợp với chủ ngữ số ít "government".
+- Lỗi ngữ pháp: "Being a good and sensitive society is very crucial."
+Giải thích: Câu này không có cấu trúc hoàn chỉnh và chưa chính xác. Bạn nên bổ sung các từ và cấu trúc câu để cung cấp thông tin rõ ràng hơn.
+- Lỗi ngữ pháp: "For example when i help to somebody"
+Giải thích: "i" cần phải được viết hoa thành "I". Bạn cũng cần thay "to" bằng "someone" để câu trở nên chính xác hơn.
+- Lỗi ngữ pháp: "Lastly its pyscological
 
 
 Score:

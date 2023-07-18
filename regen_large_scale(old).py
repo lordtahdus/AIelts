@@ -128,20 +128,17 @@ def get_specific_syntaxes(contents_each: List):
         f'This is IELTS writing task 2.\n\nTopic:\n"{contents_each[0]}"\n\nEssay:\n"{contents_each[1]}"\nPlease edit the essay according to IELTS structure',
         f'This is IELTS writing task 2.\n\nTopic:\n"{contents_each[0]}"\n\nEssay:\n"{contents_each[1]}"\nPlease provide me detailed feedback in Vietnamese with clear explanations, based on four scoring criteria:\nTask Response\nCoherence and Cohesion\nLexical Resource\nGrammatical Range and Accuracy',
         """\
-Đánh giá Task Response trong bài viết của tôi một cách chi tiết hơn.
-Yêu cầu đề bài có được trả lời không?
-Bài viết có giải thích đầy đủ tất cả các phần của nhiệm vụ không?
+Đánh giá Task Response trong bài viết của tôi một cách chi tiết hơn.\
+Yêu cầu đề bài có được trả lời không?\
+Bài viết có giải thích đầy đủ tất cả các phần của nhiệm vụ không?\
 Ý tưởng có được mở rộng đầy đủ không?
 Nêu ra những lỗi sai cần được cải thiện và giải thich.
 """,
         """\
-Đánh giá Coherence and Cohesion trong bài viết của tôi một cách chi tiết hơn.
-Bài viết của tôi có sự liên kết mạch lạc và hợp lí giữa tất cả các ý và các câu không?
+Đánh giá Coherence and Cohesion trong bài viết của tôi một cách chi tiết hơn.\
+Bài viết của tôi có sự liên kết mạch lạc và hợp lí giữa tất cả các ý và các câu không?\
 Các liên kết câu có tự nhiên và logic không?
-
-Nếu có, liệt kê tất cả lỗi sai của Coherence and Cohesion theo cấu trúc sau:
-<Lỗi cần sửa>
-<Giải thích>
+Nêu ra những lỗi sai cần được cải thiện và giải thich.
 """,
         """\
 Đánh giá Lexical Resource trong bài viết của tôi một cách chi tiết hơn.
@@ -188,6 +185,7 @@ def run():
             f.write(f"""Topic:\n\n{contents_each[0]}\n\nEssay:\n\n{contents_each[1]}\n\n""")
             
             print(f"{essay_index}...")
+            print(user_options_each)
 
             user_options_each.insert(1, 0) # this exists because of General Feedback
 
@@ -230,10 +228,10 @@ def run():
 
         # move the old_essay to old_essay folder
         os.replace(f'need_regen/essay_{essay_index}.txt', f'old_essay/essay_{essay_index}.txt')
-        # remove the suffix "...generating..._" for the regenerated and move to supervised folder
-        os.replace(f"need_regen/essay_{essay_index}...generating..._.txt", f"supervised_essay/essay_{essay_index}.txt")
+        # remove the suffix "...generating..._" for the regenerated and move to processed folder
+        os.replace(f"need_regen/essay_{essay_index}...generating..._.txt", f"processed_essay/essay_{essay_index}.txt")
 
-        print(f"DONE {essay_index}")
+        print(f"DONE {essay_index}\n")
 
 
 if __name__ == "__main__":

@@ -118,37 +118,28 @@ def get_specific_syntaxes(contents_each: List):
     syntaxes = [
         f'This is IELTS writing task 2.\n\nTopic:\n"{contents_each[0]}"\n\nEssay:\n"{contents_each[1]}"\nPlease edit the essay according to IELTS structure',
         """\
-Đánh giá Task Response trong bài viết của tôi một cách chi tiết hơn.
-Yêu cầu đề bài có được trả lời không?
-Bài viết có giải thích đầy đủ tất cả các phần của nhiệm vụ không?
+Đánh giá Task Response trong bài viết của tôi một cách chi tiết hơn.\
+Bài viết của tôi có trả lời đúng câu hỏi đề bài không?\
 Ý tưởng có được mở rộng đầy đủ không?
-Nêu ra những lỗi sai cần được cải thiện và giải thich.
+Nêu ra những điểm cần được cải thiện và giải thich.
 """,
         """\
-Đánh giá Coherence and Cohesion trong bài viết của tôi một cách chi tiết hơn.
+Đánh giá Coherence and Cohesion trong bài viết của tôi một cách chi tiết hơn.\
 Bài viết của tôi có sự liên kết mạch lạc và hợp lí giữa tất cả các ý và các câu không?
-Các liên kết câu có tự nhiên và logic không?
 
-Nếu có, liệt kê tất cả lỗi sai của Coherence and Cohesion theo cấu trúc sau:
-<Lỗi cần sửa>
-<Giải thích>
+Nếu không, liệt kê tất cả lỗi sai của Coherence and Cohesion và giải thích.
 """,
         """\
-Đánh giá Lexical Resource trong bài viết của tôi một cách chi tiết hơn.
-Bài viết của tôi có mắc lỗi sai về từ vựng không?
-Từ vựng dùng có tự nhiên và thích hợp không?
+Đánh giá Lexical Resource trong bài viết của tôi một cách chi tiết hơn.\
+Bài viết của tôi có mắc lỗi sai về từ vựng không? Từ vựng dùng có hợp ngữ cảnh?
 
-Nếu có, liệt kê tất cả lỗi sai của Lexical Resource theo cấu trúc sau:
-<Lỗi cần sửa>
-<Giải thích>
+Nếu có, liệt kê tất cả lỗi sai và giải thích.
 """,
         """\
 Đánh giá Grammatical Range and Accuracy trong bài viết của tôi một cách chi tiết hơn.
 Bài viết của tôi có mắc lỗi sai về ngữ pháp không?
 
-Nếu có, liệt kê tất cả lỗi sai của Grammatical Range and Accuracy theo cấu trúc sau:
-<Lỗi cần sửa>
-<Giải thích>
+Nếu có, liệt kê tất cả lỗi sai và giải thích.
 """,
         "Estimate carefully the score of each criteria"
     ]
@@ -194,12 +185,17 @@ def run():
 
                     ### Request ChatGPT
                     reply = request_ChatGPT(messages)
+
+                    # print("\n")
+                    # print(messages)
+                    # print(reply + "\n")
                 
                 ### Save the first request in messages
                 if i == 0:
                     if user_options_each[i] == 1:
                         messages.append({"role": "assistant", "content": reply})
                     else:
+                        messages.append({"role": "user", "content": syntaxes[i]})
                         messages.append({"role": "assistant", "content": contents_each[i+2]})
 
                 ### Write revised + specific feedback + score into the new file
@@ -213,8 +209,8 @@ def run():
 
         # move the old_essay to old_essay folder
         os.replace(f'need_regen/essay_{essay_index}.txt', f'old_essay/essay_{essay_index}.txt')
-        # remove the suffix "...generating..._" for the regenerated and move to supervised folder
-        os.replace(f"need_regen/essay_{essay_index}...generating..._.txt", f"supervised_essay/essay_{essay_index}.txt")
+        # remove the suffix "...generating..._" for the regenerated and move to processed folder
+        os.replace(f"need_regen/essay_{essay_index}...generating..._.txt", f"processed_essay/essay_{essay_index}.txt")
 
         print(f"DONE {essay_index}\n")
 

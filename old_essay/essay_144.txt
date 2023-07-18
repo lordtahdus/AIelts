@@ -40,55 +40,54 @@ In the conclusion, you briefly summarize your main points and restate your opini
 Overall, while you do address the task prompt and express your opinion, further development and organization of your ideas is needed to strengthen your essay.
 
 
-Coherence and Cohesion:
+Coherence and Cohesion:?
 
-Trong bài viết của bạn, cần phải cải thiện sự liên kết và sự sắp xếp ý hiệu quả hơn để đảm bảo rằng các ý và câu trong bài viết của bạn mạch lạc và hợp lí. Dưới đây là một số lỗi trong Coherence and Cohesion trong bài viết của bạn:
+Trong bài viết của bạn, có một số lỗi về coherence và cohesion. Dưới đây là danh sách các lỗi cần sửa và giải thích tại sao chúng là lỗi:
 
-1. Hãy đảm bảo rằng mỗi đoạn văn của bạn chỉ tập trung vào một ý chính. Ở một số nơi, bạn đã đưa ra nhiều ý chính trong một đoạn, gây rối và làm mất sự rõ ràng của ý của bạn. Hãy tách chúng thành các đoạn riêng biệt để đảm bảo tính mạch lạc.
+1. Thiếu sự liên kết giữa các câu và ý: Một số câu trong bài viết không được liên kết mạch lạc với nhau. Nếu không có sự liên kết hợp lí giữa các câu và ý, bài viết sẽ trở nên khó hiểu và không thống nhất.
 
-2. Sử dụng các từ nối và cụm từ nối mạch lạc để liên kết các ý. Một số câu trong bài viết không có sự kết nối hoặc sự chuyển tiếp mạch lạc giữa các ý, điều này làm mất tính hợp lí của bài viết. Hãy sử dụng từ nối như "Moreover", "Furthermore", "In addition", và cụm từ nối như "As a result", "Moreover", "For instance" để tạo sự trôi chảy và liên kết giữa các ý.
+2. Sử dụng câu chưa rõ ràng: Một số câu trong bài viết của bạn không rõ ý nghĩa hoặc mơ hồ trong việc truyền đạt ý kiến của bạn. Sử dụng câu rõ ràng và chính xác làm tăng sự coherence của bài viết.
 
-3. Kiểm tra lại cấu trúc câu và sắp xếp các ý một cách rõ ràng. Đảm bảo rằng câu của bạn diễn đạt ý chính một cách rõ ràng và hợp lý. Tránh sử dụng câu quá dài hoặc phức tạp, vì điều này có thể làm người đọc cảm thấy khó hiểu.
+3. Thiếu logic và sự suy nghĩ hợp lí: Một số ý trong bài viết không được phát triển một cách logic và hợp lí, khiến cho sự coherence của bài viết bị mất đi. Hãy chắc chắn rằng mỗi ý trong bài viết được trình bày một cách rõ ràng và có hệ thống.
 
-
-Lexical Resource:
-
-Trong bài viết của bạn, ngữ cảnh từ vựng được sử dụng chủ yếu phù hợp với chủ đề và nội dung. Một số từ vựng hợp ngữ cảnh đã được sử dụng đúng cách và mang ý nghĩa rõ ràng. Tuy nhiên, tôi nhận thấy một số lỗi sai về từ vựng và đề xuất cách sửa như sau:
-
-1. "Value of money bring us more benefits" -> "The value of money brings us more benefits" (nên dùng mạo từ "the")
-
-2. "Enhance value of spiritual fife" -> "Enhance the value of spiritual life" hoặc "Enhance one's spiritual well-being" (thay đổi cấu trúc câu và dùng danh từ một cách chính xác)
-
-3. "Having life with the low income" -> "Living with a low income" (sử dụng "living" và "a" để diễn đạt ý nghĩa chính xác hơn)
-
-4. "It is an easy way which leads stress" -> "It is a leading cause of stress" (thay đổi cấu trúc câu và sử dụng cụm danh từ "leading cause")
-
-5. "Bad emotions and negative thinks" -> "Negative emotions and thoughts" (sử dụng tính từ "negative" chính xác và sửa từ "thinks" thành "thoughts")
-
-6. "People could take notice of something which nothing to pay attention" -> "People could notice things that are not worth paying attention to" (thay đổi câu trúc và sử dụng cụm từ "not worth paying attention to" để diễn đạt ý nghĩa rõ ràng hơn)
-
-7. "Senior student which have just graduated" -> "Recent graduates" hoặc "Fresh graduates" (thay đổi từ "senior student which have just graduated" thành cụm danh từ một cách chính xác hơn)
+4. Thiếu sự kết nối giữa các câu từ: Bạn cần sử dụng các từ nối và các cụm từ, nhưng trong một số trường hợp, bạn đã không sử dụng chúng đúng cách hoặc thiếu tiếp nối giữa các câu. Điều này làm mất sự coherence và cohesion của bài viết.
 
 
-Grammatical Range and Accuracy:
+Lexical Resource:?
 
-Bài viết của bạn có một số lỗi ngữ pháp, tôi sẽ liệt kê và giải thích chi tiết dưới đây:
+Trong bài viết của bạn, Lexical Resource được sử dụng khá tốt với sự sử dụng đa dạng từ vựng và cố gắng để trình bày ý tưởng một cách rõ ràng. Tuy nhiên, còn một số lỗi sai và cách cải thiện như sau:
 
-1. "Because value of money bring us more benefits." 
-   Sửa thành: "Because the value of money brings us more benefits."
-   Giải thích: Sau từ "because", cần sử dụng một cấu trúc câu đầy đủ, bao gồm một chủ ngữ (the value of money) và động từ (brings).
+1. Invidual - Individual (Lỗi chính tả)
+   - Giải thích: "Invidual" là lỗi chính tả, từ đúng là "individual".
 
-2. "Although people can spend more time to take care of themselves or enhance value of spiritual fife, having life with the low income and too much time is boring." 
-   Sửa thành: "Although people can spend more time taking care of themselves or enhancing the value of their spiritual life, having a life with a low income and too much time is boring."
-   Giải thích: Cần sử dụng dạng nguyên thể của động từ sau "spend more time" (taking care), và cần điền "their" trước "spiritual life" để chỉ người đang nói.
+2. Enhance value of spiritual fife - Enhance spiritual well-being
+   - Giải thích: "Enhance value of spiritual fife" không hợp ngữ cảnh. "Enhance spiritual well-being" là cách diễn đạt chính xác hơn.
 
-3. "We can not hang out with friends or enjoy own pleasure and it is an easy way which leads stress."
-   Sửa thành: "We cannot hang out with friends or enjoy our own pleasure, and it is an easy way that leads to stress."
-   Giải thích: Cần sử dụng "our" thay vì "own" để chỉ người đang nói, và cần sử dụng "that" thay vì "which" để kết nối câu.
+3. Beautiful memories - Fond memories
+   - Giải thích: "Beautiful memories" không hợp ngữ cảnh. Thay vào đó, bạn có thể sử dụng "fond memories" để diễn đạt ý nghĩa mong muốn.
 
-4. "And in period when Covid-19 impact negatively on the national economy, senior student which have just graduated could land in an impasse if they don’t find a job."
-   Sửa thành: "And in a period when Covid-19 impacts negatively on the national economy, senior students who have just graduated could land in an impasse if they don’t find a job."
-   Giải thích: Cần sử dụng "a" trước "period" để chỉ một khoảng thời gian
+Tuy nhiên, ngoài những lỗi nhỏ trên, Lexical Resource trong bài viết của bạn được sử dụng khá tốt. Bạn đã cố gắng sử dụng từ vựng phù hợp để truyền đạt ý kiến của mình và diễn đạt các ý tưởng một cách rõ ràng. Điều quan trọng là tiếp tục làm việc để đảm bảo sử dụng chính xác từ vựng và cấu trúc ngữ pháp trong quá trình viết tiếp theo.
+
+
+Grammatical Range and Accuracy:?
+
+Vì mỗi bài viết của người viết có thể chứa nhiều lỗi sai ngữ pháp, vì vậy, dưới đây là một số lỗi cần sửa trong bài viết của bạn:
+
+1. "From my perspective, people should work hard to earn more money which is a better than having more time with low salary because value of money bring us more benefits."
+   Lỗi: "which is a better" sẽ cần sửa thành "which is better".
+   Giải thích: Chủ ngữ "which" đang chỉ vào "money", vì vậy không cần sử dụng "a" trước "better".
+
+2. "Although people can spend more time to take care of themselves or enhance value of spiritual fife..."
+   Lỗi: "enhance value of spiritual fife" sẽ cần sửa thành "enhance the value of spiritual life".
+   Giải thích: "value of spiritual life" cần được biểu thị chính xác bằng cách sử dụng mạo từ "the" và sửa lỗi chính tả "fife" thành "life".
+
+3. "Everything need money and life is not much comfortable if people don’t earn enough money to live."
+   Lỗi: "if people don’t earn enough money to live" sẽ cần sửa thành "if people don’t earn enough money to live comfortably."
+   Giải thích: "live comfortably" sẽ nói rõ hơn về sự thoải mái mà người ta cần trong cuộc sống hàng ngày.
+
+4. "And in period when Covid-19 impact negatively on the national economy..."
+   Lỗi: "Covid-19 impact negatively on the national economy" sẽ cần sửa thành "when Covid-19 negatively impacts the national economy".
+   Giải thích: Thì hiện tại đơn "impacts" sẽ phù hợp cho việc miêu tả tác động tiêu cực của Covid-19 lên nền kinh tế quốc gia.
 
 
 Score:

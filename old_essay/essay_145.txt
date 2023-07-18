@@ -36,13 +36,18 @@ Tuy nhiên, để nâng cao khả năng trình bày và ý tưởng mở rộng,
 Ngoài ra, bạn cũng có thể lợi dụng các từ vựng và cấu trúc câu phức tạp hơn để trình bày ý tưởng của mình một cách chi tiết và logic hơn.
 
 
-Coherence and Cohesion:
+Coherence and Cohesion:?
 
-Bài viết của bạn có sự liên kết mạch lạc và hợp lý giữa các ý và câu, tuy nhiên vẫn còn một số lỗi và vấn đề về Coherence and Cohesion cần được cải thiện. Dưới đây là một số lỗi sai cụ thể và giải thích:
+Đánh giá Coherence and Cohesion trong bài viết của bạn, chúng tôi đã tìm thấy vài vấn đề. Dưới đây là các lỗi cần sửa và giải thích tương ứng:
 
-1. Paragraph organization: Trong bài viết của bạn, bạn không chia thành các đoạn văn rõ ràng. Điều này làm cho bài viết của bạn trông hỗn độn và không có cấu trúc rõ ràng. Để cải thiện điều này, hãy chia bài viết của bạn thành ít nhất 3 đoạn văn: một đoạn văn giới thiệu, một đoạn văn trình bày về việc các công việc đơn giản có thể được thực hiện bởi robot và một đoạn văn trình bày về việc các công việc phức tạp vẫn cần sự can thiệp của con người.
+1. Lỗi: Thiếu dẫn chứng hoặc ví dụ cụ thể để hỗ trợ ý kiến.
+   Giải thích: Trong đoạn thứ hai, bạn nêu rõ rằng "traffic personnel are replaced by an automatic traffic control system which is far more cost effective", nhưng thiếu ví dụ để minh họa ý này và tăng tính thuyết phục của luận điểm.
 
-2. Coherence within paragraphs: Một số câu trong đoạn văn của bạn không có sự liên kết với câu trước đó hoặc câu sau đó. Ví dụ, câu "For these reasons, computers and robots will be involved in human lives more frequently in the upcoming future" không liên quan mật thiết với nội dung của đoạn văn. Để cải thiện điều này, hãy đảm bảo các câu trong cùng một đoạn văn liên kết với nhau bằng cách sử dụng các từ nối hoặc cụm từ để tạo sự mạch lạc.
+2. Lỗi: Thiếu từ nối để tạo liên kết giữa các ý.
+   Giải thích: Đôi khi cần sử dụng từ nối để giúp các ý trong bài viết liên kết mạch lạc hơn. Ví dụ, bạn có thể sử dụng từ nối "furthermore" để kết nối ý thứ hai trong đoạn thứ ba và ý chính của đoạn thứ ba.
+
+3. Lỗi: Phần kết luận có thể mạnh mẽ hơn và liên kết trở lại với câu hỏi.
+   Giải thích: Trong phần kết luận, bạn chỉ đưa ra một khái niệm rõ ràng về vai trò của con người trong các công việc phức tạp. Tuy nhiên, để làm cho phần kết luận mạnh mẽ hơn, bạn có thể liên kết trực tiếp trở lại với câu hỏi bằng cách khẳng định rằng mặc dù vai trò của máy móc tăng lên, nhưng con người vẫn là không thể thay thế trong các công việc đòi
 
 
 Lexical Resource:
