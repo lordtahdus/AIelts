@@ -29,13 +29,6 @@ In this case, TR and LR will be regenerated.
 """
 
 
-
-# a list saves all the previous messages
-messages = []
-system_msg = "Ielts writing editor"
-messages.append({"role": "system", "content": system_msg})
-
-
 def get_user_options_and_contents() -> tuple[dict, dict]:
     """
     Get the parts that need to be regenerated for all essays
@@ -67,7 +60,6 @@ def get_user_options_and_contents() -> tuple[dict, dict]:
             sep_indexes = [
                 lines.index('Essay:\n', 2, 10)
             ]
-
             parts = [
                     "Revised:", "Task Response:", "Coherence and Cohesion:",
                     "Lexical Resource:", "Grammatical Range and Accuracy:", "Score:"
@@ -103,7 +95,6 @@ def get_contents_each_essay(lines, sep_indexes) -> List:
         ''.join(topic).strip(),
         ''.join(essay).strip(),
         ''.join(revised).strip(),
-        '',
         ''.join(tr).strip(),
         ''.join(cc).strip(),
         ''.join(lr).strip(),
@@ -126,7 +117,6 @@ def request_ChatGPT(messages):
 def get_specific_syntaxes(contents_each: List):
     syntaxes = [
         f'This is IELTS writing task 2.\n\nTopic:\n"{contents_each[0]}"\n\nEssay:\n"{contents_each[1]}"\nPlease edit the essay according to IELTS structure',
-        f'This is IELTS writing task 2.\n\nTopic:\n"{contents_each[0]}"\n\nEssay:\n"{contents_each[1]}"\nPlease provide me detailed feedback in Vietnamese with clear explanations, based on four scoring criteria:\nTask Response\nCoherence and Cohesion\nLexical Resource\nGrammatical Range and Accuracy',
         """\
 Đánh giá Task Response trong bài viết của tôi một cách chi tiết hơn theo những tiêu chí sau:
 Yêu cầu đề bài có được trả lời không?
@@ -169,15 +159,12 @@ Ví dụ cho lỗi cải thiện
 
 
 def run():
-
     user_options_all, contents_all = get_user_options_and_contents()
-    
     print(".....Start Generating.....")
     
     for essay_index in user_options_all.keys():
         user_options_each: List = user_options_all[essay_index]
         contents_each: List = contents_all[essay_index]
-
         # ChatGPT requesting syntaxes
         syntaxes = get_specific_syntaxes(contents_each)
         
@@ -190,46 +177,29 @@ def run():
         # which will be remove when the old essay is moved to the old folder
         with open(f"need_regen/essay_{essay_index}...generating..._.txt", "w", encoding="utf-8") as f:
             f.write(f"""Topic:\n\n{contents_each[0]}\n\nEssay:\n\n{contents_each[1]}\n\n""")
-            
             print(f"{essay_index}...")
 
-            user_options_each.insert(1, 0) # this exists because of General Feedback
-
             # loop through all parts and regenerate the chosen parts
-            for i in range(0,7):
-
+            for i in range(0,6):
                 ### Save the messages to request
                 message = syntaxes[i]
-                # Revised
-                if i == 0 and user_options_each[i] == 1:
-                    messages.append({"role": "user", "content": message})
-                # General feedback
-                elif i == 1:
+                if user_options_each[i] == 1:
+                    # pop out the lastest request message
                     if len(messages) == 2:
                         messages.pop(1)
-                    messages.append({"role": "user", "content": message})
-                # Specific Criteria and Score (i = 2,3,...6)
-                elif user_options_each[i] == 1:
-                    if len(messages) == 4:
-                        messages.pop(3)
                     messages.append({"role": "user", "content": message})
 
                 ### Request ChatGPT
                 reply = request_ChatGPT(messages)
-
-                ### Save general feedback in messages but not print 
-                if i == 1:
-                    messages.append({"role": "assistant", "content": reply})
                     
                 ### Write revised + specific feedback + score into the new file
+                f.write(headings[i])
+                # old part
+                if user_options_each[i] == 0:
+                    f.write(contents_each[i+2] + '\n\n\n')
+                # regenerated part
                 else:
-                    f.write(headings[i])
-                    # old part
-                    if user_options_each[i] == 0:
-                        f.write(contents_each[i+2] + '\n\n\n')
-                    # regenerated part
-                    else:
-                        f.write(reply + '\n\n\n')
+                    f.write(reply + '\n\n\n')
 
         # move the old_essay to old_essay folder
         os.replace(f'need_regen/essay_{essay_index}.txt', f'old_essay/essay_{essay_index}.txt')
@@ -240,10 +210,13 @@ def run():
 
 
 if __name__ == "__main__":
+    # a list saves all the previous messages
+    messages = []
+    system_msg = "Ielts writing editor"
+    messages.append({"role": "system", "content": system_msg})
     # used to write in the new file
     headings = [
         "Revised:\n\n",
-        "",
         "Feedback:\n\nTask Response:\n\n",
         "Coherence and Cohesion:\n\n",
         "Lexical Resource:\n\n",
