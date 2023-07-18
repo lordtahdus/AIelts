@@ -74,43 +74,21 @@ Trong một số trường hợp, bạn cũng có thể thêm một số từ v�
 Tổng thể, từ vựng của bạn là rất tốt và có sự phong phú.  Tuy nhiên, hãy chú ý sử dụng từ đúng và chính xác hơn để tăng tính chính xác của bài viết của bạn.
 
 
-Grammatical Range and Accuracy:?
+Grammatical Range and Accuracy:
 
-Có một số lỗi ngữ pháp và sai sót nhỏ trong bài viết của bạn. Dưới đây là danh sách chi tiết các lỗi và giải thích cách sửa chúng:
+Bài viết của bạn trong cả khá rõ ràng và không có nhiều lỗi về ngữ pháp. Tuy nhiên, tôi đã tìm thấy một số lỗi như sau:
 
-1. "The abuse of drugs is on the rise" - Đúng ngữ pháp.
+1. "The abuse of drugs is on the rise in many countries" - ở đây, nên sử dụng "are" thay cho "is" để phù hợp với "drugs" (plural).
 
-2. "In many countries, posing severe consequences on society." - Thiếu chủ ngữ cho cụm từ "posing severe consequences on society". Bạn có thể sửa lại câu này thành "In many countries, drug abuse is on the rise, posing severe consequences on society."
+2. "leads to an increased number of addicts who resort to criminal activities" - ở đây, nên sửa thành "leads to an increase in the number of addicts who resort to criminal activities" để ngữ pháp chính xác hơn.
 
-3. "resort to criminal activities to sustain their addiction" - Đúng ngữ pháp.
+3. "There is also a notable increase in violent crimes related to drug abuse" - ở đây, câu này đang mô tả một sự tăng lên, nên bạn nên sử dụng "has been" thay cho "is" để chỉ hiện tại hoàn thành.
 
-4. "violent crimes related to drug abuse" - Đúng ngữ pháp.
+4. "Moreover, drug dealers often engage in street aggression to promote addiction" - ở đây, nên sử dụng "in promoting" thay cho "to promote" để câu trở nên rõ ràng hơn.
 
-5. "which poses significant threats to public safety" - Đúng ngữ pháp.
+5. "starts from primary school" - ở đây, nên sử dụng "should start" để diễn tả một hành động nên làm trong tương lai.
 
-6. "drug dealers often engage in street aggression" - Đúng ngữ pháp.
-
-7. "to promote addiction, which further contributes to this problem" - Sử dụng từ "this" không rõ ràng. Bạn có thể thay thế "this" bằng "the problem of drug abuse".
-
-8. "There are several ways to tackle this issue effectively" - Đúng ngữ pháp.
-
-9. "Education on the dangers of drug abuse should be a priority" - Đúng ngữ pháp.
-
-10. "programs can be implemented in schools and colleges" - Đúng ngữ pháp.
-
-11. "provide scientific information on the adverse effects of drugs" - Đúng ngữ pháp.
-
-12. "visits to rehabilitation centers can be incorporated into the educational program" - Đúng ngữ pháp.
-
-13. "expose students to the reality of drug addiction and its consequences" - Đúng ngữ pháp.
-
-14. "governments should also invest in rehabilitation facilities" - Đúng ngữ pháp.
-
-15. "These professionals can provide addiction treatment" - Đúng ngữ pháp.
-
-16. "mental health counseling" - Đúng ngữ pháp.
-
-17. "providing access to these services in populated cities" - Đúng
+6. "Programs can be implemented in schools and colleges" - ở đây, nên sử dụng "Programs should be implemented" để thể hiện tính nên làm.
 
 
 Score:
