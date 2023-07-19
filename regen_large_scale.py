@@ -192,9 +192,9 @@ def run():
                 
                 ### Save the first request in messages
                 if i == 0:
-                    if user_options_each[i] == 1:
+                    if user_options_each[i] == 1: # save newly regenerated
                         messages.append({"role": "assistant", "content": reply})
-                    else:
+                    else: # save original one
                         messages.append({"role": "user", "content": syntaxes[i]})
                         messages.append({"role": "assistant", "content": contents_each[i+2]})
 

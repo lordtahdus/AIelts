@@ -80,42 +80,30 @@ To conclude, I strongly agree that men should equally share the tasks with women
             f'This is IELTS writing task 2.\n\nTopic:\n"{topic}"\n\nEssay:\n"{essay}"\nPlease edit the essay according to IELTS structure',
             f'This is IELTS writing task 2.\n\nTopic:\n"{topic}"\n\nEssay:\n"{essay}"\nPlease provide me detailed feedback in Vietnamese with clear explanations, based on four scoring criteria:\nTask Response\nCoherence and Cohesion\nLexical Resource\nGrammatical Range and Accuracy',
             """\
-Đánh giá Task Response trong bài viết của tôi một cách chi tiết hơn theo những tiêu chí sau:
-Yêu cầu đề bài có được trả lời không?
-Bài viết có giải thích đầy đủ tất cả các phần của nhiệm vụ không?
+Đánh giá Task Response trong bài viết của tôi một cách chi tiết hơn.\
+Bài viết của tôi có trả lời đúng câu hỏi đề bài không?\
 Ý tưởng có được mở rộng đầy đủ không?
-
-Nếu có, liệt kê tất cả lỗi sai của Task Response theo cấu trúc sau:
-Lỗi cần sửa
-Ví dụ cho lỗi cải thiện
+Nêu ra những điểm cần được cải thiện và giải thich.
 """,
-            """\
-Đánh giá Coherence and Cohesion trong bài viết của tôi một cách chi tiết hơn theo những tiêu chí sau:
+           """\
+Đánh giá Coherence and Cohesion trong bài viết của tôi một cách chi tiết hơn.\
 Bài viết của tôi có sự liên kết mạch lạc và hợp lí giữa tất cả các ý và các câu không?
-Các liên kết câu có tự nhiên và logic không?
 
-Nếu có, liệt kê tất cả lỗi sai của Coherence and Cohesion theo cấu trúc sau:
-Lỗi cần sửa
-Ví dụ cho lỗi cải thiện
+Nếu không, liệt kê tất cả lỗi sai của Coherence and Cohesion và giải thích.
 """,
             """\
-Đánh giá Lexical Resource trong bài viết của tôi một cách chi tiết hơn theo những tiêu chí sau:
-Bài viết của tôi có mắc lỗi sai về từ vựng không?
-Từ vựng dùng có tự nhiên và thích hợp không?
+Đánh giá Lexical Resource trong bài viết của tôi một cách chi tiết hơn.\
+Bài viết của tôi có mắc lỗi sai về từ vựng không? Từ vựng dùng có hợp ngữ cảnh?
 
-Nếu có, liệt kê tất cả lỗi sai của Lexical Resource theo cấu trúc sau:
-Lỗi cần sửa
-Ví dụ cho lỗi cải thiện
+Nếu có, liệt kê tất cả lỗi sai và giải thích.
 """,
-            """\
-Đánh giá Grammatical Range and Accuracy trong bài viết của tôi một cách chi tiết hơn theo những tiêu chí sau:
+           """\
+Đánh giá Grammatical Range and Accuracy trong bài viết của tôi một cách chi tiết hơn.
 Bài viết của tôi có mắc lỗi sai về ngữ pháp không?
 
-Nếu có, liệt kê tất cả lỗi sai của Grammatical Range and Accuracy theo cấu trúc sau:
-Lỗi cần sửa
-Ví dụ cho lỗi cải thiện
+Nếu có, liệt kê tất cả lỗi sai và giải thích.
 """,
-            "Estimate carefully the score of each criteria"
+           "Estimate carefully the score of each criteria"
         ]
         headings = [
             "Feedback:\n\nTask Response:\n",
