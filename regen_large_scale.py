@@ -108,7 +108,7 @@ def request_ChatGPT(messages):
     response = openai.ChatCompletion.create(
         model="gpt-3.5-turbo",
         messages=messages,
-        max_tokens= 500
+        max_tokens= 1000
     )
     reply = response["choices"][0]["message"]["content"]
     return reply

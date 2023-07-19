@@ -117,7 +117,7 @@ def request_ChatGPT(messages):
     response = openai.ChatCompletion.create(
         model="gpt-3.5-turbo",
         messages=messages,
-        max_tokens= 500
+        max_tokens= 1000
     )
     reply = response["choices"][0]["message"]["content"]
     return reply
@@ -129,32 +129,27 @@ def get_specific_syntaxes(contents_each: List):
         f'This is IELTS writing task 2.\n\nTopic:\n"{contents_each[0]}"\n\nEssay:\n"{contents_each[1]}"\nPlease provide me detailed feedback in Vietnamese with clear explanations, based on four scoring criteria:\nTask Response\nCoherence and Cohesion\nLexical Resource\nGrammatical Range and Accuracy',
         """\
 Đánh giá Task Response trong bài viết của tôi một cách chi tiết hơn.\
-Yêu cầu đề bài có được trả lời không?\
-Bài viết có giải thích đầy đủ tất cả các phần của nhiệm vụ không?\
+Bài viết của tôi có trả lời đúng câu hỏi đề bài không?\
 Ý tưởng có được mở rộng đầy đủ không?
-Nêu ra những lỗi sai cần được cải thiện và giải thich.
+Nêu ra những điểm cần được cải thiện và giải thich.
 """,
         """\
 Đánh giá Coherence and Cohesion trong bài viết của tôi một cách chi tiết hơn.\
-Bài viết của tôi có sự liên kết mạch lạc và hợp lí giữa tất cả các ý và các câu không?\
-Các liên kết câu có tự nhiên và logic không?
-Nêu ra những lỗi sai cần được cải thiện và giải thich.
+Bài viết của tôi có sự liên kết mạch lạc và hợp lí giữa tất cả các ý và các câu không?
+
+Nếu không, liệt kê tất cả lỗi sai của Coherence and Cohesion và giải thích.
 """,
         """\
-Đánh giá Lexical Resource trong bài viết của tôi một cách chi tiết hơn.
-Bài viết của tôi có mắc lỗi sai về từ vựng không? Từ vựng dùng có tự nhiên và thích hợp không?
+Đánh giá Lexical Resource trong bài viết của tôi một cách chi tiết hơn.\
+Bài viết của tôi có mắc lỗi sai về từ vựng không? Từ vựng dùng có hợp ngữ cảnh?
 
-Nếu có, liệt kê tất cả lỗi sai của Lexical Resource theo cấu trúc sau:
-<Lỗi cần sửa>
-<Giải thích>
+Nếu có, liệt kê tất cả lỗi sai và giải thích.
 """,
         """\
 Đánh giá Grammatical Range and Accuracy trong bài viết của tôi một cách chi tiết hơn.
 Bài viết của tôi có mắc lỗi sai về ngữ pháp không?
 
-Nếu có, liệt kê tất cả lỗi sai của Grammatical Range and Accuracy theo cấu trúc sau:
-<Lỗi cần sửa>
-<Giải thích>
+Nếu có, liệt kê tất cả lỗi sai và giải thích.
 """,
         "Estimate carefully the score of each criteria"
     ]

@@ -26,7 +26,9 @@ def run():
 
             response = openai.ChatCompletion.create(
                 model="gpt-3.5-turbo",
-                messages=messages)
+                messages=messages,
+                max_tokens= 1000
+            )
             reply = response["choices"][0]["message"]["content"]
             # Add generated output to do similarity check
             generated_content += reply
