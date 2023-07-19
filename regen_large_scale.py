@@ -131,7 +131,7 @@ Nếu không, liệt kê tất cả lỗi sai của Coherence and Cohesion và g
 """,
         """\
 Đánh giá Lexical Resource trong bài viết của tôi một cách chi tiết hơn.\
-Bài viết của tôi có mắc lỗi sai về từ vựng không? Từ vựng dùng có hợp ngữ cảnh?
+Bài viết của tôi có mắc lỗi sai về từ vựng không? Những từ, cụm từ dùng có hợp ngữ cảnh không?
 
 Nếu có, liệt kê tất cả lỗi sai và giải thích.
 """,

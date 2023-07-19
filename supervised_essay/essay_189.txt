@@ -15,8 +15,6 @@ In conclusion, I hold the same view that environmental sustainability depends gr
 
 Revised:
 
-Revised Essay:
-
 There is a growing concern about environmental issues such as pollution, climate change, and global warming. While some people argue that these problems are too complex for individuals to handle, others believe that people need to take responsibility for mitigating environmental problems. In this essay, I will discuss both views before presenting my own opinion.
 
 On the one hand, those who believe that individuals cannot solve environmental problems argue that these issues are beyond human control. For instance, natural disasters like droughts, tsunamis, and floods are unforeseeable, and people can only take measures to minimize their damage. Moreover, it is primarily governments that should be responsible for implementing environmental regulations and enforcing laws. That is because environmental problems cannot be solved without collective power. A regular citizen cannot stop an industrial factory from emitting harmful gases into the air, whereas the government has the authority to regulate factories' activities. Therefore, to tackle environmental issues, governmental initiatives are necessary.
@@ -24,8 +22,6 @@ On the one hand, those who believe that individuals cannot solve environmental p
 On the other hand, proponents of individual actions for the environment assert that humans are the primary cause of pollution and environmental degradation. Private cars and motorbikes emit carbon monoxide into the air, and improper waste disposal pollutes the water. Moreover, the use of electric appliances and air conditioners contributes to global warming. Therefore, if individuals adopt sustainable approaches in their daily lives, such as using public transport, reducing plastic usage, and conserving energy consumption, significant progress can be made in tackling environmental issues.
 
 In my opinion, the responsibility of environmental protection should be shared between governments and individuals. While people should be encouraged to adopt environmentally friendly practices in their daily lives, governments should enact robust environmental laws and regulations to promote sustainable actions. Moreover, governments should provide incentives and education initiatives to encourage individuals to adopt sustainable lifestyles.
-
-In conclusion, environmental issues cannot be resolved without the collaboration of governments and individuals. While people's individual actions can impact environmental issues, it is the role of the governments to create enabling environments that encourage people to adopt meaningful and sustainable actions to protect the environment. Therefore, a concerted effort by both governments and individuals is crucial to address the complex and multifaceted issue of environmental sustainability.
 
 
 Feedback:
@@ -49,7 +45,7 @@ Trong bài viết của bạn, sự liên kết giữa các ý có một số v�
 
 3. Phát triển các ý của bạn: Bạn có thể phát triển các ý của mình bằng cách đưa ra các ví dụ cụ thể hoặc chứng minh đáng tin cậy. Ví dụ, trong đoạn thứ ba, bạn có thể đưa ra một vài ví dụ về cách các cá nhân có thể giảm thiểu tác động của ánh sáng xanh như việc sử dụng xe buýt công cộng để đi lại hơn là lái xe riêng. Các ví dụ này giúp người đọc hiểu rõ hơn về những giải pháp cụ thể và thực tế mà các cá nhân có thể áp dụng để giúp bảo vệ môi trường.
 
-Ví dụ: "Tuy nhiên, để làm cho bài viết của bạn thêm dễ đọc và dễ hiểu hơn, bạn có thể sử dụng một số từ nối ý để liên kết các ý của mình một cách chặt chẽ. Ví dụ, khi chuyển từ phân tích quan điểm đầu tiên sang quan điểm thứ hai, bạn có thể sử dụng từ 'Moreover' để chỉ ra rằng bạn sẽ đưa ra thêm một ví dụ nữa để hỗ trợ quan điểm của mình. Sau đó, bạn có thể sử dụng các cụm từ như 'For instance' để đưa ra một số ví dụ cụ thể về cách các cá nhân có thể giảm thiểu tác động của ánh sáng xanh như việc sử dụng xe buýt công cộng để đi lại hơn là lái xe riêng."
+Ví dụ, để làm cho bài viết của bạn thêm dễ đọc và dễ hiểu hơn, bạn có thể sử dụng một số từ nối ý để liên kết các ý của mình một cách chặt chẽ. Khi chuyển từ phân tích quan điểm đầu tiên sang quan điểm thứ hai, bạn có thể sử dụng từ 'Moreover' để chỉ ra rằng bạn sẽ đưa ra thêm một ví dụ nữa để hỗ trợ quan điểm của mình. Sau đó, bạn có thể sử dụng các cụm từ như 'For instance' để đưa ra một số ví dụ cụ thể về cách các cá nhân có thể giảm thiểu tác động của ánh sáng xanh như việc sử dụng xe buýt công cộng để đi lại hơn là lái xe riêng."
 
 
 Lexical Resource:
@@ -93,7 +89,7 @@ Trong bài viết của bạn, có một số lỗi sai về ngữ pháp. Dướ
 
 - (Đoạn 3) "it is governments around the world that should enact proper environment-protecting laws for their people to oblige": Liệt kê từ "that" ở đây là không cần thiết. Đây là một lỗi sai về cấu trúc câu. Câu này có thể sửa lại thành "it is governments around the world that should enact proper environment-protecting laws to oblige their people".
 
-Tổng số lỗi sai trong bài viết của bạn là khoảng 7 lỗi. Toàn bộ các lỗi này đều không quá nghiêm trọng và không ảnh hưởng đến hiểu được tổng thể nội dung của bài viết. Tuy nhiên, để đạt được điểm số cao trong kỳ thi IELTS, bạn cần phải cải thiện các lỗi này để có một bài viết hoàn chỉnh và chính xác hơn.
+Toàn bộ các lỗi này đều không quá nghiêm trọng và không ảnh hưởng đến hiểu được tổng thể nội dung của bài viết.
 
 
 Score:

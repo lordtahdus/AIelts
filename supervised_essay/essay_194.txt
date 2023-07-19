@@ -10,28 +10,15 @@ As we ponder further, another aspect is that education is a vital factor to secu
 On the contrary, some people would vote in favour of creation of theatres and stadiums. The top-notch argument they do is that those buildings produce recreation in humans. This is because, people would get relief from routine overstressed work by attending events in theatres. Moreover, this would promote, competitive gaming events in the country in which many people can participate. For, instance, London has many domestic cricket events due to innumerable sports stadiums.
 To conclude, it can be finally commented that although theatres and stadiums are recreational sources, education, and medical amenities would certainly exacerbate territory’s economy. In addition, advanced medical care would increase life span of individuals."
 
-
 Revised:
 
-Here is an edited version of the essay with IELTS structure:
-
-Introduction:
- 
 It is a matter of debate whether the government should fund the construction of theatres and sports stadiums or invest in medical care and education. Some people argue that medical amenities and education deserve more funding, while others believe that recreational buildings are equally important. This essay will discuss both viewpoints and elaborate on why I agree with the former.
-
-Body Paragraph 1:
  
 Firstly, it is essential to prioritize medical care and education investments since the number of severe accidents is increasing daily. Immediate treatment is often a matter of life or death, and adequate medical care is known to contribute to longer life expectancy. Countries with excellent medical services, such as developed nations, have higher longevity rates. Thus, investing funds in the healthcare sector could help save lives and promote healthier living.
-
-Body Paragraph 2:
  
 Furthermore, education is a crucial factor in securing well-paying jobs, especially in a highly competitive environment. People with advanced education qualifications have a higher chance of gaining employment, even during financial crises. In addition, countries with a strong educational foundation, such as Canada, have significant economic advancements, higher employability rates, and a better standard of living.
-
-Body Paragraph 3:
  
 On the other hand, some advocate the construction of theatres and sports stadiums. They argue that such buildings provide relaxation and entertainment, with recreational activities playing a key role in improving mental health. For example, attending a theatre play or participating in sporting events can be effective stress management techniques for individuals with highly demanding jobs.
-
-Conclusion:
  
 In conclusion, while theatres and sports stadiums can enhance people’s happiness and well-being, medical care and education investments are crucial for a country's economy and its citizens' long-term prosperity. Therefore, it is advisable for the government to prioritize funding medical and educational sectors while still making provisions for recreational buildings.
 
@@ -60,15 +47,27 @@ Tóm lại, bài viết của bạn đã đạt được tính liên kết và m
 
 Lexical Resource:
 
-Bài viết của bạn chỉ mắc một số lỗi nhỏ trong việc sử dụng từ vựng. Dưới đây là chi tiết các lỗi sai:
+Bài viết của bạn sử dụng một loạt từ vựng phong phú và đa dạng trong một phạm vi từ vựng IELTS phù hợp. Tuy nhiên, vẫn còn một số lỗi sai về từ vựng và cấu trúc cần được sửa chữa.
 
-1. "judiciary" - từ này không phù hợp trong ngữ cảnh này. Bạn có thể thay thế bằng "government" hoặc "state".
+1. "the judiciary" nghĩa là "bộ tư pháp" chứ không phải "chính phủ". Bạn có thể sử dụng "government" để diễn đạt ý kiến của mình.
 
-2. "rearmost" - từ này không được sử dụng đúng cách. Bạn có thể sử dụng "last but not least" để thay thế.
+2. "day by day" nên được thay bằng "increasingly" hoặc "gradually". "Day by day" không phù hợp trong ngữ cảnh này.
 
-3. "exacerbate" - từ này không phù hợp trong ngữ cảnh này, bạn có thể thay thế bằng "improve", "enhance" hoặc "boost".
+3. "detrimental accidents" chưa rõ nghĩa. Bạn có thể thay thành "serious accidents" hoặc "fatal accidents".
 
-Ngoài những lỗi này, bạn đã sử dụng từ vựng tốt và đa dạng trong bài viết của mình. Tuy nhiên, bạn có thể nâng cao sự đa dạng của từ vựng bằng cách sử dụng các từ đồng nghĩa hoặc từ vựng liên quan để tránh sự lặp lại.
+4. "will not face critical incidents" chưa chính xác. Bạn có thể nói "will be less vulnerable to critical incidents" hoặc "will experience a decrease in critical incidents".
+
+5. "wider economy" không chính xác. Bạn có thể sử dụng "stronger economy" hoặc "growing economy".
+
+6. "rendered by local juridic" không chính xác. Bạn có thể nói "provided by the local government" hoặc "offered by the local administration".
+
+7. "creation of theatres and stadiums" có thể thay bằng "construction of theatres and sports stadiums" để diễn đạt ý của bạn một cách chính xác hơn.
+
+8. "top-notch argument" có thể thay bằng "main argument" hoặc "key argument".
+
+9. "promote, competitive gaming events" chưa chính xác. Bạn có thể nói "promote competitive sports events" để diễn đạt ý của bạn rõ ràng hơn.
+
+10. "certainly exacerbate territory's economy" có thể thay bằng "definitely contribute to the country's economy" để sử dụng từ ngữ chính xác hơn.
 
 
 Grammatical Range and Accuracy:
