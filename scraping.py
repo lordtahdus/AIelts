@@ -1,52 +1,81 @@
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
+import json
+from link_check import *
 
 # Set up Scraper API request
 api_key = '63344ec8f7f532e761bd07a60531c2f0'
-url = 'https://writing9.com/ielts-writing-samples'
-params = {
-    'api_key': api_key,
-    'url': url,
-}
+for page in range(3):
+    url = f'https://writing9.com/band/6.5/{page}'
+    params = {
+        'api_key': api_key,
+        'url': url,
+    }
 
-# Make the request to Scraper API
-response = requests.get('http://api.scraperapi.com', params=params)
+    # Make the request to Scraper API
+    response = requests.get('http://api.scraperapi.com', params=params)
 
-if response.status_code == 200:
-    # Parse the HTML content using BeautifulSoup
-    soup = BeautifulSoup(response.content, 'html.parser')
+    amount = 0
+    MAX_AMOUNT = 300
 
-    # Find all the <a> tags containing URLs
-    links = soup.find_all('a', class_ = 'root__link')
+    if response.status_code == 200:
+        # Parse the HTML content using BeautifulSoup
+        soup = BeautifulSoup(response.content, 'html.parser')
 
-    # Loop through each URL and make requests to scrape data
-    for link in links:
-        href = link.get('href')
-        absolute_url = urljoin(url, href)  # Convert relative URLs to absolute URLs
+        # Find all the <a> tags containing URLs
+        links = soup.find_all('a', class_ = 'root__link')
 
-        # Set up Scraper API request for each URL
-        params['url'] = absolute_url
+        # Loop through each URL and make requests to scrape data
+        
+        for link in links:
+            if amount > MAX_AMOUNT:
+                break
+            else:
+                amount += 1
 
-        # Make the request to Scraper API for the specific URL
-        response = requests.get('http://api.scraperapi.com', params=params)
+                href = link.get('href')
+                absolute_url = urljoin(url, href)  # Convert relative URLs to absolute URLs
 
-        if response.status_code == 200:
-            # Parse the HTML content of the specific URL
-            sub_soup = BeautifulSoup(response.content, 'html.parser')
+                # Set up Scraper API request for each URL
+                params['url'] = absolute_url
 
-            sub_title = sub_soup.find_all('h1', class_ = 'h4')[0].text
-            print('Subpage URL:', absolute_url)
-            print('Subpage Title:', sub_title)
+                link_status = check_csv('links.csv' , absolute_url)
 
-            sub_content = sub_soup.find('div', class_ = 'content-editable')
+                if link_status:
+                    continue
+                else:
+                    with open('links.csv', "a") as f:
+                        f.write(f"\n{absolute_url}")
 
-            remove_content = sub_content.find_all('div', 'hover')
-            for content in remove_content:
-                content.extract()
-            
-            print(sub_content.text)
+                # Make the request to Scraper API for the specific URL
+                response = requests.get('http://api.scraperapi.com', params=params)
+
+                if response.status_code == 200:
+                    # Parse the HTML content of the specific URL
+                    sub_soup = BeautifulSoup(response.content, 'html.parser')
+
+                    sub_title = sub_soup.find_all('h1', class_ = 'h4')[0].text
+                    sub_content = sub_soup.find('div', class_ = 'content-editable')
+                    remove_content = sub_content.find_all('div', 'hover')
+
+                    for content in remove_content:
+                        content.extract()
+
+                    essay = {
+                        "url": absolute_url,
+                        "title": sub_title,
+                        "content": sub_content.text
+                    }
+                    with open('essays.jsonl', 'a') as file:
+                        json_line = json.dumps(essay)
+                        file.write(json_line + '\n')
+                    file.close()
+                    
+                    # print('URL:\n', absolute_url)
+                    # print('Title:\n', sub_title)
+                    # print('Essays:\n', sub_content.text)
+                else:
+                    print('Error:', response.status_code)
         else:
             print('Error:', response.status_code)
-else:
-    print('Error:', response.status_code)
