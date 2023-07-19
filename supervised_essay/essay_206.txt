@@ -39,13 +39,26 @@ Ví dụ cải thiện:
 
 Coherence and Cohesion:
 
-Trong bài viết của bạn, có một số lỗi về sự liên kết mạch lạc giữa các ý và câu. Dưới đây là một số lỗi cần cải thiện cùng với ví dụ để cải thiện:
+Trong bài viết của bạn có một số lỗi về coherence and cohesion, đó là sự liên kết giữa các ý và câu không hoàn toàn mạch lạc và hợp lí. Dưới đây là các lỗi và giải thích cụ thể:
 
-Lỗi: Thiếu sự liên kết mạch lạc giữa các ý tưởng.
-Ví dụ cải thiện: "Ngoài việc có nhiều loại thể thao, thể thao cũng có thể được phân loại thành hai loại chính: thể thao cá nhân và thể thao đội. Mỗi loại thể thao có những ưu điểm riêng. Trong khi thể thao cá nhân tập trung vào kỹ năng và sự cạnh tranh của một người, thể thao đội tập trung vào sự hợp tác, tình đoàn kết của một nhóm. Do đó, việc chọn loại thể thao thích hợp một cách cá nhân là một quyết định quan trọng."
+1. Quá trình cung cấp quan điểm:
+Trong phần mở bài, bạn chỉ rõ rằng bạn sẽ "describe my views on both types and choose which one is better". Tuy nhiên, trong bài viết chưa thực sự thể hiện quan điểm của bạn một cách rõ ràng và mạch lạc. Điều này không giúp người đọc hiểu rõ bạn đang ủng hộ loại thể thao nào một cách chính xác.
 
-Lỗi 2: Sử dụng từ sai hoặc câu chưa rõ ràng gây khó hiểu cho người đọc.
-Ví dụ cải thiện: "Các nhà vô địch thể thao cá nhân luôn cố gắng rèn luyện bản thân họ để trở thành người chiến thắng. Để đạt được điều này, họ phải tập trung và tuân theo kế hoạch tập luyện một cách tuyệt đối. Thành tựu của họ không phụ thuộc vào các yếu tố bên ngoài như may mắn hay co hội. Ví dụ như khi Usain Bolt từng giành được các huy chương tại Olympic vì đã đặt mục tiêu cao nhất cho mình và luôn tập luyện chăm chỉ."
+2. Thiếu sự kết nối giữa các ý:
+Một trong những yếu điểm trong bài viết của bạn là thiếu sự kết nối logic giữa các ý. Bạn đã trình bày ý kiến về cả hai loại thể thao, nhưng các ý không liên kết mạch lạc với nhau. Điều này khiến người đọc có thể gặp khó khăn trong việc theo dõi luồng suy nghĩ và các ý chính của bạn.
+
+3. Cấu trúc câu không mạch lạc:
+Một số câu trong bài viết của bạn cũng có cấu trúc không mạch lạc, gây khó khăn trong việc theo dõi câu chuyện của bạn. Ví dụ, câu "Our achievements are not relying on outside factors" có cấu trúc không chính xác, nên nên được sửa lại thành "Our achievements do not rely on outside factors".
+
+4. Sử dụng ngôn ngữ và từ vựng không liên kết:
+Một số từ vựng và ngôn ngữ trong bài viết không được sử dụng một cách hợp lý và liên kết. Ví dụ, từ "instead" được sử dụng để kết thúc đoạn văn thứ hai, nhưng không có sự liên kết rõ ràng với các ý trước đó. Đối với một bài viết IELTS, sử dụng từ vựng và ngôn ngữ rõ ràng và liên kết là rất quan trọng để truyền đạt ý kiến một cách hiệu quả.
+
+Để cải thiện coherence and cohesion trong bài viết của bạn, bạn có thể chú ý đến các mặt sau:
+
+- Đảm bảo rằng các ý chính liên kết mạch lạc với nhau và hỗ trợ quan điểm chung của bạn.
+- Sử dụng các từ nối và cụm từ nối để tạo sự liên kết giữa các câu và đoạn văn.
+- Kiểm tra và chỉnh sửa cấu trúc câu để đảm bảo câu chuyện của bạn được truyền đạt một cách mạch lạc và sáng rõ.
+- Sử dụng ngôn ngữ và từ vựng phù hợp và liên kết để truyền đạt ý kiến của bạn một cách chính xác và hiệu quả.
 
 
 Lexical Resource:
@@ -65,8 +78,6 @@ Trong bài viết của bạn, có một vài từ hoặc cụm từ có thể �
 6. "As social creatures, human cannot life on their own" - Thay "life" thành "live".
 
 7. "Therefore, teamwork will be one of the key for us to survive not only in sports, but also in our entire life" - Thay "key" thành "keys" để phù hợp với số nhiều. Thay "entire life" thành "daily life" hoặc "social life" để rõ ràng hơn.
-
-Hy vọng nhận xét này sẽ giúp bạn hoàn thiện bài viết của mình!
 
 
 Grammatical Range and Accuracy:
@@ -90,7 +101,6 @@ Bạn đã sử dụng sai hình thức động từ trong một số câu. Ví 
 
 - "If the athletes want to be the winner" chưa chính xác, nên sử dụng "If the athletes want to be winners."
 - "As social creatures, human cannot life on their own" chưa chính xác, nên sử dụng "As social creatures, humans cannot live on their own."
-
 
 
 Score:
