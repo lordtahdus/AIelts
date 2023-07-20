@@ -1,6 +1,6 @@
 Topic:
 
-"In today’s very competitive world, a worker has to possess multiple skills to succeed.]  Among the skills that a worker should possess, which skill do you think is more important, social skills or good qualifications?"
+"In today’s very competitive world, a worker has to possess multiple skills to succeed.  Among the skills that a worker should possess, which skill do you think is more important, social skills or good qualifications?"
 
 Essay:
 
@@ -11,7 +11,6 @@ To begin with, the last 2 decades have witnessed bizarre circumstances in some c
 On the other hand, some researchers point out that introverted people with good qualifications are struggling to find work. Because  a lack of communication skills promotes showing their talents in their own subject. Therefore, this situation chips away at their self-confidence and they could be more asocial than before. Businesses are a sea, and this sea is becoming more and more deeper for people who have social anxiety.
 
 In conclusion, both qualification and socialisation are significant to be in a race with competitors. Nevertheless,the advantage of having a good bridge with others outweigh the benefit of being educated. I hope  this issue will be fixed by the governments in the future and people might assess via equal standards."
-
 
 Revised:
 
@@ -28,9 +27,7 @@ Feedback:
 
 Task Response:
 
-Task Response:
-
-Bài viết của bạn đúng là trả lời đúng câu hỏi đề bài: "Trong thế giới cạnh tranh ngày nay, người lao động cần phải sở hữu nhiều kỹ năng để thành công. Trong những kỹ năng mà một người lao động cần sở hữu, bạn nghĩ kỹ năng nào quan trọng hơn, kỹ năng giao tiếp hay bằng cấp tốt?" Bạn đã rõ ràng nêu ra quan điểm của mình rằng kỹ năng giao tiếp quan trọng hơn bằng cấp tốt trong thế kỷ này.
+Bài viết của bạn đúng là trả lời đúng câu hỏi đề bài. Bạn đã rõ ràng nêu ra quan điểm của mình rằng kỹ năng giao tiếp quan trọng hơn bằng cấp tốt trong thế kỷ này.
 
 Tuy nhiên, một số ý tưởng của bạn có thể cần được mở rộng và phát triển hơn. Ví dụ, trong đoạn thân bài thứ nhất, bạn đề cập đến việc người ta tìm việc dựa trên mối quan hệ và mạng lưới quan hệ rộng lớn. Tuy nhiên, bạn chỉ đưa ra ví dụ cho những nước có kinh tế kém phát triển như Thổ Nhĩ Kỳ, Bulgaria và Macedonia. Bạn có thể mở rộng ví dụ này để bao gồm cả những quốc gia khác hoặc cung cấp thêm thông tin cụ thể về tình hình việc làm được ưu tiên mối quan hệ trong các công ty.
 
@@ -41,19 +38,21 @@ Tổng kết, bài viết của bạn đạt yêu cầu của đề bài nhưng 
 
 Coherence and Cohesion:
 
-Trong bài viết của bạn, có sự liên kết mạch lạc và hợp lý giữa các ý và câu, nhưng vẫn còn một số lỗi sai trong Coherence and Cohesion.
+Bài viết của bạn có sự liên kết mạch lạc và hợp lí giữa các ý và câu, tuy nhiên, vẫn còn một số lỗi và cách để cải thiện Coherence and Cohesion như sau:
 
-1. Trong đoạn mở bài, có một lỗi sai trong việc sắp xếp câu. Câu "This means that employers call for being more talented in socialisation and being strongly educated" có thể được sửa thành "This means that employers require workers to be talented in socialisation and strongly educated."
+1. Bắt đầu khá đột ngột: Bạn nên có một đoạn mở bài khái quát và hấp dẫn để giới thiệu chủ đề trước khi đưa ra quan điểm của mình. Điều này sẽ giúp tạo ra sự liên kết mạch lạc và giải thích cho độc giả về tầm quan trọng của social skills và qualifications.
 
-2. Trong đoạn thân bài đầu tiên, có một câu bị lặp lại. Câu "In this essay, what are the benefits of being social in business competition will be explained in the coming paragraph with a logical conclusion" có thể loại bỏ đi để tránh sự lặp lại.
+2. Cung cấp câu hỏi đề bài: Trong phần mở bài, bạn có thể chỉ ra một cách rõ ràng rằng bạn đang xem xét câu hỏi đề bài về sự ưu tiên giữa social skills và qualifications.
 
-3. Trong đoạn thân bài thứ hai, câu "People who work to choose employment forget to be stigmatised when they make a core decision" không hoàn toàn rõ nghĩa. Bạn có thể sửa thành "People who seek employment often underestimate the importance of having a strong network when making career decisions."
+3. Đảm bảo cấu trúc đoạn hợp lý: Mỗi đoạn nên tập trung vào một ý chính duy nhất và có lời kết nối hợp lý để chuyển sang ý tiếp theo. Điều này giúp tạo ra sự sắp xếp rõ ràng và dễ theo dõi của bài viết.
 
-4. Trong đoạn thân bài thứ hai, có một lỗi sai trong việc sắp xếp ý kiến. Câu "However, this situation chips away at their self-confidence and they could be more asocial than before" có thể được sửa thành "Moreover, this situation chips away at their self-confidence and may cause them to become more isolated."
+4. Sử dụng từ ngữ và cụm từ liên kết: Sử dụng các từ ngữ và cụm từ liên kết để kết nối các ý trong bài viết, ví dụ như "To begin with," "On the other hand," "In conclusion." Điều này sẽ giúp tạo ra sự liên kết mạch lạc giữa các phần của bài viết.
 
-5. Trong đoạn kết, câu "I hope this issue will be fixed by the governments in the future and people might assess via equal standards" có thể được sửa thành "I hope that governments will address this issue in the future and ensure that people are assessed based on equal standards."
+5. Sắp xếp lại câu trong điểm cuối cùng: Trong câu cuối cùng của bạn, hãy sắp xếp lại câu để tránh lặp lại từ "assess" và tạo ra một câu kết thúc mạnh mẽ.
 
-Tổng quan, mặc dù bài viết của bạn có sự liên kết mạch lạc và hợp lý giữa các ý và câu, vẫn còn một số lỗi sai nhỏ trong Coherence and Cohesion.
+6. Kiểm tra lại cấu trúc câu và từ vựng: Kim tra bài viết của bạn để đảm bảo sự mạch lạc và hợp lí về mặt ngữ pháp, cấu trúc câu và từ vựng.
+
+Nhìn chung, bài viết của bạn có sự liên kết mạch lạc và hợp lí giữa các ý và câu. Tuy nhiên, cải thiện các yếu tố trên sẽ giúp tăng cường tính mạch lạc và đồng nhất của bài viết.
 
 
 Lexical Resource:
@@ -71,7 +70,6 @@ Trong bài viết của bạn, tổng thể nguồn từ vựng của bạn là 
 5. "because a lack of communication skills promotes showing their talents": Câu này không rõ ràng và không chính xác. Bạn có thể sửa lại câu thành "because a lack of communication skills prevents them from showcasing their talents" hoặc "because they are unable to effectively communicate and demonstrate their talents".
 
 Mặc dù có một số lỗi nhỏ, tổng thể từ vựng của bạn đã được sử dụng một cách hiệu quả để diễn đạt ý kiến của bạn. Bạn có thể sửa những lỗi nhỏ này để tăng cường tính chính xác và sự sáng tạo ngôn ngữ trong bài viết.
-
 
 
 Grammatical Range and Accuracy:
