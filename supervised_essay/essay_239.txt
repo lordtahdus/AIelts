@@ -37,12 +37,8 @@ Những điểm cần cải thiện và giải thích:
 - Bạn cũng nên cung cấp thêm thông tin chi tiết về việc nhà tuyển dụng liên hệ với nhân viên bên ngoài giờ làm việc chính thức. Ví dụ, bạn có thể đề cập đến trường hợp nhà tuyển dụng gọi điện hoặc gửi email cho nhân viên trong khoảng thời gian nghỉ ngơi của họ.
 - Bài viết của bạn cũng có thể tập trung hơn vào các giải pháp. Thay vì chỉ đề cập đến giảm giờ làm việc và không liên hệ với nhân viên sau giờ làm việc, bạn có thể đề xuất các biện pháp khác như cung cấp thêm ngày nghỉ, tạo ra môi trường làm việc thoải mái và cân bằng giữa công việc và cuộc sống cá nhân.
 
-Tóm lại, bài viết của bạn chứa đầy đủ các ý kiến đúng đề bài và đưa ra các lý do và gợi ý. Để cải thiện, bạn có thể cung cấp thêm ví dụ cụ thể, mở rộng lời giải và đề xuất các giải pháp khác nhau.
-
 
 Coherence and Cohesion:
-
-Trong bài viết của bạn, có sự liên kết mạch lạc và hợp lí giữa các ý và câu tuy nhiên còn một số lỗi nhỏ về coherence and cohesion. Dưới đây là danh sách các lỗi sai và giải thích:
 
 1. Thiếu ví dụ cụ thể: Mặc dù bạn có sử dụng từ nối và các cụm từ để kết nối ý, nhưng bài viết của bạn thiếu các ví dụ cụ thể để minh họa ý kiến của bạn. Thêm ví dụ cụ thể và các bằng chứng để hỗ trợ ý kiến sẽ làm cho bài viết của bạn trở nên rõ ràng và mạch lạc hơn.
 
@@ -51,8 +47,6 @@ Trong bài viết của bạn, có sự liên kết mạch lạc và hợp lí g
 3. Thiếu sự liên kết giữa các đoạn văn: Mặc dù bạn có các đoạn văn khá rõ ràng và có cấu trúc tốt, nhưng có thể cần thêm sự liên kết giữa các đoạn văn để tạo sự liên kết tổng thể cho bài viết. Sử dụng các từ nối, cụm từ nối và các cụm từ chỉ dẫn như "as a result," "in conclusion," "to sum up," để giúp người đọc nhận ra các mối quan hệ giữa các ý và đoạn văn.
 
 4. Phát triển ý kiến/hồi đáp không đầy đủ: Bài viết có thể cần phát triển ý kiến và câu trả lời của bạn một cách đầy đủ hơn. Hãy cố gắng trình bày các luận điểm và gỡ rối vấn đề một cách chi tiết hơn và liên kết chúng với nhau để tạo ra một bài viết mạch lạc và hợp lí hơn.
-
-Điều quan trọng là nắm bắt ý chính và sự liên kết giữa các ý và câu trong bài viết của bạn. Bằng cách cung cấp ví dụ cụ thể, sử dụng từ nối đúng cách và phát triển ý kiến một cách đầy đủ và rõ ràng hơn, bạn có thể tăng tính mạch lạc và hợp lí của bài viết.
 
 
 Lexical Resource:
@@ -79,12 +73,8 @@ Ngoài ra, có một số từ và cụm từ bạn đã sử dụng không hoà
 
 3. "availability of technology" - Có thể thay bằng "the ubiquity of technology" hoặc "the widespread use of technology" để diễn đạt ý tưởng này.
 
-Tổng quan, mặc dù có một số lỗi nhỏ và một số cụm từ không phù hợp hoàn toàn với ngữ cảnh, từ vựng của bạn vẫn được sử dụng một cách chính xác và đa dạng. Bạn có thể cải thiện bằng cách sử dụng từ ngữ phù hợp với ngữ cảnh và duy trì một sự đa dạng trong từ vựng.
-
 
 Grammatical Range and Accuracy:
-
-Trong bài viết của bạn, có một số lỗi sai ngữ pháp nhỏ. Dưới đây là danh sách các lỗi sai và giải thích:
 
 1. "increase the demand at work" - Thay bằng "increase the demand for work" để phù hợp với ngữ cảnh.
 
