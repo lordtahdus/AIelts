@@ -14,7 +14,6 @@ However, there are even a few disadvantages to opting for these corporate progra
 
  In conclusion, the corporate sector training program can outweigh the university education if the teaching pattern is not upgraded and students are offered hybrid courses, that are a mix of industrial experience and a variety of subjects to choose from."
 
-
 Revised:
 
 A recent survey indicates that in some countries, more young people are choosing work-based training over attending university. This essay will discuss whether the benefits of this situation outweigh the disadvantages.
@@ -41,7 +40,7 @@ Tóm lại, bài viết của bạn đã trả lời đúng câu hỏi đề bà
 
 Coherence and Cohesion:
 
-Xin lỗi, tôi đã xem xét đánh giá Coherence and Cohesion của bạn một cách chi tiết hơn. Dưới đây là danh sách các lỗi về Coherence and Cohesion trong bài viết của bạn và giải thích:
+Dưới đây là danh sách các lỗi về Coherence and Cohesion trong bài viết của bạn và giải thích:
 
 1. Thiếu sự liên kết mạch lạc giữa các đoạn văn: Mặc dù bài viết của bạn có cấu trúc tổ chức tốt với mở đầu, các đoạn thân bài và kết luận rõ ràng, nhưng sự liên kết giữa các đoạn văn có thể cần được cải thiện để tăng tính mạch lạc của bài viết. Bạn có thể sử dụng các từ nối hoặc cụm từ để thể hiện quan hệ giữa các ý, chẳng hạn như "Furthermore," "Moreover," "On the other hand," và "In contrast."
 
@@ -56,27 +55,29 @@ Thông qua một sự cân nhắc kéo dài hơn về sự liên kết và mạc
 
 Lexical Resource:
 
-Lexical Resource:
+Tổng thể, bài viết của bạn đã sử dụng từ vựng và cụm từ phong phú và phù hợp. Tuy nhiên, có một số lỗi và thay đổi nhỏ cần được chỉnh sửa. Dưới đây là một số gợi ý để cung cấp sự cải thiện cho từng phần của bài viết của bạn:
 
-Overall, the vocabulary used in your essay is appropriate and allows you to convey your ideas clearly. However, there are a few areas where improvements can be made.
+Introduction:
+- Thay vì "drastic shift," bạn có thể sử dụng các từ khác như "significant trend" hoặc "noticeable change."
+- "Over-rides" nên được viết là "outweighs."
 
-1. "spare some light": This phrase should be "shed some light" to mean providing information or clarity on a topic.
+Paragraph 1:
+- "Nowadays" có thể được thay thế bằng "Currently" hoặc "In recent times."
+- "some with" nên được sửa thành "someone with."
+- Thay vì "secured a job," bạn có thể sử dụng "attained employment."
+- Sửa "the minors" thành "graduates."
 
-2. "the youth": While this phrase is grammatically correct, a more specific and academic term like "young people" or "the younger generation" would be more suitable for an IELTS essay.
+Paragraph 2:
+- "Initiate" nên được thay thế bằng "To begin with."
+- "The student enrolled in the program" có thể được đơn giản hóa thành "Students in these programs."
+- "Taking away the thrill of learning something and exploring their potential" có thể được sửa thành "Limiting their opportunities for learning and exploring their potential."
+- "people who are enrolled in this industrial education" có thể được sửa thành "individuals enrolled in work-based training programs."
+- "making them unbeatable" có thể được thay thế bằng "making them highly skilled in their field."
 
-3. "industrial training": This term is appropriate for the context of your essay and conveys the idea of practical, job-oriented training. Good choice.
+Conclusion:
+- "University education" có thể được viết thành "traditional university education" để làm rõ so sánh với work-based training.
 
-4. "graduate curriculum": This phrase correctly refers to the academic courses and subjects studied at university level.
-
-5. "kick-start their career": This is an effective and commonly used phrase to refer to starting one's career or launching it successfully.
-
-6. "hybrid courses": This is an apt term to describe the combination of industrial experience and academic subjects. Good choice.
-
-In terms of errors, I did not notice any major mistakes in vocabulary usage in your essay. However, it would be beneficial to try incorporating a wider range of vocabulary to add more variety and sophistication to your writing. This can be achieved by using more academic or formal synonyms, avoiding repetition of words, and exploring more subject-specific terminology where appropriate.
-
-Remember that using vocabulary effectively is not just about using complex words, but also about using the right words in the right context. Ensure that the vocabulary you use accurately reflects your intended meaning and does not create ambiguity or confusion for the reader.
-
-Overall, your use of vocabulary in the essay is generally appropriate and demonstrates a good understanding of the topic. With some minor improvements and a broader range of vocabulary, you can further enhance the lexical resource of your writing.
+Nhìn chung, bài viết của bạn đã sử dụng từ vựng và cụm từ phù hợp với ngữ cảnh. Tuy nhiên, một số chỉnh sửa nhỏ có thể giúp bài viết trở nên mượt mà và chính xác hơn.
 
 
 Grammatical Range and Accuracy:
