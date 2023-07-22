@@ -12,24 +12,16 @@ will one of the disadvantages are lack of creativity and taking peoples rights t
 
  The conclusion is that there needs to be laws that can braing safety codes and also can encourage creativty"
 
-
 Revised:
 
-Title: The Benefits and Drawbacks of Design and Construction Control
-
-Introduction:
 In certain cities, individuals are granted considerable flexibility in the design and construction of new residential and commercial buildings. This essay will explore the advantages and disadvantages associated with controlling the design and construction process.
 
-Body Paragraph 1:
 One of the main disadvantages of exerting control over design and construction is the potential hindrance to creativity. When regulations dictate the specific style and appearance of buildings, it limits the possibility for innovative architectural designs. Enabling people to construct homes and offices as they desire fosters individual expression and promotes diversity in the urban landscape.
 
-Body Paragraph 2:
 On the other hand, there are several benefits to imposing regulations on the design and construction processes. One key advantage is ensuring adherence to strict safety standards. Implementing building codes minimizes the risk of structural failures and accidents, safeguarding both the occupants and adjacent areas from potential harm. Consequently, controlling the design and construction of new developments results in improved public safety.
 
-Body Paragraph 3:
 Moreover, imposing control on design and construction can contribute to more organized and aesthetically pleasing streetscapes. By implementing guidelines centered on architectural harmony and compatibility with surrounding structures, cities can maintain a cohesive and visually appealing urban environment. This enhances the overall appeal to residents and visitors alike, thereby positively impacting the local economy and fostering a sense of community pride.
 
-Conclusion:
 In conclusion, while granting individuals the freedom to construct homes and office buildings according to their preferences may encourage creativity and preserve personal freedoms, it is crucial to strike a balance by implementing laws that ensure adherence to safety standards and promote architectural consistency. Striking this balance will help create an environment that fosters creativity while safeguarding public safety and maintaining urban charm.
 
 
@@ -47,27 +39,22 @@ Trong bài viết của bạn, tuy có đề cập đến lợi và hại của 
 
 3. Sắp xếp bài viết sao cho có một sự tiến triển logic rõ ràng. Bạn có thể sử dụng các câu liên kết để kết nối các ý chính và đảm bảo mỗi đoạn văn có một ý chính cụ thể và phân tích sâu hơn.
 
-Hy vọng tư vấn trên sẽ giúp bạn cải thiện Task Response trong bài viết của mình.
-
 
 Coherence and Cohesion:
 
-Xin lỗi vì phiên dịch không chính xác lần trước. Dưới đây là đánh giá chi tiết về tính liên kết và hòa hợp của bài viết của bạn:
+Trong bài viết của bạn, có một số vấn đề về coherence and cohesion cần được cải thiện để tăng tính liên kết và logic giữa các ý và câu. Dưới đây là những vấn đề cần lưu ý:
 
-Coherence and Cohesion:
+1. Thiếu một sự thống nhất chủ đề: Bài viết của bạn nêu ra hai ý chính, một là sự thiếu kiểm soát trong thiết kế và xây dựng mới, và hai là lợi ích và bất lợi của việc kiểm soát. Tuy nhiên, không có một câu chủ đề rõ ràng được đưa ra để định hình bài viết. Điều này làm mất đi sự liên kết giữa các phần của bài viết.
 
-- Bài viết của bạn không có sự liên kết mạch lạc và hợp lí giữa các ý và các câu.
-- Thiếu phần giới thiệu và kết luận rõ ràng. Thay vào đó, bài viết ngay lập tức vào cuộc thảo luận về các lợi và hại mà việc kiểm soát thiết kế và xây dựng mang lại.
-- Các đoạn văn của bài viết ngắn và không cung cấp đủ thông tin và ví dụ để hỗ trợ các ý chính.
-- Không có sự tiến triển ý tưởng rõ ràng và thiếu các từ nối mượt mà giữa các đoạn văn.
-- Tổng thể, bài viết thiếu tổ chức và sự liên kết.
+2. Sự sắp xếp câu chuyển tiếp: Một vài câu trong bài viết không được sắp xếp một cách logic và gây ra sự khó hiểu. Ví dụ, "This essay will discuss this topic" ở đầu bài không cần thiết và khá cụt kéo. Bạn cần sắp xếp lại các câu chuyển tiếp và đảm bảo rằng các ý được sắp xếp một cách hợp lý và mạch lạc.
 
-Ví dụ lỗi trong Coherence and Cohesion:
-- Thiếu phần giới thiệu và kết luận rõ ràng.
-- Các đoạn văn ngắn và thiếu thông tin và ví dụ.
-- Thiếu sự tiến triển và thiếu từ nối mượt mà giữa các đoạn văn.
+3. Thiếu các từ nối logic: Để tạo ra sự liên kết giữa các ý, bạn cần sử dụng các từ và cụm từ nối logic như "on the other hand", "moreover", "in conclusion", để giúp đưa ra các mối quan hệ và tương quan giữa các ý trong bài viết.
 
-Mong rằng thông tin này hữu ích cho bạn và chúc bạn thành công trong việc cải thiện bài viết của mình!
+4. Thiếu câu chủ đề cho mỗi đoạn văn: Mỗi đoạn văn nên có một dẫn nhập ngắn gọi là câu chủ đề để giới thiệu ý chính của đoạn. Điều này sẽ giúp đảm bảo sự rõ ràng và hợp lý trong cách xâu chuỗi các ý trong bài viết.
+
+5. Lệnh "will" không cần thiết: Trong câu mở đầu "This essay will discuss this topic", từ "will" là không cần thiết. Bạn có thể nói "This essay discusses the advantages and disadvantages of controlling design and construction" để làm cho câu trở nên ngắn gọn và trực tiếp hơn.
+
+Tổng cộng, mặc dù bài viết của bạn có một số ý tưởng tốt, nhưng cần cải thiện sự liên kết và coherence. Bạn cần đảm bảo rằng các ý được sắp xếp một cách logic và hợp lý, và sử dụng các phương pháp kết nối và câu chuyển tiếp phù hợp để làm cho bài viết trở nên rõ ràng và dễ hiểu hơn.
 
 
 Lexical Resource:
@@ -87,8 +74,6 @@ Ngoài ra, một số từ, cụm từ và cấu trúc câu trong bài viết c�
 3. "more organized streets": Đây là một cụm từ tương đối thông tục. Bạn có thể sử dụng cụm từ như "improve urban planning" hoặc "enhance city infrastructure" để diễn đạt ý nghĩa "nâng cao kế hoạch đô thị" hoặc "cải thiện hạ tầng thành phố".
 
 4. "laws that can braing safety codes": Đây là một cấu trúc câu không chính xác. Thay vào đó, bạn có thể sử dụng "laws that enforce safety codes" để thể hiện ý nghĩa "luật có thể áp dụng mã an toàn".
-
-Mặc dù bài viết của bạn chưa có nhiều lỗi về từ vựng, nhưng có thể cải thiện bằng cách sử dụng từ và cụm từ chính xác hơn và phù hợp với ngữ cảnh.
 
 
 Grammatical Range and Accuracy:

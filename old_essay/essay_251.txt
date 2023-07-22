@@ -40,7 +40,7 @@ Bài viết của bạn đã liệt kê các lợi ích của cả hai loại th
 Ở cuối bài viết, bạn đề cập đến quan điểm cá nhân của mình nhưng câu chủ đề có thể được diễn giải rõ ràng hơn. Bạn có thể thay đổi câu cuối cùng thành algo như: "Dựa trên các lợi ích và nhận định đã được đề cập, tôi tin rằng thể thao cá nhân mang lại nhiều lợi ích hơn và phù hợp với những người muốn phát triển cá nhân và kiểm soát bản thân một cách độc lập."
 
 
-Coherence and Cohesion:
+Coherence and Cohesion:?
 
 Tại mỗi paragrah, bài viết của bạn có thể cải thiện sự liên kết và sắp xếp logic trong một số điểm sau đây:
 
