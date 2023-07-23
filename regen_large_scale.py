@@ -169,7 +169,7 @@ def run():
         # the regenerated file will have the suffix "...generating..._",
         # which will be remove when the old essay is moved to the old folder
         with open(f"need_regen/essay_{essay_index}...generating..._.txt", "w", encoding="utf-8") as f:
-            f.write(f"""Topic:\n\n{contents_each[0]}\n\nEssay:\n\n{contents_each[1]}\n\n""")
+            f.write(f"""Topic:\n\n{contents_each[0]}\n\nEssay:\n\n{contents_each[1]}\n\n\n""")
             print(f"{essay_index}...")
             print(user_options_each)
 

@@ -15,35 +15,27 @@ People give their preference to digital texts for different reasons. Firstly, th
 
 Revised:
 
-Title: The future of printed newspapers and books in an online world
-
-Introduction:
 It is widely believed that the popularity of printed newspapers and books will decrease in the future as people will have access to a wide range of online content without any cost. This essay agrees with this viewpoint and will be discussed in further detail.
 
-Body Paragraph 1:
 In today’s digital era, the Internet offers a plethora of options for reading material, making it increasingly convenient for people to access news, books, games, and videos online. The usage of digital platforms is not limited to the younger generation, as even the elderly are becoming more proficient in utilizing online resources. In fact, the majority of book lovers, around 70%, have already embraced e-books, which indicates a potential decline in the demand for printed books.
 
-Body Paragraph 2:
 Apart from its accessibility, digital content presents several advantages over traditional print media. Firstly, online resources are typically available free of charge, making them enticing for readers. Additionally, there is no need to physically visit a shop or spend money on transportation in order to acquire reading material. This convenience is further accentuated by the fact that digital texts can be accessed via smartphones, allowing readers to enjoy books and news at any time and in any place without the need for special lighting.
 
-Body Paragraph 3:
 As a result of the increasing preference for digital text, the market for printed newspapers and books may not remain profitable. More and more people are choosing to consume news and literature through online platforms, making it economically impractical to produce physical copies. This could result in a shift towards the complete dominance of e-books in the near future.
 
-Conclusion:
 In conclusion, the widespread availability of online content has led to an inclination towards digital platforms for reading materials. Factors such as convenience, cost-effectiveness, and ease of access have led to a decline in the demand for printed newspapers and books. Consequently, it is reasonable to expect that printed media will continue to lose popularity in the future.
 
 
 Feedback:
 
-Task Response:
+Task Response:?
 
-Task Response:
 Bài viết của bạn đã trả lời đúng câu hỏi của đề bài, bạn đã đồng ý rằng trong tương lai, ít người sẽ mua sách và báo in vì tất cả những gì họ muốn đọc đều có thể tìm thấy trên internet. Tuy nhiên, ý tưởng của bạn chưa được mở rộng đầy đủ. Bạn chỉ đưa ra quan điểm của mình mà chưa đề cập đến các khía cạnh khác của vấn đề. Để cải thiện điểm số, bạn nên phân tích lý do tại sao mọi người có thể không mua sách và báo in trong tương lai và đồng thời đưa ra các quan điểm đối lập để trở bài viết của bạn thêm thú vị và logic hơn.
 
 
 Coherence and Cohesion:
 
-Tôi xin lỗi vì đã không đưa ra đánh giá chi tiết về Coherence and Cohesion trong bài viết của bạn. Dưới đây là một số lỗi về liên kết mạch lạc và hợp lí có thể tìm thấy trong bài viết của bạn:
+Dưới đây là một số lỗi về liên kết mạch lạc và hợp lí có thể tìm thấy trong bài viết của bạn:
 
 1. Thiếu từ nối câu: Trong bài viết của bạn, có một số đoạn mà thiếu từ nối câu để tạo sự liên kết mạch lạc giữa các câu. Ví dụ: "Online shops, news, games, videos are becoming more common in modern society, so that even elderly people use them." Bạn có thể thêm từ "Furthermore" hoặc "In addition" ở đầu câu để tạo sự đồng nhất thông tin với câu trước.
 
@@ -54,7 +46,7 @@ Tôi xin lỗi vì đã không đưa ra đánh giá chi tiết về Coherence an
 Đó chỉ là vài lỗi nhỏ mà tôi đã tìm thấy. Tuy nhiên, nó không ảnh hưởng lớn đến sự hiểu nghĩa chung của bài viết và không ảnh hưởng đến việc trả lời của bạn với đề bài. Tổ chức và liên kết của bài viết vẫn là khá tốt overall.
 
 
-Lexical Resource:
+Lexical Resource:?
 
 Trong bài viết của bạn, không có lỗi sai cụ thể về từ vựng. Bạn đã sử dụng một số từ vựng phức tạp và chính xác, và các cụm từ được sử dụng phù hợp trong ngữ cảnh của câu. Dưới đây là một số từ và cụm từ học thuật bạn đã sử dụng:
 
@@ -100,8 +92,6 @@ Trong bài viết của bạn, có một số lỗi ngữ pháp nhỏ. Dưới �
 
 - Lỗi: Sử dụng cấu trúc câu không chính xác. "Read via them" nên được sửa thành "Read them".
 - Giải thích: Thay vì nối "via" và "them" lại thành "read via them", bạn nên sử dụng động từ "read" thẳng trong câu này. Bạn nên sửa thành: "Also, according to recent statistics, 70% of book lovers use e-books and read them."
-
-Vui lòng kiểm tra lại bài viết của bạn để sửa các lỗi nhỏ như trên.
 
 
 Score:
