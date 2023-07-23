@@ -45,7 +45,7 @@ Với những cải thiện này, bạn sẽ có một bài viết đáp ứng �
 
 Coherence and Cohesion:
 
-Xin lỗi vì sự không rõ ràng. Trong bài viết của bạn, sự sắp xếp và liên kết tổng thể là chặt chẽ và hợp lý. Các ý của bạn được trình bày và phát triển một cách logic và có sự kết nối giữa các câu và đoạn văn. Tuy nhiên, vẫn còn một số lỗi nhỏ về cohererence and cohesion mà bạn có thể cần lưu ý:
+Trong bài viết của bạn, sự sắp xếp và liên kết tổng thể là chặt chẽ và hợp lý. Các ý của bạn được trình bày và phát triển một cách logic và có sự kết nối giữa các câu và đoạn văn. Tuy nhiên, vẫn còn một số lỗi nhỏ về cohererence and cohesion mà bạn có thể cần lưu ý:
 
 1. Các ý kiến và ví dụ chưa phát triển đầy đủ: Đôi khi, bạn chỉ đưa ra một số ý kiến ngắn gọn và thiếu thông tin chi tiết để phát triển một trường hợp tường minh hơn. Ví dụ, trong đoạn thứ hai, bạn chỉ nêu ra rằng "đã có một số hình thức quảng cáo 3D", nhưng không đưa ra ví dụ cụ thể để giải thích ý này.
 
