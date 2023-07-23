@@ -41,7 +41,7 @@ Bằng cách mở rộng và giải thích ý tưởng một cách chi tiết v�
 
 Coherence and Cohesion:
 
-Rất tiếc vì đã gây hiểu lầm. Thực tế là bài viết của bạn có sự liên kết tương đối tốt và mạch lạc. Có một số điểm có thể cải thiện trong mặt liên kết giữa các ý và câu như sau:
+Bài viết của bạn có sự liên kết tương đối tốt và mạch lạc. Có một số điểm có thể cải thiện trong mặt liên kết giữa các ý và câu như sau:
 
 1. Mặc dù bài viết có sự phân bổ các ý chính rõ ràng, nhưng có thể cần phát triển các câu chuyển tiếp hơn để đảm bảo sự mạch lạc giữa các ý và đoạn văn. Điều này có thể được đạt bằng cách sử dụng các từ nối hoặc cụm từ như "tuy nhiên", "bằng cách so sánh", "mặt khác", "ví dụ như", vv.
 
@@ -93,8 +93,6 @@ Trong bài viết của bạn, có một số lỗi ngữ pháp cơ bản đã x
 
 6. "there are no set parameters so everyone’s journey is different" - Dấu ngoặc kép cần được sử dụng xung quanh "everyone's journey" do đây là một cụm danh từ. Để sửa lỗi này, bạn có thể viết lại câu thành "there are no set parameters, so everyone’s journey is different".
 
-Nhớ kiểm tra lại bài viết của bạn để sửa các lỗi trước khi nộp bài.
-
 
 Score:
 
@@ -117,6 +115,5 @@ Your use of vocabulary is adequate, but there is room for improvement in terms o
 Grammatical Range and Accuracy: 6
 While your essay demonstrates a reasonable level of grammatical control, there are some errors and inconsistencies in sentence construction and verb usage. Pay more attention to grammatical accuracy and aim for more complex sentence structures to improve your score in this criterion.
 
-Overall, I would estimate an overall band score of 6.5 for this essay. However, please note that this is just an estimate and the actual score may vary depending on the specific requirements and assessment criteria used by the IELTS examiners.
 
 
