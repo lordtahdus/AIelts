@@ -55,7 +55,7 @@ Tóm lại, bạn cần phát triển ý tưởng và lập luận của mình m
 
 Coherence and Cohesion:
 
-Xin lỗi vì nhận định không rõ ràng của tôi trước đó. Dưới đây là một phân tích chi tiết hơn về lỗi sai Coherence and Cohesion trong bài viết của bạn:
+Dưới đây là một phân tích chi tiết hơn về lỗi sai Coherence and Cohesion trong bài viết của bạn:
 
 1. Thiếu sự sắp xếp logic: Bài viết của bạn thiếu sự sắp xếp logic và không có một cấu trúc rõ ràng. Bạn cần xác định các ý chính và sắp xếp chúng một cách logic và có tổ chức. Điều này sẽ giúp người đọc hiểu rõ hơn và theo dõi lập luận của bạn.
 
@@ -79,12 +79,10 @@ Trong bài viết của bạn, có một số lỗi sai về từ vựng và cá
 7. "as a result, society has a healthy community" - có thể thay bằng "as a result, society can foster a healthier community" hoặc "as a result, society can promote a community that prioritizes health" để sử dụng từ vựng và cấu trúc câu chính xác hơn.
 8. "the community will know anything education about healthy diet" - thay bằng "the community will be educated about healthy diets" để sử dụng cấu trúc câu chính xác hơn.
 
-Những gợi ý trên nhằm giúp bạn sử dụng từ vựng phù hợp và diễn đạt ý nghĩa một cách chính xác và mạch lạc trong bài viết của bạn. Hãy chú ý đến sự chính xác và cách sắp xếp từ ngữ của mình để nâng cao điểm số của bạn trong tiêu chí Lexical Resource của bài thi IELTS.
+Những gợi ý trên nhằm giúp bạn sử dụng từ vựng phù hợp và diễn đạt ý nghĩa một cách chính xác và mạch lạc trong bài viết của bạn. 
 
 
 Grammatical Range and Accuracy:
-
-Xin lỗi về sự không rõ ràng trong phần đánh giá của tôi. Dưới đây là một số lỗi ngữ pháp bạn có trong bài viết của mình:
 
 1. "while it is a bad habit because they can get sick like cancer" - Lỗi ngữ pháp. "They can get sick like cancer" không chính xác. Giới từ "like" không phù hợp ở đây. Bạn có thể sửa thành "They can get sick, such as cancer."
 
