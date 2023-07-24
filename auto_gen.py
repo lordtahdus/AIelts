@@ -99,21 +99,23 @@ Nếu có, liệt kê tất cả lỗi sai và giải thích.
                         max_tokens=1000
                     )
                     reply = response["choices"][0]["message"]["content"]
+
                     # Add generated output to do similarity check
-                    generated_content += reply
-                    # save general feedback in messages but not print 
+                    # generated_content += reply
+
+                    # Save general feedback in messages but not print 
                     if i == 1:
                         messages.append({"role": "assistant", "content": reply})
                     else:
                         print(reply + '\n\n', file = f)
 
                 # Print similarity score
-                og_content = essay_title + essay_content
-                score = similarity_check([og_content, generated_content])
-                print(score)
+                # og_content = essay_title + essay_content
+                # score = similarity_check([og_content, generated_content])
+                # print(score)
 
-                with open('similar_scores.csv', "a") as f:
-                    f.write(f"\nEssay {START_ID}: {score}")
+                # with open('similar_scores.csv', "a") as f:
+                #     f.write(f"\nEssay {START_ID}: {score}")
 
                 print(f'DONE ESSAY {START_ID} !!!')
 
