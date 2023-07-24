@@ -30,7 +30,17 @@ Feedback:
 
 Task Response:?
 
-Bài viết của bạn đã trả lời đúng câu hỏi của đề bài, bạn đã đồng ý rằng trong tương lai, ít người sẽ mua sách và báo in vì tất cả những gì họ muốn đọc đều có thể tìm thấy trên internet. Tuy nhiên, ý tưởng của bạn chưa được mở rộng đầy đủ. Bạn chỉ đưa ra quan điểm của mình mà chưa đề cập đến các khía cạnh khác của vấn đề. Để cải thiện điểm số, bạn nên phân tích lý do tại sao mọi người có thể không mua sách và báo in trong tương lai và đồng thời đưa ra các quan điểm đối lập để trở bài viết của bạn thêm thú vị và logic hơn.
+Overall, your essay adequately addresses the main points of the given topic. You agree with the statement that in the future, people will not buy printed newspapers or books because they can access everything they want to read online for free. Your arguments are logical and support your viewpoint. However, there are a few areas that can be improved to enhance your Task Response.
+
+Firstly, while you mention that e-books are becoming more popular and may replace paper books in the near future, you could further develop this point. Discussing the advantages of e-books, such as their portability and ability to store a large number of titles in one device, would strengthen your argument.
+
+Secondly, you briefly mention that newspapers and books are becoming less popular, but you could provide some evidence or examples to support this claim. For instance, you could mention specific statistics on the decline in newspaper sales or the rise of online book sales.
+
+Thirdly, the essay could benefit from a more balanced approach. While you agree with the statement in the prompt, you could also acknowledge the potential limitations of digital texts. For example, you could mention the issue of reliability and the potential for online information to be inaccurate or biased. This would show a more nuanced understanding of the topic.
+
+In terms of language use, the essay is generally clear and coherent. However, there are some grammatical errors and awkward phrasing that could be improved. For example, in the sentence "So, only old-fashioned people, today, buy newspapers or paper books," the repetition of "today" is unnecessary. Additionally, in the sentence "Therefore, it is again, more profitable for reader as she/he does not spend money to get to a particular shop," the phrase "again, more profitable for the reader" could be rephrased for clarity.
+
+To summarize, while your essay covers the main points of the prompt, there are areas that could be expanded upon to provide more depth and supporting evidence. By addressing the points mentioned above and improving the language use, you can enhance the overall quality of the essay.
 
 
 Coherence and Cohesion:
@@ -48,25 +58,25 @@ Dưới đây là một số lỗi về liên kết mạch lạc và hợp lí c
 
 Lexical Resource:?
 
-Trong bài viết của bạn, không có lỗi sai cụ thể về từ vựng. Bạn đã sử dụng một số từ vựng phức tạp và chính xác, và các cụm từ được sử dụng phù hợp trong ngữ cảnh của câu. Dưới đây là một số từ và cụm từ học thuật bạn đã sử dụng:
+Overall, your essay displays a good grasp of vocabulary and effectively communicates your ideas. There are only a few minor improvements that could be made to enhance the lexical resource in your writing. 
 
-- decline (giảm)
-- available (có sẵn)
-- online shops (cửa hàng trực tuyến)
-- modern society (xã hội hiện đại)
-- elderly people (người cao tuổi)
-- convenient (thuận tiện)
-- old-fashioned (cổ điển)
-- recent statistics (thống kê gần đây)
-- e-books (sách điện tử)
-- replace (thay thế)
-- profitable business (kinh doanh có lợi)
-- preference (sự ưa thích)
-- payments (thanh toán)
-- attractive (hấp dẫn)
-- lighting (ánh sáng)
+1. "In today’s digital ages" - It should be "digital age" instead of "digital ages" to maintain consistency with the singular form of "age".
 
-Từ và cụm từ trên đều phù hợp với ngữ cảnh và giúp truyền đạt ý của bạn một cách rõ ràng và chính xác. Tuy nhiên, để làm tăng trình độ ngôn ngữ của bài viết, bạn có thể khám phá thêm các từ vựng học thuật khác và cố gắng sử dụng chúng trong bài viết của mình.
+2. "Online shops, news, games, videos are becoming more common in modern society" - Consider using "increasingly prevalent" instead of "more common" to convey a stronger sense of growth.
+
+3. "Everyone, now, has devices" - The phrase "now" is unnecessary and can be omitted to streamline the sentence.
+
+4. "Only old-fashioned people, today, buy newspapers or paper books" - Instead of using the phrase "old-fashioned people", you can use "traditionalists" or "individuals with a preference for physical copies".
+
+5. "Moreover, as far newspapers and books are now becoming less popular among people, it will not be a profitable business to sell them" - The phrase "as far" is inappropriate in this context. A better wording could be "Furthermore, as newspapers and books are becoming less popular among people, selling them may no longer be a profitable business."
+
+6. "People give their preference to digital texts" - Instead of "give their preference to", it would be more natural to say "prefer" digital texts.
+
+7. "and this aspect is very attractive to readers" - Consider using "appealing" instead of "attractive" for a stronger word choice.
+
+8. "Therefore, it is again, more profitable for reader" - The word "again" is unnecessary and can be removed.
+
+Besides these minor suggestions, the use of vocabulary throughout your essay is appropriate and relevant to the topic. The phrasing and expressions used effectively convey your ideas and opinions. Keep up the good work!
 
 
 Grammatical Range and Accuracy:
