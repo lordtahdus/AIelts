@@ -4,12 +4,12 @@ Topic:
 
 Essay:
 
-"A group of individuals present the view that the gym is the sole place where people can improve their fitness level, whereas others believe that exercising outdoors or even at home is adequate. I strongly agree with the latter opinion.
-
-On the one hand, some people justifiably argue that exercising outside the gym is far less stressful. It is certainly true that the gym often puts too much mental pressure on individuals to look good. For example, a few of my friends, who are overweight, recently joined the gym, but quickly terminated their membership contracts because they felt stressed out. They told me that almost everyone there looked lean and self-assured. Indeed, the gym can be a threatening environment to those who wish to exercise without feeling self-conscious. Thus, joining a fitness center is not sensible for many people who may be insecure about their weight or physical abilities.
-
-On the other hand, another group of people claim that one needs special exercise machines and state-of-the-art equipment to improve their fitness. They insist that people cannot exercise properly without employing a personal trainer, available at the gym. However, I am not convinced by this argument since most forms of exercise can be performed elsewhere too. Jogging, which is a cardiovascular exercise and recommended by doctors, can be done in parks. Also, people can engage in weight-bearing exercise such as push-ups and planks in the home.
-
+"A group of individuals present the view that the gym is the sole place where people can improve their fitness level, whereas others believe that exercising outdoors or even at home is adequate. I strongly agree with the latter opinion.
+
+On the one hand, some people justifiably argue that exercising outside the gym is far less stressful. It is certainly true that the gym often puts too much mental pressure on individuals to look good. For example, a few of my friends, who are overweight, recently joined the gym, but quickly terminated their membership contracts because they felt stressed out. They told me that almost everyone there looked lean and self-assured. Indeed, the gym can be a threatening environment to those who wish to exercise without feeling self-conscious. Thus, joining a fitness center is not sensible for many people who may be insecure about their weight or physical abilities.
+
+On the other hand, another group of people claim that one needs special exercise machines and state-of-the-art equipment to improve their fitness. They insist that people cannot exercise properly without employing a personal trainer, available at the gym. However, I am not convinced by this argument since most forms of exercise can be performed elsewhere too. Jogging, which is a cardiovascular exercise and recommended by doctors, can be done in parks. Also, people can engage in weight-bearing exercise such as push-ups and planks in the home.
+
 To conclude, in my view, we do not have to join the gym in order to be physically active. Some individuals could even be demoralized by going to a fitness center since they would feel the pressure to look attractive and strong. People, instead, can perform numerous exercise routines at home or in the park without the undue stress experienced at the gym."
 
 
@@ -36,8 +36,6 @@ Mặc dù vậy, có một số điểm cần được cải thiện trong Task 
 
 Bên cạnh đó, bạn cũng nên cung cấp các ý chính và phát triển chúng một cách mạch lạc và kỹ lưỡng hơn. Ví dụ, trong đoạn thứ ba, bạn đã đề cập đến việc một số người cho rằng cần có thiết bị đặc biệt và máy móc cao cấp để cải thiện sức khỏe. Đây là một ý tưởng quan trọng, tuy nhiên, bạn nên phát triển nó thêm bằng cách cung cấp ví dụ cụ thể về các thiết bị và máy móc đó để làm cho bài viết của bạn trở nên logic và thuyết phục hơn.
 
-Tổng quan, bạn đã làm tốt bài viết và trả lời đúng yêu cầu của đề bài. Để cải thiện Task Response, lưu ý về sự kết nối giữa các ý và sự phát triển đầy đủ của chúng, cùng với việc cung cấp các ví dụ cụ thể để tăng tính mạch lạc và thuyết phục trong lập luận của bạn.
-
 
 Coherence and Cohesion:
 
@@ -53,8 +51,6 @@ Trong bài viết của bạn, sự liên kết và mạch lạc đã được t
 
 5. Paragraph 4, sentence 2: "Also, people can engage in weight-bearing exercise such as push-ups and planks in the home." Lỗi: Một số từ được sử dụng không phù hợp với ngữ cảnh. Cách sửa: "Additionally, people can engage in weight-bearing exercises such as push-ups and planks at home."
 
-Điều này sẽ cải thiện sự liên kết và mạch lạc của bài viết của bạn.
-
 
 Lexical Resource:
 
@@ -65,8 +61,6 @@ Trong bài viết của bạn, đã có một số từ vựng và cụm từ đ
 2. Ứng dụng từ "terminate": Từ "terminate" được sử dụng chính xác để thể hiện việc chấm dứt hợp đồng. Tuy nhiên, trong ngữ cảnh này, việc chấm dứt hợp đồng có thể được diễn đạt một cách phổ biến hơn bằng cách sử dụng từ "cancel" hoặc cụm từ "end their membership contracts".
 
 3. Cấu trúc câu "almost everyone there looked lean and self-assured": Cấu trúc này đúng về ngữ pháp, tuy nhiên, từ "there" có thể gây hiểu nhầm trong ngữ cảnh này. Bạn có thể thay thế từ "there" bằng cụm từ "at the gym" để làm rõ hơn.
-
-Ngoài ra, không có lỗi từ vựng quan trọng trong bài viết của bạn. Bạn đã sử dụng một loạt từ vựng phong phú và chính xác để thể hiện ý kiến và điểm của mình.
 
 
 Grammatical Range and Accuracy:
@@ -80,8 +74,6 @@ Trong bài viết của bạn, việc sử dụng ngữ pháp rất tốt và kh
 3. "Jogging, which is a cardiovascular exercise and recommended by doctors, can be done in parks" - Lỗi sử dụng cách nối câu chưa đúng. Nên sửa thành "Jogging, a cardiovascular exercise recommended by doctors, can be done in parks."
 
 4. "People, instead, can perform numerous exercise routines at home or in the park without the undue stress experienced at the gym" - Lỗi cấu trúc câu. Nên sửa thành "Instead, people can perform numerous exercise routines at home or in the park without the undue stress experienced at the gym."
-
-Các lỗi trên là những lỗi nhỏ không ảnh hưởng nhiều đến sự hiểu biết và sự hiểu quả của bài viết của bạn. Bạn đã sử dụng ngữ pháp một cách chính xác và linh hoạt.
 
 
 Score:
