@@ -1,0 +1,120 @@
+Topic:
+
+"The diagram below shows the sorting process in single-stream recycling. 
+
+Summarize the information by selecting and reporting the main features, and make comparisons where relevant."
+
+Essay:
+
+"Indicated in the given diagram are the different stages of the only-stream waste separation procedure.
+
+Overall, it can be observed that there are seven steps involved in the process, starting from unloading commingled recycling and ending with sorting objects made of plastics.
+
+In the first step, the trucks unload mixed recycling materials to the conveyvor belt. After removing big-sized items, the process continues with the redundancy of cardboard by the screen, then paper-related materials are also eliminated by this equipment in the third stage. Following the process, there is the removal of metal items such as cans using magnetic appliances. Other types of rubbish including glass-made and plastic products are treated after these stages. As soon as glass bottles are discarded and crushed into shreds by the gears, plastic-manmade inventions are sorted by considering their competent characteristics. This action correlatively ends the entire recycling procedure."
+
+
+Revised:
+
+The single-stream recycling sorting process is illustrated in the diagram. There are seven main stages involved in this process, starting from unloading commingled recycling and ending with the sorting of plastic objects.
+
+In the first step, the trucks unload mixed recycling materials onto a conveyor belt. The second stage involves removing large-sized items from the materials. Following that, cardboard is separated using a screening device in the third stage. The next stage focuses on eliminating paper-related materials with the same equipment.
+
+After the initial stages, the process proceeds to the removal of metal items such as cans using magnetic appliances. The next two stages involve dealing with glass and plastic products. Glass bottles are discarded and crushed into shreds by gears, while plastic products are sorted based on their specific characteristics.
+
+Finally, the sorting process is completed with the separation of plastic objects. The entire single-stream recycling procedure is concluded with this step.
+
+Overall, the given diagram clearly illustrates the sequential stages of the single-stream recycling sorting process.
+
+
+Feedback:
+
+Task Response:
+
+Trong bài viết của bạn, bạn đã trả lời đúng câu hỏi đề bài về việc tóm tắt quá trình tái chế trong single-stream recycling. Bạn đã mô tả các giai đoạn chính trong quá trình này từ bắt đầu đến kết thúc. Tuy nhiên, bạn có thể cải thiện bài viết của mình bằng cách mở rộng và cung cấp thêm thông tin chi tiết về mỗi giai đoạn.
+
+Ví dụ, bạn có thể mô tả chi tiết hơn về cách các vật liệu tái chế được loại bỏ trong từng giai đoạn. Bạn cũng có thể đề cập đến cách các thực phẩm thải được tách ra khỏi vật liệu tái chế và được xử lý riêng biệt. Ngoài ra, bạn cũng có thể nói về quá trình tái chế riêng lẻ cho mỗi loại vật liệu như gỗ, mép và kim loại để đảm bảo tính chính xác và đầy đủ cho bài viết của bạn.
+
+Một cách khác để mở rộng ý tưởng là so sánh các giai đoạn tái chế với nhau. Bạn có thể so sánh cách các giai đoạn khác nhau xử lý các vật liệu tái chế và nhấn mạnh sự khác biệt giữa chúng. Ví dụ, bạn có thể so sánh quy trình loại bỏ thực phẩm được thực hiện bằng cách sử dụng màn hình và quá trình loại bỏ các vật liệu kim loại bằng cách sử dụng thiết bị từ tính.
+
+Bằng cách mở rộng ý tưởng và cung cấp thêm thông tin chi tiết và so sánh, bạn có thể cải thiện tính đầy đủ và mạch lạc của bài viết và đáp ứng yêu cầu của tiêu chí Task Response.
+
+
+Coherence and Cohesion:
+
+Tổ chức và mạch lạc của bài viết của bạn rất tốt. Các ý được sắp xếp theo một trình tự logic và các câu có xu hướng liên kết với nhau để hình thành một sự liên kết tổng thể trong bài viết của bạn.
+
+Tuy nhiên, có một số vấn đề nhỏ về sự rõ ràng và liên kết trong bài viết của bạn:
+
+1. Có một số câu chưa được rõ ràng trong việc kết nối các giai đoạn:
+   - Ví dụ: "After removing big-sized items, the process continues with the redundancy of cardboard by the screen, then paper-related materials are also eliminated by this equipment in the third stage."
+   + Câu này đang nói về hai giai đoạn khác nhau mà không rõ ràng về mối quan hệ giữa chúng. Bạn có thể sử dụng các từ ngữ liên kết rõ ràng như "Then" hoặc "Next" để kết nối những giai đoạn này với nhau.
+
+2. Có một số thiếu rõ ràng về các chi tiết của các giai đoạn tái chế:
+   - Ví dụ: "Following the process, there is the removal of metal items such as cans using magnetic appliances."
+   + Câu này không cho biết rõ ràng là giai đoạn nào loại bỏ các vật liệu từ kim loại. Bạn có thể cung cấp thêm thông tin về giai đoạn này hoặc chỉ rõ cụ thể là giai đoạn nào trong quá trình tái chế.
+
+3. Thiếu một văn bản mở đầu và kết luận rõ ràng:
+   - Bài viết của bạn chưa bắt đầu bằng một câu mở đầu chính thống và cũng chưa có một kết luận cuối cùng.
+   - Đề nghị bạn thêm một câu mở đầu để giới thiệu đề bài và tạo ra một kết luận cuối cùng ngắn gọn để tổng kết lại nội dung của bài viết.
+
+Những điểm trên chỉ là những điểm nhỏ và không gây ảnh hưởng lớn đến sự mạch lạc và liên kết tổng thể của bài viết của bạn. Bạn có thể hoàn thiện các phần này để nâng cao tính mạch lạc và liên kết của bài viết.
+
+
+Lexical Resource:
+
+Trong bài viết của bạn, bạn đã sử dụng một số từ vựng liên quan đến quá trình tái chế như "waste separation", "recycling materials", "conveyor belt", "cardboard", "screen", "metal items", "magnetic appliances", "glass bottles" và "plastic products", điều này đã giúp bài viết của bạn trở nên phong phú và chính xác hơn.
+
+Tuy nhiên, trong bài viết của bạn cũng có một số lỗi về từ vựng và cụm từ không phù hợp với ngữ cảnh:
+
+1. "the redundancy of cardboard by the screen" - từ "redundancy" không phù hợp với ngữ cảnh và ý nghĩa của câu. Đúng nên là "the removal of cardboard by the screen".
+
+2. "plastic-manmade inventions" - cụm từ này không phù hợp với ngữ cảnh và ý nghĩa của câu. Đúng nên là "plastic items" hoặc "plastic objects".
+
+3. "sorted by considering their competent characteristics" - cụm từ này không chính xác và không phù hợp với ngữ cảnh. Đúng nên là "sorted based on their specific characteristics" hoặc "sorted according to their distinctive features".
+
+Đề nghị bạn điều chỉnh các lỗi này để cung cấp từ vựng và cụm từ chính xác và phù hợp với ngữ cảnh của bài viết. Điều này sẽ giúp bạn nâng cao Lexical Resource và mức điểm của bạn trong tiêu chí này.
+
+
+Grammatical Range and Accuracy:
+
+Trong bài viết của bạn, có một số lỗi về ngữ pháp cần được chỉnh sửa để đảm bảo tính chính xác. Dưới đây là danh sách các lỗi cụ thể và giải thích:
+
+1. "the redundancy of cardboard by the screen"
+   - Lỗi: Sai cấu trúc cụm từ.
+   - Sửa: Thay thế "the redundancy of cardboard" bằng "the removal of cardboard".
+
+2. "glass-made and plastic products"
+   - Lỗi: Sử dụng sai cấu trúc cho tính từ phân cấu trúc.
+   - Sửa: Thay thế "glass-made" bằng "glass" và "plastic products" bằng "plastic products".
+
+3. "inventions are sorted by considering their competent characteristics"
+   - Lỗi: Chọn từ không chính xác.
+   - Sửa: Thay thế "competent characteristics" bằng "distinct characteristics" hoặc "specific characteristics".
+
+Ngoài các lỗi cụ thể trên, hãy chắc chắn lưu ý các quy tắc ngữ pháp chung để cải thiện tính chính xác của bài viết của bạn.
+
+
+Score:
+
+Overall:
+
+Score_TR:
+Score_CC:
+Score_LR:
+Score_GA:
+
+Task Response: 
+Based on the given essay, the main features and steps of the single-stream recycling process are adequately summarized. However, the essay does not make relevant comparisons as required. Therefore, I would estimate a score of around 6.0 for Task Response.
+
+Coherence and Cohesion:
+Overall, the essay demonstrates a logical organization of ideas, with the steps of the recycling process presented in a sequential order. Some of the connections between the stages could be clearer, but there is a general flow in the essay. I would estimate a score of around 6.5 for Coherence and Cohesion.
+
+Lexical Resource:
+The essay uses a range of vocabulary related to recycling, but there is room for improvement in terms of variety and accuracy. Some terms, such as "commingled" and "competent characteristics," add complexity to the writing. However, there are a few inaccuracies and the use of more precise and diverse vocabulary would enhance the essay. I would estimate a score of around 6.0 for Lexical Resource.
+
+Grammatical Range and Accuracy: 
+The essay demonstrates the use of complex sentence structures and varied grammar. However, there are a few grammatical errors that could be corrected to improve accuracy. I would estimate a score of around 6.0 for Grammatical Range and Accuracy.
+
+Overall, based on these estimations, I would estimate the essay's score to be around 6.0 for Task Response, Coherence and Cohesion, Lexical Resource, and Grammatical Range and Accuracy.
+
+

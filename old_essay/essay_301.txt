@@ -48,19 +48,23 @@ Bạn đã sử dụng một số cụm từ và câu không chính xác trong b
 Tóm lại, để nâng cao điểm bài viết của bạn, hãy đảm bảo rõ ràng và mạch lạc trong câu trả lời cho câu hỏi đề bài, phát triển ý tưởng một cách đầy đủ và logic, và sử dụng ngữ pháp và chính tả chính xác.
 
 
-Coherence and Cohesion:
+Coherence and Cohesion:?
 
-Bài viết của bạn có sự liên kết mạch lạc và hợp lý giữa các ý và câu, tuy nhiên, vẫn còn một số điểm có thể cải thiện để tăng tính logic và mạch lạc của bài viết. Dưới đây là một số điểm mà bạn có thể chú ý:
+Trong bài viết của bạn, có một số vấn đề về coherence and cohesion cần được cải thiện:
 
-1. Dùng từ ngữ và cấu trúc câu chính xác: Bạn nên lưu ý sử dụng từ ngữ và cấu trúc câu chính xác để tránh gây hiểu nhầm cho người đọc. Có một số câu trong bài viết của bạn có cấu trúc câu không hoàn chỉnh hoặc bị thiếu một số từ quan trọng, điều này làm giảm tính mạch lạc của bài viết.
+1. Thiếu sự liên kết giữa các ý chính: Trong một bài viết IELTS, quan trọng để có một sự liên kết rõ ràng giữa các ý chính. Trên thực tế, mỗi đoạn trong bài viết của bạn có một ý chính riêng biệt nhưng thiếu sự kết nối mạch lạc với các ý khác trong bài viết. Điều này khiến cho bài viết trở nên mất tổng quan và khó hiểu.
 
-2. Sử dụng các từ nối thích hợp: Để tăng tính mạch lạc giữa các ý và câu, bạn cần sử dụng các từ nối thích hợp, như 'moreover', 'however', 'on the other hand', để tạo mối liên kết và giới thiệu ý kiến/tuỳ ý mới.
+2. Sự thiếu hụt paragraphing: Bài viết của bạn không được chia thành các đoạn rõ ràng. Điều này làm cho việc theo dõi luồng suy nghĩ và sự phát triển của ý chính trở nên khó khăn.
 
-3. Tổ chức cấu trúc bài viết: Bài viết của bạn có thể tốt hơn nếu có một cấu trúc rõ ràng và cân nhắc. Bạn có thể xác định trước những ý chính của mình và tổ chức chúng thành các đoạn văn riêng biệt, mỗi đoạn tập trung vào một ý chính và có một câu chủ đề sáng tỏ.
+3. Một số câu bị mơ hồ: Một vài câu trong bài viết của bạn không rõ ràng hoặc mơ hồ. Điều này làm cho nghĩa bị lạc và gây khó khăn cho người đọc trong việc hiểu ý của bạn.
 
-4. Sắp xếp luận điểm một cách hợp lý: Đảm bảo rằng các luận điểm của bạn được sắp xếp một cách hợp lý và tuân thủ một loại sắp xếp logic. Ví dụ, bạn có thể bắt đầu bài viết bằng việc giới thiệu chủ đề chung và cuối cùng là câu kết luận, trong khi các luận điểm trung gian được xếp theo thứ tự ưu tiên logic.
+Để cải thiện coherence and cohesion trong bài viết của bạn, dưới đây là một số gợi ý:
 
-Nhìn chung, bài viết của bạn có sự liên kết mạch lạc và hợp lí giữa các ý và câu, nhưng có thể được cải thiện bằng cách chú ý đến các yếu tố đáng chú ý như từ ngữ, cấu trúc câu, từ nối, tổ chức và sắp xếp luận điểm. Điều này sẽ giúp tăng tính logic và mạch lạc của bài viết của bạn.
+- Tổ chức bài viết thành các đoạn rõ ràng, mỗi đoạn tập trung vào một ý chính cụ thể. Sử dụng câu mở đầu trong mỗi đoạn để giới thiệu ý chính của đoạn và sử dụng các câu kết luận để liên kết với ý chính tiếp theo.
+- Sử dụng các từ nối và cụm từ nối để tạo liên kết mạch lạc giữa các câu và đoạn. Ví dụ: Firstly, Secondly, In conclusion, However, On the other hand, etc.
+- Đảm bảo rằng các câu của bạn rõ ràng và đủ thông tin để truyền đạt ý chính của bạn. Hãy chắc chắn rằng câu của bạn mạch lạc và không mơ hồ.
+
+Sử dụng các gợi ý này, bạn có thể cải thiện coherence and cohesion trong bài viết của mình và giúp người đọc hiểu rõ hơn về các ý chính của bạn.
 
 
 Lexical Resource:

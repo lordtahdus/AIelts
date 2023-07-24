@@ -47,21 +47,17 @@ Dưới đây là các điểm cần được cải thiện và giải thích:
 Tóm lại, để cải thiện Task Response trong bài viết của bạn, hãy đảm bảo rằng bạn phát triển và mở rộng đầy đủ ý kiến của mình và cung cấp các ví dụ cụ thể và lập luận để minh chứng cho những ý kiến này. Hãy sắp xếp các ý kiến của bạn theo một trình tự logic và sử dụng các từ nối phù hợp để liên kết các ý kiến và ý kiến của bạn với nhau.
 
 
-Coherence and Cohesion:
+Coherence and Cohesion:?
 
-Trong bài viết của bạn, tồn tại một số vấn đề về coherence và cohesion. Dưới đây là danh sách các lỗi và giải thích:
+Đánh giá về Coherence and Cohesion trong bài viết của bạn:
 
-1. Thiếu câu mở đầu: Bạn nên bắt đầu bài viết với một câu mở đầu để giới thiệu chủ đề và thu hút sự quan tâm của người đọc.
+1. Cấu trúc câu: Bài viết của bạn có một số vấn đề với cấu trúc câu không chính xác và khó hiểu. Ví dụ, câu như "According to me as children go to the school at very young age like six or seven-years-old have advantagesadvantages as well as disadvantages too" không rõ ràng và không chính xác về cấu trúc.
 
-2. Sự tắt nghĩa do sử dụng ngôn ngữ không chính xác: Có một số câu trong bài viết của bạn bị gián đoạn hoặc không rõ ý đồ do sử dụng các từ và cụm từ không chính xác hoặc với ngữ pháp sai. Điều này làm giảm tính mạch lạc và gây khó khăn cho người đọc hiểu ý của bạn. 
+2. Sự liên kết ý: Bài viết của bạn có một số vấn đề với sự liên kết ý trong các đoạn văn. Ví dụ, trong đoạn thứ hai, ý kiến chủ quan của bạn không được trình bày một cách rõ ràng khi bạn phát biểu "My opinion is discussed below", nhưng không đưa ra ý kiến cụ thể sau đó.
 
-3. Thiếu cấu trúc câu: Một số câu trong bài viết của bạn không được cấu trúc chặt chẽ, tạo nên sự mập mờ và khó hiểu. Bạn nên sử dụng các cấu trúc câu chính xác để truyền đạt ý của mình một cách rõ ràng và mạch lạc.
+3. Liên từ và từ nối: Bài viết của bạn cần sử dụng các liên từ và từ nối một cách chính xác để kết nối các ý và đoạn văn. Ví dụ, trong đoạn cuối cùng, bạn chỉ đơn thuần kết thúc bài viết bằng cách nói "In conclusion", thay vì sử dụng một cụm từ thông qua hoặc một cấu trúc câu phức hợp để tổng kết lại các ý chính.
 
-4. Thiếu liên kết giữa các ý: Một số ý không được kết nối một cách mạch lạc và hợp lý. Bạn cần đảm bảo rằng mỗi ý được liên kết một cách logic và mạch lạc để tạo nên một bài viết trơn tru và dễ theo dõi.
-
-5. Lỗi chính tả và cấu trúc câu: Một số câu trong bài viết của bạn chứa lỗi chính tả và cấu trúc câu, gây khó hiểu và ảnh hưởng đến khả năng truyền đạt ý của bạn.
-
-Để cải thiện coherence và cohesion cho bài viết của bạn, bạn nên bắt đầu bằng một câu mở đầu hấp dẫn, sử dụng ngôn ngữ chính xác và câu trúc câu đúng, và đảm bảo rằng các ý chính của bạn được kết nối một cách mạch lạc và hợp lý.
+Tổng kết, bài viết của bạn cần cải thiện trong khía cạnh Coherence and Cohesion. Bạn cần chú ý đến cấu trúc câu, sự liên kết ý, sử dụng từ ngữ và cụm từ chính xác, và sử dụng các liên từ và từ nối một cách chính xác để tạo sự liên kết mạch lạc và hợp lí giữa các ý và câu.
 
 
 Lexical Resource:

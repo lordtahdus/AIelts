@@ -1,0 +1,127 @@
+Topic:
+
+"The line graph illustrates three different kinds of crimes that occurred in Newport City center between 2003 and 2012."
+
+Essay:
+
+"There are a statistics three types of law breaking acts that happened in  downtown of Newport in one-decade bracket.
+
+Overall, the crime rates of  car theft and robbery did not change remarkably during this period of the question ,while the rate of burglary dropped in this period.
+
+It is clear that, there was marginal soar from 3400 to 3700 between 2003 and 2004. The amount of burglaries declined continuously in the bracket of 2004 to 2008. Eventually, it did not noticeably change until the end of this period so, it stood at just roughly 1300 in 2012.
+
+According to this information, although the fluctuation of car theft did not remarkably change from 2003 until 2005 by about 2800 number of incidents, there was a significant decline in 2006 and stood at just about 2100. This trend remained until the period of mentioned. Furthermore, there was a margin fluctuation for the robbery in the period of mention so that, the maximal and minimal number of that did not exceed  900 and 500 respectively."
+
+
+Revised:
+
+Here is the edited essay according to the IELTS structure:
+
+The provided line graph illustrates the occurrence of three different types of crimes in Newport City center between 2003 and 2012.
+
+Overall, the rates of car theft and robbery remained relatively stable throughout the given time period, while the rate of burglary declined significantly.
+
+It is clear that there was a slight increase in burglaries from 2003 to 2004, reaching a peak at around 3,700 incidents. However, from 2004 to 2008, there was a continuous decrease in the number of burglaries. Eventually, the rate remained relatively stable until 2012, standing at approximately 1,300 incidents.
+
+In terms of car theft, there was a minor fluctuation between 2003 and 2005, with around 2,800 incidents recorded. However, a significant decline occurred in 2006, with the rate dropping to approximately 2,100 incidents. This trend continued until the end of the given period. Furthermore, the rate of robbery showed small fluctuations, with the maximum and minimum number of incidents not exceeding 900 and 500, respectively.
+
+Overall, while car theft and robbery rates remained consistent, the rate of burglary experienced a significant decline during the specified timeframe.
+
+
+Feedback:
+
+Task Response:
+
+Trong phần Task Response, bài viết của bạn chưa đạt điểm cao vì có một số điểm cần cải thiện:
+
+1. Câu trả lời câu hỏi đề bài: Bài viết của bạn đã nhắc đến các loại tội phạm và thay đổi về số vụ vi phạm trong giai đoạn từ 2003 đến 2012. Tuy nhiên, điểm cần cải thiện ở đây là bạn không cung cấp đủ thông tin chi tiết về các loại tội phạm cụ thể. Đề bài yêu cầu bạn miêu tả các loại tội phạm cụ thể và so sánh sự thay đổi giữa chúng. Vì vậy, bạn nên cung cấp thông tin chi tiết hơn về mỗi loại tội phạm và so sánh chúng trong bài viết của mình.
+
+2. Mở rộng ý tưởng: Bài viết của bạn đã đề cập đến sự thay đổi về số vụ trộm cắp ô tô, cướp nhưng bạn chưa mở rộng các ý tưởng này đủ. Để cải thiện điểm Task Response, bạn có thể thảo luận về nguyên nhân và hậu quả của sự thay đổi trong các loại tội phạm này. Ví dụ, làm thế nào sự thay đổi về số vụ trộm cắp ô tô, cướp có thể liên quan đến công tác chống tội phạm của chính quyền địa phương hoặc các biện pháp an ninh được triển khai.
+
+Vì vậy, bạn cần bổ sung các thông tin chi tiết về các loại tội phạm và mở rộng ý tưởng để trả lời đúng câu hỏi và đạt điểm cao hơn trong Task Response.
+
+
+Coherence and Cohesion:
+
+Trong bài viết của bạn, có một số lỗi về coherence and cohesion. Dưới đây là danh sách các lỗi sai chính và giải thích chi tiết:
+
+1. Cô lập giữa câu hỏi và câu trả lời:
+- Ví dụ: "There are a statistics three types of law breaking acts that happened in downtown Newport in one-decade bracket."
+- Giải thích: Câu này đầu tiên tạo một câu hỏi bằng cách sử dụng "there are" nhưng sau đó không cung cấp câu trả lời một cách mạch lạc. Thay vào đó, câu đó chỉ tạo ra sự nhầm lẫn và không gắn kết với câu tiếp theo.
+
+2. Sự nhầm lẫn cấu trúc câu:
+- Ví dụ: "The crime rates of car theft and robbery did not change remarkably during this period of the question"
+- Giải thích: Cấu trúc câu này không hoàn toàn chính xác. Bạn có thể sửa lại thành "The crime rates of car theft and robbery did not change remarkably during this period."
+
+3. Cụm từ lặp lại:
+- Ví dụ: "the rate of burglary dropped in this period" (cũng có thể sử dụng "during this period")
+- Giải thích: Cụm từ "in this period" đã xuất hiện hai lần trong một câu. Điều này làm cho bài viết trở nên lặp lại và không linh hoạt.
+
+4. Thiếu liên kết giữa các ý:
+- Ví dụ: "The amount of burglaries declined continuously in the bracket of 2004 to 2008. Eventually, it did not noticeably change until the end of this period so, it stood at just roughly 1300 in 2012."
+- Giải thích: Các câu này không được liên kết mạch lạc. Bạn có thể sử dụng các từ kết nối như "however" hoặc "despite this" để giúp xây dựng sự liên kết giữa hai ý này.
+
+5. Thiếu lời giải thích rõ ràng về từng điểm trong biểu đồ:
+- Ví dụ: "According to this information, although the fluctuation of car theft did not remarkably change from 2003 until 2005 by about 2800 number of incidents"
+- Giải thích: Câu này chỉ phân tích các con số và không cung cấp lời giải thích rõ ràng về từng điểm trong biểu đồ. Bạn nên cung cấp thông tin chi tiết về những thay đổi cụ thể từng năm.
+
+Đối với coherence and cohesion, bạn nên tập trung vào việc sắp xếp ý tưởng một cách logic và cung cấp các liên kết mạch lạc giữa các câu và đoạn văn. Hãy chắc chắn rằng câu của bạn liên kết một cách tự nhiên và hợp lý và ý của bạn được phát triển một cách rõ ràng và cặn kẽ.
+
+
+Lexical Resource:
+
+Trong bài viết của bạn, sử dụng từ vựng và cấu trúc ngữ pháp phù hợp cho đề bài. Tuy nhiên, có một số lỗi và cách cải thiện như sau:
+
+1. "a statistics three types" nên được sửa thành "statistics of three types" hoặc "three types of statistics". Lỗi này xảy ra vì thiếu mạo từ đúng và sử dụng sai cấu trúc giữa "a statistics".
+
+2. Sử dụng từ "soar" để diễn đạt sự tăng đáng kể từ 3400 lên 3700 sẽ không phù hợp. "Soar" thường được sử dụng khi diễn tả một sự tăng nhanh chóng và đáng kể hơn. Thay vào đó, bạn có thể sử dụng từ "increase marginally" hoặc "rose slightly" để diễn đạt ý nghĩa mong muốn.
+
+3. Trong câu "The amount of burglaries declined continuously in the bracket of 2004 to 2008", từ "bracket" không được sử dụng chính xác để chỉ khoảng thời gian từ 2004 đến 2008. Thay vào đó, bạn có thể sử dụng cụm từ "during the period" để tránh lỗi.
+
+4. "Marginal fluctuation for the robbery" nên được sửa thành "marginal fluctuations in the number of robberies" để chính xác hơn. Cấu trúc này giúp diễn tả sự thay đổi nhỏ trong số vụ cướp một cách chính xác hơn.
+
+5. Các cụm từ "noticeably change", "fluctuation of car theft" và "the rate of burglary dropped" có ý nghĩa đúng và phù hợp với ngữ cảnh của bài viết.
+
+Tổng quan, mặc dù có một số lỗi và cách cải thiện trong cách sử dụng từ vựng, bài viết của bạn vẫn diễn đạt ý nghĩa một cách rõ ràng và phù hợp với đề bài. Để nâng cao điểm số của bạn, hãy chú ý sử dụng chính xác từ vựng và cấu trúc ngữ pháp trong ngữ cảnh phù hợp.
+
+
+Grammatical Range and Accuracy:
+
+Bài viết của bạn có một số lỗi ngữ pháp. Dưới đây là danh sách các lỗi và giải thích:
+
+1. "There are a statistics three types..." - Đúng cách đề phải dùng "There are three types of statistics" hoặc "There are statistics on three types".
+
+2. "At just roughly 1300 in 2012" - Chính xác hơn, bạn nên viết "At just about 1300 in 2012".
+
+3. "The fluctuation of car theft did not remarkably change" - Đổi lại thành "The fluctuation of car theft did not change remarkably" hoặc "The fluctuation of car theft did not change significantly".
+
+4. "From 2003 until 2005 by about 2800 number of incidents" - Đổi lại thành "From 2003 until 2005, by about 2800 incidents" hoặc "From 2003 until 2005, there were about 2800 incidents".
+
+5. "There was a margin fluctuation for the robbery" - Thay bằng "There was a marginal fluctuation in the number of robberies".
+
+6. "So that, the maximal and minimal number of that" - Loại bỏ "that" và chỉ viết "So the maximum and minimum number of robberies".
+
+7. "Did not exceed 900 and 500 respectively" - Chính xác hơn, dùng "Did not exceed 900 and 500, respectively".
+
+Ngoài ra, còn một số lỗi nhỏ như dấu câu và sử dụng từ ngữ chính xác. Hãy chú ý kiểm tra lại việc sử dụng mạo từ và cấu trúc câu để đảm bảo rằng chúng được sử dụng đúng cách.
+
+
+Score:
+
+Overall:
+
+Score_TR:
+Score_CC:
+Score_LR:
+Score_GA:
+
+I would estimate the score for each criteria as follows:
+
+Task Response: 6.5
+Coherence and Cohesion: 6.0
+Lexical Resource: 5.5
+Grammatical Range and Accuracy: 6.0
+
+Overall, your essay meets the requirements of the task by discussing the three types of crimes shown in the graph and presenting a clear overview of the trends. However, there are areas where you could improve in terms of coherence and cohesion by organizing your ideas more effectively and using linking words to connect different sentences and paragraphs. In terms of lexical resource, your use of vocabulary is generally appropriate, but there is room for improvement in terms of variety and avoiding repetition. Finally, your grammatical range and accuracy are generally good, although there are a few errors and some sentence structures could be more varied. With some improvements, you could achieve a higher score in these areas.
+
+

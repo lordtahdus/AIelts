@@ -48,21 +48,19 @@ Dưới đây là đánh giá chi tiết về Task Response trong bài viết c�
 - Cải thiện kỹ năng ngữ pháp và từ vựng của bạn để viết một cách chính xác và sử dụng một loạt cấu trúc câu và từ vựng.
 
 
-Coherence and Cohesion:
+Coherence and Cohesion:?
 
-Trong bài viết của bạn, có một số vấn đề về coherence and cohesion cần được cải thiện. Dưới đây là danh sách các lỗi và giải thích đi kèm:
+Trong bài viết của bạn, sự liên kết và mạch lạc giữa các ý và câu chưa được thể hiện một cách tốt. Dưới đây là một số lỗi về Coherence and Cohesion trong bài viết của bạn:
 
-1. Incoherent organization: Bài viết của bạn không có cấu trúc rõ ràng. Một bài viết IELTS Writing Task 2 cần phải có một kiến trúc thống nhất, đảm bảo các ý được sắp xếp một cách logic. Bạn nên sắp xếp lại các ý và câu để tạo cấu trúc rõ ràng, ví dụ: introduction, body paragraphs với các lập luận khác nhau và một kết luận.
+1. Thiếu sự liên kết giữa các ý: Bài viết của bạn không có sự chuyển tiếp mạch lạc giữa các ý, khiến cho người đọc khó hiểu về cấu trúc và luồng ý kiến của bài viết. Bạn cần sử dụng các từ nối và cụm từ chuyển tiếp để tạo ra sự liên kết hợp lý giữa các câu và các đoạn văn.
 
-2. Inappropriate linking words: Một số linking words được sử dụng không chính xác, gây ra sự không liên kết trong bài viết. Ví dụ, "well" không phải là từ giới thiệu trong một bài viết học thuật, và "ignorant" không phù hợp trong ngữ cảnh này. Bạn nên sử dụng các linking words như "Moreover" hay "However" để tạo liên kết hợp lý giữa các câu và ý.
+2. Thiếu sự phân loại và tổ chức ý kiến: Bài viết của bạn thiếu sự tổ chức rõ ràng và logic giữa các ý kiến. Bạn cần phân chia các ý kiến thành các đoạn riêng biệt và sắp xếp chúng một cách logic để giúp người đọc theo dõi và hiểu rõ hơn về quan điểm của bạn.
 
-3. Lack of coherence within paragraphs: Một số đoạn văn trong bài viết của bạn không có coherence, khiến cho ý kiến không liên quan được đặt cạnh nhau một cách ngẫu nhiên. Bạn nên đảm bảo rằng các câu và ý trong một đoạn văn có một liên kết logic và hợp lí.
+3. Thiếu các ví dụ cụ thể và dẫn chứng: Bài viết của bạn thiếu các ví dụ cụ thể và dẫn chứng để ủng hộ quan điểm của bạn. Khi bạn đưa ra các ý kiến, hãy luôn cung cấp ví dụ và dẫn chứng cụ thể để làm rõ và minh chứng cho quan điểm của bạn.
 
-4. Grammatical errors: Có một số lỗi ngữ pháp trong bài viết của bạn, gây ra sự không mạch lạc và không rõ nghĩa của câu. Bạn nên chú ý đến cấu trúc câu và sử dụng ngữ pháp chính xác để bài viết mượt mà hơn.
+4. Sai cú pháp và từ vựng: Bài viết của bạn có nhiều lỗi về ngữ pháp và từ vựng, gây ra sự không liên kết và không mạch lạc trong câu và đoạn văn. Bạn cần ôn lại và cải thiện kỹ năng ngữ pháp và từ vựng để giao tiếp ý kiến một cách chính xác và mạch lạc.
 
-5. Lack of clear transition: Các câu và đoạn văn trong bài viết của bạn thiếu một sự chuyển tiếp mạch lạc. Bạn có thể sử dụng linking words và cụm từ để tạo ra sự liên kết mạch lạc giữa các ý, ví dụ: "to begin with", "on the other hand", "in addition", "in conclusion" và cụm từ giới thiệu các ý trong đoạn văn.
-
-Để cải thiện coherence và cohesion trong bài viết của bạn, hãy chắc chắn rằng bạn có một cấu trúc rõ ràng và logic, sử dụng đúng các linking words và transition words, và kiểm tra lại ngữ pháp và cấu trúc câu để đảm bảo sự rõ ràng và mạch lạc trong viết của bạn.
+Để cải thiện Coherence and Cohesion trong bài viết của bạn, hãy chú ý áp dụng các từ nối và cụm từ chuyển tiếp để tạo ra sự liên kết mạch lạc giữa các ý và câu. Hơn nữa, hãy tổ chức các ý kiến một cách logic và sắp xếp chúng theo một thứ tự hợp lý để người đọc có thể hiểu rõ và theo dõi được luồng ý kiến của bạn. Cuối cùng, lưu ý cải thiện kỹ năng ngữ pháp và từ vựng để trình bày ý kiến một cách chính xác và mạch lạc.
 
 
 Lexical Resource:
