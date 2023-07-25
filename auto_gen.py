@@ -51,7 +51,8 @@ Nêu ra những điểm cần được cải thiện và giải thich.
 """,
                 """\
 Đánh giá Coherence and Cohesion trong bài viết của tôi một cách chi tiết hơn.\
-Bài viết của tôi có sự liên kết mạch lạc và hợp lí giữa tất cả các ý và các câu không?
+Bài viết của tôi có sự liên kết mạch lạc và hợp lí giữa tất cả các luận điểm và lập luận không?\
+Các câu được liên kết chặt chẽ và nối tiếp với nhau không?
 
 Nếu không, liệt kê tất cả lỗi sai của Coherence and Cohesion và giải thích.
 """,
