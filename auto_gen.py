@@ -70,7 +70,7 @@ Nếu có, liệt kê tất cả lỗi sai và giải thích.
                 "Estimate carefully the score of each criteria"
             ]
 
-            #reseto
+            #reset to
             messages = []
             system_msg = "Ielts writing editor"
             messages.append({"role": "system", "content": system_msg})
