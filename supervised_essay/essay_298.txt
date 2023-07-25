@@ -39,28 +39,30 @@ Tóm lại, hãy đảm bảo rằng bạn trả lời đúng câu hỏi đề b
 
 Coherence and Cohesion:
 
-Trong bài viết của bạn, có một số lỗi liên quan đến sự mạch lạc và liên kết. Dưới đây là danh sách các lỗi và giải thích:
+Trong bài viết của bạn, có một số vấn đề về coherence and cohesion. Dưới đây là danh sách và giải thích chi tiết về những vấn đề này:
 
-1. Thiếu sự liên kết giữa các ý: Trong bài viết của bạn, có vẻ như không có sự liên kết mạch lạc giữa các ý. Bạn chia bài viết thành các phần câu ngắn và mỗi phần không có sự kết nối chặt chẽ với các phần khác. Điều này làm cho bài viết trở nên rời rạc và khó hiểu.
+1. Thiếu mối liên kết giữa các ý chính: Bài viết của bạn bắt đầu bằng việc đề cập đến nguyên nhân dẫn đến tội phạm của thanh niên. Tuy nhiên, sau đó không có sự mạch lạc rõ ràng giữa các ý chính. Hãy nhớ rằng bạn cần phải có sự kết nối giữa các ý chính để tạo ra một luồng lưu truyền suôn sẻ cho người đọc.
 
-2. Thiếu câu chuyển tiếp: Trong bài viết của bạn, thiếu sự sử dụng câu chuyển tiếp để kết nối các ý với nhau. Điều này làm cho bài viết trở nên mất đi sự mạch lạc và gây khó khăn trong việc theo dõi luồng suy nghĩ của bạn.
+2. Ý chính không được phát triển đầy đủ: Một số ý chính của bạn cần được phát triển và mở rộng thêm. Ví dụ, ý kiến về vai trò của phim ảnh và truyền thông xã hội trong hướng dẫn hành vi của thanh niên cần được hỗ trợ bằng các ví dụ cụ thể và cuộc tranh luận chi tiết hơn.
 
-3. Lặp lại từ và câu: Bạn đã lặp lại một số từ và câu trong bài viết của bạn, làm giảm sự đa dạng và sự lưu loát của ngôn ngữ của bạn. Điều này cũng góp phần làm cho bài viết trở nên nhàm chán và thiếu sự sáng tạo trong việc biểu đạt ý kiến.
+3. Sự thiếu sót trong các từ nối: Bài viết của bạn thiếu các từ nối hợp lý để liên kết các ý và câu lại với nhau. Các từ nối, như "moreover", "therefore", "however",... đều giúp tạo sự liên kết mạch lạc giữa các phần và câu trong bài viết, giúp người đọc theo dõi luồng lưu truyền của luận điểm của bạn.
 
-Để cải thiện sự mạch lạc và liên kết trong bài viết của bạn, bạn có thể thử áp dụng các biện pháp sau:
+4. Cấu trúc câu không đồng nhất: Đôi khi, cấu trúc câu của bạn không đồng đều và không nhất quán. Cần chú ý đảm bảo rằng mỗi câu có cấu trúc rõ ràng và dễ hiểu, và các câu sau nối tiếp một cách mượt mà từ câu trước đó.
 
-1. Sử dụng câu chuyển tiếp: Sử dụng các từ và cụm từ như "thế nên", "ngoài ra", "tuy nhiên", "vì vậy" để kết nối các ý với nhau và truyền tải sự liên kết.
+Để nâng cao coherence and cohesion, bạn có thể tham khảo một số cách sau:
 
-2. Tạo ra một kế hoạch cho bài viết: Trước khi bắt đầu viết, hãy lên kế hoạch cho các ý chính mà bạn muốn trình bày. Điều này sẽ giúp bạn có một sự mạch lạc rõ ràng và sắp xếp ý kiến ​​của mình theo một trình tự logic.
+1. Sử dụng các từ nối hợp lý để tạo liên kết mạch lạc giữa các ý. Ví dụ như "In addition", "Furthermore", "Moreover", "On the other hand",...
 
-3. Sử dụng từ vựng và cấu trúc câu đa dạng: Hãy sử dụng nhiều từ vựng và cấu trúc câu khác nhau để biểu đạt ý kiến ​​của bạn một cách sáng tạo và lưu loát.
+2. Phát triển mỗi ý chính của bạn một cách đầy đủ và mở rộng thêm bằng cách sử dụng ví dụ cụ thể và cuộc tranh luận chi tiết.
 
-Tổng quan, để nâng cao sự mạch lạc và liên kết trong bài viết của bạn, hãy tập trung vào sử dụng câu chuyển tiếp, lên kế hoạch và sử dụng từ vựng và cấu trúc câu đa dạng.
+3. Đảm bảo rằng cấu trúc câu của bạn đồng nhất và nhất quán, và các câu được kết nối một cách mượt mà với nhau.
+
+Hy vọng những gợi ý trên sẽ giúp bạn cải thiện coherence and cohesion trong bài viết của mình.
 
 
 Lexical Resource:
 
-Xin lỗi vì phần đánh giá trước được trình bày không đủ chi tiết. Dưới đây là những điểm không phù hợp trong phần Lexical Resource của bài viết của bạn:
+Dưới đây là những điểm không phù hợp trong phần Lexical Resource của bài viết của bạn:
 
 1. Từ vựng cơ bản và lặp lại: Bạn sử dụng nhiều từ vựng cơ bản và lặp lại, không đưa ra những từ vựng phức tạp hay tốt hơn. Điều này ảnh hưởng đến việc biểu đạt ý kiến một cách chính xác và đa dạng.
 

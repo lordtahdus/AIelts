@@ -43,22 +43,15 @@ Tổng kết lại, bài viết của bạn đã có một số điểm mạnh n
 
 Coherence and Cohesion:
 
-Trong bài viết của bạn, sự liên kết và sắp xếp chung là tốt. Các ý được sắp xếp một cách rõ ràng và các câu trong bài viết cũng được liên kết mạch lạc với nhau. Tuy vậy, có một số lỗi nhỏ về sắp xếp ý và từ liên kết mà tôi muốn chỉ ra để bạn cải thiện:
+Trong bài viết của bạn, có một số vấn đề liên quan đến coherence and cohesion.
 
-1. Ý thứ hai của đoạn 1 không được phát triển một cách đầy đủ. Tuy nhiên, đoạn sau đó không nêu rõ hơn về điều này. Bạn có thể bổ sung thêm ví dụ hoặc lý luận để giúp đọc giả hiểu rõ hơn về hiểu lầm có thể xảy ra khi trao đổi email.
+1. Thiếu cấu trúc bài viết: Bài viết của bạn không có cấu trúc rõ ràng và không tuân thủ theo mô hình bài viết IELTS. Bạn nên chuẩn bị một cấu trúc rõ ràng, bao gồm một phần mở đầu giới thiệu vấn đề, các đoạn thân bài với các luận điểm và lập luận phù hợp, và một phần kết luận tổng kết. Điều này sẽ giúp bài viết của bạn trông có cấu trúc hợp lí và dễ đọc hơn.
 
-2. Đoạn 3 của bài viết bạn bắt đầu với từ "mặt khác", nhưng không có sự liên kết rõ ràng với những ý trước đó. Bạn có thể sử dụng các từ/ cụm từ như "Adding to that" hoặc "Furthermore" để thể hiện sự kết nối giữa các ý.
+2. Thiếu các từ nối hợp lý: Bài viết của bạn thiếu các từ nối và cụm từ chặt chẽ để liên kết các ý tưởng và câu với nhau. Điều này làm cho bài viết không có liên kết mạch lạc và khó hiểu hơn. Bạn cần sử dụng các từ nối như "on the one hand", "on the other hand", "in addition", "furthermore", "in conclusion", vv để giúp người đọc theo dõi luồng suy nghĩ của bạn.
 
-3. Trong câu cuối cùng của bài viết, sau từ "Tổng cộng", bạn nên sử dụng từ/ cụm từ "In conclusion" để đảm bảo rằng đó là phần kết luận của bài viết.
+3. Câu chung chung và không cụ thể: Một số câu trong bài viết của bạn có thể trở nên chung chung và không cụ thể. Điều này làm cho bài viết trông thiếu phong phú và không thuyết phục hơn. Bạn nên cố gắng sử dụng các ví dụ cụ thể và thông tin chi tiết hơn để minh họa cho các luận điểm của mình.
 
-4. Một số từ liên kết như "whereas" và "furthermore" đã được sử dụng một cách hợp lý để kết nối các ý trong bài viết. Tuy nhiên, bạn có thể thêm một số từ liên kết đi kèm để giúp tăng tính liên kết và sắp xếp trong bài:
-
-- In addition: Ngoài ra
-- Moreover: Hơn nữa
-- On top of that: Ngoài ra
-- Additionally: Bên cạnh đó
-
-Tổng quan, mặc dù bài viết của bạn đã có một cấu trúc chung tốt và liên kết khá mạch lạc, có thể cải thiện bằng cách sử dụng các từ liên kết phù hợp và mở rộng phát triển ý tưởng.
+Đó là một số lỗi về coherence and cohesion trong bài viết của bạn. Để cải thiện điều này, hãy chắc chắn rằng bài viết của bạn có cấu trúc hợp lí, sử dụng các từ nối và cụm từ để liên kết các ý tưởng và câu, và cung cấp các ví dụ cụ thể và thông tin chi tiết để tăng tính thuyết phục.
 
 
 Lexical Resource:
