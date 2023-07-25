@@ -49,8 +49,6 @@ Tuy nhiên, có một số điểm mà bạn có thể cải thiện về Cohere
 
 3. Sử dụng từ ngữ liên kết: Mặc dù bạn đã sử dụng một số từ ngữ liên kết, nhưng có thể còn thiếu một số từ ngữ hữu ích để mang lại sự liên kết mạch lạc giữa các ý. Hãy xem xét sử dụng các từ ngữ như "moreover", "furthermore", "on the other hand", "consequently", và "in conclusion" để tạo sự liên kết mạch lạc giữa các phần của bài viết.
 
-Một cách cải thiện trong Coherence and Cohesion là sắp xếp các ý chính một cách logic và cân nhắc sử dụng các từ ngữ và cụm từ liên kết phù hợp để tạo ra sự mạch lạc và nhất quán trong bài viết của bạn.
-
 
 Lexical Resource:
 
