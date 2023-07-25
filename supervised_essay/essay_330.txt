@@ -4,14 +4,22 @@ Topic:
 
 Essay:
 
-"Recently, in some countries, an increasing number of offenders is posing a threat to the society. Hence, more and more security cameras, surveilance equipments are prevail application in large urban areas to protect innocent people. This arrangement, despite seemingly disadvantageous in certain aspects, actually possesses merits that, in my opinion, would overshadow the drawbacks.
-
-    Regarding the drawbacks of using security cameras to deter crime, some people belive that the police has invaded their own privacy, and freedom. These days, the extensive of using special surveilance equipments is hardly escapable, to the point that the people may find themselves surrounded by those every walking moment. It does not matter where they are, they still being watched for 24 hours. Whether they are on the street, in the supermarket, or on a way home, images of their faces and their movement will be recorded and sent to the security organisations, ready to be analysed if necessary. Many people belive their right, their privacy are not be respected, and this action would be a violation of privacy. 
-
- 
-
-In spite of the above arguments, I�m inclined to think the pros outweigh the cons. First and foremost, the most overwhelming advantage is that police can easily track the criminals once an individual commit an offence. Those devices can deter young offenders or potential criminals from breaking the laws, because they know that themselves being under the surveilance of cutting-edge devices. Furthermore, it would greatly contribute to reducing terrorist attacks, thanks to the data and images from these cameras, which are used to detect unusual activities of any individual in public places. The installation of more video cameras in urban areas is cost effective, and unobtrusive, while the goverment do not have to allocate too much money on the police forces. More importantly, this application will protect the society from any threat and provide a sense of safety and security to the people.
-
+"Recently, in some countries, an increasing number of offenders is posing a threat to the society. Hence, more and more security cameras, surveilance equipments are prevail application in large urban areas to protect innocent people. This arrangement, despite seemingly disadvantageous in certain aspects, actually possesses merits that, in my opinion, would overshadow the drawbacks.
+
+
+
+    Regarding the drawbacks of using security cameras to deter crime, some people belive that the police has invaded their own privacy, and freedom. These days, the extensive of using special surveilance equipments is hardly escapable, to the point that the people may find themselves surrounded by those every walking moment. It does not matter where they are, they still being watched for 24 hours. Whether they are on the street, in the supermarket, or on a way home, images of their faces and their movement will be recorded and sent to the security organisations, ready to be analysed if necessary. Many people belive their right, their privacy are not be respected, and this action would be a violation of privacy. 
+
+
+
+ 
+
+
+
+In spite of the above arguments, I�m inclined to think the pros outweigh the cons. First and foremost, the most overwhelming advantage is that police can easily track the criminals once an individual commit an offence. Those devices can deter young offenders or potential criminals from breaking the laws, because they know that themselves being under the surveilance of cutting-edge devices. Furthermore, it would greatly contribute to reducing terrorist attacks, thanks to the data and images from these cameras, which are used to detect unusual activities of any individual in public places. The installation of more video cameras in urban areas is cost effective, and unobtrusive, while the goverment do not have to allocate too much money on the police forces. More importantly, this application will protect the society from any threat and provide a sense of safety and security to the people.
+
+
+
   In a nutshell, the use of surveilance cameras as crime detterance is being increased in many big cities around the world. I hold the view that this application bring more merits than drawbacks, albeit objection of some people."
 
 
@@ -34,7 +42,7 @@ Trong bài viết của bạn, tổng thể là có phản hồi đúng yêu c�
 
 Tuy nhiên, cần cải thiện các khía cạnh sau:
 
-1. Bạn cần phát triển ý kiến của mình về việc vi phạm quyền riêng tư và tự do của con người. Trong bài viết của bạn, bạn chỉ đề cập đến những lo ngại này một cách sơ superficial và chưa đi sâu vào phê phán vấn đề này. Hãy thêm một đoạn văn để đưa ra quan điểm của bạn về vấn đề này hoặc đề cập đến các quan điểm khác.
+1. Bạn cần phát triển ý kiến của mình về việc vi phạm quyền riêng tư và tự do của con người. Trong bài viết của bạn, bạn chỉ đề cập đến những lo ngại này một cách sơ sài và chưa đi sâu vào phê phán vấn đề này. Hãy thêm một đoạn văn để đưa ra quan điểm của bạn về vấn đề này hoặc đề cập đến các quan điểm khác.
 
 2. Cần cải thiện sự mạch lạc trong sắp xếp ý. Bạn có thể tổ chức lại các ý kiến của mình để đảm bảo mọi ý kiến được trình bày một cách rõ ràng và logic hơn. Ví dụ, trong đoạn thứ 3, bạn có thể đưa ra ý kiến của mình đầu tiên về việc giảm tội phạm và bảo vệ xã hội, sau đó đề cập đến việc tiết kiệm chi phí và quá trình phân tích dữ liệu trước.
 
@@ -42,12 +50,9 @@ Tuy nhiên, cần cải thiện các khía cạnh sau:
 
 4. Cần cải thiện sử dụng ngữ pháp và cấu trúc câu chính xác. Trong bài viết của bạn, có một số lỗi ngữ pháp và cấu trúc câu đơn giản, như sai ngữ pháp của động từ hay chủ ngữ trong câu. Hãy đảm bảo rằng bạn kiểm tra kỹ ngữ pháp và sử dụng đúng cấu trúc câu để tránh các lỗi như vậy.
 
-Hy vọng rằng những phản hồi này sẽ giúp bạn cải thiện bài viết của mình và đạt được kết quả tốt hơn trong việc viết IELTS Task 2.
-
-
 Coherence and Cohesion:
 
-Xin lỗi vì đã không cung cấp đánh giá chi tiết về Coherence and Cohesion trong lần trước. Dưới đây là sự phân tích cụ thể hơn:
+Dưới đây là sự phân tích cụ thể hơn:
 
 - Bài viết của bạn có một số đoạn văn và câu không được sắp xếp mạch lạc và hợp lí.
 - Đầu tiên, trong đoạn mở đầu, bạn nên đưa ra một mở bài cụ thể hơn để giới thiệu chủ đề và tạo sự kết nối với đề bài.
@@ -66,7 +71,7 @@ Hy vọng rằng ví dụ trên sẽ giúp bạn hiểu rõ hơn về việc c�
 
 Lexical Resource:
 
-Trong bài viết của bạn, sử dụng từ vựng và cụm từ gần như là đúng. Dưới đây là một số lỗi sai nhỏ mà bạn cần chú ý:
+Dưới đây là một số lỗi sai nhỏ mà bạn cần chú ý:
 
 1. "more and more offenders": Thay vì sử dụng "offenders", bạn nên sử dụng "criminals" hoặc "lawbreakers" để diễn đạt ý của mình một cách chính xác hơn.
 
@@ -90,8 +95,6 @@ Tuy vậy, tổng thể, bài viết của bạn vẫn sử dụng từ vựng v
 
 
 Grammatical Range and Accuracy:
-
-Tôi xin lỗi đã gây nhầm lẫn. Sau khi kiểm tra lại, tôi phát hiện rằng bài viết của bạn không mắc lỗi ngữ pháp đáng kể. Một số câu có thể được duyệt lỗi nhưng không ảnh hưởng nặng nề đến ý nghĩa của câu.
 
 Sau đây là một số gợi ý để cải thiện ngữ pháp của bạn:
 
