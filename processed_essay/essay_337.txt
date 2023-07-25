@@ -1,0 +1,67 @@
+Topic:
+
+"The bar graph shows the global sales (in billions of dollars) of different types of digital games between 2000 and 2006"
+
+Essay:
+
+"Three out of four platforms of video games rose each year, leading to a significant rise in total global revenue over the 7-year. Sales figures for handheld games were at least twice as high as those for any other platform in almost every year.
+
+In 2000, the handheld games� sales reached just almost 11 billion, while console games were about 6 million. Meanwhile, the other three games did not have figures in that year, especially mobile phone ones. Until 2004, online and cell phone games became more popular, with sales reaching around $3 billion.
+
+Over the following 7-year, there was a fluctuation among most digital games, except handheld games, which kept steadily increasing until it reached nearly 18 billion dollars in 2006. However, console games decline to be the lowest income, at about 2 billion dollars. At the same time, cell phones and online games were showed a significant increase to more than 5 billion dollars in 2006."
+
+
+Revised:
+
+Title: Global Sales of Different Types of Digital Games (2000-2006)
+
+Introduction:
+The given bar graph illustrates the global sales (in billions of dollars) of various digital games from 2000 to 2006. The data reveals distinct patterns and trends in the revenue generated from different gaming platforms during this period.
+
+Body Paragraph 1:
+In the year 2000, the sales figures for handheld games stood at approximately 11 billion dollars, which was notably higher compared to console games, with sales hovering around 6 million dollars. It is worth mentioning that there were no available figures for online and mobile phone games in that particular year. However, a significant shift occurred by the year 2004, with online and mobile phone games gaining popularity and generating sales of approximately 3 billion dollars.
+
+Body Paragraph 2:
+Over the subsequent seven-year period, a noticeable fluctuation can be observed in the sales of most digital games, except for handheld games which consistently increased. By 2006, the revenue from handheld games had surged to nearly 18 billion dollars, surpassing all other gaming platforms. In contrast, console games experienced a decline, earning the lowest income at about 2 billion dollars. Conversely, mobile phones and online games witnessed a remarkable increase, generating over 5 billion dollars in revenue by the end of 2006.
+
+Conclusion:
+To conclude, the bar graph indicates that sales of handheld games were consistently high throughout the entire period, with revenue gradually increasing. However, console games experienced a decline in sales and income over the years. On the other hand, mobile phone and online games gained popularity and witnessed a substantial rise in revenue, ultimately surpassing console games in terms of sales.
+
+
+Feedback:
+
+Task Response:
+
+Đánh giá Task Response của bài viết của bạn:
+
+Bài viết của bạn rõ ràng trả lời đúng câu hỏi đề bài. Bạn đã xem xét và phân tích các nền tảng game và doanh thu toàn cầu từ năm 2000 đến 2006. Bạn cũng đã nhấn mạnh rằng doanh thu từ game cầm tay hầu như luôn cao hơn gấp đôi so với bất kỳ nền tảng nào khác. Bên cạnh đó, bạn cũng đã chỉ ra rằng game trực tuyến và game điện thoại di động đã trở nên phổ biến và tăng trưởng đáng kể trong 7 năm qua.
+
+Tuy nhiên, để cải thiện khía cạnh Task Response trong bài viết của bạn, bạn có thể thêm một số chi tiết và ý tưởng mở rộng:
+
+- Bạn có thể cung cấp thông tin thêm về sự thay đổi trong doanh thu game console qua các năm. Điều này sẽ giúp bạn trình bày một cái nhìn toàn diện hơn về xu hướng phát triển của từng nền tảng game. 
+
+- Bạn cũng có thể xem xét những yếu tố đã đóng vai trò quan trọng trong sự phát triển của các nền tảng game. Ví dụ, sự phát triển của công nghệ di động và truyền thông trực tuyến đã góp phần đáng kể vào sự tăng trưởng của game điện thoại di động và game trực tuyến.
+
+- Bạn có thể đưa ra các dự đoán về xu hướng tương lai của các nền tảng game dựa trên xu hướng phát triển hiện tại. Ví dụ, liệu game cầm tay có tiếp tục gia tăng doanh thu hay không? Và liệu game trực tuyến có trở thành nền tảng chủ đạo trong tương lai hay không?
+
+Bằng cách thêm những ý tưởng này và mở rộng các ý kiến ​​của bạn về các nền tảng game, bạn sẽ tăng khả năng đạt điểm cao hơn trong Task Response.
+
+
+Coherence and Cohesion:
+
+Trong bài viết của bạn, có một số lỗi sai về Coherence and Cohesion. Dưới đây là danh sách các lỗi cụ thể và giải thích:
+
+1. "Three out of four platforms of video games rose each year, leading to a significant rise in total global revenue over the 7-year." 
+Trong câu này, bạn sử dụng "rose" để chỉ sự gia tăng của các nền tảng game trong quá khứ. Tuy nhiên, ý bạn muốn diễn đạt là các nền tảng game tăng lên từng năm trong quá khứ và dẫn đến sự tăng trưởng đáng kể của tổng doanh thu toàn cầu trong 7 năm. Vì vậy, bạn nên sử dụng thì quá khứ đơn hoặc quá khứ hoàn thành để diễn đạt ý này một cách chính xác hơn.
+
+2. "Meanwhile, the other three games did not have figures in that year, especially mobile phone ones."
+Trong câu này, việc sử dụng "the other three games" không rõ ràng. Bạn nên rõ ràng chỉ ra rằng điện thoại di động, trò chơi trực tuyến và trò chơi trên máy tính xách tay là những trò chơi khác được đề cập. Một cách sửa khác có thể là "In contrast, the sales figures for the other three game platforms, namely mobile phone games, online games, and handheld games, were not available in that year."
+
+3. "Over the following 7-year, there was a fluctuation among most digital games, except handheld games, which kept steadily increasing until it reached nearly 18 billion dollars in 2006."
+Trong câu này, không rõ ràng rằng "which" trong đó thay thế cho "handheld games". Bạn nên rõ ràng chỉ ra ngữ cảnh với cách sử dụng từ kép hoặc cấu trúc câu rõ ràng hơn. Một cách sửa khác có thể là "Over the following 7 years, most digital games experienced fluctuations in sales figures, with the exception of handheld games. Handheld games continued to steadily increase, reaching nearly 18 billion dollars in 2006."
+
+Tổng kết, mặc dù bài viết của bạn đã có sự liên kết và mạch lạc chung, nhưng có một số lỗi nhỏ về Coherence and Cohesion như đã nêu trên. Bạn cần cải thiện các cấu trúc câu và từ ngữ để làm cho việc kết nối các ý trở nên rõ ràng hơn.
+
+
+Lexical Resource:
+
