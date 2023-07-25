@@ -1,0 +1,135 @@
+Topic:
+
+"the bar chart shows the average income of households in USA in three years"
+
+Essay:
+
+"The bar chart details the number of American families categorized by average annual income in three years. Overall, it can be seen that there were rising trends for all income brackets, with the exception of those with earnings in the middle, which was stable. It is also clear that the greatest rise and the most proportion by the end belonged to those earning the most. 
+
+In 2007, families with an average income of less than 50000 dollars were around 25 million. These numbers increased over the next four years, about 30 million, before showing a small fall in 2015, to approximately 28 million. Those earning more than 100 million also represent a similar pattern to the low-income income families, at under 30 in 2007 and after a brief fall in 2011 reaching  under 35 million. 
+
+In contrast to this, middle-class families’ income remained almost at the steady level over the whole time frame at 20 and 15 million."
+
+
+Revised:
+
+The bar chart provides information on the average income of households in the USA over a three-year period. It highlights the number of American families divided into various income brackets. Overall, it is evident that there was a general upward trend in income across all categories, except for families in the middle-income bracket, which remained relatively stable. Furthermore, the highest increase in income and larger proportion of households belonged to the highest income bracket by the end of the period.
+
+In 2007, the number of families earning less than $50,000 per year was approximately 25 million. This figure gradually increased over the next four years, reaching approximately 30 million before experiencing a slight decline to around 28 million in 2015. Similarly, the number of families earning more than $100 million followed a similar pattern, starting below 30 million in 2007, witnessing a minor drop in 2011, and finally settling at just under 35 million.
+
+Conversely, families in the middle-income range saw their earnings remain relatively unchanged throughout the entire period, with around 20 and 15 million households respectively.
+
+In conclusion, the bar chart presents data on the average income of households in the USA across three years. While income levels increased for all categories, the most significant growth and highest proportion of households were observed in the highest income bracket. On the other hand, families in the middle-income bracket maintained a stable income throughout the period.
+
+
+Feedback:
+
+Task Response:
+
+Trong bài viết của bạn, bạn đã trả lời đúng câu hỏi đề bài về biểu đồ cột về thu nhập trung bình của các hộ gia đình tại Hoa Kỳ trong ba năm. Bạn đã chỉ ra rõ ràng rằng có xu hướng tăng thu nhập ở tất cả các mức thu nhập, trừ mức thu nhập trung bình, mức đó đã ổn định. Bạn cũng nhìn thấy rằng sự tăng lớn nhất và tỷ lệ lớn nhất vào cuối thuộc về nhóm thu nhập cao nhất.
+
+Tuy nhiên, có một số điểm cần được cải thiện để nâng cao Task Response trong bài viết của bạn:
+
+1. Thông tin về sự tăng lớn nhất và tỷ lệ lớn nhất thuộc về nhóm thu nhập cao nhất có thể được mở rộng và giải thích rõ hơn. Hãy đưa ra các con số cụ thể và đặt câu hỏi về nguyên nhân tăng trưởng lớn này.
+
+2. Bạn có thể cung cấp thêm thông tin về xu hướng của mức thu nhập thấp hơn và mức thu nhập trung bình trong ba năm. Hãy xem xét việc sử dụng từ vựng và cụm từ phù hợp để miêu tả các xu hướng này.
+
+3. Trong câu mở đầu của bài viết, bạn có thể dùng từ "compared" thay vì "except" để ám chỉ rằng mức thu nhập trung bình ổn định so với các mức thu nhập khác.
+
+4. Bạn có thể thêm các mệnh đề phụ hoặc ví dụ cụ thể để giải thích các ý chính của mình và phát triển ý tưởng một cách đầy đủ hơn.
+
+Tóm lại, bài viết của bạn đã trả lời đúng câu hỏi đề bài và có ý tưởng mở rộng đầy đủ. Tuy nhiên, bạn có thể cải thiện Task Response bằng cách mở rộng thông tin và giải thích rõ hơn các xu hướng thu nhập và sử dụng từ vựng và cụm từ phù hợp.
+
+
+Coherence and Cohesion:
+
+Xin lỗi vì sự không rõ ràng trong thông tin trước đó. Dưới đây là đánh giá chi tiết và có lỗi của Coherence and Cohesion trong bài viết của bạn:
+
+- Trong bài viết của bạn, thông tin về biểu đồ được sắp xếp theo thứ tự thời gian, từ năm 2007, qua 2011 và cuối cùng là 2015. Điều này tạo ra một sự liên kết rõ ràng và dễ theo dõi trong bài viết của bạn.
+
+- Tuy nhiên, điểm yếu chủ yếu của bài viết của bạn liên quan đến tổ chức và sắp xếp thông tin. Bạn đã viết chỉ một đoạn duy nhất và gộp tất cả các thông tin vào đó. Điều này làm mất đi sự rõ ràng và dễ theo dõi của bài viết.
+
+Để cải thiện phần Coherence and Cohesion, bạn có thể cân nhắc sắp xếp bài viết của bạn thành các đoạn riêng biệt. Dưới đây là một gợi ý về cách bạn có thể sắp xếp lại nội dung của mình:
+
+1. Đoạn mở đầu:
+- Trình bày vấn đề chung của biểu đồ (thông tin về thu nhập trung bình của các hộ gia đình ở Mỹ trong ba năm).
+- Đưa ra tóm tắt tổng quan về các xu hướng chính trong biểu đồ (tăng dần cho tất cả các mức thu nhập, ngoại trừ nhóm thu nhập ở mức trung bình).
+
+2. Đoạn thân:
+- Đoạn 1: Miêu tả số lượng hộ gia đình có thu nhập dưới 50.000 đô la vào các năm 2007, 2011 và 2015. Chung minh rằng số lượng này tăng dần từ năm 2007 đến 2011 và sau đó giảm nhẹ đến năm 2015.
+- Đoạn 2: Miêu tả số lượng hộ gia đình có thu nhập trên 100 triệu đô la vào các năm 2007, 2011 và 2015. Chung minh rằng số lượng này cũng tăng nhẹ từ năm 2007 đến 2011 trước khi tăng mạnh đến năm 2015.
+- Đoạn 3: Miêu tả số lượng hộ gia đình có thu nhập ở mức trung bình vào các năm 2007, 2011 và 2015. Chung minh rằng số lượng này duy trì ổn định trong tất cả các năm.
+
+3. Đoạn kết:
+- Tóm tắt lại các điểm chính của bài viết và tái phát lại sự tăng dần của các mức thu nhập, với mức thu nhập cao nhất tăng mạnh nhất.
+
+Bằng cách cải thiện tổ chức và sắp xếp thông tin trong bài viết của bạn, bạn sẽ tạo ra một sự liên kết mạch lạc và hợp lí hơn, giúp người đọc dễ theo dõi và hiểu rõ hơn về nội dung mà bạn trình bày.
+
+
+Lexical Resource:
+
+Tôi xin lỗi vì đã không cung cấp đánh giá chi tiết về Lexical Resource trong bài viết của bạn. Dưới đây là một đánh giá cụ thể về việc sử dụng từ vựng trong bài viết của bạn:
+
+- "earnings" (thu nhập): Từ "earnings" được sử dụng đúng trong bài viết của bạn để chỉ thu nhập của các hộ gia đình. Đây là một từ chính xác và phù hợp trong ngữ cảnh của biểu đồ.
+
+- "average annual income" (lợi tức hàng năm trung bình): Cụm từ này cũng rất phù hợp và gợi ý đúng ý nghĩa của biểu đồ.
+
+- "income brackets" (mức thu nhập): Cụm từ này cũng phù hợp để chỉ các mức thu nhập khác nhau của các hộ gia đình.
+
+- "rising trends" (xu hướng tăng): Cụm từ này mô tả đúng xu hướng tăng của các mức thu nhập và phù hợp trong ngữ cảnh của câu.
+
+- "middle-class families" (các hộ gia đình thuộc tầng lớp trung lưu): Thuật ngữ "middle-class families" phù hợp để mô tả các hộ gia đình thuộc tầng lớp trung lưu.
+
+Dựa trên đánh giá của tôi, từ vựng được sử dụng trong bài viết của bạn rất tốt và phù hợp với ngữ cảnh của biểu đồ. Tôi không thấy bất kỳ lỗi sai nghiêm trọng nào về từ vựng trong bài viết của bạn. 
+
+Tuy nhiên, để nâng cao điểm số của bạn trong phần Lexical Resource, bạn có thể thử sử dụng một số từ vựng đồ sộ hơn và biểu đạt ý nghĩa một cách sáng tạo và linh hoạt hơn.
+
+
+Grammatical Range and Accuracy:
+
+Trong bài viết của bạn, có một số lỗi về ngữ pháp nhỏ. Dưới đây là danh sách và giải thích cho các lỗi này:
+
+1. "The bar chart details the number of American families categorized by average annual income in three years."
+- Thay vì "categorized by", hãy sử dụng từ "categorized according to" để truyền đạt ý nghĩa chính xác hơn.
+
+2. "Overall, it can be seen that there were rising trends for all income brackets..."
+- Với các từ chỉ thời gian (time expressions) đã được xác định như "in three years", hãy sử dụng thì quá khứ đơn thay vì cấu trúc bị động (passive voice). Sửa thành "Overall, it can be seen that there was a rising trend for all income brackets..."
+
+3. "which was stable"
+- Sử dụng một từ như "remained" thay vì "was" đẻ truyền đạt ý nghĩa rõ ràng hơn. Sửa thành "which remained stable".
+
+4. "These numbers increased over the next four years, about 30 million, before showing a small fall in 2015, to approximately 28 million."
+- Câu này có một lỗi cú pháp. Để cấu trúc câu rõ ràng hơn, bạn có thể sửa thành "These numbers increased to about 30 million over the next four years before showing a small fall in 2015, reaching approximately 28 million."
+
+5. "after a brief fall in 2011 reaching under 35 million"
+- Bạn có thể sửa thành "after a brief fall in 2011, reaching under 35 million."
+
+6. "middle-class families’ income remained almost at the steady level"
+- Sửa thành "middle-class families' incomes remained almost at the steady level" để phù hợp với số nhiều.
+
+7. "over the whole time frame at 20"
+- Thiếu từ "million" sau "20". Sửa thành "over the whole time frame at 20 million".
+
+Chúng tôi hi vọng rằng các giải thích trên sẽ giúp bạn hiểu và sửa các lỗi ngữ pháp trong bài viết của bạn.
+
+
+Score:
+
+Overall:
+
+Score_TR:
+Score_CC:
+Score_LR:
+Score_GA:
+
+Task Response (Nhiệm vụ) - I would estimate the score for this criterion to be around a 6 or 7. Your response effectively addresses the task as you provide a clear and concise description of the bar chart, highlighting the trends observed in the household incomes in the USA over a period of three years.
+
+Coherence and Cohesion (Sự liên kết và sắp xếp thông tin) - I would estimate the score for this criterion to be around a 6 or 7. Your essay is well-organized and the ideas flow logically from one paragraph to another. However, you could further improve the cohesion by using more paragraph breaks to separate the different points and provide a clearer structure.
+
+Lexical Resource (Từ vựng) - I would estimate the score for this criterion to be around a 7 or 8. Your vocabulary is varied and appropriate for the task, and you effectively use specific terms related to income, such as "low-income families" and "middle-class families." However, you can further enhance your lexical resource by avoiding word repetition and exploring more synonyms and phrases related to income and trends.
+
+Grammatical Range and Accuracy (Phạm vi ngữ pháp và độ chính xác) - I would estimate the score for this criterion to be around a 7 or 8. Your grammatical range is impressive, as you use complex sentence structures and demonstrate a good command of grammar. However, there are a few minor errors that could be improved, especially in terms of subject-verb agreement and tenses.
+
+Overall, I would estimate the overall score for this essay to be around a 6.5 or 7. With some minor improvements in coherence and cohesion, as well as more attention to vocabulary variety and grammatical accuracy, you can aim for a higher score.
+
+

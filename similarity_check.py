@@ -13,3 +13,7 @@ def similarity_check(documents: list):
     # Calculate the similarity scores
     similarity_score = round(cosine_similarities[0, 1], 3)
     return (f"Similarity score: {similarity_score}")
+
+
+# if __name__=='__main__':
+#     print(similarity_check(document))

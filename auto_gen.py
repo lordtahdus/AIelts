@@ -38,7 +38,6 @@ with open('essays.jsonl', 'r') as file:
             with open(f"processed_essay/essay_{START_ID}.txt", "w") as f:
                     f.write(f"""Topic:\n\n"{essay_title}"\n\nEssay:\n\n"{essay_content}"\n\n\n""")
             
-            generated_content = ''
 
             syntaxes = [
                 f'This is IELTS writing task 2.\n\nTopic:\n"{essay_title}"\n\nEssay:\n"{essay_content}"\nPlease edit the essay according to IELTS structure',
@@ -75,6 +74,12 @@ Nếu có, liệt kê tất cả lỗi sai và giải thích.
             messages = []
             system_msg = "Ielts writing editor"
             messages.append({"role": "system", "content": system_msg})
+
+            response = openai.ChatCompletion.create(
+                        model="gpt-3.5-turbo",
+                        messages=messages,
+                        max_tokens=1000
+                    )
             
             with open(f"processed_essay/essay_{START_ID}.txt", "a", encoding="utf-8") as f:
                 for i in range(0,7):

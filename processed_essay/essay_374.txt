@@ -1,0 +1,115 @@
+Topic:
+
+"The chart below gives information about species used for animal testing in the U.S.
+
+Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+
+Essay:
+
+"The given pie chart depicts information about the species which are used for animal testing in the US.
+
+Overall, the maximum proportion of rabbits are used for animal testing , whilst the minimum percentile of primates are used for animal testing.
+
+After analysing, it can be seen clearly that the percentage of dogs was approximately a tenth, whereas the proportion of hamsters was just above a quarter which is used for animal testing. The negligible difference was seen in the per centum of primates and pigs who were used for animal testing, it was 9% for the former and 9.3% for the latter.
+
+The pie chart further collates that a difference of nearly a third was observed in the proportion of rabbits and sheep, the respective figures were 38.7% and 5.1%."
+
+
+Revised:
+
+The given pie chart illustrates the species that are used for animal testing in the US. 
+
+In general, rabbits are the most commonly used species for animal testing, while primates are the least utilized. 
+
+Upon closer analysis, it can be observed that dogs make up approximately one-tenth of the animals used for testing, while hamsters account for just over a quarter. There is a negligible difference in the percentage of primates (9%) and pigs (9.3%) used for animal testing.
+
+Furthermore, there is a significant disparity in the proportion of rabbits and sheep, with rabbits constituting 38.7% and sheep only making up 5.1% of animals used for testing.
+
+
+Feedback:
+
+Task Response:
+
+Trong bài viết của bạn, cả hai yếu tố chính của Task Response – tóm tắt các đặc điểm chính và so sánh - đều được thể hiện đầy đủ. Bạn đã tóm tắt các thông tin chính về tỷ lệ sử dụng thí nghiệm động vật của các loài và cung cấp một so sánh giữa chúng. 
+
+Tuy nhiên, cần có một sự mở rộng đáng kể về ý tưởng để cung cấp thêm thông tin và phân tích hơn về dữ liệu. Bạn chỉ tóm tắt các con số và không phân tích ý nghĩa của chúng. Ví dụ, bạn có thể giải thích lý do tại sao thỏ được sử dụng nhiều nhất trong các thí nghiệm động vật hay tại sao linh trưởng được sử dụng ít nhất.
+
+Để nâng cao sự phát triển ý tưởng, có thể bạn hãy thảo luận về những ảnh hưởng tích cực và tiêu cực của việc sử dụng loại động vật cụ thể trong các thí nghiệm. Bạn có thể thảo luận về những phản đối của công chúng đối với việc sử dụng loài linh trưởng hoặc những lợi ích của việc sử dụng thỏ trong các thí nghiệm y tế.
+
+Với sự phát triển ý tưởng và phân tích tốt hơn, bài viết sẽ trở nên nguyên văn và có thêm giá trị trong việc trả lời đúng yêu cầu của đề bài.
+
+
+Coherence and Cohesion:
+
+Trong bài viết của bạn, có một số lỗi liên quan đến sự liên kết và mạch lạc trong cách trình bày ý kiến ​​và thông tin. Dưới đây là các lỗi cụ thể và giải thích:
+
+1. Sentence Structure: There are several instances where sentence structures could be improved for clarity and coherence. For example, in the sentence "After analysing, it can be seen clearly that the percentage of dogs was approximately a tenth", the phrase "After analyzing" does not connect well with the main part of the sentence. It would be more coherent to rephrase it as "Upon analysis, it is evident that the percentage of dogs accounted for approximately one-tenth."
+
+2. Progression of Ideas: The essay lacks a clear progression of ideas. While you have provided a summary of the main features of the chart, there is no clear organization of information or logical flow between paragraphs. It would be beneficial to structure your essay in a way that presents the data systematically and builds upon each point.
+
+3. Lack of Analysis: The essay does not go beyond summarizing the main features of the chart. It would be better to provide more analysis and discussion of the data, such as explaining the significance of the findings or exploring possible reasons for the differences between species.
+
+4. Linking Words and Phrases: While your essay includes some linking words and phrases, such as "after analyzing" and "the pie chart further collates", the use of these connecting devices is limited. To improve coherence, consider incorporating more varied and appropriate linking words and phrases throughout the essay to guide the reader through your ideas and arguments.
+
+Overall, while your essay has some elements of coherence and cohesion, there are areas that can be improved. It would be beneficial to work on organizing your ideas more effectively and using a wider range of sentence structures and linking words to enhance the overall coherence and clarity of your essay.
+
+
+Lexical Resource:
+
+Trong bài viết của bạn, không có nhiều lỗi sai về từ vựng. Tuy nhiên, có một vài cụm từ không phản ánh đúng ngữ cảnh hoặc từ có thể sử dụng không chính xác. Dưới đây là danh sách các lỗi sai và giải thích:
+
+1. "The maximum proportion of rabbits are used for animal testing."
+   Chữ "are" sau "rabbits" cần được thay đổi thành "is", vì "proportion" đính kèm với "of rabbits" được coi là một đại từ đơn. Do đó, câu sửa lại sẽ là: "The maximum proportion of rabbits is used for animal testing."
+
+2. "The negligible difference was seen in the per centum of primates and pigs."
+   Từ "per centum" không cần thiết vì nó giống nghĩa với "percentage" mà bạn đã sử dụng trước đó. Bạn có thể thay thế "per centum" bằng "percentage". Câu sửa lại sẽ là: "A negligible difference was seen in the percentages of primates and pigs."
+
+Ngoài ra, một số từ và cụm từ trong bài viết của bạn có thể được cải thiện để truyền đạt ý nghĩa một cách chính xác hơn. Dưới đây là một số gợi ý:
+
+1. "Proportion" được sử dụng để chỉ tỷ lệ, do đó, thay vì sử dụng "maximum proportion", bạn có thể dùng "highest proportion" hoặc "largest proportion" để diễn đạt ý nghĩa một cách chính xác hơn.
+
+2. "The pie chart further collates that...".
+   Từ "collates" không phù hợp ở đây vì nó có nghĩa là "tổng hợp" hoặc "so sánh". Bạn có thể thay thế từ này bằng "illustrates" hoặc "shows" để diễn đạt ý nghĩa của biểu đồ một cách chính xác hơn.
+
+3. "The respective figures were...".
+
+   Từ "respective" được sử dụng không chính xác ở đây. "Respective" ở đây có nghĩa là "tương ứng với", nhưng không phản ánh đúng ngữ cảnh trong câu của bạn. Bạn có thể sử dụng từ "specific" hoặc "individual" để thay thế. Ví dụ: "The specific figures were..." hoặc "The individual figures were...".
+
+Nhìn chung, bài viết của bạn sử dụng từ vựng phong phú và đáng tin cậy để diễn đạt ý nghĩa. Mặc dù có một số lỗi và cần cải thiện trong từng trường hợp cụ thể, tổng thể bài viết rất tốt và không gặp nhiều vấn đề về từ vựng.
+
+
+Grammatical Range and Accuracy:
+
+Trong bài viết của bạn, có một số lỗi sai về ngữ pháp như sau:
+
+1. "whilst" sử dụng không chính xác. Thay vào đó, bạn có thể sử dụng "while" hoặc "and".
+2. "it can be seen clearly" - Cần đặt từ "clearly" trước động từ "can" để sử dụng "can + trạng từ".
+3. "the percentage of dogs was approximately a tenth" - Văn cảnh yêu cầu sử dụng "ten percent" thay vì "a tenth".
+4. "which is used for animal testing" - Sử dụng "are" thay vì "is" vì "hamsters" là số nhiều.
+5. "The negligible difference was seen" - Cấu trúc câu này không chính xác. Cần sử dụng cấu trúc khác như "A negligible difference can be observed" hoặc "The difference between the two is negligible".
+6. "the respective figures were 38.7% and 5.1%" - "Respective" không cần thiết ở đây. Bạn có thể đơn giản hóa câu thành "The figures for rabbits and sheep were 38.7% and 5.1% respectively."
+7. "... a difference of nearly a third was observed" - Sử dụng "of nearly a third" không chính xác ở đây. Bạn có thể thay bằng "a difference of almost a third".
+
+Trên tổng thể, mặc dù bài viết của bạn có một số lỗi ngữ pháp và cấu trúc, tuy nhiên, cấu trúc câu chủ yếu vẫn đúng và ngữ pháp của bạn mức độ tốt. Việc lựa chọn từ ngữ và cấu trúc câu cũng tương đối phong phú và gợi lên cách biểu đạt ý kiến.
+
+
+Score:
+
+Overall:
+
+Score_TR:
+Score_CC:
+Score_LR:
+Score_GA:
+
+Task Response: Based on the provided essay, it appears that the writer has addressed the main features of the chart and made relevant comparisons. However, there could have been more analysis and discussion of the data. Therefore, I would estimate a score of around 6 for Task Response.
+
+Coherence and Cohesion: The essay is generally well-structured, with an introduction, body paragraph, and conclusion. There are some linking words and phrases used to connect ideas, but there could be more variety in sentence structures and a clearer progression of ideas. I would estimate a score of around 6 for Coherence and Cohesion.
+
+Lexical Resource: The writer has used a good range of vocabulary to describe the data. However, there are some instances of incorrect word choice and missed opportunities for more precise language. Therefore, I would estimate a score of around 6.5 for Lexical Resource.
+
+Grammatical Range and Accuracy: The essay demonstrates a reasonable level of grammatical control, with only minor errors throughout. However, there are some sentence structures that could be improved for clarity, and more complex sentence structures could be used. I would estimate a score of around 6.5 for Grammatical Range and Accuracy.
+
+Overall, based on the provided essay, I would estimate a score of around 6.5 for this writing task.
+
+

@@ -1,0 +1,119 @@
+Topic:
+
+"The chart shows the global sales (in billions of dollars) of different kinds of digital between 2000 and 2006games"
+
+Essay:
+
+"The bar chart compares the turnover in dollars from sells of video games for four different platforms, namely mobile phone, online, consoles, and handheld devices from 2000 to 2006.
+
+It is clear that three out of four of platforms video games rose each year, leading to significant rise in total global revenue over the-7-years period. Sales figures for handheld games were at least twice as high as those for any other platform in almost each year.
+
+In 2000, the handheld games’ sales reached to just almost 11 billion dollars, while console games were about 6 million. Meanwhile, the other three games did not have any figures in that year, especially mobile phone ones. Until 2004, online and cell phone games became more popular, with sales reaching around $3 billion. 
+
+Over the following 7 years, there were a fluctuation among the most of digital games except handheld games which kept steadily increase until reached nearly 18 billion dollars in 2006. However, console games decline to be the lowest income between the all of them, at about 2 billion dollars. At the same time, cell phone and online games showed a significant increase in their income to more over 5 billion dollars in 2006."
+
+
+Revised:
+
+The bar chart illustrates the global revenue in billions of dollars generated from the sale of video games on different platforms, including mobile phones, online platforms, consoles, and handheld devices during the period from 2000 to 2006.
+
+Overall, it is evident that three out of the four platforms experienced an upward trend in sales throughout this period, resulting in a substantial increase in the total global revenue. Additionally, the sales figures for handheld games consistently exceeded those of any other platform.
+
+In 2000, handheld games generated sales of almost $11 billion, whereas console games recorded approximately $6 billion in sales. The remaining platforms, namely mobile phone games and online games, had no recorded figures for that specific year. However, by 2004, both online games and mobile phone games gained popularity, with sales reaching around $3 billion.
+
+Throughout the following 7 years, sales figures for most digital games experienced fluctuations, with the exception of handheld games, which witnessed a steady increase and reached nearly $18 billion in revenue by 2006. On the other hand, console games experienced a decline and generated the lowest income at around $2 billion. Concurrently, both mobile phone games and online games demonstrated a significant surge in revenue, surpassing $5 billion in 2006.
+
+Overall, the chart clearly highlights the rising popularity and profitability of video games, particularly on handheld devices, and the increasing market share of mobile phone and online games during the given period.
+
+
+Feedback:
+
+Task Response:
+
+Trong bài viết của bạn, task response được thể hiện đúng câu hỏi đề bài. Bài viết cung cấp thông tin về doanh thu bán game video cho 4 nền tảng khác nhau từ năm 2000 đến 2006. 
+
+Tuy nhiên, ý tưởng của bạn có thể được mở rộng đầy đủ hơn. Trong bài viết, bạn chỉ đề cập đến việc doanh thu từ các nền tảng game tăng mỗi năm và tổng doanh thu toàn cầu tăng đáng kể trong vòng 7 năm. Điều này là chính xác, nhưng bạn có thể thảo luận thêm về xu hướng tăng trưởng của từng nền tảng và sự thay đổi trong thị phần của chúng. Bạn có thể chỉ ra rằng doanh thu từ game di động và game trực tuyến đã tăng mạnh trong giai đoạn này, trong khi doanh thu từ game console đã giảm đi và doanh thu từ game handheld đã duy trì ổn định và cao nhất. 
+
+Để cải thiện task response, bạn nên mở rộng ý tưởng của mình và cung cấp thêm thông tin và phân tích về xu hướng tăng trưởng và thị phần trong từng nền tảng game. Bài viết có thể đề cập đến sự cạnh tranh giữa các loại game, yếu tố nào đã góp phần vào sự tăng trưởng của từng nền tảng, và tại sao doanh thu từ game handheld cao nhất trong suốt thời gian này.
+
+
+Coherence and Cohesion:
+
+Tôi rất xin lỗi vì đã bỏ qua phần đánh giá chi tiết về Coherence and Cohesion. Dưới đây là một phân tích chi tiết hơn về vấn đề này:
+
+1. Mở đầu:
+- Mở bài bằng cách tóm tắt thông tin từ biểu đồ và chỉ ra rằng có sự tăng trưởng trong doanh thu từ các dạng trò chơi video.
+- Việc mở đầu bài viết tương đối mạch lạc và cho phép người đọc hiểu ngay được vấn đề chính của bài viết.
+
+2. Thân bài:
+- Bài viết sử dụng các từ nối một cách hợp lý để duy trì sự mạch lạc và liên kết giữa các ý. Các từ nối bao gồm "It is clear that", "Meanwhile", "Over the following 7 years", "At the same time".
+- Tuy nhiên, việc đặt câu câu không đồng nhất và cùng loại như "within the most", "over the following 7 years", "the lowest income between the all of them" gây lỗi cho câu viết.
+- Để cải thiện coherence and cohesion, hãy kiểm tra và chỉnh sửa lỗi đặt câu căn chỉnh và chú ý đến cách sắp xếp các cụm từ và cấu trúc câu một cách rõ ràng.
+
+3. Kết bài:
+- Kết bài bằng cách tóm tắt lại thông tin chính với việc các nền tảng trò chơi như console game, mobile phone game và online game đã tăng doanh thu trong giai đoạn 7 năm.
+- Việc tóm tắt lại thông tin chính trong kết bài giúp tạo liên kết giữa các ý và đánh dấu sự kết thúc của bài viết.
+
+Tổng hợp lại, trong nhìn chung, bài viết của bạn có sự liên kết mạch lạc và hợp lí giữa tất cả các luận điểm và lập luận. Tuy nhiên, cần chú ý đến cấu trúc câu và cách đặt câu để tránh lỗi đặt câu không đồng nhất và cùng loại.
+
+
+Lexical Resource:
+
+Trong bài viết của bạn, đã có sử dụng từ vựng phong phú và đa dạng để miêu tả thông tin từ biểu đồ. Tuy nhiên, có một số lỗi sai về từ vựng như sau:
+
+1. "figure" - Từ này được sử dụng một cách không chính xác trong câu "Meanwhile, the other three games did not have any figures in that year". Thông thường, "figure" được sử dụng để chỉ số, con số hoặc hình ảnh. Trong trường hợp này, bạn có thể sử dụng từ "sales" thay cho "figures" để mô tả doanh thu.
+
+2. "income" - Từ này được sử dụng không chính xác trong câu "console games decline to be the lowest income between the all of them". "Income" thường được sử dụng để chỉ thu nhập của cá nhân hoặc doanh nghiệp. Trong trường hợp này, bạn có thể sử dụng từ "revenue" để miêu tả doanh thu hoặc "sales" để miêu tả doanh số bán hàng.
+
+Ngoài ra, có một số cụm từ không được sử dụng một cách phù hợp trong ngữ cảnh:
+
+1. "within the most" - Cụm từ này không rõ nghĩa và có thể dẫn đến hiểu lầm cho người đọc. Bạn có thể sử dụng cụm từ "among the most" để miêu tả một trong những nền tảng game quan trọng nhất.
+
+2. "over the following 7 years" - Cụm từ này không được sử dụng chính xác để miêu tả khoảng thời gian từ 2000 đến 2006. Bạn có thể sử dụng cụm từ "during the 7-year period" để diễn đạt ý bạn muốn.
+
+Tổng hợp lại, trong bài viết của bạn có một số lỗi sai về từ vựng và cấu trúc ngữ pháp. Để cải thiện điểm số, bạn nên sử dụng từ ngữ chính xác và diễn đạt ý kiến một cách tỉ mỉ phù hợp với ngữ cảnh.
+
+
+Grammatical Range and Accuracy:
+
+Trong bài viết của bạn có một số lỗi ngữ pháp nhỏ. Dưới đây là danh sách các lỗi sai cụ thể và giải thích:
+
+1. "from sells" thay vì "from sales": Sai chính tả, cần sửa thành "from sales" (từ bán hàng).
+2. "the-7-years" thay vì "the 7-year period": Sai chính tả, cần xóa dấu "-" và sửa thành "the 7-year period" (giai đoạn 7 năm).
+3. "to more over 5 billion" thay vì "to over 5 billion": Sai cấu trúc, cần sửa thành "to over 5 billion" (hơn 5 tỷ). 
+
+Những lỗi này có thể ảnh hưởng đến chất lượng ngữ pháp của bài viết của bạn. Đề nghị bạn chú ý đến những lỗi này trong các bài viết sau để cải thiện điểm số của mình.
+
+
+Score:
+
+Overall:
+
+Score_TR:
+Score_CC:
+Score_LR:
+Score_GA:
+
+Based on the description provided, here is an estimated score for each criteria:
+
+Task Response: 6/9
+- The essay adequately addresses the task by summarizing the information from the chart and presenting an overview of the sales figures for different platforms over the given period.
+- However, the task response could be improved by providing more specific details and analyzing the data more comprehensively.
+
+Coherence and Cohesion: 7/9
+- The essay has a clear structure with an introduction, body paragraphs, and conclusion.
+- There is also good use of linking words and phrases to connect ideas and create cohesion in the writing.
+- However, there are some inconsistencies and repetitions in sentence structure and phrasing that affect the overall coherence.
+
+Lexical Resource: 7/9
+- The essay demonstrates a wide range of vocabulary and uses appropriate terminology to describe the data from the chart.
+- There are a few inaccuracies and repetitions, but overall, the writer shows good control over lexical resources.
+
+Grammatical Range and Accuracy: 6/9
+- The essay generally uses grammatically correct sentences, but there are some errors and typos throughout the writing.
+- There are also some instances of inconsistent sentence structure and phrasing that could be improved.
+- With more accurate grammar usage and sentence variety, the score for this criterion could be higher.
+
+Overall, the estimated score for the essay is around 6.5 to 7 out of 9. The essay effectively presents the information from the chart but could benefit from more detailed analysis and better control over grammar and sentence structure.
+
+
