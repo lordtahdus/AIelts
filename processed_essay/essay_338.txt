@@ -1,17 +1,25 @@
 Topic:
 
-"The graph below gives information from a 2008 report about energy consumption in the USA since 1980, with projections until 2030.
-
+"The graph below gives information from a 2008 report about energy consumption in the USA since 1980, with projections until 2030.
+
+
+
 Summarise the information by selecting and reporting the main features and making comparisons where relevant."
 
 Essay:
 
-"This summary is aimed to make a comparison of the different types of energy consumption by fuel in the U.S. The starting year is 1980 and predictions are going to be made up to  2030. There are 5 different options for the consumption of energy that is seen in the U.S. at the current state, such as Nuclear solar, wind hydropower, natural gas, petrol and oil, and coal.
-
-The data that can be obtained from the graph leads to the point that  finite resources are the most energy-requiring ones. It can be seen that petrol and oil starting  is consumption at the level of the 35 quadrillions of units and going to increase up to the 45 quadrillions of units. The same is going to happen with finite resources coal is going to increase by 15 quadrillions units from 15 to 30 and natural has from 20 to 25 quadrillions units.
-
-However, nuclear/ wing hydropower is going to decrease their consumption it's planned  by starting from 4 quadrillions united and fluctuating from 2 and up to 6 quadrillions units. 
-
+"This summary is aimed to make a comparison of the different types of energy consumption by fuel in the U.S. The starting year is 1980 and predictions are going to be made up to  2030. There are 5 different options for the consumption of energy that is seen in the U.S. at the current state, such as Nuclear solar, wind hydropower, natural gas, petrol and oil, and coal.
+
+
+
+The data that can be obtained from the graph leads to the point that  finite resources are the most energy-requiring ones. It can be seen that petrol and oil starting  is consumption at the level of the 35 quadrillions of units and going to increase up to the 45 quadrillions of units. The same is going to happen with finite resources coal is going to increase by 15 quadrillions units from 15 to 30 and natural has from 20 to 25 quadrillions units.
+
+
+
+However, nuclear/ wing hydropower is going to decrease their consumption it's planned  by starting from 4 quadrillions united and fluctuating from 2 and up to 6 quadrillions units. 
+
+
+
 In conclusion, nuclear/ wing hydropower seemed to be more effective as it consumes less energy and it is renewable so it is possible forever"
 
 
