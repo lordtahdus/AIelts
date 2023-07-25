@@ -41,7 +41,7 @@ Trong bài viết của bạn, bạn đã trả lời đúng câu hỏi chủ đ
 
 Coherence and Cohesion:
 
-Xin lỗi vì sự trình bày không rõ ràng trước đây. Dưới đây là đánh giá chi tiết hơn về Coherence and Cohesion trong bài viết của bạn:
+Dưới đây là đánh giá chi tiết hơn về Coherence and Cohesion trong bài viết của bạn:
 
 1. Mạch lạc của ý:
 - Một số ý chưa được phát triển đầy đủ và không có sự liên kết rõ ràng giữa chúng. Ví dụ, trong đoạn 1, bạn đã đề cập đến việc học ở nước ngoài có điểm mạnh và yếu, nhưng không nêu rõ rằng lợi ích có nhiều hơn nhược điểm hay không.
@@ -98,7 +98,7 @@ Trong bài viết của bạn, có một số lỗi sai về ngữ pháp. Dướ
 
 1. "In this modern era, the world become widened." - Lỗi chia động từ. "The world has become widened" hoặc "The world has been widened" đều đúng hơn.
 
-2. "So, Students have many opportunities to study" - Lỗi viết hoa sai. "students" và "opportunities" không nên được viết hoa.
+2. "So, Students have many opportunities to study" - Lỗi viết hoa sai. "students" không nên được viết hoa.
 
 3. "so this lid to them doing the extra jobs" - Lỗi từ sai. Theo ngữ cảnh, có thể bạn muốn viết "so this leads to them doing the extra jobs" hoặc "so this leads them to do the extra jobs" để diễn đạt ý của mình.
 
