@@ -30,7 +30,6 @@ Feedback:
 
 Task Response:
 
-Task Response (Phản hồi nhiệm vụ):
 Trong bài viết của bạn, bạn đã đưa ra quan điểm rằng tăng án tù dài hạn là cách tốt nhất để giảm tội phạm. Bạn cũng đề cập đến sự phản đối án tử hình. Tuy nhiên, bài viết của bạn cần được phát triển rõ ràng hơn để trả lời đầy đủ câu hỏi trong đề bài.
 
 Điều cần cải thiện:
@@ -45,7 +44,7 @@ Trong bài viết của bạn, bạn đã đưa ra quan điểm rằng tăng án
 
 Coherence and Cohesion:
 
-Xin lỗi vì phần phản hồi trước không đủ chi tiết về vấn đề này. Dưới đây là một đánh giá chi tiết hơn về Coherence and Cohesion trong bài viết của bạn:
+Dưới đây là một đánh giá chi tiết hơn về Coherence and Cohesion trong bài viết của bạn:
 
 1. Thiếu sự kết nối giữa các ý: Bài viết của bạn thiếu sự kết nối mạch lạc giữa các ý, làm cho câu chuyện không được triển khai một cách rõ ràng và dễ hiểu. Các trường hợp bị thiếu sự kết nối gồm:
 
@@ -63,8 +62,6 @@ Xin lỗi vì phần phản hồi trước không đủ chi tiết về vấn đ
 - Đảm bảo rằng các ý kiến và câu của bạn được kết nối mạch lạc và logic. Đặt câu một cách chặt chẽ để giữ cho bài viết của bạn có sự liên kết và mạch lạc.
 - Phát triển mỗi ý một cách đầy đủ và cung cấp các bằng chứng và lập luận để ủng hộ quan điểm của bạn một cách logic và thuyết phục.
 - Sử dụng các từ nối và cụm từ kết nối để tạo sự mạch lạc và sự liên kết giữa các ý và câu.
-
-Hy vọng những gợi ý trên sẽ giúp bạn cải thiện Coherence and Cohesion trong bài viết của mình.
 
 
 Lexical Resource:
@@ -88,7 +85,7 @@ Những lỗi và vấn đề nêu trên chỉ đại diện cho một số vấ
 
 Grammatical Range and Accuracy:
 
-Tôi sẵn lòng cung cấp phản hồi chi tiết hơn về Grammatical Range and Accuracy trong bài viết của bạn. Sau đây là một số lỗi ngữ pháp tôi đã nhận thấy:
+Sau đây là một số lỗi ngữ pháp tôi đã nhận thấy:
 
 1. "inasmuch as they are not utterly punished" - cấu trúc câu này không chính xác. Thay vào đó, bạn có thể sử dụng "because they are not adequately punished" hoặc "due to the fact that they are not fully punished".
 
@@ -99,8 +96,6 @@ Tôi sẵn lòng cung cấp phản hồi chi tiết hơn về Grammatical Range 
 4. "the history shows us some techniques of dealing with criminals;for instance,in Eastern Europe, people accused of crime would be sentenced to death by such means as burning alive,drowning,beating to death." - cấu trúc câu không chính xác, bạn có thể sửa thành "History shows us that in Eastern Europe, people accused of crimes used to be sentenced to death by means such as burning alive, drowning, and beating to death."
 
 5. "Not only does it provide a definite way to prevent crimes and keep the world a safe place,but it also leads to an economical growth for the country,since the offenders are fed from the state budget together with the medical care and other supplies provided." - cung cấp cấu trúc câu không chính xác, bạn có thể sửa lại thành "Not only does it provide a definite way to prevent crimes and keep the world a safe place, but it also leads to economic growth for the country, as the offenders are financially supported by the state budget, including medical care and other supplies provided."
-
-Đó chỉ là một số lỗi ngữ pháp phổ biến tôi đã nhận thấy trong bài viết của bạn. Tuy nhiên, hãy nhớ là vai trò của tôi là một trình soạn IELTS và tôi không phải là người chấm điểm chính thức. Đề nghị bạn tiếp tục tự cải thiện ngữ pháp và điểm chặn lỗi trong bài viết của bạn.
 
 
 Score:
