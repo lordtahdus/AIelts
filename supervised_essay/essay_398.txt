@@ -58,7 +58,7 @@ Bằng cách mở rộng các ý tưởng và biện pháp, bạn sẽ cung cấ
 
 Coherence and Cohesion:
 
-Xin lỗi vì đã chưa cung cấp đánh giá chi tiết về Coherence and Cohesion của bài viết của bạn. Dưới đây là những lỗi về Coherence and Cohesion mà tôi đã tìm thấy trong bài viết của bạn:
+Dưới đây là những lỗi về Coherence and Cohesion mà tôi đã tìm thấy trong bài viết của bạn:
 
 1. Sự không mạch lạc và không rõ ràng trong việc trình bày các ý tưởng và lập luận. Một số câu không được sắp xếp một cách logic và không có một mạch lạc rõ ràng. Hãy đảm bảo rằng mỗi ý trong bài viết của bạn được trình bày theo một cách tốt nhất.
 
@@ -74,8 +74,6 @@ Xin lỗi vì đã chưa cung cấp đánh giá chi tiết về Coherence and Co
 
 
 Lexical Resource:
-
-Lexical Resource là một trong những tiêu chí quan trọng trong việc đánh giá bài viết IELTS.
 
 Trong bài viết của bạn, điểm mạnh về từ vựng không được phát huy đầy đủ. Dưới đây là một số lỗi và gợi ý để cải thiện:
 
@@ -100,12 +98,9 @@ Gợi ý để cải thiện từ vựng trong bài viết của bạn:
 - Sử dụng từ vựng chính xác và phù hợp với ngữ cảnh của từng văn cảnh.
 - Đọc và nghiên cứu về các ý tưởng và từ vựng liên quan đến chủ đề để làm giàu từ vựng của mình.
 
-Hi vọng những gợi ý trên sẽ giúp bạn cải thiện phần Lexical Resource trong bài viết của mình. Chúc bạn thành công trong kỳ thi IELTS!
-
-
 Grammatical Range and Accuracy:
 
-Xin lỗi vì sự nhầm lẫn. Dưới đây là đánh giá chi tiết về Grammatical Range and Accuracy trong bài viết của bạn:
+Dưới đây là đánh giá chi tiết về Grammatical Range and Accuracy trong bài viết của bạn:
 
 1. "Because of the expansion of modern technology, most teenagers prefer online meeting rather than compaied their friends face-to-face agreements."
 - Thay vì "compared", bạn nên sử dụng "to compare" để hoàn thiện cấu trúc ngữ pháp. Ví dụ: "rather than to compare their friends face-to-face agreements."
