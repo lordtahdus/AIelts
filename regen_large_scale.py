@@ -121,14 +121,14 @@ def get_specific_syntaxes(contents_each: List):
 Đánh giá Task Response trong bài viết của tôi một cách chi tiết hơn.\
 Bài viết của tôi có trả lời đúng câu hỏi đề bài không?\
 Ý tưởng có được mở rộng đầy đủ không?
-Nêu ra những điểm cần được cải thiện và giải thich.
+Nêu ra những điểm cần được cải thiện và giải thích.
 """,
         """\
 Đánh giá Coherence and Cohesion trong bài viết của tôi một cách chi tiết hơn.\
 Bài viết của tôi có sự liên kết mạch lạc và hợp lí giữa tất cả các luận điểm và lập luận không?\
 Các câu được liên kết chặt chẽ và nối tiếp với nhau không?
 
-Nêu ra những điểm cần được cải thiện và giải thich.
+Nêu ra những điểm cần được cải thiện, những điểm đó nằm ở đâu trong bài viết, và giải thích.
 """,
         """\
 Đánh giá Lexical Resource trong bài viết của tôi một cách chi tiết hơn.\

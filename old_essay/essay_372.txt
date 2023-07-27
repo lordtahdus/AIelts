@@ -15,13 +15,13 @@ The pie chart shows that salaries will consist just under half in first year of 
 
 Revised:
 
-"The table presents a breakdown of the projected costs in American currency over the next five years for three environmental groups involved in sustainable forestry. The pie chart illustrates the expected allocation of spending for the first year as the projects are initiated.
+The table presents a breakdown of the projected costs in American currency over the next five years for three environmental groups involved in sustainable forestry. The pie chart illustrates the expected allocation of spending for the first year as the projects are initiated.
 
 As can be observed from the table, the budget for environmental plans in the safety forest area is expected to significantly increase in Southeast Asia compared to West Africa and Central America. Over the course of five years, West Africa is projected to receive 3.5 million dollars, while Central America will receive 5 million dollars. On the other hand, Southeast Asia will experience a gradual increase, with a budget of 50 million dollars for the environmental plan.
 
 The pie chart depicts the distribution of expenditure in the first year. It is evident that just under half of the funds will be allocated for salaries, while approximately one third will be dedicated to setting up the projects. Training and office expenses account for a comparatively smaller proportion, at twenty percent.
 
-In conclusion, the environmental projects for sustainable forestry are expected to be completed within a span of five years. The table and pie chart provide a comprehensive overview of the projected costs and expenditure allocation for these initiatives."
+In conclusion, the environmental projects for sustainable forestry are expected to be completed within a span of five years. The table and pie chart provide a comprehensive overview of the projected costs and expenditure allocation for these initiatives.
 
 
 Feedback:
@@ -38,14 +38,10 @@ Tuy nhiên, một số điểm cần được cải thiện trong phần Task Re
 
 3. Mở rộng dữ liệu: Bạn có thể cung cấp thêm thông tin về việc tại sao khu vực Đông Nam Á dự kiến ​​sẽ có giá trị đầu tư lớn nhất trong 5 năm tới và tại sao các dự án môi trường ở Trung Mỹ và Tây Phi có số tiền ít hơn.
 
-Cải thiện những điểm này sẽ giúp bài viết của bạn trở nên phong phú và thuyết phục hơn.
-
 
 Coherence and Cohesion:
 
-Xin lỗi vì phản hồi trước chưa đủ chi tiết.
-
-Sau khi xem xét lại bài viết của bạn, tôi nhận thấy rằng có một số vấn đề về sự liên kết và mạch lạc trong bài viết của bạn. Dưới đây là một số lỗi và gợi ý để cải thiện Coherence and Cohesion trong bài viết của bạn:
+Dưới đây là một số lỗi và gợi ý để cải thiện Coherence and Cohesion trong bài viết của bạn:
 
 1. Thiếu sự kết nối giữa các câu và ý kiến: Một số ý kiến của bạn không được liên kết chặt chẽ với nhau, khiến cho sự liên kết của bài viết không mạch lạc. Bạn có thể sử dụng các từ nối (ví dụ: moreover, furthermore, in addition) để nối các câu và ý kiến với nhau.
 
@@ -63,22 +59,17 @@ Ví dụ:
 Bạn có thể sắp xếp lại thông tin để công bằng hơn và dễ hiểu hơn:
 - "The pie chart shows that in the first year of the expenditure program, salaries will account for just under half of the total expenses. Nearly one third of the expenses will be allocated to set up costs. The remaining proportion consists of training and office expenses, which account for twenty percent.”
 
-Những gợi ý trên chỉ nhằm mục đích cải thiện mạch lạc và sự kết nối trong bài viết của bạn. Bạn cần kiểm tra và chỉnh sửa các câu và ý kiến trong bài viết của mình để đảm bảo sự liên kết và mạch lạc hơn.
 
+Lexical Resource:?
 
-Lexical Resource:
+Lexical Resource trong bài viết của bạn làm việc tốt và không gặp lỗi sai quan trọng. Dưới đây là một số gợi ý nhằm nâng cao từ vựng của bài viết:
 
-lexical Resource (Nguồn từ vựng):
-- Từ vựng của bạn phong phú và đa dạng và sử dụng một số từ chuyên ngành liên quan đến bảo vệ môi trường và lĩnh vực rừng. Tuy nhiên, có một số lỗi sai về từ vựng và cách sử dụng từ.
+1. Thay "grow up substantially" bằng "significantly increase" để diễn đạt ý muốn một cách chính xác hơn.
+2. Thay "bills" thành "dollars" để giữ phong cách chính xác với nội dung là tiền tệ.
+3. Thay "comparison versus" thành "compared with" để sử dụng cụm từ chính xác hơn.
+4. Thay "half twenty percent" bằng "twenty percent" để sử dụng số liệu chính xác và dễ hiểu hơn.
 
-Cụ thể, có một số lỗi sai về từ vựng và cách sử dụng từ trong bài viết của bạn:
-
-1. "The environmental plans for safety forest area will grow up substantially" - Thay vì "grow up" bạn nên sử dụng "increase" hoặc "rise" hoặc "go up" để diễn đạt ý nghĩa của sự tăng lên.
-2. "Gradual increase will be in South-East Asia with environmental plan that consist 50 million" - Thay vì "consist" bạn nên sử dụng "consisting of" hoặc "amounting to" để chỉ việc tổng cộng là 50 triệu.
-3. "The pie chart shows that salaries will consist just under half" - Thay vì "consist" bạn nên sử dụng "account for" hoặc "make up" để diễn đạt ý nghĩa của việc lập thành phần.
-4. "The vast majority comparison versus the same indicator half twenty percent for training and office expenses" - Câu này không có ý nghĩa rõ ràng và không thể hiểu được. Bạn nên reformulate câu này với mục đích diễn đạt rõ ràng hơn.
-
-Những cụm từ bạn sử dụng trong bài viết có phù hợp với ngữ cảnh và thông tin trong bàng. Tuy nhiên, bạn nên lưu ý cấu trúc và cách sử dụng từ để truyền đạt ý nghĩa một cách chính xác và rõ ràng.
+Bên cạnh những điểm trên, bạn có thể nâng cao bài viết của mình bằng cách sử dụng một loạt các từ vựng đa dạng để diễn đạt ý kiến và ý tưởng một cách tốt hơn.
 
 
 Grammatical Range and Accuracy:
@@ -96,8 +87,6 @@ Trong bài viết của bạn, có một số lỗi ngữ pháp mà bạn có th
 5. "Nearly one third will be set up costs." -> Bạn nên sử dụng "cost" sau "set up" để làm đồng nhất cấu trúc câu: "Nearly one third will be set up as costs."
 
 6. "The vast majority comparison versus the same indicator half twenty percent for training and office expenses." -> Cấu trúc câu không rõ ràng và thiếu cú pháp. Bạn có thể diễn đạt ý này một cách rõ ràng hơn: "The majority, compared to the same indicator, is allocated for training and office expenses, which accounts for twenty percent."
-
-Chúc bạn luyện tập tốt và cải thiện các lỗi ngữ pháp trong bài viết của mình!
 
 
 Score:
