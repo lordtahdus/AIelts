@@ -1,0 +1,17 @@
+Topic:
+
+"The diagram below shows the recycling process of aluminium cans.
+
+Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+
+Essay:
+
+"The provided flow chart illustrates the process of how aluminium bottles are recycled. 
+
+Firstly, aluminium cans must be collected in special containers for reusable products. And these containers are brought to recycling factories, where the process of waste recovery begins. Secondly, all amassed jars are cleaned and sorted out in order to get rid of waste. Then, the products go through specialized machines which shred them into tiny pieces. In the next step, the pieces are compressed to form a metal block. 
+
+Next, the blocks are put into giant ovens that heat them under particular degrees for melting. After being softened, the aluminium is passed between two big rollers that flatten it from 2.5 mm to 6 mm thick, according to its application. Finally, flattened metal is delivered to special factories that produce drinking products, where canisters are filled with drinks and distributed to shops and local markets for consumers. In the UK 74% of distributed aluminium jars are reused."
+
+
+Revised:
+

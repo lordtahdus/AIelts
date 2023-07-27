@@ -55,8 +55,6 @@ Trong bài viết của bạn, sự liên kết giữa các ý và lập luận 
 
 4. Thiếu sự sắp xếp logic: Trong một số đoạn văn, sự sắp xếp của ý chính và ví dụ không rõ ràng. Điều này có thể làm cho đọc giả khó hiểu rõ ràng rằng bạn đang chứng minh hoặc hỗ trợ quan điểm của mình.
 
-Đối với mỗi lỗi này, hãy xem xét sử dụng các từ nối, cụm từ chuyển tiếp và cấu trúc đoạn văn hợp lý để cung cấp sự liên kết chặt chẽ và mạch lạc giữa các ý và lập luận trong bài viết của bạn.
-
 
 Lexical Resource:
 
@@ -69,9 +67,6 @@ Trong bài viết của bạn, bạn đã sử dụng một số từ và cụm 
 3. "the buyer has to be smarter" - Một cách diễn đạt khác hợp ngữ cảnh hơn có thể là "customers need to be more discerning" hoặc "consumers should be more selective".
 
 4. "more conservatice" - Từ "conservative" không hoàn toàn thích hợp vào ngữ cảnh này. Một từ thích hợp hơn có thể là "mindful" hoặc "considerate".
-
-TỔNG KẾT:
-Từ vựng của bạn trong bài viết đã được sử dụng tương đối tốt, nhưng vẫn có một số cải thiện có thể thực hiện. Hãy chắc chắn rằng bạn sử dụng các từ và cụm từ thích hợp để truyền tải ý kiến và quan điểm của bạn một cách chính xác và rõ ràng.
 
 
 Grammatical Range and Accuracy:
@@ -91,8 +86,6 @@ Trong bài viết của bạn, có một số lỗi ngữ pháp và cách sử d
 6. "The seller has this part of responsibility": Thiếu từ nối giữa "part" và "responsibility". Bạn có thể sửa thành "The seller has his/her part of the responsibility".
 
 7. "The consumer has to be more practical and so does the seller": Thiếu động từ "to be" trong câu này. Bạn có thể sửa thành "The consumer has to be more practical, and so does the seller."
-
-Những lỗi nhỏ như trên không ảnh hưởng quá nhiều đến sự hiểu của bài viết và bạn đã sử dụng ngữ pháp đúng đắn trong hầu hết câu. Tuy nhiên, để nâng cao điểm số của bạn, bạn nên cần gia tăng phạm vi ngữ pháp bằng cách sử dụng câu phức hợp và hiện tại hoàn thành.
 
 
 Score:

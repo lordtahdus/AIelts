@@ -53,8 +53,9 @@ Nêu ra những điểm cần được cải thiện và giải thich.
 Bài viết của tôi có sự liên kết mạch lạc và hợp lí giữa tất cả các luận điểm và lập luận không?\
 Các câu được liên kết chặt chẽ và nối tiếp với nhau không?
 
-Nếu không, liệt kê tất cả lỗi sai của Coherence and Cohesion và giải thích.
+Nêu ra những điểm cần được cải thiện, những điểm đó nằm ở đâu trong bài viết, và giải thích.
 """,
+# Nếu không, liệt kê tất cả lỗi sai của Coherence and Cohesion và giải thích.
                 """\
 Đánh giá Lexical Resource trong bài viết của tôi một cách chi tiết hơn.\
 Bài viết của tôi có mắc lỗi sai về từ vựng không? Những từ, cụm từ dùng có hợp ngữ cảnh không?

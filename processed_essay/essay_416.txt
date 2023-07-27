@@ -1,0 +1,115 @@
+Topic:
+
+"The chart below shows the percentage of households in owned and rented accommodation in england and Wales between 1918 and 2011.
+
+Summarise the information by selecting and reporting the main deatures, and mae comparison where relevant."
+
+Essay:
+
+"The given bar chart illustrates the proportion of households owning accommodation and rented house in England and Wales from 1918 to 2011. 
+
+Overall, it can be clearly seen that the trend of both accomodations was in opposite direction. Owned accommodation had a considerable increase trend, while rented home experienced decline. 
+
+Looking at the information in more detail, in the first year around 24% of households had owning home and this percentage rose to 50% in 1971. In this year, the portion was the same as people rented home. The percentage of households had their accommodation continue to increase and reached a peak at just under 70% in 2001, before declining to approximately 65% in the end of the period. 
+
+As regard to households in rented accommodation, it started at about 76% households rented home and this figure fell significantly to just over 30% in 2001. Finally, the proportion of rented house went up slightly in the last year."
+
+
+Revised:
+
+"The provided bar chart presents the percentage of households living in owned and rented accommodation in England and Wales between 1918 and 2011.
+
+In general, the data illustrates a clear contrast in the trends of owned and rented accommodation over the given period. The proportion of households owning their own homes showed a significant increase, while the percentage of those living in rented houses experienced a decline.
+
+Examining the information in more depth, in the initial year, approximately 24% of households were in possession of their own homes, and this figure rose to 50% by 1971. In the same year, an equal proportion of households lived in rented accommodation. The share of owning households continued to rise, reaching its peak just below 70% in 2001, before witnessing a slight decrease to around 65% by the end of the period.
+
+As for rented accommodation, it began with around 76% of households living in rented houses, a figure that significantly dropped to just over 30% in 2001. Finally, there was a slight increase in the proportion of households residing in rented accommodation in the final year of the analysis."
+
+Overall, great job on your essay! I made a few changes to enhance the language and structure of the essay according to IELTS standards. Here are the main modifications:
+
+1. I added the phrase "provided bar chart" instead of "given bar chart" to vary the vocabulary and avoid repeated use of the same term.
+2. I changed the sentence "Looking at the information in more detail" to "Examining the information in more depth," which sounds more formal and appropriate for academic writing.
+3. Instead of saying "the portion was the same," I rephrased it as "an equal proportion."
+4. Instead of saying "just under 70%," I used the term "around 70%" for more precise language.
+5. I adjusted the phrase "before declining to approximately 65% in the end of the period" to "before witnessing a slight decrease to around 65% by the end of the period" to make it clearer and more concise.
+6. In the conclusion, I replaced "The portion of rented house" with "As for rented accommodation" to improve the structure of the sentence.
+7. I changed the phrase "went up slightly" in the last sentence to "there was a slight increase" to avoid repetition of vocabulary.
+
+
+Feedback:
+
+Task Response:
+
+Bài viết của bạn đã trả lời đúng câu hỏi đề bài và đưa ra được ý tưởng chính. Bạn đã tóm tắt thông tin trong biểu đồ và so sánh hai loại chỗ ở - sở hữu và cho thuê, từ năm 1918 đến năm 2011. Tuy nhiên, ý tưởng của bạn chưa được mở rộng đầy đủ và không đi vào chi tiết.
+
+Để cải thiện điểm này, bạn có thể cung cấp thêm chi tiết và số liệu cụ thể trong bài viết của mình. Ví dụ, bạn có thể nêu rõ công cụ đo lường hoặc nghiên cứu mà biểu đồ dựa trên, bạn có thể đề cập đến con số cụ thể của từng năm thay vì chỉ đề cập đến "vòng 1" và "vòng cuối" của biểu đồ. Bằng cách cung cấp thêm Số liệu chi tiết, bạn sẽ làm cho bài viết của mình trở nên cụ thể và chính xác hơn.
+
+Bên cạnh đó, bạn cũng có thể so sánh các điểm đặc biệt hay xu hướng trong số liệu. Ví dụ, bạn có thể nhận xét về một thời kỳ tăng trưởng rõ rệt cho chỗ ở sở hữu hoặc một sự giảm dần liên tục trong chỗ ở cho thuê. Việc nêu rõ các chi tiết như vậy sẽ làm cho bài viết của bạn trở nên đa dạng hơn và chứng tỏ khả năng phân tích số liệu của bạn.
+
+Tổng kết lại, bài viết của bạn có thể được cải thiện bằng cách cung cấp thêm chi tiết và số liệu cụ thể trong biểu đồ. Bạn cũng nên nhận xét và so sánh các điểm đặc biệt trong số liệu để làm cho bài viết của bạn trở nên đa dạng và chứng tỏ khả năng phân tích của bạn.
+
+
+Coherence and Cohesion:
+
+Trong bài viết của bạn, sự liên kết giữa các câu và đoạn văn là khá tốt. Bạn đã sử dụng các từ nối như "Overall", "Looking at the information in more detail" để nối liền các ý kiến và ý chính trong bài viết. Điều này giúp đảm bảo rằng câu của bạn được xây dựng và trình bày một cách mạch lạc. 
+
+Tuy nhiên, còn một số điểm bạn có thể cải thiện liên quan đến sự liên kết và nối tiếp ý kiến trong bài viết. Dưới đây là một số gợi ý:
+
+1. Phát triển ý kiến một cách đầy đủ hơn: Sử dụng các từ nối và cụm từ như "In addition", "Furthermore", "Moreover" để đưa ra ý kiến thêm và phát triển các ý kiến. Ví dụ, sau khi đề cập đến xu hướng sở hữu nhà, bạn có thể sử dụng "Furthermore, it is worth noting that..." để cung cấp một chi tiết thêm về xu hướng này.
+
+2. Sắp xếp thông tin theo một cấu trúc nhất định: Hãy xác định các ý chính và sắp xếp chúng theo một cấu trúc logic. Ví dụ, bạn có thể bắt đầu với sự giới thiệu tổng quan về biểu đồ, sau đó tiếp tục với mô tả chi tiết về xu hướng sở hữu nhà và rồi mới đến xu hướng thuê nhà. Bạn cũng có thể sắp xếp các ý kiến trong mỗi đoạn văn sao cho chúng có mục đích rõ ràng và có thể nhìn thấy một luồng logic.
+
+3. Sử dụng từ ngữ và cấu trúc câu chuyển tiếp: Hãy sử dụng các từ và cụm từ chuyển tiếp như "In contrast", "On the other hand", "Similarly" để tạo sự liên kết giữa các ý kiến và các đoạn văn. Điều này sẽ giúp người đọc dễ dàng theo dõi suy nghĩ chủ đề của bạn.
+
+Tóm lại, mặc dù bài viết của bạn đã có sự liên kết tổng thể tốt, nhưng bạn có thể tăng cường sự liên kết giữa các câu và đoạn văn bằng cách sử dụng các từ nối, cụm từ và cấu trúc câu phù hợp. Điều này sẽ giúp cho bài viết của bạn trở nên mạch lạc và dễ đọc hơn.
+
+
+Lexical Resource:
+
+Trong bài viết của bạn, không có nhiều lỗi sai về từ vựng. Phần lớn, bạn đã sử dụng từ vựng phù hợp để miêu tả biểu đồ và xu hướng. Tuy nhiên, có một số cụm từ và lỗi nhỏ liên quan đến từ vựng cần được điều chỉnh. Dưới đây là danh sách các lỗi sai liên quan đến từ vựng:
+
+1. "had owning home": Sử dụng động từ "own" làm động từ hỗ trợ trong câu này không chính xác. Thay vào đó, bạn có thể nói "had their own home".
+
+2. "just under 70%": Cụm từ này có thể được cải thiện để tránh sự rườm rà trong biểu thức. Thay vì nói "just under 70%", bạn có thể nói "approximately 70%".
+
+3. "rented house": Thay vì sử dụng "house", bạn có thể sử dụng cụm từ "rented accommodation" để thể hiện rõ hơn ý nghĩa "chỗ ở được thuê".
+
+Ngoài những lỗi nhỏ trên, bài viết của bạn đã sử dụng câu văn và từ vựng một cách chính xác và truyền đạt ý kiến một cách rõ ràng. Tuy nhiên, để nâng cao điểm số cho tiêu chí Lexical Resource, bạn có thể sử dụng thêm từ vựng mở rộng hoặc cách diễn đạt sự thay đổi trong biểu đồ một cách đa dạng hơn.
+
+
+Grammatical Range and Accuracy:
+
+Trong bài viết của bạn, có một số lỗi ngữ pháp nhỏ. Dưới đây là danh sách các lỗi cụ thể và giải thích:
+
+1. "across 1918 and 2011" - Sử dụng sai giới từ "across" trong trường hợp này. Thay vì "across", bạn nên sử dụng "between" để chỉ khoảng thời gian giữa hai năm.
+
+2. "had owning home" - Lỗi sai động từ trong câu này. Thay vì "had owning home", bạn nên sử dụng "owned their own home" để diễn đạt ý của mình rõ ràng hơn.
+
+3. "the portion was the same as people rented home" - Dùng cụm từ "the same as" nhưng thiếu một từ giữa "the same" và "as". Thay vào đó, bạn có thể sử dụng "equivalent to" để diễn đạt rõ ràng hơn.
+
+4. "the percentage of households had their accommodation" - Sai cấu trúc câu trong trường hợp này. Thay vì "had their accommodation", bạn nên sử dụng "owned their own accommodation" để diễn đạt ý của mình một cách chính xác hơn.
+
+5. "in rented accommodation" - Thiếu một từ trong cụm từ này. Thay vì "in rented accommodation", bạn nên sử dụng "in a rented accommodation" hoặc "in rented accommodations".
+
+6. "the proportion of rented house" - Sai cấu trúc câu trong trường hợp này. Thay vì "the proportion of rented house", bạn nên sử dụng "the proportion of rented houses" để diễn đạt ý của mình chính xác hơn.
+
+7. "went up slightly" - Cho dù không phải là một lỗi ngữ pháp, câu này có thể được cải thiện bằng cách sử dụng một từ trạng từ mạnh mẽ hơn như "increased marginally" hoặc "rose slightly".
+
+Tuy vậy, bạn đã hiểu và sử dụng các cấu trúc ngữ pháp cơ bản một cách đúng đắn trong bài viết của mình. Tuy nhiên, bạn cần chú ý đến việc cải thiện một số lỗi nhỏ và sử dụng cấu trúc câu phức tạp hơn để đạt được ngữ pháp cao hơn và mang lại sự linh hoạt trong việc viết.
+
+
+Score:
+
+Overall:
+
+Score_TR:
+Score_CC:
+Score_LR:
+Score_GA:
+
+Task Response: 6.5 
+Coherence and Cohesion: 7 
+Lexical Resource: 6 
+Grammatical Range and Accuracy: 6
+
+

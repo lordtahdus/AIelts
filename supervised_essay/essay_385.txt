@@ -39,8 +39,6 @@ Trong bài viết của bạn, bạn đã trả lời đúng câu hỏi đề b�
 
 3. Lựa chọn từ vựng: Mặc dù bạn đã sử dụng một số từ ngữ phù hợp, nhưng có thể cải thiện bằng cách sử dụng ngôn ngữ chuyên ngành liên quan đến ngành dầu khí. Bạn có thể thay "new resources" bằng "fossil fuel reserves", "sustainable alternatives" thay cho "new technologies", và "energy transition" thay cho "replacing with new technologies". Sử dụng các thuật ngữ chính xác sẽ làm cho bài viết của bạn trở nên chuyên nghiệp hơn.
 
-Với những điều này, bạn sẽ có thể cải thiện Task Response và tăng cường tính logic và tính thống nhất của bài viết của mình.
-
 
 Coherence and Cohesion:
 
@@ -59,8 +57,6 @@ Trong bài viết của bạn, có sự liên kết và hợp lí giữa các lu
    + Trong đoạn thứ hai của bài viết, bạn đề cập đến việc một số người phản đối ý kiến. Tuy nhiên, sau đó, bạn không liên kết ý kiến này với ý kiến của mình hoặc đưa ra lập luận để bổ sung vào quan điểm của mình.
    + Trong đoạn thứ ba, bạn đề cập đến một ví dụ nỗ lực chuyển dịch sang các công nghệ mới như xe điện và tấm năng lượng mặt trời. Tuy nhiên, bạn không kết nối ví dụ này với quan điểm của mình hoặc đưa ra lập luận để chỉ ra sự quan trọng và cần thiết của việc mở rộng khu vực chưa được khám phá.
 
-Để cải thiện sự liên kết và kết nối trong bài viết của bạn, hãy đảm bảo rằng mỗi ý kiến, lập luận, và ví dụ đều được kết nối mạch lạc và sắp xếp một cách hợp lý. Sử dụng các từ nối, từ liên kết và cấu trúc câu phù hợp để tạo ra một luồng suy nghĩ liên tục và hợp lý.
-
 
 Lexical Resource:
 
@@ -78,8 +74,6 @@ Trong bài viết của bạn, từ vựng được sử dụng rất phong phú
 4. "fulfil the requirements" thay vì "fulfill the requirements" - sai chính tả
    Ví dụ: "To fulfill the requirements in lieu of oil and gas, solar panels have also been introduced"
 
-Những lỗi này chỉ là những điểm nhỏ và không ảnh hưởng đáng kể đến sự hiểu biết và ngôn từ của bạn. Tuy nhiên, để tránh sai sót, hãy đảm bảo kiểm tra lại bài viết của mình trước khi nộp.
-
 
 Grammatical Range and Accuracy:
 
@@ -92,8 +86,6 @@ Trong bài viết của bạn, có một số lỗi nhỏ về ngữ pháp và c
 5. "I would like to give a reason to explain my perspective." - để có ý nghĩa, cần thay "give a reason" thành "provide a reason".
 6. "Further, everything depends on oil and gas to justify my perception" - sửa lỗi chủ ngữ không phù hợp. Câu nên là "Furthermore, my perception is justified by the fact that everything depends on oil and gas."
 7. "The survey revealed the findings that oil and gas are directly proportional to the inflation." - Sửa lỗi câu không cần thiết. Câu nên là "The survey revealed that oil and gas are directly proportional to inflation."
-
-Ngoài ra, có một số lỗi nhỏ khác về chính tả và cấu trúc câu nhưng không ảnh hưởng nhiều đến ý nghĩa chung của bài viết của bạn.
 
 
 Score:

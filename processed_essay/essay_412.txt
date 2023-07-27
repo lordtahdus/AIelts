@@ -1,0 +1,110 @@
+Topic:
+
+"The chart below shows waste collection by a recycling centre from 2011 to 2015"
+
+Essay:
+
+"The line graph outlines the figure for weekly patients who come to the hospital to check-ups for 4 clinics (birth control, eye, diabetes and dental) over a period of 7 years. 
+
+Overall, it can be seen that patients who visiting to eye, diabetes, dental rose from 2010 to 2016 while this figure for birth control patients fell. At the start of the period, the clinic for birth control received the highest data and the diabetes is the lowest. 
+
+Patients who go to check-ups eye and birth control changed rapidly.Eye patients increased quickly from 130 to 350. Birth control patients between 2010 and 2012 is an upward trend from 240 to 280. In 2014, birth control patients declined to 180 and in 2016 returned to the original level like 2010. Patients who came to check up diabetes and dental changed ceaselessly. In 2010, patients who visiting diabetes and dental is the lowest in the line graph (between 50-100). In the next period between 2010 to 2012, diabetic patients climbed to 90 and dental patients go down to 60 .From 2012 to 2014, the dental patients remained the same as 2010 while the diabetic patients jumped from 60 to 130.In the last period, both of its changed mildly. The diabetic patients increased from 90 to 180 and dental patients jumped from 130 to 135."
+
+
+Revised:
+
+The line graph illustrates the number of patients visiting four different clinics (birth control, eye, diabetes, and dental) for weekly check-ups over a span of seven years.
+
+Overall, the graph demonstrates an increase in the number of patients visiting the eye, diabetes, and dental clinics from 2010 to 2016, while the number of patients seeking birth control services declined during this period. Additionally, at the beginning of the study, the birth control clinic recorded the highest number of patients, while the diabetes clinic had the lowest attendance.
+
+The number of patients visiting the eye and birth control clinics experienced significant fluctuations over the years. Specifically, the number of eye patients rose sharply from 130 in 2010 to 350 in 2016. In contrast, the number of birth control patients increased from 240 in 2010 to 280 in 2012, but decreased to 180 in 2014, before returning to the 2010 level in 2016.
+
+On the other hand, both the diabetes and dental clinics observed continuous variations in patient numbers. In 2010, the lowest patient attendance was recorded for both clinics, ranging between 50 and 100. Between 2010 and 2012, the number of diabetic patients increased to 90, while the number of dental patients decreased to 60. From 2012 to 2014, the number of dental patients remained constant, similar to that in 2010, while the number of diabetic patients rose from 60 to 130. In the last period, there was a slight increase in patient numbers for both clinics, with the number of diabetic patients escalating from 90 to 180, and dental patients rising from 130 to 135.
+
+In conclusion, the line graph showcases the changing trends in patients visiting the four clinics over a seven-year period. The eye, diabetes, and dental clinics experienced an increase in patient numbers, while the birth control clinic witnessed a decline.
+
+
+Feedback:
+
+Task Response:
+
+Bài viết của bạn đã trả lời đúng câu hỏi đề bài và thuần thục về nội dung chính. Bạn đã mô tả chi tiết về số lượng bệnh nhân đến các phòng khám trong suốt 7 năm. Tuy nhiên, để nâng cao điểm số, có một số khía cạnh cần được cải thiện:
+
+1. Mở rộng ý tưởng: Mặc dù bạn đã mô tả các con số cụ thể cho từng phòng khám, nhưng không có sự phân tích sâu hơn về những xu hướng và mối quan hệ giữa các phòng khám. Bạn có thể giải thích tại sao số bệnh nhân đến các phòng khám này tăng/giảm và cung cấp các ý kiến cá nhân của bạn về điều này. Ví dụ, tại sao số bệnh nhân đến phòng khám đau mắt tăng rất nhanh trong khoảng thời gian nào đó? Vì sao số bệnh nhân đến phòng khám kiểm tra thai sản giảm trong giai đoạn nào đó? Việc đi vào sâu trong phân tích và đưa ra những trực giác và suy nghĩ cá nhân của bạn sẽ giúp nâng cao điểm số.
+
+2. Phân bố tha hồ ý tưởng: Bạn có thể đưa ra những điểm khác nhau để so sánh và so sánh giữa các phòng khám khác nhau. Ví dụ, bạn có thể so sánh sự khác biệt trong việc tăng/giảm số bệnh nhân giữa các phòng khám. Bạn có thể đề cập đến những yếu tố bên ngoài, như xu hướng xã hội, chính sách chăm sóc sức khỏe, hoặc sự thay đổi trong ý thức cộng đồng, để giải thích tại sao một phòng khám có số bệnh nhân tăng lên trong khi phòng khám khác giảm đi.
+ 
+Tóm lại, bài viết của bạn đã trả lời đúng câu hỏi đề bài và ý tưởng chính đã được mở rộng đầy đủ, nhưng có thể cải thiện bằng cách cung cấp thêm phân tích và so sánh giữa các phòng khám.
+
+
+Coherence and Cohesion:
+
+Tôi xin lỗi vì sự thiếu sót trong phản hồi trước đó. Sau khi xem xét kỹ bài viết của bạn, tôi nhận thấy rằng có một số vấn đề cần được cải thiện về mạch lạc và sắp xếp thông tin. 
+
+1. Mạch lạc và kết nối giữa các ý kiến và lập luận: 
+Trong bài viết của bạn, các ý kiến và lập luận cần được kết nối chặt chẽ hơn. Có một số lúc tôi gặp khó khăn trong việc theo dõi liên kết giữa các phần khác nhau của bài viết. Bạn có thể thay đổi cách bạn sắp xếp các ý kiến và lập luận của mình để chúng trở nên rõ ràng và dễ hiểu hơn. Bạn cũng có thể sử dụng các từ nối thích hợp để liên kết các ý trong cùng một câu hoặc giữa các câu.
+
+2. Cấu trúc câu và chấm câu:
+Cần chú ý đến cấu trúc câu và chấm câu để tránh những lỗi mắc phải trong bài viết. Một số câu trong bài viết của bạn có thể được viết lại một cách rõ ràng hơn và đúng ngữ pháp hơn. Hãy đảm bảo rằng bạn sử dụng đúng cấu trúc câu và đặt dấu chấm câu đúng cách để giữ cho bài viết của bạn mạch lạc và hợp lí.
+
+Để khắc phục các vấn đề này, hãy thử đọc lại bài viết của bạn và điều chỉnh cấu trúc câu, sắp xếp thông tin và sử dụng các từ nối một cách hợp lý. Bạn cũng có thể yêu cầu ý kiến của người khác để xem xét sự mạch lạc và sắp xếp thông tin của bài viết.
+
+
+Lexical Resource:
+
+Trong bài viết của bạn, tôi thấy rằng bạn đã sử dụng một số từ vựng chính xác và phù hợp với nội dung bài viết. Tuy nhiên, một số lỗi sai về từ vựng và các cụm từ không phù hợp đã được phát hiện như sau:
+
+1. "Patients who visiting to eye" - Đúng là "patients who visit the eye clinic" hoặc "patients who go to the eye clinic". Bạn cần sắp xếp lại cấu trúc câu để nói rõ hơn về việc "visit" hoặc "go to" một bệnh viện hay phòng khám.
+
+2. "changed rapidly" và "changed ceaselessly" - Thay vì sử dụng "changed rapidly" và "changed ceaselessly", bạn có thể sử dụng các cụm từ khác như "increased rapidly" và "changed constantly" để diễn đạt ý của bạn một cách chính xác hơn.
+
+3. "diabetic patients climbed to 90" - Đúng là "diabetic patients increased to 90" hoặc "the number of diabetic patients climbed/reached 90". Bạn cần sử dụng các động từ thích hợp để diễn đạt ý của bạn và tránh lặp lại các từ.
+
+4. "the dental patients remained the same" - Đúng là "the number of dental patients remained the same". Bạn cần đề cập đến "the number of dental patients" để rõ ràng hơn.
+
+5. "both of its changed mildly" - Đúng là "both of them changed slightly" hoặc "both showed a slight change". Cách diễn đạt này sẽ rõ ràng hơn và chính xác hơn.
+
+Những lỗi trên đây không phải là lỗi nghiêm trọng và không ảnh hưởng đến sự hiểu nghĩa chung của bài viết. Tuy nhiên, để tăng điểm số, bạn nên chú ý và sử dụng những từ ngữ chính xác và phù hợp với ngữ cảnh.
+
+
+Grammatical Range and Accuracy:
+
+Đánh giá về Grammatical Range and Accuracy (Phạm vi ngữ pháp và độ chính xác):
+Bài viết của bạn có một số lỗi ngữ pháp nhỏ. Dưới đây là danh sách các lỗi được phát hiện và giải thích:
+
+1. "On 4 clinics" - nên là "in 4 clinics"
+2. "Patients who visiting to" - nên là "Patients who visit"
+3. "Data" - không cần thêm "data" sau từ này
+4. "The diabetic patients increased from 90 to 180 and dental patients jumped from 130 to 135" - đây là sự pha trộn giữa các thì khác nhau. Nên sửa thành "The number of diabetic patients increased from 90 to 180 and the number of dental patients jumped from 130 to 135".
+
+Ngoài ra, còn một số câu không được phân đoạn hoặc không sắp xếp cấu trúc câu một cách mạch lạc. Hãy chắc chắn rằng bạn đã sắp xếp câu và đoạn văn một cách rõ ràng và logic.
+
+Tổng kết, mặc dù có một số lỗi nhỏ về ngữ pháp, nhưng bài viết của bạn vẫn rất rõ ràng và dễ hiểu. Hãy cố gắng lưu ý các lỗi ngữ pháp nhỏ và sử dụng cấu trúc câu chính xác để nâng cao điểm số.
+
+
+Score:
+
+Overall:
+
+Score_TR:
+Score_CC:
+Score_LR:
+Score_GA:
+
+Based on your writing, I would estimate the score for each of the criteria as follows:
+
+1. Task Response (Trả lời đúng đề bài): 7.5
+   - You have addressed the task effectively by presenting the data and describing the changes and trends over a period of time. However, you could provide more analysis and comparisons to enhance your response.
+
+2. Coherence and Cohesion (Mạch lạc và sắp xếp thông tin): 7.0
+   - Your writing is generally well-organized and easy to follow. You have used cohesive devices effectively to link ideas and paragraphs together. However, there are some minor errors in punctuation and sentence structure that could be improved.
+
+3. Lexical Resource (Vốn từ vựng): 7.5
+   - Your vocabulary is varied and appropriate for the topic. You have used many words and phrases accurately. However, there are some opportunities for more specific and technical vocabulary related to medical clinics and patient care.
+
+4. Grammatical Range and Accuracy (Phạm vi và độ chính xác ngữ pháp): 7.0
+   - There are occasional errors in sentence structure and grammar, which slightly affect the clarity of your writing. To improve this, review specific grammar rules and practice writing more complex sentence structures.
+
+Overall, I would estimate your score to be around 7.0-7.5 for each criterion. However, please note that this is just an estimate and the actual score may vary depending on the examiner's assessment.
+
+

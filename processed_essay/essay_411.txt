@@ -1,0 +1,133 @@
+Topic:
+
+"The graph shows the  average patients visitting  four clinics in 2010 and 2016."
+
+Essay:
+
+"The lone graph show the avarange number of weekly patients visiting four clinic ( including: birth control, eye, diabetic and dental ) in 1 hospital between 2010 and 2016. Overall, it can be seen that the number of patients visiting the hospital on a weekly basis for eye, diabetic and dental check – ups increased over a period of 6 years while this figure for birth control patients decreased.
+
+ There were nearly 250 patients of birth control ( in 2010, it was the highest number of people went to check at the hospital ), it rose nearly 300 patients in 2012. But in 2014, the number of people visited birth control fell down 175 people and recovery patients when it started in 2016. Visiting for eye was lower than birth control with 125 people in 2010 and it rose very fast, in 2016 there was 350 people who went to check for their eye.
+
+  Diabetic and dental seen less common than 2 clinic above with 60 and 100 people in 2010. The number of people visited diabetic rose quite slow from 2012 to 2014, but it rose fast and has nearly 200 people in 2016. Patients of dental fell quite fast from 2010 to 2012, but from 2012 to 2014 rose fast and stable to 2016."
+
+
+Revised:
+
+The line graph illustrates the average number of weekly patients visiting four clinics, namely birth control, eye, diabetic, and dental, at a hospital from 2010 to 2016. Overall, it is evident that the number of patients seeking eye, diabetic, and dental check-ups steadily increased over the six-year period, while the figures for birth control patients displayed a decrease.
+
+In 2010, the highest number of patients visiting the hospital was for birth control, with almost 250 people. This number experienced a gradual increase, peaking at around 300 patients in 2012. However, there was a decline in the number of patients seeking birth control services in 2014, dropping to roughly 175 people. The number then rebounded and reached its peak again in 2016.
+
+In contrast, the number of patients seeking eye check-ups was lower than those seeking birth control consultations, with approximately 125 patients in 2010. This figure experienced a rapid ascent throughout the six-year period, reaching a peak of 350 patients in 2016.
+
+As for diabetic and dental clinics, they experienced lower patient numbers in 2010, with around 60 and 100 individuals respectively. The number of diabetic patients increased steadily from 2012 to 2014, but then saw a rapid rise, reaching nearly 200 patients in 2016. On the other hand, the number of dental patients declined significantly from 2010 to 2012, but then displayed a rapid and stable increase from 2012 to 2014, continuing until 2016.
+
+In conclusion, the graph clearly demonstrates the changing trends in the average number of weekly patients visiting four different clinics at a hospital. While the number of patients seeking eye, diabetic, and dental check-ups showed an upward trend, the figures for birth control patients experienced a decline during the six-year period under observation.
+
+
+Feedback:
+
+Task Response:
+
+Trong bài viết của bạn, bạn đã trả lời đúng câu hỏi đề bài bằng cách mô tả biểu đồ và chỉ ra sự thay đổi về số lượng bệnh nhân thăm viện trong bốn phòng khám khác nhau từ năm 2010 đến 2016. Bạn đã đề cập đến tất cả các phòng khám và chỉ ra sự tăng và giảm của số lượng bệnh nhân trong các năm tương ứng. Tuy nhiên, có một số điểm cần cải thiện:
+
+1. Độ phủ thông tin: Bạn nói rằng "the number of patients visiting the hospital on a weekly basis for eye, diabetic, and dental check-ups increased over a period of 6 years while this figure for birth control patients decreased." Tuy nhiên, bạn chưa đưa ra thông tin chi tiết về sự thay đổi của số lượng bệnh nhân theo từng năm. Hãy cung cấp thông tin cụ thể và chi tiết hơn về thay đổi của từng phòng khám trong từng năm để nâng cao tính phản hồi của bài viết.
+
+2. Thống nhất ý kiến: Trong phần viết của bạn, đã có sự lặp lại ý kiến ​​và thông tin. Hãy đảm bảo rằng bạn sử dụng từ ngữ và biểu đạt khác nhau để trình bày ý kiến ​​của mình một cách rõ ràng và rõ ràng.
+
+3. Mở rộng ý tưởng: Mặc dù bạn đã chỉ ra sự tăng và giảm của số lượng bệnh nhân trong các phòng khám, nhưng không có sự mở rộng hoặc phân tích sâu hơn về nguyên nhân hoặc hậu quả của sự thay đổi này. Hãy cố gắng tư duy sâu hơn và cung cấp những ý kiến ​​hoặc lí giải về tại sao và làm thế nào mà số lượng bệnh nhân đã thay đổi theo thời gian.
+
+Tổng thể, bài viết của bạn đã thể hiện một sự phản hồi tương đối tốt đối với nhiệm vụ, nhưng còn thiếu một số thông tin cụ thể và phân tích sâu hơn. Hãy tập trung vào sự toàn vẹn và sự phát triển của ý tưởng để nâng cao khả năng trả lời đúng yêu cầu của đề bài.
+
+
+Coherence and Cohesion:
+
+Trong bài viết của bạn, sự liên kết và mạch lạc giữa các luận điểm và lập luận không được thực hiện một cách tốt. Dưới đây là một số điểm cần được cải thiện và nằm trong bài viết của bạn:
+
+1. Các câu không được liên kết chặt chẽ:
+- Một số câu trong bài viết của bạn không liên kết chặt chẽ với câu trước đó hoặc sau đó. Ví dụ, trong câu thứ hai của bài viết, bạn đã đề cập đến "birth control" mà không có sự liên kết với câu trước đó. Hãy sử dụng các từ nối (linking words) hoặc cấu trúc câu phức tạp hơn để giữ cho các câu được kết nối một cách mạch lạc.
+
+2. Thiếu sự liên kết giữa các đoạn văn:
+- Có sự thiếu rõ ràng về sự liên kết giữa các đoạn văn. Bạn cần chú ý đến việc sử dụng các từ nối (transition words) hoặc các cụm từ chỉ liên kết (linking phrases) để tạo sự kết nối hợp lý giữa các ý trong các đoạn văn.
+
+Ví dụ:
+- Sử dụng "In addition", "Furthermore" để kết nối ý kiến mới với ý kiến đã đề cập trước đó.
+- Sử dụng "However", "On the other hand" để đưa ra ý kiến trái ngược hoặc một quan điểm khác.
+
+3. Cấu trúc câu đơn giản:
+- Cấu trúc câu trong bài viết của bạn chủ yếu là câu đơn giản. Hãy thử sử dụng các cấu trúc câu phức tạp hơn như mệnh đề quan hệ và mệnh đề điều kiện để làm cho bài viết của bạn linh hoạt hơn và đáng chú ý hơn.
+
+Ví dụ: 
+- Thay vì viết "There were nearly 250 patients of birth control" bạn có thể sử dụng mệnh đề quan hệ như "The number of patients for birth control was nearly 250".
+
+Tóm lại, trong bài viết của bạn, cần cải thiện tính kết nối giữa các ý và câu, sử dụng các từ nối và cấu trúc câu phức tạp hơn để tạo sự liên kết chặt chẽ giữa các ý kiến ​​và lập luận.
+
+
+Lexical Resource:
+
+Trong bài viết của bạn, có một số lỗi về từ vựng và sử dụng cụm từ không phù hợp.
+
+- "The lone graph": Từ này không phù hợp trong ngữ cảnh viết văn học thuật. Bạn có thể sử dụng "The given graph" hoặc "The provided graph" thay thế.
+
+- "avarange number": Từ này không đúng. Sử dụng "average number" thay vào đó.
+
+- "weekly patients": Bạn có thể sử dụng cụm từ "patients per week" để truyền đạt ý muốn một cách chính xác hơn.
+
+- "birth control": Từ này đúng nghĩa nhưng trong ngữ cảnh y tế, khái niệm "birth control" thường chỉ ám chỉ việc kiểm soát sinh đẻ. Trong bài viết của bạn, nó không rõ ràng là phòng khám nào chứa đựng mục đích kiểm soát sinh đẻ. Thay vào đó, bạn có thể sử dụng cụm từ "family planning clinic" hoặc mô tả rõ hơn về dịch vụ được cung cấp tại phòng khám này.
+
+- "it rose nearly 300 patients": Cấu trúc câu này không chính xác. Thay vào đó, bạn nên nói "the number of patients rose to nearly 300".
+
+- "check at the hospital": Sử dụng cụm từ "visit the hospital" để diễn đạt ý muốn một cách chính xác hơn.
+
+- "recovery patients": Từ này không phù hợp ở đây. Bạn có thể sử dụng cụm từ "recovered patients" để diễn đạt ý muốn của mình.
+
+- "Visiting for eye was lower than birth control": Cấu trúc câu này không chính xác. Hãy sử dụng cấu trúc "The number of patients visiting the eye clinic was lower than the number of patients visiting the birth control clinic".
+
+- "The number of people visited diabetic": Sử dụng cấu trúc "The number of people who visited the diabetic clinic" để làm cho câu trở nên chính xác hơn.
+
+Hãy chú ý đến những từ và cụm từ sử dụng trong bài viết của bạn và đảm bảo rằng chúng phù hợp với ngữ cảnh và truyền đạt ý muốn của bạn một cách chính xác.
+
+
+Grammatical Range and Accuracy:
+
+Đánh giá chi tiết về Grammatical Range and Accuracy trong bài viết của bạn:
+
+1. Lỗi sai ngữ pháp:
+- "The lone graph show the avarange number" --> The lone graph shows the average number (lỗi chính tả, dùng động từ ngôi thứ ba số ít "shows" thay vì "show")
+- "avarange number" --> average number (lỗi chính tả)
+- "four clinic" --> four clinics (lỗi số nhiều)
+- "it rose nearly 300 patients in 2012" --> it rose to nearly 300 patients in 2012 (thiếu giới từ "to" để diễn tả mức tăng của số lượng)
+- "the number of people visited birth control fell down 175 people and recovery patients when it started in 2016" --> the number of people visiting birth control fell to 175 people and then recovered in 2016 (dùng từ ngữ phù hợp như "visiting" thay vì "visited", sử dụng cấu trúc đúng để diễn tả sự giảm và sự phục hồi)
+- "Visiting for eye was lower than birth control with 125 people in 2010 and it rose very fast, in 2016 there was 350 people who went to check for their eye." --> The number of people visiting the eye clinic was lower than in the birth control clinic with 125 people in 2010, but it increased rapidly. In 2016, there were 350 people who went for eye check-ups. (cần sắp xếp câu lại để diễn tả một cách rõ ràng và mạch lạc hơn)
+
+2. Lỗi chấp nhận được và cách cải thiện:
+- "Diabetic and dental seen less common" --> Diabetic and dental were less common (dùng động từ quá khứ "were" thay vì "seen")
+- "it rose fast and has nearly 200 people in 2016" --> it rose rapidly and had nearly 200 people in 2016 (dùng trạng từ "rapidly" thay vì "fast" để diễn tả tốc độ tăng và đổi thì động từ "rise" sang quá khứ đơn)
+- "Patients of dental fell quite fast from 2010 to 2012, but from 2012 to 2014 rose fast and stable to 2016." --> The number of dental patients fell rapidly from 2010 to 2012, but then increased steadily until 2016. (sắp xếp câu lại và sử dụng cụm từ chính xác để diễn tả sự thay đổi)
+
+
+Score:
+
+Overall:
+
+Score_TR:
+Score_CC:
+Score_LR:
+Score_GA:
+
+Dựa trên đánh giá của tôi về bài viết của bạn, tôi sẽ ước tính điểm cho mỗi tiêu chí như sau:
+
+1. Task Response: 6.0
+Bài viết của bạn đã trả lời đúng yêu cầu của đề bài và mô tả được đồ thị. Tuy nhiên, cần nâng cao tính chính xác và cung cấp thông tin chi tiết hơn.
+
+2. Coherence and Cohesion: 5.0
+Trong việc kết nối các ý và câu, bạn cần cải thiện tính sắp xếp và lựa chọn từ ngữ để làm cho bài viết mạch lạc hơn.
+
+3. Lexical Resource: 5.0
+Bạn đã sử dụng một số từ ngữ chính xác, nhưng cần mở rộng từ vựng và sử dụng chính xác hơn để mô tả thông tin.
+
+4. Grammatical Range and Accuracy: 5.0
+Bài viết của bạn có sử dụng đúng một số cấu trúc ngữ pháp, nhưng cần nâng cao độ phức tạp và sử dụng ngữ pháp chính xác.
+
+Tổng điểm ước tính: 5.25
+
+
