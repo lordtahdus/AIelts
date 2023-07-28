@@ -1,0 +1,134 @@
+Topic:
+
+"The graph show changes in spending habits of people in thw uk between 1971 and 2001."
+
+Essay:
+
+"The pie chart illustrates the purchase habits of individuals in the United Kingdom between 1971 and 2001. overall, in beging the cars were the biggest exchange in the given period. However, food was declares after that whilst all the other staff were lost there chare in the sales.
+
+The three biggest things in 1971 were food, cars, and petrol, with 22%, and 10%, respectively. However, whilst cars increased their share to under a half 43%. food Saw a notable decrease to 14%in addition, petrol also dropped to 8% in the year 2001. Cars replaced food as the first highest Sales in 20ol.
+
+The remaining fourth comparators, restaurants, furniture, a book, and computers. According the data, computers and restaurants rose from 7/ and 2%, to 14% and 12% throughout the years. After this, book and furniture dropped from 9% and 6% to 8%, and 1%
+
+ To sum up, the last part of the pie chart was the books"
+
+
+Revised:
+
+"The pie chart illustrates the changes in spending habits of individuals in the United Kingdom between 1971 and 2001. Overall, the biggest expenditure in the given period shifted from food to cars. Additionally, there were notable increases in purchases of computers and visits to restaurants, while furniture and book sales declined.
+
+In 1971, the three largest expenses were food, cars, and petrol, accounting for 22%, 10%, and 8% respectively. However, by 2001, cars had replaced food as the highest expenditure, with a share of 43%. At the same time, the percentage spent on food witnessed a significant decrease to 14%. The share allocated for petrol also dropped to 8% in 2001.
+
+Apart from food, cars, and petrol, the remaining four categories—restaurants, furniture, books, and computers—saw varying changes in their shares. The percentage spent on computers and visits to restaurants rose from 2% and 7% in 1971, to 14% and 12% respectively in 2001. On the other hand, book sales and furniture purchases experienced declines, falling from 9% and 6% in 1971 to 8% and 1% respectively in 2001.
+
+In conclusion, the pie chart depicts the shifts in spending habits of individuals in the United Kingdom between 1971 and 2001. While cars replaced food as the highest expenditure, there were also significant increases in computer purchases and visits to restaurants. Conversely, furniture and book sales declined during this period."
+
+
+Feedback:
+
+Task Response:
+
+Trong bài viết của bạn, nhiệm vụ được thực hiện một cách không đủ. Bạn đã không chỉ rõ biểu đồ hiển thị sự thay đổi trong thói quen tiêu dùng của người dân Anh từ năm 1971 đến 2001. Bạn cần cung cấp thông tin chi tiết về các loại hàng hóa được các người dân Anh mua từ năm 1971 đến 2001 và thể hiện sự thay đổi và xu hướng chung của mỗi loại hàng hóa trong thời gian đó.
+
+Ý tưởng của bạn chưa được phát triển đầy đủ. Bạn chỉ đề cập đến sự thay đổi trong mức chi tiêu của 3 loại hàng hóa chính là food, cars và petrol từ năm 1971 đến 2001. Tuy nhiên, không có nhắc đến các loại hàng hóa khác và không có sự so sánh và phân tích trên nền tảng dữ liệu cung cấp.
+
+Để cải thiện nhiệm vụ trong bài viết của bạn, bạn cần:
+
+1. Cung cấp thông tin chi tiết về tất cả các loại hàng hóa mà biểu đồ đề cập đến và thể hiện xu hướng và sự thay đổi của từng loại trong thời gian từ 1971 đến 2001.
+
+2. Đưa ra cái nhìn tổng quan về dữ liệu được cung cấp, như thay đổi chung và xu hướng chung của các loại hàng hóa qua các mốc thời gian khác nhau. 
+
+3. Sử dụng số liệu và dữ liệu từ biểu đồ để phân tích sự thay đổi và phân loại loại hàng hóa trong thời gian.
+
+Điều này sẽ giúp bạn phát triển ý tưởng một cách đầy đủ và cung cấp thông tin đáng tin cậy và chi tiết cho người đọc.
+
+
+Coherence and Cohesion:
+
+Trong bài viết của bạn, có một số vấn đề về coherence and cohesion. Đầu tiên, các câu trong bài viết không được sắp xếp một cách logic và có thể gây khó khăn cho người đọc theo dõi thông tin. Ví dụ, câu "The pie chart illustrates the purchase habits of individuals in the United Kingdom between 1971 and 2001. overall, in beging the cars were the biggest exchange in the given period" không tạo ra một liên kết logic giữa các ý. Bạn nên sắp xếp các câu sao cho mỗi câu tiếp theo kết nối với ý trước đó một cách mạch lạc và hợp lí.
+
+Thứ hai, bạn chưa sử dụng các liên từ và từ nối một cách hợp lý để kết nối các câu và đoạn văn trong bài viết của bạn. Điều này làm cho bài viết trở nên mất cân đối và khó hiểu. Ví dụ, bạn có thể sử dụng các từ nối như "however", "therefore", "moreover" để tạo ra một luồng ý thống nhất và giúp người đọc theo dõi các thông tin trong bài viết.
+
+Gợi ý cải thiện coherence and cohesion trong bài viết của bạn:
+
+1. Sắp xếp các ý theo một cấu trúc rõ ràng và logic.
+   - Bạn có thể bắt đầu bài viết bằng cách tóm tắt tổng quan về dữ liệu từ biểu đồ.
+   - Tiếp theo, bạn có thể đề cập đến xu hướng chung và sự thay đổi chính trong thói quen mua hàng của người dân Anh qua các mốc thời gian khác nhau.
+
+2. Sử dụng các liên từ và từ nối để kết nối các câu và đoạn văn.
+   - Sử dụng các từ nối như "however", "in addition", "on the other hand" để kết nối các ý trái ngược với nhau.
+   - Sử dụng các từ nối như "therefore", "as a result", "moreover" để kết nối các ý tương đồng và tiếp tục triển khai thông tin.
+
+Qua việc cải thiện sự liên kết mạch lạc và hợp lý trong bài viết của bạn, người đọc sẽ dễ dàng hiểu ý của bạn và theo dõi thông tin một cách dễ dàng hơn.
+
+
+Lexical Resource:
+
+Trong bài viết của bạn, có một số vấn đề về sử dụng từ vựng và cấu trúc từ ngữ không hợp lý. Dưới đây là các lỗi sai cụ thể và giải thích:
+
+1. "beging" - sai chính tả. Đúng là "beginning".
+
+2. "lost" - không phù hợp trong ngữ cảnh. Thay vào đó, bạn có thể sử dụng "declined" hoặc "decreased" để diễn đạt ý của bạn.
+
+3. "staff" - không phù hợp trong ngữ cảnh. Thay vào đó, bạn có thể sử dụng "categories" hoặc "items" để chỉ các mục tiêu mà bạn đang thảo luận.
+
+4. "replaced" - không phù hợp trong ngữ cảnh. Thay vào đó, bạn có thể sử dụng "took over" hoặc "became the highest selling category" để diễn đạt ý của bạn.
+
+5. "20ol" - sai chính tả. Đúng là "2001".
+
+Ngoài ra, bạn cũng thiếu một số từ vựng quan trọng để diễn đạt ý của bạn một cách chính xác từ dữ liệu biểu đồ. Bạn có thể mở rộng vốn từ vựng của mình bằng cách sử dụng các cụm từ như "spending habits" (thói quen tiêu dùng), "purchase habits" (thói quen mua hàng), "consumption patterns" (mô hình tiêu thụ), "increase" (tăng lên), "decrease" (giảm xuống), "rise" (tăng), "fall" (giảm), "fluctuate" (dao động) và nhiều hơn nữa.
+
+Cần chú ý rằng việc sử dụng từ vựng chính xác và phù hợp trong ngữ cảnh là rất quan trọng để truyền đạt ý của bạn một cách rõ ràng và chính xác.
+
+
+Grammatical Range and Accuracy:
+
+Trong bài viết của bạn, có một số lỗi sai về ngữ pháp. Dưới đây là danh sách các lỗi cụ thể và giải thích:
+
+1. "in beging the cars were the biggest exchange in the given period" - Lỗi sai về cấu trúc câu. Thay vì "in the beginning, cars were the biggest expenditure during the given period".
+
+2. "However, food was declares after that whilst all the other staff were lost there chare in the sales" - Câu này không rõ ràng và chứa lỗi ngữ pháp nhiều, cần sửa lại hoàn toàn. Thay vì "However, food expenditure decreased significantly, while the sales share of all other categories diminished."
+
+3. "The three biggest things" - Thay vì "The three largest categories".
+
+4. "with 22%, and 10%, respectively" - Thay vì "accounting for 22% and 10% respectively".
+
+5. "However, whilst cars increased their share to under a half 43%" - Lỗi sai về cấu trúc câu và từ ngữ. Thay vì "However, the share of cars rose to nearly half, reaching 43%".
+
+6. "food Saw a notable decrease to 14%in addition, petrol also dropped to 8% in the year 2001" - Lỗi ngữ pháp và cấu trúc câu không chính xác. Thay vì "Food witnessed a significant decline to 14%. In addition, petrol also decreased to 8% in 2001".
+
+7. "Cars replaced food as the first highest Sales in 20ol" - Lỗi cấu trúc câu và từ ngữ không chính xác. Thay vì "Cars replaced food as the highest selling category in 2001".
+
+8. "The remaining fourth comparators, restaurants, furniture, a book, and computers" - Lỗi từ ngữ và cấu trúc câu sai. Thay vì "The remaining four categories include restaurants, furniture, books, and computers".
+
+9. "According the data" - Lỗi sai về từ ngữ. Thay vì "According to the data".
+
+10. "computers and restaurants rose from 7/ and 2%, to 14% and 12%" - Lỗi sai về cấu trúc câu và từ ngữ. Thay vì "The sales share of computers and restaurants increased from 7% and 2% to 14% and 12% respectively".
+
+11. "After this, book and furniture dropped from 9% and 6% to 8%, and 1%" - Câu này không rõ ràng và chứa lỗi ngữ pháp nhiều, cần sửa lại hoàn toàn. Thay vì "However, the sales share of books and furniture declined from 9% and 6% to 8% and 1% respectively".
+
+12. "To sum up, the last part of the pie chart was the books" - Câu này không rõ ràng và cần sửa lại. Thay vì "In conclusion, the category with the lowest sales share was books".
+
+Hy vọng rằng đánh giá này sẽ giúp bạn hiểu các lỗi sai về ngữ pháp trong bài viết của bạn và cải thiện văn phong và ngôn ngữ của mình.
+
+
+Score:
+
+Overall:
+
+Score_TR:
+Score_CC:
+Score_LR:
+Score_GA:
+
+Task Response: 4/9 - The essay partially addresses the task but does not fully meet the requirements. There is a lack of clarity in explaining the changes in spending habits over time and the overall trends. The essay could have provided a more comprehensive analysis of the data instead of just mentioning a few categories.
+
+Coherence and Cohesion: 2/9 - The essay lacks coherence and cohesion. The organization of ideas is confusing, making it difficult for the reader to follow the information. There is also a lack of logical flow between sentences and paragraphs. The essay would benefit from clear topic sentences and more linking words to connect ideas.
+
+Lexical Resource: 3/9 - The essay demonstrates some vocabulary mistakes and limited use of appropriate vocabulary. There are errors in word choice and sentence structure. The essay could also benefit from using a wider range of vocabulary to describe the data accurately.
+
+Grammatical Range and Accuracy: 3/9 - The essay contains several grammatical errors and lacks sentence variety. There are mistakes in verb tenses, word order, and subject-verb agreement. The use of complex sentence structures and word forms is limited. More attention should be given to grammar accuracy and sentence structure complexity.
+
+Overall, the essay needs significant improvements in all criteria to achieve a higher score. It is important to focus on addressing the task fully, organizing ideas coherently, using appropriate vocabulary, and enhancing grammar accuracy and complexity.
+
+

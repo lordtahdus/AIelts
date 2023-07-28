@@ -7,7 +7,7 @@ from link_check import *
 # Set up Scraper API request
 api_key = '63344ec8f7f532e761bd07a60531c2f0'
 for page in range(3):
-    url = f'https://writing9.com/band/6.5/{page}'
+    url = f'https://writing9.com/band/7/{page}'
     params = {
         'api_key': api_key,
         'url': url,
