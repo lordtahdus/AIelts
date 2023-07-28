@@ -1,0 +1,144 @@
+Topic:
+
+"The pictures below show how tomato ketchup is made.
+
+Summarize the information by selecting and reporting the main features."
+
+Essay:
+
+"The pictures highlight the process by which tomato ketchup is produced and packed in order to be catered for customers.
+
+It is noticed that there are 15 stages in the diagram, starting with harvesting tomatoes and finishing with using tomato ketchup as a flavour for some dishes at home.
+
+The first step is that tomatoes are picked and put in baskets. After that, they are divided into 2 groups: good and bad ones so that tomato ketchup can get as high quality as possible. Good tomatoes are continuously delivered to factories, where they have detached some unnecessary parts including removing stalks, skin, and seeds from the inner parts. Having been stored in a container, tomatoes are crushed to become liquid. At this point, sugar, salt and vinegar are added, aiming to flavour. The next step is that the liquid is boiled and then left for 2 hours in order to get the right temperature.
+
+After the steps of fabricating tomatoes ketchup, it is poured into bottles, which are then labelled. Before being packed into boxes, the bottles have checked the quality. Following this, these boxes are loaded onto lorries, which take them to supermarkets. The final step is that consumers may buy a bottle of tomato ketchup and enjoy it with hamburgers and fries."
+
+
+Revised:
+
+"The provided diagrams illustrate the various stages involved in the production and packaging of tomato ketchup, from the initial harvest of tomatoes to the final consumption by customers.
+
+Overall, the process includes 15 distinct steps, including tomato harvesting, sorting, processing, bottling, quality control, and transportation.
+
+To begin with, ripe tomatoes are harvested and collected in baskets. Next, the tomatoes are categorised into two groups: those deemed suitable for ketchup production and those unfit for use. The selected tomatoes are then transported to factories, where they undergo a series of procedures to ensure optimum quality. This includes removing unwanted parts such as stalks, skin, and seeds. The tomatoes are subsequently stored in a container and crushed into a liquid form. To enhance the taste, sugar, salt, and vinegar are added to the mixture. The liquid is then boiled and left to reach the desired temperature for two hours.
+
+Once the tomatoes have been processed into ketchup, it is carefully poured into bottles and the bottles are labeled. Prior to packaging, the quality of the bottles is assessed to ensure they meet the required standards. They are then placed into boxes and loaded onto lorries for transportation to supermarkets.
+
+The final stage of this process involves consumers purchasing a bottle of tomato ketchup and enjoying it with popular food items such as hamburgers and fries.
+
+In conclusion, the production and packaging process of tomato ketchup entails several crucial steps including tomato sorting, processing, bottling, quality control, and transportation. These steps ensure the production of high-quality ketchup that eventually reaches customers for their culinary pleasure."
+
+
+Feedback:
+
+Task Response:
+
+Trong bài viết của bạn, bạn đã đưa ra một trình bày chung về cách làm nước sốt cà chua, tuy nhiên, có một số điểm cần được cải thiện để đạt được sự trả lời đầy đủ cho câu hỏi của đề bài.
+
+Đầu tiên, bạn nên mở rộng và giải thích thêm về mỗi bước trong quá trình sản xuất nước sốt cà chua. Ví dụ, bạn đã đề cập đến việc chọn lựa và tách cà chua thành hai nhóm, tuy nhiên, bạn có thể cung cấp thông tin cụ thể hơn về quy trình này, bao gồm cách nhận biết và lựa chọn cà chua tốt và cách tách các thành phần không cần thiết. Điều này sẽ giúp bạn giải thích quy trình sản xuất một cách chi tiết hơn.
+
+Thêm vào đó, bạn cũng có thể mở rộng về việc thêm đường, muối và giấm vào nước sốt cà chua để tăng hương vị. Bạn có thể mô tả cách tính lượng đường, muối và giấm cần thiết và lý do vì sao chúng được sử dụng. 
+
+Ngoài ra, bạn cũng nên giải thích chi tiết hơn về việc đun sôi và để nước sốt cà chua lên nhiệt độ phù hợp trong 2 giờ. Bạn có thể mô tả quá trình đun sôi và lý do vì sao để nước sốt cà chua nguội trong 2 giờ.
+
+Tóm lại, để nâng cao điểm Task Response, bạn cần mở rộng và cung cấp thông tin chi tiết hơn về từng bước trong quá trình sản xuất nước sốt cà chua, bao gồm cả các yếu tố chọn lựa, lý do và phương pháp thực hiện mỗi bước.
+
+
+Coherence and Cohesion:
+
+Trong bài viết của bạn, có sự mạch lạc và sự liên kết nhất quán giữa các luận điểm và lập luận chung. Các câu được liên kết chặt chẽ và tiếp tục nối tiếp nhau một cách logic. Tuy nhiên, có một số điểm cần cải thiện để làm cho bài viết của bạn trở nên mạch lạc và có sự liên kết tốt hơn. Dưới đây là một số lời khuyên và ví dụ cụ thể để cải thiện việc liên kết và nhất quán trong bài viết của bạn:
+
+1. Sử dụng các từ chuyển tiếp để kết nối các ý và câu chắc chắn hơn. Ví dụ:
+- Thay vì nói "Sau đó, cà chua được chia thành 2 nhóm", bạn có thể sử dụng từ chuyển tiếp "Sau khi đủ cà chua được thu hoạch, chúng được chia thành 2 nhóm."
+
+2. Sử dụng các từ ngữ chuyên ngành và từ vựng chính xác để mô tả quá trình sản xuất. Ví dụ:
+- Thay vì nói "Good tomatoes are continuously delivered to factories", bạn có thể sử dụng "Ripe tomatoes are transported to processing factories" để mô tả rõ ràng hơn quá trình vận chuyển cà chua chín đến nhà máy chế biến.
+
+3. Sử dụng các cụm từ và câu phức tạp để tăng tính hợp lý và sự liên kết của bài viết. Ví dụ:
+- Thay vì nói "After the steps of fabricating tomatoes ketchup, it is poured into bottles", bạn có thể sử dụng "Once the tomatoes have been processed into ketchup, it is then carefully poured into bottles, ready for packaging and distribution."
+
+4. Kiểm tra lại các cấu trúc câu và đảm bảo chúng chính xác và dễ hiểu. Ví dụ:
+- Thay vì nói "Before being packed into boxes, the bottles have checked the quality", bạn có thể sử dụng "The quality of the bottles is checked before they are packed into boxes."
+
+Với các sửa đổi như trên, bài viết của bạn sẽ trở nên mạch lạc hơn, với một sự liên kết tốt hơn giữa các ý và câu.
+
+
+Lexical Resource:
+
+Trong bài viết của bạn, các từ và cụm từ được sử dụng phù hợp và có ý nghĩa, nhưng vẫn có một số lỗi về từ vựng và cách sử dụng từ ngữ. Dưới đây là danh sách các lỗi sai cụ thể:
+
+1. "Tomato ketchup can get as high quality as possible" - Thay vì sử dụng "get as high quality as possible", bạn có thể sử dụng "attain the highest possible quality" để tránh lặp lại từ "get".
+
+2. "Having been stored in a container, tomatoes are crushed to become liquid" - Thay vì sử dụng "tomatoes are crushed to become liquid", bạn có thể sử dụng "tomatoes are crushed to extract their juice".
+
+3. "The next step is that the liquid is boiled and then left for 2 hours in order to get the right temperature" - Thay vì sử dụng "get the right temperature", bạn có thể sử dụng "reach the desired temperature" hoặc "achieve the appropriate temperature".
+
+4. "Before being packed into boxes, the bottles have checked the quality" - Thay vì sử dụng "the bottles have checked the quality", bạn có thể viết "the quality of the bottles is checked" hoặc "the bottles undergo a quality check".
+
+5. "Following this, these boxes are loaded onto lorries" - Thay vì sử dụng "following this", bạn có thể sử dụng "after this" hoặc "subsequently".
+
+6. "The final step is that consumers may buy a bottle of tomato ketchup" - Thay vì sử dụng "the final step is that consumers may buy", bạn có thể sử dụng "the last stage is when consumers purchase" hoặc "the final step involves consumers buying".
+
+Các cụm từ và từ vựng trong bài viết của bạn rất phổ biến và không có tình huống ngữ cảnh không phù hợp. Tuy nhiên, để tăng điểm trong tiêu chí này, bạn có thể sử dụng các từ ngữ chuyên môn cụ thể liên quan đến quá trình sản xuất nước sốt cà chua như "harvesting technique", "de-seeding process" và "pasteurization stage".
+
+
+Grammatical Range and Accuracy:
+
+Trong bài viết của bạn, có một số lỗi ngữ pháp nhỏ. Dưới đây là danh sách các lỗi cụ thể và giải thích:
+
+1. After that, they are divided into 2 groups: good and bad ones so that tomato ketchup can get as high quality as possible.
+   - Lỗi: Thiếu mạo từ "the" trước "good and bad ones".
+   - Sửa: After that, they are divided into 2 groups: the good and the bad ones...
+
+2. Having been stored in a container, tomatoes are crushed to become liquid.
+   - Lỗi: Sai cấu trúc từ bị động.
+   - Sửa: After being stored in a container, tomatoes are crushed to become liquid.
+
+3. At this point, sugar, salt and vinegar are added, aiming to flavour.
+   - Lỗi: Cấu trúc câu không chính xác.
+   - Sửa: At this point, sugar, salt, and vinegar are added to flavor.
+
+4. The next step is that the liquid is boiled and then left for 2 hours in order to get the right temperature.
+   - Lỗi: Mệnh đề "that" không cần thiết.
+   - Sửa: The next step is boiling the liquid and then leaving it for 2 hours to reach the right temperature.
+
+5. Following this, these boxes are loaded onto lorries, which take them to supermarkets.
+   - Lỗi: Chưa sử dụng từ liên kết mạch lạc.
+   - Sửa: After that, these boxes are loaded onto lorries, which then take them to supermarkets.
+
+6. The final step is that consumers may buy a bottle of tomato ketchup and enjoy it with hamburgers and fries.
+   - Lỗi: Cấu trúc câu không cần thiết.
+   - Sửa: The final step is for consumers to buy a bottle of tomato ketchup and enjoy it with hamburgers and fries.
+
+Tuy vẫn có một số lỗi nhỏ trong bài viết của bạn, nhưng tổng thể, mức độ sai lỗi không quá nghiêm trọng và không ảnh hưởng đáng kể đến sự hiểu rõ ý của bạn. Tuy nhiên, để tăng điểm trong tiêu chí này, bạn nên chú trọng vào việc sử dụng các cấu trúc câu chính xác và đảm bảo không có lỗi sai ngữ pháp.
+
+
+Score:
+
+Overall:
+
+Score_TR:
+Score_CC:
+Score_LR:
+Score_GA:
+
+Task Response:
+- The essay does address the topic and provides a summary of the main features of tomato ketchup production. However, there are some inaccuracies and missing information. 
+- Score: 6.0
+
+Coherence and Cohesion:
+- The essay has a clear organizational structure and the ideas are logically arranged. Transition words and phrases are used to create coherence and connect ideas. However, there are some minor language errors that affect the flow and understanding.
+- Score: 6.0
+
+Lexical Resource:
+- The essay uses some appropriate vocabulary, but there is room for improvement. There is repetition in the use of certain descriptive words, and more specific vocabulary related to the production process could be used. 
+- Score: 6.0
+
+Grammatical Range and Accuracy:
+- The essay demonstrates the use of complex sentence structures and there are some grammatically correct sentences. However, there are also some grammar mistakes, such as tense errors and incorrect sentence structures. 
+- Score: 6.5
+
+Overall, the estimated band score would be around 6.0
+
+

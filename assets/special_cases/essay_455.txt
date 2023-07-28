@@ -1,0 +1,126 @@
+Topic:
+
+"The diagram shows how tea processed. 
+
+150 words."
+
+Essay:
+
+"Overall, it is clear that making a cup of tea can be be divided into two clear sets of stages: those in the kettle and those in the cup.
+
+The process requires relatively little specialised equipment and takes around 10 minutes to complete.
+
+Overall, it is clear that making a cup of tea can be divided into two clear sets of stages: those in the kettle and those in the cup. The process requires relatively little specialised equipment and takes around 10 minutes to complete.
+
+The initial stages of making a cup of tea all involve the kettle. In the first stage, a kettle is filled with water from a tap. After the kettle has been plugged in, it boils after 5 minutes.
+
+The stages that require a cup now begin. While the kettle is boiling, a teabag is placed into a cup. Hot water is then added to the cup. Before removing the teabag, the tea should be left for 5 minutes.
+
+Finally, having added either sugar or milk, you can drink the tea."
+
+
+Revised:
+
+Overall, it is evident that the process of making a cup of tea can be divided into two distinct stages: those involving the kettle and those involving the cup. Additionally, the process does not require any specialized equipment and can be completed within approximately 10 minutes.
+
+The initial stages of preparing tea involve the use of the kettle. Firstly, water is drawn from a tap and poured into the kettle. Subsequently, the kettle is plugged in and the water is heated until it reaches boiling point, which typically takes around 5 minutes.
+
+The subsequent stages take place in the cup. While waiting for the kettle to boil, a teabag is placed in the cup. Once the water is boiled, it is then poured into the cup, directly onto the teabag. The tea is left to steep for approximately 5 minutes before the teabag is removed.
+
+Finally, to enhance the taste, sugar or milk can be added to the tea according to individual preferences. Once the desired additions have been made, the tea is ready to be consumed.
+
+In conclusion, the process of making a cup of tea is straightforward and consists of two main stages: the utilization of the kettle and the actions performed in the cup. With minimal equipment required and a relatively short time frame, tea can quickly be prepared and enjoyed. (165 words)
+
+
+Feedback:
+
+Task Response:
+
+Ban đầu, bài viết của bạn trả lời đúng câu hỏi đề bài bằng cách chia quá trình làm trà thành hai giai đoạn chính: giai đoạn trong ấm đun nước và giai đoạn trong cốc. Tuy nhiên, ý tưởng của bạn vẫn chưa được mở rộng đầy đủ và cung cấp đủ thông tin.
+
+Điểm cần cải thiện đầu tiên trong Task Response là bạn có thể cung cấp một số thông tin về các giai đoạn chuẩn bị trước khi bắt đầu làm trà như việc chọn trà túi, lấy ra trà từ hộp và đến bước làm sạch cốc. Bạn cũng có thể giải thích về sự quan trọng của việc bỏ trà túi vào cốc trước khi đổ nước.
+
+Điểm cần cải thiện thứ hai là bạn có thể cung cấp thêm lưu ý và hướng dẫn chi tiết về thời gian nấu trà. Ví dụ như, bạn có thể nói rõ thời gian cho nước trong ấm đun lên sôi, thời gian để trà ngậm trong nước nóng, và thời gian hợp lý để cho trà giữ nguyên hương vị tùy theo sở thích của mỗi người.
+
+Ngoài ra, nếu bạn có thể giới thiệu và mô tả một số các biến thể khác nhau của việc làm trà được sử dụng trên thế giới, điều đó sẽ giúp mở rộng ý tưởng và cung cấp thêm thông tin liên quan đến quá trình làm trà.
+
+Tóm lại, để cải thiện Task Response, hãy cung cấp thêm thông tin về các bước chuẩn bị trước khi bắt đầu làm trà và nêu rõ về thời gian nấu trà và lưu ý quan trọng. Bạn cũng có thể đưa ra ví dụ về các biến thể khác nhau trong việc làm trà.
+
+
+Coherence and Cohesion:
+
+Trình bày cách cải thiện coherence and cohesion, bạn có thể áp dụng các biện pháp sau:
+
+1. Sắp xếp mạch lạc hơn: Hãy đảm bảo rằng mỗi đoạn có một ý chính rõ ràng, và các ý phụ hỗ trợ được sắp xếp theo một thứ tự logic. Ví dụ: Thay vì mô tả hai giai đoạn chính liền kề, bạn có thể chia thành hai đoạn riêng biệt: một đoạn cho giai đoạn trong ấm đun nước và một đoạn cho giai đoạn trong cốc.
+
+2. Sử dụng các từ nối logic: Sử dụng các từ nối như "Firstly," "Secondly," "In addition," "Furthermore," và "Moreover" để liên kết các ý chính và ý phụ. Ví dụ: "Firstly, the kettle is filled with water. Secondly, the kettle is plugged in and boils after 5 minutes. In addition, a teabag is placed into a cup, and hot water is added." 
+
+3. Sử dụng các từ đồng nghĩa và từ ngữ thích hợp: Đồng nghĩa và từ ngữ thích hợp giúp tạo sự liên kết suôn sẻ giữa các câu và đoạn văn. Ví dụ: Thay vì lặp lại cụm từ "making a cup of tea," bạn có thể thay thế bằng "brewing tea" hoặc "preparing tea." 
+
+4. Sử dụng cấu trúc câu đa dạng: Hãy sử dụng cấu trúc câu đa dạng để tránh lặp lại đơn điệu. Ví dụ: "After the kettle has been plugged in, it will start to boil in approximately 5 minutes" thay vì "After 5 minutes of boiling, the kettle is ready."
+
+5. Sử dụng từ vựng mở rộng: Sử dụng từ vựng mở rộng và biểu đạt sự mô tả một cách sáng tạo hơn. Ví dụ: Thay vì sử dụng từ "cup" nhiều lần, bạn có thể sử dụng "mug," "teacup," hoặc "beverage container" để tăng tính đa dạng ngôn ngữ.
+
+Lưu ý rằng sử dụng các biện pháp trên hỗ trợ tăng cường sự liên kết và mạch lạc trong văn bản của bạn.
+
+
+Lexical Resource:
+
+Trong bài viết của bạn, từ vựng sử dụng là khá phong phú và phù hợp với ngữ cảnh. Chúng tôi không tìm thấy lỗi sai nào về từ vựng trong bài viết của bạn. Dưới đây là một số từ và cụm từ được sử dụng phù hợp trong bài viết của bạn:
+
+- Overall: từ này được sử dụng để tổng quát hóa ý kiến hoặc mô tả điều gì đó trong toàn bài viết.
+- Divided into: cụm từ này được sử dụng để chỉ sự chia ra thành các phần khác nhau.
+- Stages: từ này chỉ các giai đoạn hoặc bước cụ thể trong quá trình làm trà.
+- Kettle: từ này chỉ ấm đun nước.
+- Boils: động từ này dùng để chỉ việc nước đun sôi.
+- Teabag: từ này chỉ túi trà.
+- Cup: từ này chỉ cốc.
+- Add: động từ này dùng để chỉ việc thêm vào.
+- Sugar: từ này chỉ đường.
+- Milk: từ này chỉ sữa.
+- Drink: động từ này dùng để chỉ việc uống.
+
+Tổng kết, bài viết của bạn đã sử dụng từ vựng phù hợp và không có lỗi sai nào về từ ngữ. Bạn đã sử dụng các từ, cụm từ phù hợp với ngữ cảnh và mô tả quá trình làm trà một cách chính xác.
+
+
+Grammatical Range and Accuracy:
+
+Trong bài viết của bạn, có một số lỗi sai về ngữ pháp cần được sửa chữa. Hãy xem xét các lỗi sau:
+
+1. "making a cup of tea can be be divided" - Lặp lại từ "be".
+Sửa thành: "making a cup of tea can be divided"
+
+2. "The process requires relatively little specialised equipment and takes around 10 minutes to complete." - Thiếu dấu chấm đầu câu.
+Sửa thành: "The process requires relatively little specialised equipment and takes around 10 minutes to complete."
+
+3. "a teabag is placed into a cup" - Thiếu dấu ngoặc kép để bao quanh từ "teabag".
+Sửa thành: "a teabag is placed into a cup."
+
+4. "Before removing the teabag, the tea should be left for 5 minutes." - Câu này cần dùng dấu chấm câu thay vì dấu chấm phảy.
+Sửa thành: "Before removing the teabag, the tea should be left for 5 minutes."
+
+5. "Having added either sugar or milk, you can drink the tea." - Cần thêm từ "to" sau "drink" để hoàn thành cấu trúc động từ.
+Sửa thành: "Having added either sugar or milk, you can drink to the tea."
+
+Ngoài những lỗi trên, bài viết của bạn chứa một số câu không phân cách một cách chính xác và một số từ có thể sử dụng sai. Tuy nhiên, những lỗi này không phổ biến và không ảnh hưởng đến sự hiểu của bài viết.
+
+
+Score:
+
+Overall:
+
+Score_TR:
+Score_CC:
+Score_LR:
+Score_GA:
+
+Based on the provided information, I can estimate the score of each criterion as follows:
+
+Task Response: 6-7
+Coherence and Cohesion: 6-7
+Lexical Resource: 6-7
+Grammatical Range and Accuracy: 6-7
+
+Please note that these are approximate scores and can vary depending on the actual content and quality of the essay. Additionally, the scores are based on the information provided and may not reflect the actual performance on the writing test.
+
+

@@ -1,0 +1,154 @@
+Topic:
+
+"You should spend about 20 minutes on this task.
+
+The graph shows the annual income of languages-related jobs in US dollars in five cities.
+
+Summarise the information by selecting and reporting the main features and make comparisons where relevant.
+
+You should write at least 150 words."
+
+Essay:
+
+"The bar chart depicts the yearly income shown in US Dollars for language-related jobs such as Interpreter, Translator and Language Teacher occurred in Mexico, Dubai, Paris, Munich and Toronto. 
+
+Overall, Toronto became the city with the highest-paid Interpreter and Language Teacher
+while in contrast, Mexico was the lowest income place for all roles.
+
+To begin with, Interpreter in Toronto had an annual income of about USD 80.000 which made them the highest rate in all roles and cities. Then, Translator and Language Teacher in Toronto were getting the same value approximately above USD 60.000. Next, Interpreter in Munich would get not less than USD 70.000 whilst Translator generates income equally with Toronto and Language Teacher got yearly paid at exactly USD 60.000. Furthermore, Interpreter in Paris earn the same amount as Translator by more than USD 60.000, whereas Language Teacher are far lower by approximately more than USD 40.000. Subsequently, Interpreter and Language Teacher in Dubai had similar annual rates of USD 60.000 while Translator got slightly lower by USD 50.000 per year. Lastly, Mexico was the lowest income for every role compared to all cities where Interpreter, Translator and English Teacher earn an annual income below USD 20.000."
+
+
+Revised:
+
+"The bar chart presents the annual income in US Dollars for various language-related professions, including Interpreter, Translator, and Language Teacher, in five different cities: Mexico, Dubai, Paris, Munich, and Toronto.
+
+In general, the highest paid positions were found in Toronto, while Mexico had the lowest incomes across all roles.
+
+To begin with, Interpreter in Toronto enjoyed the highest annual income, reaching approximately USD 80,000, surpassing all other cities. Similarly, Translators and Language Teachers in Toronto earned around USD 60,000 per year, making it the most lucrative city for these roles.
+
+In Munich, Interpreters earned a considerable amount, not less than USD 70,000 annually. Translators in this city also earned the same amount as those in Toronto, approximately USD 60,000. However, Language Teachers in Munich had a slightly lower income, with an average of USD 60,000 per year.
+
+In Paris, Interpreters and Translators both earned over USD 60,000 annually, though Language Teachers had significantly lower incomes, averaging around USD 40,000 per year.
+
+Moving on to Dubai, both Interpreters and Language Teachers had similar salaries, earning an annual income of USD 60,000, while Translators had lower incomes, earning approximately USD 50,000 per year.
+
+Finally, Mexico had the lowest incomes across all roles. Interpreters, Translators, and Language Teachers earned less than USD 20,000 annually in this city.
+
+In conclusion, Toronto emerged as the city with the highest salaries for Interpreters and Language Teachers, while Mexico had the lowest incomes across all language-related professions. The chart provides a clear comparison of the differing income levels in these five cities."
+
+
+Feedback:
+
+Task Response:
+
+Trong bài viết của bạn, bạn đã trả lời đúng câu hỏi đề bài và tóm tắt được thông tin chính từ biểu đồ. Bạn đã chỉ ra rõ rằng Toronto có mức thu nhập cao nhất cho các vai trò thông dịch viên, dịch giả và giáo viên ngôn ngữ, trong khi Mexico lại có thu nhập thấp nhất cho các vai trò này. 
+
+Tuy nhiên, trong phần viết văn về Mexico, bạn chỉ đề cập đến mức thu nhập hàng năm của các vai trò thông dịch viên, dịch giả và giáo viên tiếng Anh dưới 20.000 USD mà không đề cập đến mức thu nhập chính xác. Điều này khiến một phần thông tin bị thiếu.
+
+Để cải thiện, bạn nên cung cấp thông tin chính xác về mức thu nhập hàng năm của các vai trò ở Mexico, để đảm bảo rằng bạn đã trả lời đầy đủ câu hỏi của đề bài.
+
+Ngoài ra, bạn cũng có thể mở rộng ý tưởng của mình bằng cách so sánh các mức thu nhập giữa các thành phố khác nhau và giải thích tại sao có sự khác biệt này. Bạn có thể sử dụng ví dụ và dữ liệu cụ thể để minh họa ý tưởng của mình và làm cho bài viết thêm phong phú và thuyết phục.
+
+Tóm lại, bạn đã trả lời đúng câu hỏi đề bài và cung cấp thông tin chính từ biểu đồ. Tuy nhiên, để cải thiện bài viết của bạn, hãy cung cấp thông tin chính xác về mức thu nhập của các vai trò ở Mexico và mở rộng ý tưởng của mình thông qua so sánh và giải thích.
+
+
+Coherence and Cohesion:
+
+Trong bài viết của bạn, sự liên kết và mạch lạc đã được thể hiện một cách tương đối tốt. Các luận điểm và lập luận của bạn có một sự kết nối mạch lạc và hợp lí. Tuy nhiên, có một số điểm nho nhỏ cần cải thiện để tăng cường sự liên kết trong bài viết của bạn.
+
+Một điểm cần cải thiện là việc sử dụng các từ nối một cách chính xác để giúp cho người đọc theo dõi các ý tưởng và thấy rõ sự liên hệ giữa các câu và đoạn văn. Dưới đây là một số ví dụ và gợi ý:
+
+1. Sử dụng từ nối để nối kết ý tưởng của hai câu:
+- Ví dụ: "Interpreter in Munich would get not less than USD 70.000 whilst Translator generates income equally with Toronto and Language Teacher got yearly paid at exactly USD 60.000." 
+Cách cải thiện: Sử dụng từ nối "meanwhile" hoặc "in contrast" để liên kết ý tưởng của hai câu và đưa ra sự so sánh rõ ràng giữa các thành phần trong câu.
+
+2. Sử dụng từ nối để giải thích thông tin:
+- Ví dụ: "Furthermore, Interpreter in Paris earn the same amount as Translator by more than USD 60.000, whereas Language Teacher are far lower by approximately more than USD 40.000."
+Cách cải thiện: Sử dụng từ nối "in addition" hoặc "moreover" để giúp người đọc nhận ra sự mở rộng hoặc hơn nữa về thông tin đã đề cập trong câu trước đó.
+
+3. Sử dụng từ nối để so sánh hoặc đối lập ý tưởng:
+- Ví dụ: "Lastly, Mexico was the lowest income for every role compared to all cities where Interpreter, Translator and English Teacher earn an annual income below USD 20.000."
+Cách cải thiện: Sử dụng từ nối "however" hoặc "on the other hand" để diễn đạt sự đối lập giữa ý tưởng vào đầu câu.
+
+Qua đó, sử dụng các từ nối chính xác sẽ giúp cho sự liên kết giữa các ý tưởng và câu trở nên chặt chẽ và rõ ràng hơn. Bạn cũng có thể sử dụng cấu trúc câu phức và cấu trúc câu khác nhau để đảm bảo sự liên kết mạch lạc giữa các câu và đoạn văn.
+
+
+Lexical Resource:
+
+Trong bài viết của bạn, từ vựng dùng đúng và thích hợp với ngữ cảnh. Tuy nhiên, có một số lặp từ và một vài lỗi sử dụng từ ngữ không chính xác. Dưới đây là danh sách các lỗi và giải thích chi tiết:
+
+1. "Interpreter in Toronto had an annual income of about USD 80.000 which made them the highest rate in all roles and cities." 
+   - Lỗi: "highest rate" không phù hợp trong ngữ cảnh này. Đúng hơn là sử dụng "highest income" hoặc "highest salary" để diễn đạt ý nghĩa đúng.
+   Sửa: "Interpreter in Toronto had an annual income of about USD 80.000 which made them the highest income in all roles and cities."
+
+2. "Translator and Language Teacher in Toronto were getting the same value approximately above USD 60.000."
+   - Lỗi: Sử dụng từ ngữ "getting the same value" không chính xác, nên thay bằng "earning the same value" hoặc "having the same income".
+   Sửa: "Translator and Language Teacher in Toronto were earning the same value, approximately above USD 60.000."
+
+3. "Next, Interpreter in Munich would get not less than USD 70.000 whilst Translator generates income equally with Toronto and Language Teacher got yearly paid at exactly USD 60.000."
+   - Lỗi: "generates income" không phù hợp trong ngữ cảnh này. Đây nên là "earns income" hoặc "receives income". Ngoài ra, cần chú ý đến việc sử dụng "got yearly paid" thay vì "were yearly paid"
+   Sửa: "Next, Interpreter in Munich would earn not less than USD 70.000, while Translator earns income equally with Toronto and Language Teacher is yearly paid at exactly USD 60.000."
+
+4. "Furthermore, Interpreter in Paris earn the same amount as Translator by more than USD 60.000..."
+   - Lỗi: Cần chú ý đến việc sử dụng đúng thì. Thay vì "earn", cần sử dụng "earns" để phù hợp với ngữ cảnh của câu.
+   Sửa: "Furthermore, Interpreter in Paris earns the same amount as Translator by more than USD 60.000..."
+
+Những lỗi trên chỉ là những sửa đổi nhỏ trong cách sử dụng từ ngữ trong bài viết của bạn. Tuy nhiên, tổng thể, từ vựng của bạn là phong phú và sử dụng phù hợp với ngữ cảnh.
+
+
+Grammatical Range and Accuracy:
+
+Trong bài viết của bạn, có một số lỗi ngữ pháp nhỏ. Dưới đây là danh sách các lỗi và giải thích:
+
+1. "For language-related jobs such as Interpreter, Translator and Language Teacher occurred in…" 
+   - Lỗi: Sai thì
+   - Sửa: "For language-related jobs such as Interpreter, Translator, and Language Teacher that occur in…"
+
+2. "Interpreter in Toronto had an annual income of about USD 80.000 which made them the highest rate in all roles and cities."
+   - Lỗi: Sai cấu trúc câu
+   - Sửa: "The interpreter in Toronto had an annual income of about USD 80,000, which made it the highest among all roles and cities."
+
+3. "Next, Interpreter in Munich would get not less than USD 70.000 whilst Translator generates income equally with Toronto and Language Teacher got yearly paid at exactly USD 60.000."
+   - Lỗi: Thiếu từ "the" và sai cấu trúc câu phức
+   - Sửa: "Next, the interpreter in Munich would earn no less than USD 70,000, while the translator would generate the same income as Toronto. The language teacher would be paid exactly USD 60,000 annually."
+
+4. "Interpreter in Paris earn the same amount as Translator by more than USD 60.000, whereas Language Teacher are far lower by approximately more than USD 40.000."
+   - Lỗi: Sai động từ
+   - Sửa: "The interpreter in Paris earns the same amount as the translator, with a difference of more than USD 60,000. However, the language teacher earns significantly (not "are") lower, by approximately more than USD 40,000."
+
+5. "Subsequently, Interpreter and Language Teacher in Dubai had similar annual rates of USD 60.000 while Translator got slightly lower by USD 50.000 per year."
+   - Lỗi: Sai cấu trúc câu phức và từ ngữ không rõ ràng
+   - Sửa: "Subsequently, the interpreter and language teacher in Dubai had similar annual salaries of USD 60,000, while the translator earned slightly less, at USD 50,000 per year."
+
+6. "Lastly, Mexico was the lowest income for every role compared to all cities where Interpreter, Translator, and English Teacher earn an annual income below USD 20.000."
+   - Lỗi: Sai tên chức danh và sai thì
+   - Sửa: "Lastly, Mexico had the lowest income for every role compared to all cities, where interpreters, translators, and English teachers earn an annual income below USD 20,000."
+
+Hy vọng bạn sẽ sửa các lỗi này và cải thiện ngữ pháp trong bài viết của mình.
+
+
+Score:
+
+Overall:
+
+Score_TR:
+Score_CC:
+Score_LR:
+Score_GA:
+
+Task Response: 6
+Your response adequately addresses the task by summarizing the main features of the graph and making relevant comparisons. However, there are a few areas where you could have provided more specific details, such as the exact income values for each role in each city.
+
+Coherence and Cohesion: 6
+Your essay has a clear structure, with an introduction, body paragraphs, and a conclusion. The main ideas are logically organized, and there is a good use of cohesive devices to connect the information. However, there are some minor errors in the use of transitional words and phrases, which could have improved the overall coherence.
+
+Lexical Resource: 6
+Your vocabulary choices are generally appropriate for the task. However, there are some instances of repetitive language and a few errors in word choice. You could have also used a wider range of vocabulary to enhance the variety and precision of your writing. Additionally, replacing phrases like "generate income" with more commonly used phrases like "earn income" or "receive income" would improve your lexical resource score.
+
+Grammatical Range and Accuracy: 6
+Overall, your grammar is accurate, with only a few minor errors. You demonstrate a good range of sentence structures, including complex sentences. However, there are some mistakes in the use of tenses and sentence construction that slightly affect the clarity of your writing.
+
+Estimated Overall Band Score: 6
+Based on the four criteria, it seems likely that you would earn a band score of 6 for this essay. Your response effectively addresses the task and demonstrates coherence and cohesion. However, there is room for improvement in the use of vocabulary and grammar to further enhance your writing.
+
+
