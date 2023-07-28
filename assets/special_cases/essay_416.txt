@@ -9,6 +9,7 @@ Essay:
 "The given bar chart illustrates the proportion of households owning accommodation and rented house in England and Wales from 1918 to 2011. 
 
 Overall, it can be clearly seen that the trend of both accomodations was in opposite direction. Owned accommodation had a considerable increase trend, while rented home experienced decline. 
+Topic:
 
 Looking at the information in more detail, in the first year around 24% of households had owning home and this percentage rose to 50% in 1971. In this year, the portion was the same as people rented home. The percentage of households had their accommodation continue to increase and reached a peak at just under 70% in 2001, before declining to approximately 65% in the end of the period. 
 

@@ -15,3 +15,108 @@ Next, the blocks are put into giant ovens that heat them under particular degree
 
 Revised:
 
+The given flow chart illustrates the process of recycling aluminium cans. 
+
+To begin with, the first step involves the collection of aluminium cans in designated containers specifically for reusable items. These containers are then transported to recycling facilities where the process of waste recovery commences. Next, the accumulated jars undergo cleaning and sorting procedures to eliminate any waste materials. 
+
+Following this, the cans are passed through specialized machines that shred them into small pieces. Once in pieces, they are compressed to form metal blocks. 
+
+Subsequently, these blocks are placed inside large ovens and heated to a specific temperature for melting. Once softened, the aluminium is passed between two significant rollers, which flatten it to a thickness ranging from 2.5 mm to 6 mm, depending on its intended application. 
+
+Ultimately, the flattened metal is transported to specific factories that produce beverages. Within these facilities, the aluminium canisters are filled with drinks and subsequently distributed to various shops and local markets for consumers to purchase. Remarkably, in the UK, a noteworthy 74% of distributed aluminium cans are reused. 
+
+Overall, the process of recycling aluminium cans involves several steps such as collection, cleaning, shredding, compressing, melting, flattening, and reusing. The aforementioned statistics regarding the reuse of aluminium cans in the UK reveal the effectiveness of the recycling process in this particular country.
+
+
+Feedback:
+
+Task Response:
+
+Xin lỗi vì phần đánh giá trước đó không đủ chi tiết. Sau đây là một đánh giá chi tiết hơn về Task Response của bài viết của bạn:
+
+Bài viết của bạn đã trả lời đúng câu hỏi đề bài bằng cách tóm tắt quy trình tái chế lon nhôm theo hình dạng gợi ý. Bạn đã miêu tả tất cả các bước quan trọng trong quy trình và cung cấp được cái nhìn tổng quan về quá trình tái chế.
+
+Tuy nhiên, để cải thiện Task Response, bạn có thể cung cấp thêm thông tin về các số liệu hoặc phần trăm liên quan đến quy trình tái chế lon nhôm. Ví dụ, bạn có thể đề cập đến tỷ lệ hoặc số lượng lon nhôm được tái chế hàng năm, hoặc đề cập đến những lợi ích của việc tái chế lon nhôm đối với môi trường hoặc nền kinh tế. Điều này sẽ giúp mở rộng ý tưởng và thêm sự đáng chú ý cho bài viết của bạn.
+
+Ví dụ, bạn có thể nói rõ rằng "The recycling process of aluminium cans plays a significant role in reducing waste and conserving natural resources. According to recent statistics, the UK recycles approximately X% of aluminium cans, resulting in a reduction of X amount of waste sent to landfills each year. This contributes to the preservation of the environment and the conservation of valuable resources." 
+
+Bằng cách bổ sung các dữ liệu và thông tin chi tiết, bạn sẽ nâng cao Task Response của bài viết và đáp ứng yêu cầu đề bài một cách đầy đủ và sâu sắc hơn.
+
+
+Coherence and Cohesion:
+
+Có vài điểm cần được cải thiện về sự liên kết mạch lạc và hợp lí trong bài viết của bạn.
+
+1. Câu chuyển tiếp: Mặc dù bạn đã sử dụng câu chuyển tiếp trong bài viết của mình, nhưng một số trong số chúng không hợp lí. Ví dụ, câu "And these containers are brought to recycling factories, where the process of waste recovery begins" có thể được cải thiện bằng cách thay thế "brought" bằng "taken". Điều này giúp câu trở nên rõ ràng hơn và giải thích cụ thể hơn cách thức chuyển các container đến nhà máy tái chế.
+
+2. Sự liên kết giữa các câu: Một số câu trong bài viết của bạn có thể được kết hợp hoặc tái cấu trúc để tạo ra sự liên kết mạch lạc hơn giữa các luận điểm và lập luận. Ví dụ, câu "Next, the blocks are put into giant ovens that heat them under particular degrees for melting" có thể được liên kết mạch lạc hơn nếu được kết hợp với câu trước đó. Bạn có thể sử dụng từ "After" để bắt đầu câu tiếp theo và viết "After the blocks are compressed to form a metal block, they are put into giant ovens that heat them under particular degrees for melting". Việc này giúp giữ liên kết giữa việc nén và việc làm tan chảy.
+
+3. Sắp xếp câu: Một số câu trong bài viết của bạn có thể được sắp xếp lại để tạo ra sự liên kết mạch lạc hơn. Ví dụ, câu "Finally, flattened metal is delivered to special factories that produce drinking products, where canisters are filled with drinks and distributed to shops and local markets for consumers" có thể được sắp xếp lại thành "Finally, flattened metal is delivered to special factories that produce drinking products. At these factories, canisters are filled with drinks and distributed to shops and local markets for consumers". Việc này giúp tách biệt và làm rõ hơn quy trình sản xuất và phân phối đồ uống từ nhôm tái chế.
+
+Tổng quan, mặc dù bài viết của bạn đã có sự liên kết, nhưng vẫn còn một số điểm mà bạn có thể cải thiện để tăng khả năng liên kết mạch lạc và hợp lí giữa các luận điểm và lập luận trong bài viết.
+
+
+Lexical Resource:
+
+Xin lỗi vì nhầm lẫn ở phần đánh giá trước. Dưới đây là đánh giá chi tiết về Lexical Resource trong bài viết của bạn:
+
+1. Lỗi sai về từ vựng:
+
+- "jars" thay vì "cans" hoặc "bottles". Từ "jars" chỉ đến các hũ, chặt chẽ hơn là các lon nhôm. Để tránh hiểu nhầm, nên sử dụng từ "cans" hoặc "bottles" để mô tả lon nhôm.
+
+2. Một số từ, cụm từ dùng không phù hợp trong ngữ cảnh:
+
+- "assort" trong "all amassed jars are cleaned and assorted out". Từ "assort" thường được sử dụng để chỉ việc phân loại hoặc sắp xếp các mặt hàng vào các nhóm riêng biệt. Trong trường hợp này, từ "sorted" sẽ phù hợp hơn để diễn tả việc tách rời các mặt hàng trong quy trình tái chế.
+
+- "products go through specialized machines which shred them into tiny pieces". Từ "products" không chỉ rõ đến lon nhôm mà ngược lại chỉ đến các mặt hàng tổng quát. Thay vì "products", từ "cans" hoặc "bottles" sẽ thích hợp hơn để nói không nhầm đến đối tượng cụ thể.
+
+- "delivered to special factories that produce drinking products". Từ "drinking products" có thể gây hiểu lầm về việc các nhà máy sản xuất lon nhôm cũng làm sản phẩm uống. Thay vì "drinking products", từ "beverage products" hoặc "drink products" sẽ phù hợp hơn để diễn tả sản phẩm lon nhôm được dùng để đựng đồ uống.
+
+Tổng kết lại, bài viết của bạn chỉ mắc một số lỗi khá nhỏ về từ vựng và ngữ cảnh, như sử dụng từ "jars" thay vì "cans" hoặc "bottles", sử dụng từ "assort" trong ngữ cảnh không phù hợp và mô tả sản phẩm lon nhôm như là "drinking products".
+
+
+Grammatical Range and Accuracy:
+
+Thông qua việc kiểm tra lại, tôi đã tìm thấy một số lỗi ngữ pháp trong bài viết của bạn. Dưới đây là danh sách các lỗi và giải thích cách sửa chúng:
+
+1. "Firstly, aluminium cans must be collected in special containers for reusable products." - Bạn sử dụng từ "cans" nhưng hình ảnh của đề bài và ngữ cảnh cho thấy bạn đang nói về "bottles". Vì vậy, cần sửa thành "Firstly, aluminium bottles must be collected in special containers for reusable products."
+
+2. "And these containers are brought to recycling factories, where the process of waste recovery begins." - Trong cách diễn đạt này, người đọc sẽ hiểu là người đang "mang" các container đến nhà máy tái chế, khi thực tế là thường sẽ có các phương tiện vận chuyển đến các nhà máy. Vì vậy, chúng ta nên sử dụng từ "taken" thay vì "brought". Ví dụ: "And these containers are taken to recycling factories, where the process of waste recovery begins."
+
+3. "In the next step, the pieces are compressed to form a metal block." - Cần thêm "are" vào sau "pieces" để tương thích với "are compressed". Ví dụ: "In the next step, the pieces are compressed to form a metal block."
+
+4. "Next, the blocks are put into giant ovens that heat them under particular degrees for melting." - Cần "at" sau "particular degrees" để chỉ ra một nhiệt độ cụ thể. Ví dụ: "Next, the blocks are put into giant ovens that heat them at particular degrees for melting."
+
+5. "After being softened, the aluminium is passed between two big rollers that flatten it from 2.5 mm to 6 mm thick." - Đối với "flatten it to", ta cần thêm từ "to" sau "flatten". Ví dụ: "After being softened, the aluminium is passed between two big rollers that flatten it to 2.5 mm to 6 mm thick."
+
+6. "Finally, flattened metal is delivered to special factories that produce drinking products, where canisters are filled with drinks and distributed to shops and local markets for consumers." - Trong ngữ cảnh này, bạn đang nói về các lon, vì vậy cần phải sử dụng từ "cans" thay vì "canisters". Ví dụ: "Finally, flattened metal is delivered to special factories that produce drinking products, where cans are filled with drinks and distributed to shops and local markets for consumers."
+
+
+Score:
+
+Overall:
+
+Score_TR:
+Score_CC:
+Score_LR:
+Score_GA:
+
+Task Response: 4/5
+
+- You have provided a clear and accurate summary of the recycling process of aluminium cans. You have covered all the main features and compared them where relevant. However, there is room for further development, such as providing more specific information or explaining the significance of the process.
+
+Coherence and Cohesion: 4/5
+
+- Your essay is well-organized and coherent. There is a clear progression of ideas and good use of linking words to connect different parts of the process. However, there are a few instances where the transitions could have been smoother or more explicit.
+
+Lexical Resource: 3/5
+
+- Your use of vocabulary is fairly accurate and mostly appropriate for the topic. However, there are a few inaccuracies or less precise word choices. Additionally, you could have used a wider range of vocabulary to describe the recycling process and its significance.
+
+Grammatical Range and Accuracy: 3/5
+
+- Your grammar is generally sound, but there are some errors and inaccuracies throughout the essay. There are issues with verb tenses, word order, and subject-verb agreement. Additionally, there are a few instances where the sentence structures could have been more varied and complex.
+
+Overall, your essay demonstrates a good understanding of the topic and effectively presents the main features of the recycling process. However, there are areas for improvement in terms of vocabulary use and grammatical accuracy. Based on these criteria, I would estimate the score for Task Response to be 4, Coherence and Cohesion to be 4, Lexical Resource to be 3, and Grammatical Range and Accuracy to be 3.
+
+
