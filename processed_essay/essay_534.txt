@@ -1,0 +1,104 @@
+Topic:
+
+"The diagram below shows how coffee is produced and prepared for sale in supermarkets and shops.
+
+Summarise the information by selecting and reporting the main features and make comparisons where relevant."
+
+Essay:
+
+"The diagram illustrates several steps of how the production of coffee is carried out before being sold.
+
+It is clear that there are 11 main stages in this process, starting with beans being picked from the trees and ending with the resulting products being packed for sale.
+
+As can be seen, during the first step, coffee beans are collected by farmers and let dry under the sun for a few days. Next, those dried ones are roasted by heat in the oven before being cooled rapidly in a cooler. After cooling, a grinder machine is used to crush beans into powder. 
+
+Moreover, once ground, the powder is mixed with hot water and then the mixture is strained carefully. In the following stage, it is frozen in the freezer at a low temperature before being pulverized again. Subsequently, the combination is dried in a vacuum in order to let all the left liquid evaporate. Finally, the final products are packed into jars to get ready for sale in shops and supermarkets."
+
+
+Revised:
+
+"The diagram depicts the various stages involved in the production and preparation of coffee for sale in supermarkets and shops.
+
+Overall, there are 11 distinct steps in this process, commencing with the picking of coffee beans from trees and concluding with the packaging of the final products for sale.
+
+To begin with, the initial stage involves farmers harvesting the coffee beans, which are then left to dry in the sun for a few days. Following this, the dried beans undergo roasting in an oven and are subsequently rapidly cooled in a cooler. Once cooled, a grinder is utilized to crush the beans into a fine powder.
+
+Moving on, after being ground, the coffee powder is mixed with hot water and then carefully strained. The next stage involves freezing the mixture at a low temperature, after which it is pulverized again. Subsequently, the combination goes through a drying process in a vacuum, allowing any remaining liquid to evaporate. Finally, the resulting powdered coffee is packed into jars, ready to be sold in shops and supermarkets.
+
+In conclusion, the diagram illustrates the step-by-step procedure of coffee production and preparation, highlighting the collection and drying of beans, roasting, grinding, mixing with hot water, straining, freezing, pulverizing, drying, and packaging.
+
+
+Feedback:
+
+Task Response:
+
+Trong bài viết của bạn, bạn đã trả lời đúng câu hỏi đề bài bằng cách tóm tắt các giai đoạn chính của quy trình sản xuất cà phê. Bạn đã mô tả chi tiết từ khi cà phê được thu hoạch cho đến khi được đóng gói để bán. Tuy nhiên, bạn đã bỏ qua việc so sánh các giai đoạn trong quy trình này. Đề bài yêu cầu bạn so sánh các giai đoạn khi cần thiết.
+
+Để cải thiện về Task Response, bạn nên thêm một số so sánh giữa các giai đoạn, ví dụ như so sánh quá trình rang cà phê và quá trình xay cà phê, hoặc so sánh quá trình đông lạnh và quá trình sấy khô. Điều này sẽ giúp bạn đáp ứng yêu cầu của đề bài.
+
+Ví dụ, bạn có thể thêm vào câu cuối của mỗi giai đoạn để mô tả sự khác biệt hoặc tương đồng giữa các giai đoạn. Ví dụ, sau khi mô tả quá trình rang cà phê, bạn có thể nói "This step transforms the beans into a dark, aromatic substance, giving coffee its distinct flavor." Hoặc sau khi mô tả quá trình sấy khô, bạn có thể nói "This process removes all remaining moisture, creating a fine, powdery texture that is ideal for brewing."
+
+Nhìn chung, ý tưởng của bạn đã được mở rộng đầy đủ và bạn đã minh bạch về quy trình sản xuất cà phê. Tuy nhiên, để đạt điểm số cao hơn trong Task Response, hãy thêm một số so sánh giữa các giai đoạn để đáp ứng yêu cầu "make comparisons where relevant" của đề bài.
+
+
+Coherence and Cohesion:
+
+Từ góc độ Coherence and Cohesion, bài viết của bạn có sự liên kết mạch lạc giữa các luận điểm và lập luận. Bạn đã sử dụng các từ nối để giúp người đọc hiểu rõ quy trình sản xuất cà phê. Ví dụ, "next" và "moreover" được sử dụng để chỉ sự liên kết giữa các bước của quy trình. Việc này giúp tạo ra một dòng suy nghĩ liên tục và dễ theo dõi.
+
+Tuy nhiên, một điểm cần cải thiện là một số cụm từ không hợp lý dẫn đến sự không liên kết trong bài viết. Ví dụ, câu "As can be seen, during the first step, coffee beans are collected by farmers and let dry under the sun for a few days" có thể cải thiện bằng cách thay "As can be seen" thành "In the first step." Điều này giúp tạo ra một dòng suy nghĩ liền mạch hơn.
+
+Để cải thiện hơn, bạn có thể sử dụng các từ nối khác như "then," "after that," và "finally" để chỉ sự tiếp nối giữa các bước quy trình. Ví dụ, câu "Moreover, once ground, the powder is mixed with hot water and then the mixture is strained carefully" có thể được cải thiện bằng cách thêm từ nối "then" sau "mixed with hot water." Câu sau đó có thể được chỉnh lại thành "The mixture is then strained carefully."
+
+Hơn nữa, bạn cũng có thể sử dụng các từ đồng nghĩa và từ vựng phong phú hơn để tránh lặp lại các từ quá nhiều lần. Ví dụ, thay vì sử dụng từ "beans" trong mỗi câu, bạn có thể sử dụng từ "seeds" hoặc "coffee berries." 
+
+Dưới đây là ví dụ về cách cải thiện sự liên kết trong một đoạn văn:
+
+Original: Moreover, once ground, the powder is mixed with hot water and then the mixture is strained carefully. In the following stage, it is frozen in the freezer at a low temperature before being pulverized again. 
+
+Revised: Moreover, once the coffee beans are ground into powder, they are mixed with hot water and then the mixture is strained carefully. After that, the mixture is frozen at a low temperature in the freezer before being pulverized again.
+
+Tổng kết lại, bài viết của bạn đã có sự liên kết mạch lạc, nhưng cần một số điều chỉnh nhỏ để tạo ra sự liên kết mịn màng hơn và giảm sự lặp lại. Sử dụng các từ nối thích hợp và đa dạng từ vựng sẽ giúp nâng cao điểm số của bạn trong tiêu chí Coherence and Cohesion.
+
+
+Lexical Resource:
+
+Trong bài viết của bạn, không có lỗi sai về từ vựng đáng kể. Bạn đã sử dụng một loạt các từ ngữ chính xác và phù hợp như "collected," "roasted," "ground," "mixed," "strained," và "packed." Các cụm từ cũng được sử dụng hợp ngữ cảnh và không có lỗi nghĩa. Vì vậy, về mặt từ vựng, bạn đã thể hiện kỹ năng tốt và không có lỗi sai đáng kể.
+
+
+Grammatical Range and Accuracy:
+
+Trong bài viết của bạn, có một số lỗi gramatical nhỏ. Dưới đây là danh sách các lỗi và giải thích:
+
+1. Việc sử dụng động từ "let" trong câu "Next, those dried ones are roasted by heat in the oven before being cooled rapidly in a cooler." Việc sử dụng động từ "let" là không chính xác trong trường hợp này. Thay vào đó, câu có thể được chỉnh lại thành "Next, farmers roast the dried beans in the oven before quickly cooling them in a cooler."
+
+2. Việc sử dụng cấu trúc "packed into" trong câu "Finally, the final products are packed into jars to get ready for sale in shops and supermarkets." Thay vào đó, câu có thể được chỉnh lại thành "Finally, the final products are packed in jars to get ready for sale in shops and supermarkets."
+
+Ngoài ra, không có lỗi ngữ pháp nghiêm trọng nào khác được phát hiện trong bài viết của bạn. Tuy nhiên, hãy chú ý đến ngữ pháp cơ bản và đảm bảo sử dụng đúng các cấu trúc câu và thì trong bài viết của bạn để đạt điểm tốt hơn trong tiêu chí ngữ pháp.
+
+
+Score:
+
+Overall:
+
+Score_TR:
+Score_CC:
+Score_LR:
+Score_GA:
+
+Based on the essay provided, I would estimate the score for each criteria as follows:
+
+Task Response: 6
+The essay addresses the task and summarises the main features of the coffee production process. However, there is a lack of relevant comparisons between stages which was required.
+
+Coherence and Cohesion: 7
+The essay is generally well-organised and coherent, with clear use of linking words and phrases. However, there are some inaccurate word choices, such as "cooled rapidly" instead of "cooled quickly".
+
+Lexical Resource: 6.5
+The essay demonstrates a good range of vocabulary with accurate use of words such as "roasted" and "strained". However, there is room for improvement in using a wider variety of vocabulary, such as using "harvested" instead of "collected".
+
+Grammatical Range and Accuracy: 6.5
+The essay shows a good control of grammar with correct use of tenses and sentence structures. However, there are some minor grammatical errors, such as the incorrect word order in the sentence "Next, those dried ones are roasted by heat in the oven before being cooled rapidly in a cooler." Additionally, the phrase "the final products are packed into jars" should be revised to "the final products are packed in jars".
+
+Overall, I would estimate the overall score for this essay to be around 6.5. It is a well-written essay with good coherence, but there are some areas that can be improved in order to achieve a higher score.
+
+

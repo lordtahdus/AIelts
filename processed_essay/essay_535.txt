@@ -1,0 +1,120 @@
+Topic:
+
+"The presented pie chart illustrates the household spending of Japanese and Malaysian in 2010."
+
+Essay:
+
+"The pie chart depicts information about the variations between Japanese and Malaysian lifestyles according to the expenditure of their incomes in the year 2010.
+
+Overall, it is crystal clear that there were huge differences in a few categories related to their expenses,whereas some fields were the same as given in the data.
+
+To begin,in the former, the ratio of housing was 21%,  meanwhile it was 34% in Malaysia. Moreover, 20% of the spending was on transport in Japan, meantime it was half of that in another one. Furthermore, the proportion of using income from food in Japan was 24%, whilst it was a bit more in Malaysia,which was 27%."
+
+
+Revised:
+
+"The presented pie chart provides a visual representation of the household expenditure of Japanese and Malaysian residents in the year 2010.
+
+Overall, it is evident that there were significant disparities in several spending categories between the two countries, while some expenditure areas remained consistent.
+
+Starting with housing, it is worth noting that in Japan, this accounted for 21% of household spending, whereas in Malaysia, it constituted a higher proportion at 34%. Similarly, transport expenditure in Japan was 20%, whereas it was only half of that in Malaysia. Furthermore, the allocation of income for food in Japan stood at 24%, while in Malaysia, it was slightly higher at 27%.
+
+In contrast, there were similarities in the allocation of expenditures in certain categories. For instance, the proportion spent on clothing in both countries was consistent at 7%. Likewise, the spending on leisure and entertainment mirrored each other with both Japan and Malaysia allocating 5% of their budgets to these activities.
+
+In conclusion, the pie chart illustrates the discrepancies between the spending habits of Japanese and Malaysian citizens in 2010. Notably, there were striking differences in housing and transportation expenses, whereas some categories such as clothing and leisure expenditure remained consistent for both countries."
+
+
+Feedback:
+
+Task Response:
+
+Trong bài viết của bạn, bạn đã trả lời đúng câu hỏi đề bài bằng cách nhìn nhận và tóm tắt biểu đồ tròn về chi tiêu gia đình của người Nhật Bản và người Malaysia năm 2010. Ý tưởng chính của bạn đã được mở rộng đầy đủ bằng cách đề cập đến một số khác biệt trong các lĩnh vực chi tiêu. Tuy nhiên, vẫn còn một số điểm cần được cải thiện:
+
+1. Phần mở rộng ý tưởng: Để làm rõ hơn sự khác biệt trong chi tiêu gia đình của người Nhật Bản và người Malaysia, hãy cung cấp thêm ví dụ và chi tiết cụ thể. Ví dụ, thay vì chỉ nêu tỷ lệ chi tiêu cho nhà ở, bạn có thể cung cấp thông tin về các loại nhà ở phổ biến ở mỗi quốc gia và so sánh giữa chúng. Điều này giúp đưa ra một sự hình dung cụ thể về cách mỗi quốc gia sử dụng nguồn tài chính của họ trong lĩnh vực này.
+
+2. Kết nối ý kiến: Bạn cần cải thiện sự kết nối giữa các ý kiến của mình để tạo ra một luồng chất lượng trong bài viết. Bạn có thể sử dụng các từ nối như "thêm vào đó", "ngoài ra", "trên thực tế" để kết nối các ý kiến trong bài viết một cách mạch lạc và logic.
+
+3. Số lượng phần và phân chia thông tin: Trong bài viết của bạn, bạn đã chia bài viết thành ba phần, mỗi phần tập trung vào một lĩnh vực chi tiêu khác nhau. Tuy nhiên, sự phân chia này có thể dẫn đến một sự thiếu cân đối về thông tin. Để cải thiện điểm này, bạn có thể sắp xếp thông tin theo mức độ quan trọng hoặc thứ tự từ cao đến thấp - ví dụ, bắt đầu bằng việc giới thiệu tổng quan về chi tiêu gia đình ở cả hai quốc gia, sau đó đi vào các lĩnh vực chi tiêu cụ thể.
+
+Tóm lại, bài viết của bạn đã trả lời đúng câu hỏi đề bài và ý tưởng đã được mở rộng đầy đủ. Tuy nhiên, còn cần cải thiện sự phân chia thông tin và kết nối ý kiến để tạo ra một bài viết mạch lạc và logic hơn.
+
+
+Coherence and Cohesion:
+
+Trong bài viết của bạn, có một vài sự liên kết mạch lạc và hợp lí giữa các luận điểm và lập luận, nhưng vẫn còn một số điểm cần được cải thiện. Dưới đây là những gợi ý và ví dụ để cải thiện sự mạch lạc và sự kết hợp của bài viết:
+
+1. Sử dụng từ chuyển ý để kết nối các ý kiến và thông tin:
+   - Ví dụ: Bạn có thể sử dụng từ "furthermore" để đưa ra một ý kiến mới hoặc mở rộng ý kiến đã đưa ra trước đó. Ví dụ: "Furthermore, the proportion of using income from food in Japan was 24%, whilst it was a bit more in Malaysia, which was 27%."
+
+2. Tăng cường độ mạch lạc trong các câu và đoạn văn:
+   - Sử dụng các từ nối hoặc cụm từ nối để kết nối các ý kiến và thông tin. Ví dụ: "In addition", "On the other hand", "Similarly".
+   - Sử dụng các từ đồng nghĩa để tránh lặp lại từ quá nhiều. Ví dụ: Thay vì sử dụng từ "meanwhile" nhiều lần, bạn có thể sử dụng từ "in contrast" hoặc "in comparison" để thay thế.
+   - Sử dụng các cấu trúc câu phức tạp để thể hiện quan hệ nguyên nhân kết quả hoặc so sánh. Ví dụ: "Due to the high cost of housing in Japan, the percentage of household spending on housing was only 21%, whereas in Malaysia, the lower cost of housing resulted in a higher proportion of 34%."
+
+3. Chú ý đến cấu trúc đoạn văn:
+   - Đảm bảo rằng mỗi đoạn văn tập trung vào một luận điểm hoặc một lĩnh vực cụ thể của sự khác biệt về chi tiêu gia đình.
+   - Đánh giá tương quan giữa các lĩnh vực khác nhau của chi tiêu gia đình trong cùng một đoạn. Ví dụ: Trong một đoạn văn, bạn có thể so sánh tỷ lệ chi tiêu cho nhà ở và vận chuyển ở cả Nhật Bản và Malaysia để thể hiện một sự khác biệt rõ ràng giữa hai quốc gia.
+
+Hy vọng những gợi ý và ví dụ trên sẽ giúp bạn cải thiện sự mạch lạc và sự kết hợp của bài viết của mình. Chúc bạn thành công!
+
+
+Lexical Resource:
+
+Trong bài viết của bạn, nguồn lực từ vựng được sử dụng đúng một cách chính xác nhưng vẫn còn một số lỗi và cách cải thiện như sau:
+
+1. "huge differences" - Nguồn từ vựng này phù hợp để miêu tả sự khác biệt lớn giữa hai quốc gia.
+2. "variations" - Thay vì sử dụng từ này, bạn có thể sử dụng "differences" hoặc "discrepancies" để tránh lặp từ quá nhiều.
+3. "categories" - Đây là một từ đúng để chỉ các loại chi tiêu khác nhau trong biểu đồ tròn.
+4. "expenditure" - Nguồn từ vựng này phù hợp để chỉ sự chi tiêu của hộ gia đình.
+5. "fields" - Từ này không phù hợp với ngữ cảnh, thay vào đó bạn có thể sử dụng "categories" hoặc "areas".
+6. "housing" - Từ này phù hợp để chỉ chi tiêu cho nhà ở.
+7. "transport" - Từ này phù hợp để chỉ chi tiêu cho giao thông.
+8. "income from food" - Ngữ cảnh không rõ ràng, thay vào đó bạn có thể sử dụng "food expenses" hoặc "food spending".
+9. "a bit more" - Cụm từ này không cần thiết, bạn có thể thay thế bằng "slightly higher" hoặc "somewhat higher".
+
+Tổng thể, bài viết của bạn sử dụng nguồn lực từ vựng khá tốt. Tuy nhiên, còn một số cải thiện nhỏ có thể được thực hiện để làm cho bài viết của bạn chính xác hơn và tránh lặp từ quá nhiều.
+
+
+Grammatical Range and Accuracy:
+
+Trong bài viết của bạn, có một số lỗi sai về ngữ pháp. Dưới đây là danh sách các lỗi và các giải thích đi kèm:
+
+1. "the variations between Japanese and Malaysian lifestyles" - ở đây, từ "variations" là số nhiều, nên nó phải được ghép với một động từ số nhiều, như "illustrate" hoặc "depict". Vì vậy, câu này nên được sửa thành "the variations between Japanese and Malaysian lifestyles are illustrated/depicted."
+
+2. "according to the expenditure of their incomes" - ở đây, từ "expenditure" đã biểu thị việc chi tiêu của họ, nên từ "incomes" không cần thiết. Câu này có thể được sửa thành "according to their expenditure."
+
+3. "whereas some fields were the same as given in the data." - ở đây, từ "given" phải được thay thế bằng từ "shown" để phù hợp với thì câu trước đó. Câu này có thể được sửa thành "whereas some fields were the same as shown in the data."
+
+4. "the ratio of housing was 21%" - ở đây, "ratio" là một danh từ không đếm được, vì vậy không thể sử dụng "a" trước nó. Câu này có thể được sửa thành "the housing ratio was 21%."
+
+5. "meanwhile it was 34% in Malaysia." - ở đây, từ "meanwhile" không phù hợp trong ngữ cảnh này. Thay vào đó, bạn có thể sử dụng "in contrast" hoặc "by contrast" để chỉ sự khác biệt. Câu này có thể được sửa thành "in contrast, it was 34% in Malaysia."
+
+6. "Moreover, 20% of the spending was on transport in Japan, meantime it was half of that in another one." - ở đây, từ "meanwhile" không phù hợp trong ngữ cảnh này. Thay vào đó, bạn có thể sử dụng "in contrast" hoặc "by contrast" để chỉ sự khác biệt. Câu này có thể được sửa thành "Moreover, 20% of the spending was on transport in Japan, while it was half of that in the other country."
+
+7. "Furthermore, the proportion of using income from food in Japan was 24%" - ở đây, từ "proportion" phải được ghép với một động từ số ít, thay vì "using" bạn có thể sử dụng "spent". Câu này có thể được sửa thành "Furthermore, the proportion of income spent on food in Japan was 24%."
+
+Tổng cộng, bài viết của bạn có một số lỗi sai về ngữ pháp. Tuy nhiên, lỗi này không nghiêm trọng và có thể dễ dàng được sửa chữa. Để cải thiện, hãy chú ý sử dụng các cấu trúc câu và từ ngữ chính xác.
+
+
+Score:
+
+Overall:
+
+Score_TR:
+Score_CC:
+Score_LR:
+Score_GA:
+
+Based on the provided essay, here is an estimated score for each criterion:
+
+1. Task Response - 6: The essay partially addresses the task by describing the differences in household spending between Japanese and Malaysian in 2010. However, there is room for improvement in terms of providing more specific details and examples.
+
+2. Coherence and Cohesion - 5: The essay lacks strong coherence and cohesion. Although there is a clear introduction and three paragraphs discussing different categories of spending, there is a lack of seamless connection between the ideas. Transitions could be used more effectively to improve the overall flow of the essay.
+
+3. Lexical Resource - 5: The essay demonstrates an average range of vocabulary. While there are some appropriate and varied word choices, there is room for improvement in terms of using more precise and specific vocabulary related to household spending and different types of expenses.
+
+4. Grammatical Range and Accuracy - 6: The essay displays a fair range of grammatical structures and mostly accurate use of grammar. However, there are some minor errors in sentence structure, such as word order and verb agreement, that could be improved upon.
+
+Please note that these scores are estimated based on the provided essay and are subjective. The actual scores can vary depending on the overall performance and the judgment of the examiner.
+
+

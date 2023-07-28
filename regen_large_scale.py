@@ -58,7 +58,7 @@ def get_user_options_and_contents() -> tuple[dict, dict]:
 
             # used to separate the file into multiple parts
             sep_indexes = [
-                lines.index('Essay:\n', 2, 10)
+                lines.index('Essay:\n', 2, 20)
             ]
             parts = [
                     "Revised:", "Task Response:", "Coherence and Cohesion:",

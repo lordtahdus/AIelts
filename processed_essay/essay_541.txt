@@ -1,0 +1,147 @@
+Topic:
+
+"Writing task 1 
+
+The table below shows the change in number of people engaged in various physical activities between the years 2001-2009 in Australia (in million people)."
+
+Essay:
+
+"The given table illustrates the differences in figure for Australian citizens who took part in various sports namely running, aerobics, tennis, cycling and swimming over a period of 8 years from 2001.
+
+Overall, the most famous sport in the given period was cycling . By contrast, tennis has the lowest participants in the same period. Also, the maximum and minimum of changes were for running and swimming respectively. 
+
+Between 2001 and 2009, cycling and swimming have the most popularity among Australian people from 4.5 to 3.6 and from 3.7 to 3.3 in million people while they have a -20% and -10% change. Als, Australian runners had the highest changes at 156%, and they reached 2.2 people in million people that was 0.8 higher than that of in 2001.In addition, there was a gradual increase in the number of nations who took part in aerobics of 1.7 ( 0.2 higher than first year ). It is also worth noting that tennis saw the least of participants from 1 to 1.2 and change for them was 15%."
+
+
+Revised:
+
+The provided table presents the variations in the number of Australian individuals who engaged in different sports, such as running, aerobics, tennis, cycling, and swimming, between the years 2001 to 2009.
+
+Overall, cycling emerged as the most popular sport during the given period, while tennis had the lowest participation rates. Additionally, the largest and smallest changes occurred in the number of individuals participating in running and swimming, respectively.
+
+Between 2001 and 2009, cycling and swimming garnered the highest levels of interest among Australians, with participant numbers decreasing from 4.5 to 3.6 million and from 3.7 to 3.3 million, respectively. These sports also experienced a decline in percentage change by -20% and -10%. On the other hand, the number of Australian runners witnessed the most significant increase at 156%, reaching a total of 2.2 million individuals, which was 0.8 million higher than the figure in 2001. Furthermore, there was a gradual rise in the number of individuals participating in aerobics, with a total of 1.7 million individuals taking part, which was 0.2 million higher than the initial year. It is also noteworthy that tennis had the smallest number of participants, with numbers rising from 1 to 1.2 million and experiencing a change of 15%.
+
+In summary, the table highlights the fluctuations in participation rates for various sports in Australia from 2001 to 2009. Cycling was the most popular sport, whereas tennis had the lowest number of participants. Running experienced the largest increase, while swimming saw the smallest change in participant numbers.
+
+
+Feedback:
+
+Task Response:
+
+Trong bài viết của bạn, bạn đã trả lời được câu hỏi đề bài bằng cách liệt kê và so sánh sự thay đổi của các hoạt động thể thao khác nhau trong giai đoạn từ 2001 đến 2009 ở Australia. Tuy nhiên, nội dung của bài viết có thể được mở rộng hơn để đảm bảo việc thực hiện thích hợp Task Response. Dưới đây là một số điểm cần được cải thiện:
+
+1. Khám phá quan điểm cá nhân: Bạn có thể mở rộng bài viết bằng cách đưa ra quan điểm cá nhân của bạn về sự thay đổi trong các hoạt động thể thao và tại sao chúng diễn ra. Điều này sẽ giúp bạn phát triển một quan điểm riêng và bổ sung đến nội dung của bài viết.
+
+2. Phân tích sự thay đổi: Thay vì chỉ liệt kê các con số về sự thay đổi, bạn cũng có thể phân tích và giải thích nguyên nhân của sự thay đổi này. Ví dụ, bạn có thể xem xét các yếu tố xã hội, văn hóa, kinh tế hoặc chính sách công cộng mà có thể ảnh hưởng đến việc thay đổi số lượng người tham gia các hoạt động thể thao.
+
+3. Đưa ra kết luận: Để tăng tính đầy đủ và hoàn chỉnh của bài viết, bạn có thể đưa ra một kết luận tổng quan về sự thay đổi chung và tầm quan trọng của nó. Điều này sẽ giúp bạn kết thúc bài viết một cách mạch lạc và rõ ràng.
+
+Những điểm này giúp bài viết của bạn trở nên phong phú hơn và đảm bảo tính chính xác và đầy đủ của Task Response.
+
+
+Coherence and Cohesion:
+
+Xin lỗi vì sự thiếu sót của tôi trong phần đánh giá Coherence and Cohesion trước đó. Dưới đây là một phân tích chi tiết hơn về những điểm cần được cải thiện và cách để cải thiện hơn:
+
+1. Sắp xếp bài viết:
+- Bài viết của bạn cần một sắp xếp rõ ràng và logic hơn. Bạn có thể bắt đầu bằng một câu mở đầu tổng quan về sự thay đổi chung trong số người tham gia các hoạt động thể thao tại Australia từ năm 2001 đến 2009.
+- Sau đó, bạn có thể giới thiệu từng loại hoạt động thể thao theo thứ tự từ phổ biến nhất đến ít phổ biến hơn, như running, cycling, swimming, aerobics và tennis.
+- Để kết thúc bài viết, bạn có thể tóm tắt sự thay đổi lớn nhất và nhỏ nhất và rút ra một kết luận tổng quan về xu hướng chung của các hoạt động thể thao.
+
+2. Các câu chuyển tiếp:
+- Bạn đã sử dụng một số từ nối để kết nối các ý tưởng, nhưng bạn cần sử dụng chúng một cách chính xác và thích hợp hơn.
+- Hãy sử dụng các từ nối như "Moreover", "Furthermore", "In addition", "On the other hand" để giúp xác định mối quan hệ giữa các ý tưởng và thông tin.
+- Ví dụ: "Moreover, cycling and swimming experienced the highest popularity among Australian people, with a decrease of 20% and 10% respectively. On the other hand, tennis had the lowest number of participants with a 15% increase."
+
+3. Cấu trúc và từ vựng:
+- Bạn đã sử dụng một loạt từ vựng và cấu trúc câu phức tạp, nhưng có một số lỗi nhỏ trong việc sử dụng từ vựng và cấu trúc câu.
+- Ví dụ: "Als" nên được sửa thành "Also" và "change for them was 15%" nên được sửa thành "they had a 15% change".
+- Đồng thời, hạn chế việc sử dụng cấu trúc câu đơn giản và lặp lại những từ ngữ quá nhiều lần. Thay vào đó, sử dụng cấu trúc câu phức tạp, từ vựng đa dạng hơn và các từ ngữ chính xác.
+
+Ví dụ:
+
+"Furthermore, cycling and swimming were the most popular sports among Australian citizens between 2001 and 2009, with a decrease of 20% and 10% respectively. In contrast, tennis had the lowest number of participants, experiencing a 15% increase. Moreover, running witnessed the highest increase in participants at 156%, reaching a total of 2.2 million people, which was 0.8 million higher than in 2001. Additionally, there was a gradual increase in the number of individuals engaging in aerobics, with a total of 1.7 million participants in 2009, 0.2 million higher than the first year."
+
+Hy vọng rằng phân tích trên sẽ giúp bạn cải thiện khả năng viết và đạt điểm tốt hơn trong kỳ thi IELTS. Chúc bạn thành công!
+
+
+Lexical Resource:
+
+Trong bài viết của bạn, có một số lỗi sai về từ vựng và những từ, cụm từ dùng không phù hợp trong ngữ cảnh. Dưới đây là danh sách của những lỗi sai và giải thích:
+
+1. "Als" thay vì "Also":
+- "Als" là một từ sai chính tả. Đúng nên sử dụng là "Also" để chỉ sự tương tự hoặc bổ sung thông tin.
+- Ví dụ: "Also, Australian runners had the highest changes..."
+
+2. Sử dụng sai từ "most" thay vì "highest" và "least" thay cho "lowest":
+- Khi bạn mô tả sự thay đổi cao nhất và thấp nhất, bạn nên sử dụng từ "highest" và "lowest" thay vì "most" và "least".
+- Ví dụ: "The highest and lowest changes were for running and swimming respectively."
+
+3. Viết thành "reached" thay vì "reach":
+- Trong bài viết của bạn, từ "reached" được sử dụng để chỉ sự đạt được một con số cụ thể. Bạn có thể viết thành "reach" để phù hợp với ngữ cảnh.
+- Ví dụ: "They reached 2.2 million people."
+
+4. Viết sai "popularity" thành "populous":
+- Trong câu của bạn, từ "populous" được sử dụng để chỉ sự phổ biến. Tuy nhiên, từ chính xác là "popularity".
+- Ví dụ: "Cycling and swimming had the most popularity..."
+
+5. Viết thành "gradual increase" thay vì "rise":
+- Trong bài viết của bạn, từ "gradual increase" được sử dụng để chỉ sự tăng dần. Tuy nhiên, từ chính xác để diễn đạt ý này là "rise".
+- Ví dụ: "There was a gradual increase in the number of people engaged in aerobics." (sửa thành "There was a rise in the number of people engaged in aerobics.")
+
+6. Sử dụng sai từ "change" trong câu cuối cùng:
+- Trong câu cuối cùng của bạn, "change" được sử dụng một cách không chính xác để chỉ sự thay đổi. Thay vào đó, bạn có thể sử dụng "percentage change" hoặc "percent difference".
+- Ví dụ: "The percentage change for tennis was 15%."
+
+Những lỗi này không phải là lỗi lớn và không ảnh hưởng đến hiểu được nội dung của bài viết. Tuy nhiên, việc sử dụng từ ngữ và cụm từ chính xác trong ngữ cảnh sẽ cải thiện mức điểm của bạn trong Lexical Resource.
+
+
+Grammatical Range and Accuracy:
+
+Trong bài viết của bạn, tôi đã thấy một số lỗi ngữ pháp. Dưới đây là danh sách các lỗi cụ thể và giải thích cho chúng:
+
+1. "Als" thay vì "Also": Đây là lỗi chính tả, từ "Also" được viết sai thành "Als". Để sửa lỗi này, hãy chắc chắn viết đúng từ "Also" trong bài viết của bạn.
+
+2. Viết thường chữ "million" sau "in": Trong một số câu, bạn đã sử dụng từ "million" sau "in" bằng cách viết thường chữ. Để sửa lỗi này, hãy chắc chắn viết chữ cái đầu tiên của "million" hoa, ví dụ: "in million people".
+
+3. Sử dụng sai thời của động từ: Trong một số trường hợp, bạn sử dụng sai thời của động từ. Ví dụ, bạn viết "they reached" (thì quá khứ đơn) thay vì "they have reached" (hiện tại hoàn thành) hoặc "they reach" (thì hiện tại đơn). Hãy chắc chắn sử dụng đúng thì ngữ pháp cho các động từ trong bài viết của bạn.
+
+Đó chỉ là một số lỗi ngữ pháp tôi đã nhận thấy trong bài viết của bạn. Tuy nhiên, hãy nhớ rằng có thể có các lỗi khác mà tôi đã bỏ qua, vì vậy hãy đảm bảo kiểm tra lại cẩn thận ngữ pháp của bạn khi viết bài trong kỳ thi.
+
+
+Score:
+
+Overall:
+
+Score_TR:
+Score_CC:
+Score_LR:
+Score_GA:
+
+Sure, I will estimate the score for each criterion more carefully:
+
+1. Task Response:
+- Your essay addresses the given task and presents the necessary information about the change in the number of people engaged in various physical activities in Australia from 2001 to 2009.
+- You provide an overview of the sports and their participation figures, and you mention the specific changes for each sport.
+- However, your essay lacks a clear opinion or personal viewpoint on these changes.
+- Based on these observations, I would estimate your Task Response score to be around 6.5.
+
+2. Coherence and Cohesion:
+- Your essay is well-organized and has a clear flow of ideas.
+- You use linking words such as "by contrast", "also", and "in addition" to connect your ideas and information.
+- However, the arrangement of your essay could be improved. You could start with a general introduction about the overall changes and end with a concluding sentence summarizing the main points.
+- Considering these factors, I would estimate your Coherence and Cohesion score to be around 6.5.
+
+3. Lexical Resource:
+- You demonstrate a range of vocabulary, using words such as "participants", "popularity", "gradual increase", and "reached".
+- However, there are some inaccuracies or inappropriate word choices. For example, you should use "highest" instead of "most" when referring to the highest changes in the number of runners, and "lowest" instead of "least" when discussing the lowest changes in tennis.
+- Based on these considerations, I would estimate your Lexical Resource score to be around 6.
+
+4. Grammatical Range and Accuracy:
+- You use a variety of complex sentence structures, such as "the most famous sport", "the highest and lowest changes", and "the number of nations who took part".
+- However, there are some grammatical errors, such as the use of "Als" instead of "Also", lowercase "million" after "in" in some sentences, and incorrect use of verb tenses.
+- Taking all these factors into account, I would estimate your Grammatical Range and Accuracy score to be around 6.
+
+Considering the estimated scores for each criterion, your overall score would be around 6.5. However, please note that these estimates are subjective and the actual scores may vary depending on the official marking criteria of the IELTS exam.
+
+

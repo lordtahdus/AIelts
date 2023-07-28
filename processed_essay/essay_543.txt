@@ -1,0 +1,113 @@
+Topic:
+
+"The table below shows information about age, average income per person and population below poverty line in three states in the USA. Summarise the information by selecting and reporting and make comparisons where relevant."
+
+Essay:
+
+"The given table compares and contrasts data on the poverty number in three different American sectors, namely California, Utah and Florida.
+
+Overall, it is readily apparent that there are more young residents in poverty in Utah, while those over 60 years old are more prevailed in Florida. Also, average income per person and population below poverty line categories in California are generally highest in California, whereas the opposite pattern is true for Utah.
+
+First of all, in the category of young people under 18 living in poverty, Utah's number far outnumbers all other states, at 28%, followed by California and Florida by 17% and 16%, respectively. Secondly, in terms of those aged over 60, Florida holds a lion's share of 23% of population, California stays at a relatively lower percentage at 13%, yet Utah witnessed a small proportion exactly at 8%. 
+
+With regards to average income, California was recorded at $23,000, Florida slightly lower at $22,000, with $17,000 of average salary per Utah resident. Furthermore, California has the largest population below poverty line, in contrast, Utah's underdevelopment population stands the least. Additionally, the category of population below poverty line in Florida was higher than Utah, but smaller than California, with  12%."
+
+
+Revised:
+
+The given table presents data comparing the poverty rates in three different regions of the United States: California, Utah, and Florida.
+
+Overall, the data reveals that Utah has the highest number of young people living in poverty, while Florida has a larger proportion of individuals over 60 years old in poverty. The average income per person and the percentage of the population living below the poverty line are both highest in California, while Utah has the lowest figures for these indicators.
+
+In terms of the percentage of young people under 18 living in poverty, Utah significantly surpasses the other states at 28%, followed by California at 17% and Florida at 16%. Conversely, when looking at the proportion of individuals over 60 living in poverty, Florida has the highest share at 23%, with California having a relatively lower percentage at 13%, and Utah at a small proportion of 8%.
+
+Regarding average income per person, California leads the three states with $23,000, followed by Florida at $22,000, and Utah with $17,000. Furthermore, California has the largest percentage of its population below the poverty line, while Utah has the lowest. Florida falls in between, with a percentage of 12% for individuals below the poverty line.
+
+In conclusion, the table highlights significant differences in poverty rates among these three states. While Utah has the highest percentage of young people in poverty, Florida has the largest share of individuals over 60 living in poverty. California has the highest average income per person, as well as the highest percentage of its population living below the poverty line.
+
+
+Feedback:
+
+Task Response:
+
+Bài viết của bạn đã trả lời đúng câu hỏi đề bài với việc so sánh dữ liệu về tình trạng nghèo đói ở ba bang California, Utah và Florida. Tuy nhiên, việc mở rộng ý tưởng có thể còn hạn chế. 
+
+Để cải thiện và mở rộng ý tưởng, bạn có thể tham khảo các gợi ý sau:
+
+1. Phân tích sâu hơn về những nguyên nhân hay yếu tố gây ra sự khác biệt về tình trạng nghèo đói ở ba bang này. Bạn có thể đi vào chi tiết các yếu tố kinh tế, xã hội, chính trị hoặc địa lý mà có thể ảnh hưởng đến số lượng người nghèo và thu nhập trung bình trong từng bang.
+
+2. So sánh và phân tích sự khác biệt về chính sách xã hội giữa các bang này. Bạn có thể nghiên cứu và đề cập đến các biện pháp chính phủ trong việc hỗ trợ người nghèo, cải thiện thu nhập và giảm tình trạng nghèo đói ở mỗi bang.
+
+3. Đề xuất các giải pháp hoặc chính sách cụ thể để cải thiện tình trạng nghèo đói và thu nhập trong từng bang. Bạn có thể đề cập đến việc tăng cường giáo dục, đào tạo nghề, tạo việc làm, đầu tư hạ tầng, hoặc các biện pháp khác để giảm tình trạng nghèo đói và tăng thu nhập của dân cư trong từng bang.
+
+4. Đưa ra ví dụ cụ thể hoặc tham khảo các nghiên cứu, báo cáo hoặc tài liệu có liên quan về vấn đề nghèo đói và thu nhập trong các bang này. Việc sử dụng thông tin phụ, thống kê hoặc dữ liệu thực tế sẽ giúp tạo tính thuyết phục và minh bạch cho bài viết.
+
+Tổng thể, bài viết của bạn đã đáp ứng yêu cầu của đề bài, nhưng việc mở rộng và phát triển ý tưởng có thể còn thiếu. Bạn nên nghiên cứu, xem xét và đưa ra các ý kiến hay thông tin cụ thể hơn để cung cấp thêm nhiều thông tin và sâu sắc hơn về tình trạng nghèo đói trong từng bang.
+
+
+Coherence and Cohesion:
+
+Trong bài viết của bạn, có sự liên kết mạch lạc và hợp lí giữa các luận điểm và lập luận. Các câu được nối tiếp một cách hợp lí và có sự chuyển tiếp từ ý này sang ý khác. Tuy nhiên, để cải thiện yếu tố liên kết và sắp xếp, bạn có thể áp dụng các biện pháp sau:
+
+1. Sử dụng trợ từ cho các ý chính:
+   Ví dụ: "Firstly, Secondly, Lastly" hoặc "In addition, Furthermore, Moreover".
+
+2. Sử dụng từ và cụm từ liên kết:
+   Ví dụ: "On the one hand, On the other hand", "Despite, Although, However", "As a result, Consequently, Therefore".
+
+3. Sử dụng từ đồng nghĩa và từ ngữ kết nối khác để tránh sự lặp lại:
+   Ví dụ: Thay vì sử dụng "category" nhiều lần, bạn có thể sử dụng "group", "section" hoặc "segment".
+
+4. Sử dụng cấu trúc câu phức hợp:
+   Ví dụ: Thay vì sử dụng các câu ngắn, hãy cố gắng sử dụng cấu trúc câu phức hợp để nối các ý với nhau.
+   
+Ví dụ, bạn có thể thay câu trong đoạn văn này: "First of all, in the category of young people under 18 living in poverty, Utah's number far outnumbers all other states, at 28%, followed by California and Florida by 17% and 16%, respectively." thành:  "On the one hand, Utah has the highest percentage of young people (28%) living in poverty compared to California and Florida with 17% and 16% respectively."
+
+Tổ chức và liên kết mạch lạc trong bài viết là rất quan trọng để đạt điểm cao trong tiêu chí Coherence and Cohesion. Hãy sử dụng các biện pháp trên để cải thiện yếu tố này và giúp bài viết của bạn trở nên mượt mà và dễ hiểu hơn.
+
+
+Lexical Resource:
+
+Trong bài viết của bạn, tôi nhận thấy rằng bạn đã sử dụng một số từ và cụm từ phù hợp để mô tả dữ liệu và diễn đạt ý kiến của mình. Tuy nhiên, có một số lỗi nhỏ và sự sử dụng cụm từ không hoàn toàn chính xác. Dưới đây là danh sách các lỗi và giải thích:
+
+1. "young residents": Cụm từ này có nghĩa chung và không cung cấp thông tin chính xác về độ tuổi. Bạn có thể thay thế nó bằng "young people" hoặc "youths" để diễn đạt rõ ràng hơn về nhóm tuổi.
+
+2. "are more prevailed": Từ "prevailed" không phù hợp trong ngữ cảnh này. Thay vào đó, bạn có thể sử dụng "are more prevalent" để diễn đạt ý của bạn rằng có nhiều người trẻ đang ở trong tình trạng nghèo ở Utah.
+
+3. "holds a lion's share": Cụm từ này không phù hợp trong ngữ cảnh này. Thay vào đó, bạn có thể sử dụng "accounts for a large proportion" để diễn đạt rằng Florida có một tỷ lệ dân số cao tuổi lớn.
+
+4. "stands the least": Cấu trúc câu này không chính xác. Thay vào đó, bạn có thể sử dụng "has the lowest percentage" để diễn đạt rằng Utah có tỷ lệ dân số đang phát triển ít nhất.
+
+5. "underdevelopment population": Từ "underdevelopment" không phù hợp trong ngữ cảnh này. Thay vào đó, bạn có thể sử dụng "underprivileged population" để diễn đạt rằng Utah có tỷ lệ dân số dưới mức nghèo đói thấp nhất.
+
+Tôi hiểu rằng các lỗi này có thể là những lỗi nhỏ và không ảnh hưởng đến sự hiểu biết tổng quát của bài viết của bạn. Tuy nhiên, việc sử dụng từ và cụm từ chính xác và phù hợp sẽ tăng cường độ chính xác và chuyên nghiệp của bài viết.
+
+
+Grammatical Range and Accuracy:
+
+Trong bài viết của bạn, có một số lỗi ngữ pháp như sau:
+
+1. "more prevailed" - Đây là một cụm từ không chính xác. Thay vào đó, bạn có thể sử dụng "more prevalent" để diễn đạt ý muốn.
+
+2. "is true for Utah" - Trong trường hợp này, chúng ta sử dụng "is true in Utah" thay vì "is true for Utah".
+
+3. "witnessed a small proportion exactly at 8%" - Cấu trúc câu này không chính xác. Bạn có thể viết lại thành "witnessed a small proportion, exactly 8%".
+
+Về điểm ngữ pháp nói chung, bài viết của bạn đã sử dụng các câu ngữ pháp đơn giản và dễ hiểu. Tuy nhiên, có một số lỗi ngữ pháp nhỏ cần được sửa.
+
+
+Score:
+
+Overall:
+
+Score_TR:
+Score_CC:
+Score_LR:
+Score_GA:
+
+Task Response: 7
+Coherence and Cohesion: 7
+Lexical Resource: 6
+Grammatical Range and Accuracy: 6
+
+
