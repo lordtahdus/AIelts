@@ -80,25 +80,29 @@ Cách cải thiện: Trước khi bắt đầu viết, hãy lập một kế ho�
 Tổ chức bài viết một cách rõ ràng và sắp xếp logic sẽ giúp tăng tính mạch lạc và đảm bảo rằng các ý kiến và lập luận của bạn được truyền đạt một cách hiệu quả.
 
 
-Lexical Resource:?
+Lexical Resource:
 
-Lexical Resource trong bài viết của bạn khá tốt. Bài viết sử dụng một loạt từ vựng phong phú, rõ ràng và thích hợp với chủ đề. Dưới đây là một phân tích chi tiết về từ vựng và cụm từ được sử dụng trong bài viết của bạn:
+Trong bài viết của bạn, tôi đánh giá Lexical Resource (nguồn từ vựng) đã được sử dụng một cách chính xác và hợp ngữ cảnh. Tuy nhiên, cần một số khắc phục nhỏ để cải thiện tính chuyên nghiệp và đồng nhất của ngôn ngữ sử dụng. Dưới đây là một số gợi ý cụ thể để cải thiện tốt hơn:
 
-1. Trend of more working hours: Sử dụng cụm từ này để nêu rõ xu hướng làm việc nhiều giờ đang diễn ra trong một số quốc gia.
+1. "stop exploitation" - Thay thế bằng cụm từ "prevent/curb exploitation" để thể hiện ý nghĩa chặn đứng việc bóc lột.
 
-2. Stipulated in their contracts: Sử dụng từ "stipulated" để chỉ việc quy định một số điều khoản trong hợp đồng làm việc.
+2. "limitations of working time law" - Thay bằng "legislation on working hour limitations" để tạo tính chất chuyên nghiệp hơn.
 
-3. Exploitative conditions: Sử dụng từ "exploitative" để diễn tả các điều kiện làm việc độc quyền hay những tình huống lợi dụng lao động.
+3. "working duties" - Thay bằng "work responsibilities" để sử dụng từ ngữ rõ ràng hơn.
 
-4. Work-life balance: Sử dụng cụm từ này để nêu rõ sự cân bằng giữa công việc và cuộc sống cá nhân, đồng thời chỉ ra lợi ích của việc hạn chế giờ làm việc.
+4. "in touch with" - Thay bằng "communicate with" để tránh sự lặp lại và giữ cho ngôn ngữ mạnh mẽ hơn.
 
-5. Vulnerable individuals: Sử dụng từ "vulnerable" để ám chỉ những người dễ bị tổn thương hoặc khó khăn trong việc bảo vệ quyền lợi của mình.
+5. "mandatory" - Thay bằng "obligatory" hoặc "required" để mang đến ngữ cảnh chính xác hơn.
 
-6. Regulations on working hours: Sử dụng từ "regulations" để ám chỉ các quy định hoặc luật lệ về giờ làm việc.
+6. "higher-level person" - Sử dụng cụm từ "senior staff" để diễn tả ngữ cảnh một cách chính xác hơn.
 
-7. Conducive working and social environment: Sử dụng từ "conducive" để diễn đạt ý nghĩa của việc tạo ra môi trường làm việc và xã hội thuận lợi và có lợi cho mọi người.
+7. "factory workers hardly get moments to spend with their families" - Sử dụng "factory workers have limited leisure time with their families" để tạo một cấu trúc câu tự nhiên hơn.
 
-Tuyệt vời! Bài viết của bạn không có lỗi về từ vựng. Bạn đã sử dụng từ vựng phù hợp và chính xác trong ngữ cảnh. Có một số từ ngữ và cụm từ cần chú ý là "advancements in technology" nên sử dụng "new technologies" và "ployees to remain connected" nên sử dụng "employees to stay connected" để tránh lặp lại từ "remain". Tuy nhiên, điều này không ảnh hưởng đáng kể đến ý nghĩa chung của bài viết. 
+8. "exploit too manpower" - Sử dụng "overwork their workforce" để truyền đạt ý nghĩa một cách chính xác hơn.
+
+9. "introducing, law" - Sử dụng "introducing these laws" hoặc "implementing these regulations" để truyền đạt ý nghĩa chính xác và chuyên nghiệp hơn.
+
+Tổng thể, nguồn từ vựng trong bài viết của bạn đã được sử dụng khá tốt và hợp ngữ cảnh. Một vài điều chỉnh nhỏ có thể được thực hiện để nâng cao tính chất chuyên nghiệp và đồng nhất của ngôn ngữ sử dụng.
 
 
 Grammatical Range and Accuracy:
