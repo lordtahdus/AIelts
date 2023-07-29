@@ -1,6 +1,6 @@
 import openai
 from decouple import config
-from similarity_check import *
+from tools.similarity_check import *
 from link_check import *
 import json
 
