@@ -29,12 +29,11 @@ def get_essay(text_file_path):
 
 
 if __name__ == "__main__":
-
+    
     for file_name in os.listdir("temp"):
         if os.path.isfile(os.path.join("temp", file_name)):
 
             text_file_path = os.path.join("temp", file_name)
-            print(text_file_path)
 
             essay_title, essay_content = get_essay(text_file_path)
             essay_id = file_name[(file_name.index('_') + 1) : file_name.index('.')]
