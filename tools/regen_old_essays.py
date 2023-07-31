@@ -19,31 +19,29 @@ def get_essay(text_file_path):
     with open(text_file_path, "r") as file:
         content = file.read()
 
-    topic_end_id = content.find("Essay:")
+    topic_end_id = content.find("Essay:\n")
     topic = content[len("Topic:") : topic_end_id].replace('"', '').strip()
 
-    essay_end_id = content.find("Revised:")
+    essay_end_id = content.find("Revised:\n")
     essay = content[topic_end_id + len("Essay:") : essay_end_id].replace('"', '').strip()
 
     return topic, essay
 
 
 if __name__ == "__main__":
-    current_dir = os.path.dirname(os.path.abspath(__file__))
 
-    folder_path = os.path.join(current_dir,"regen_old_essay")
+    for file_name in os.listdir("temp"):
+        if os.path.isfile(os.path.join("temp", file_name)):
 
-    for file_name in os.listdir(folder_path):
-        if os.path.isfile(os.path.join(folder_path, file_name)):
-
-            text_file_path = os.path.join(folder_path, file_name)
+            text_file_path = os.path.join("temp", file_name)
+            print(text_file_path)
 
             essay_title, essay_content = get_essay(text_file_path)
             essay_id = file_name[(file_name.index('_') + 1) : file_name.index('.')]
 
             print(f".....Generating essay {essay_id}.....")
             
-            with open(f"temp/essay_{essay_id}.txt", "w") as f:
+            with open(f"doc/processed_essay/essay_{essay_id}.txt", "w") as f:
                     f.write(f"""Topic:\n\n"{essay_title}"\n\nEssay:\n\n"{essay_content}"\n\n\n""")
 
             syntaxes = [
@@ -84,13 +82,8 @@ Nếu có, liệt kê tất cả lỗi sai và giải thích.
             system_msg = "Ielts writing editor"
             messages.append({"role": "system", "content": system_msg})
 
-            response = openai.ChatCompletion.create(
-                        model="gpt-3.5-turbo",
-                        messages=messages,
-                        max_tokens=1000
-                    )
             
-            with open(f"{text_file_path}", "a", encoding="utf-8") as f:
+            with open(f"doc/processed_essay/essay_{essay_id}.txt", "a", encoding="utf-8") as f:
                 for i in range(0,7):
                     message = syntaxes[i]
                     # Revised
@@ -122,3 +115,5 @@ Nếu có, liệt kê tất cả lỗi sai và giải thích.
                         print(reply + '\n\n', file = f)
 
                 print(f'DONE ESSAY {essay_id} !!!')
+
+                os.remove(text_file_path)
