@@ -36,7 +36,7 @@ def get_user_options_and_contents() -> tuple[dict, dict]:
     user_options_all = {}
     contents_all = {}
     # keys as essay index, values as list of 0 and 1
-    directory = "doc"
+    directory = "doc/need_regen"
 
     # get the parts that need regen for each essay
     for filename in os.listdir(directory):
@@ -52,7 +52,7 @@ def get_user_options_and_contents() -> tuple[dict, dict]:
             # print(lines)
 
             # initialise for each essay
-            essay_index = file[17:-4]
+            essay_index = file[21:-4]
             user_options_all[essay_index] = []
             contents_all[essay_index] = []
 
