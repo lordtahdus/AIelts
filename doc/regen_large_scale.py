@@ -170,7 +170,7 @@ def run():
         # write the new generated output
         # the regenerated file will have the suffix "...generating..._",
         # which will be remove when the old essay is moved to the old folder
-        with open(f"need_regen/essay_{essay_index}...generating..._.txt", "w", encoding="utf-8") as f:
+        with open(f"doc/need_regen/essay_{essay_index}...generating..._.txt", "w", encoding="utf-8") as f:
             f.write(f"""Topic:\n\n{contents_each[0]}\n\nEssay:\n\n{contents_each[1]}\n\n\n""")
             print(f"{essay_index}...")
             print(user_options_each)
@@ -210,9 +210,9 @@ def run():
                     f.write(reply + '\n\n\n')
 
         # move the old_essay to old_essay folder
-        os.replace(f'need_regen/essay_{essay_index}.txt', f'old_essay/essay_{essay_index}.txt')
+        os.replace(f'doc/need_regen/essay_{essay_index}.txt', f'doc/old_essay/essay_{essay_index}.txt')
         # remove the suffix "...generating..._" for the regenerated and move to processed folder
-        os.replace(f"need_regen/essay_{essay_index}...generating..._.txt", f"processed_essay/essay_{essay_index}.txt")
+        os.replace(f"doc/need_regen/essay_{essay_index}...generating..._.txt", f"doc/processed_essay/essay_{essay_index}.txt")
 
         print(f"DONE {essay_index}\n")
 
