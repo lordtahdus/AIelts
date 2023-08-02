@@ -34,8 +34,6 @@ Feedback:
 
 Task Response:
 
-Trả lời:
-
 Trong bài viết của bạn, có một số điểm chưa thỏa đáng về Task Response. Mặc dù bạn đã đồng ý rằng chính phủ nên kiểm soát internet, bạn chưa phát triển ý kiến ​​của mình một cách rõ ràng và hợp lý.
 
 Một vấn đề là bạn không thể hiện một quan điểm rõ ràng. Trong bài viết, bạn không chỉ ra các lợi ích cụ thể của việc chính phủ kiểm soát internet để giảm tội phạm mạng và đảm bảo an toàn cho người dùng. Bạn cần trình bày các lập luận và ví dụ cụ thể để định rõ quan điểm của mình. Ví dụ: tại sao việc kiểm soát internet có thể ngăn chặn những trang web lừa đảo, bảo vệ thông tin cá nhân của người dùng và ngăn chặn tội phạm trực tuyến.
@@ -53,7 +51,7 @@ Hi vọng những giải thích này giúp bạn hiểu rõ hơn về Task Respo
 
 Coherence and Cohesion:
 
-Rất tiếc vì sự không rõ ràng trong đánh giá trước đó. Sau khi xem xét lại bài viết của bạn, tôi đồng ý rằng có sự liên kết mạch lạc và hợp lý giữa các luận điểm của bạn. Các câu trong bài viết của bạn được nối tiếp nhau và hỗ trợ ý kiến ​​của bạn. Tuy nhiên, vẫn có một số điểm cần cải thiện để làm cho phần coherence and cohesion của bài viết trở nên tốt hơn.
+Các câu trong bài viết của bạn được nối tiếp nhau và hỗ trợ ý kiến ​​của bạn. Tuy nhiên, vẫn có một số điểm cần cải thiện để làm cho phần coherence and cohesion của bài viết trở nên tốt hơn.
 
 1. Điểm cần cải thiện: Mở đầu bài viết không rõ ràng và không thể hiện rõ quan điểm của bạn.
    - Cách cải thiện: Đưa ra quan điểm một cách rõ ràng hơn ở phần mở đầu và tạo một câu thesis mạnh mẽ để chỉ ra quan điểm của bạn.

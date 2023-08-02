@@ -47,9 +47,7 @@ Những cải tiến trên sẽ giúp bạn phát triển ý tưởng của mìn
 
 Coherence and Cohesion:
 
-Trước tiên, hãy xem xét Coherence và Cohesion trong bài viết của bạn.
-
-Coherence là khả năng của bài viết để tạo ra ý kiến liên quan và logic, và Cohesion là khả năng kết nối các ý kiến và câu với nhau một cách mạch lạc. Trong bài viết của bạn, có một số vấn đề về Coherence và Cohesion mà bạn có thể cải thiện như sau:
+Trong bài viết của bạn, có một số vấn đề về Coherence và Cohesion mà bạn có thể cải thiện như sau:
 
 1. Việc sắp xếp ý kiến và lập luận trong các đoạn văn:
 - Bài viết của bạn không có cấu trúc đoạn văn rõ ràng. Điều này làm cho bài viết trông lẫn lộn và khó hiểu.
