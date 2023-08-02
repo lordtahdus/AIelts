@@ -24,13 +24,11 @@ Feedback:
 
 Task Response:
 
-Task Response có thể được đánh giá như sau trong bài viết của bạn:
+Bài viết của bạn đưa ra cả hai quan điểm về vấn đề và trả lời đúng câu hỏi đề bài. Bạn đã nêu ra một quan điểm cho việc chi tiêu lớn trong lễ kỷ niệm gia đình và một quan điểm khác cho rằng đó là lãng phí tiền bạc. 
 
-Trả lời câu hỏi đề bài: Bài viết của bạn đưa ra cả hai quan điểm về vấn đề và trả lời đúng câu hỏi đề bài. Bạn đã nêu ra một quan điểm cho việc chi tiêu lớn trong lễ kỷ niệm gia đình và một quan điểm khác cho rằng đó là lãng phí tiền bạc. 
+Tuy nhiên, bài viết của bạn chưa mở rộng ý tưởng đầy đủ. Bạn chỉ đề cập đến việc lễ kỷ niệm gia đình là một cách để tạo niềm vui và đoàn kết trong một câu. Hãy thêm nhiều ý kiến, ví dụ và lý lẽ để chứng minh quan điểm của bạn và làm cho bài viết trở nên đa dạng hơn.
 
-Mở rộng ý tưởng: Tuy nhiên, bài viết của bạn chưa mở rộng ý tưởng đầy đủ. Bạn chỉ đề cập đến việc lễ kỷ niệm gia đình là một cách để tạo niềm vui và đoàn kết trong một câu. Hãy thêm nhiều ý kiến, ví dụ và lý lẽ để chứng minh quan điểm của bạn và làm cho bài viết trở nên đa dạng hơn.
-
-Những điểm cần cải thiện: Để cải thiện Task Response trong bài viết của bạn, bạn cần có một câu chào rõ ràng và chia sẻ quan điểm của mình về vấn đề. Đồng thời, hãy sắp xếp bài viết của bạn theo một cấu trúc rõ ràng, với các đoạn văn riêng biệt đề cập đến các quan điểm khác nhau và khuyến khích người đọc hiểu quan điểm của bạn thông qua các lập luận và ví dụ cụ thể.
+Để cải thiện Task Response trong bài viết của bạn, bạn cần có một câu chào rõ ràng và chia sẻ quan điểm của mình về vấn đề. Đồng thời, hãy sắp xếp bài viết của bạn theo một cấu trúc rõ ràng, với các đoạn văn riêng biệt đề cập đến các quan điểm khác nhau và khuyến khích người đọc hiểu quan điểm của bạn thông qua các lập luận và ví dụ cụ thể.
 
 
 Coherence and Cohesion:
@@ -68,8 +66,6 @@ Trong bài viết của bạn, sử dụng từ vựng của bạn có sự phon
 
 3. Trong câu "while others believes otherwise," động từ "believes" cần được chuyển sang dạng chính xác là "believe" để phù hợp với chủ ngữ "others".
 
-Hãy chắc chắn kiểm tra lại cả câu và ngữ cảnh để đảm bảo hiểu rõ ý nghĩa và áp dụng từ vựng một cách chính xác. Bạn cũng cần chú ý không lặp lại quá nhiều cụm từ và tìm cách sử dụng các từ vựng và biểu đạt khác nhau để chứng tỏ khả năng sử dụng ngôn ngữ của bạn.
-
 
 Grammatical Range and Accuracy:
 
@@ -82,8 +78,6 @@ Trong bài viết của bạn, có một số lỗi sai về ngữ pháp. Dướ
 3. "Celebration seems as a festival" - Cấu trúc câu này không rõ ràng. Thay vì đó, bạn có thể sửa thành "Celebrations are often seen as festive occasions."
 
 4. "while others believes otherwise" - Thì động từ "believes" cần phải đổi sang dạng số ít để phù hợp với danh từ số ít "others". Sửa câu này thành "while others believe otherwise."
-
-Vui lòng nhớ rằng việc chú ý đến các lỗi sai ngữ pháp và sửa chúng sẽ giúp cải thiện chất lượng của bài viết của bạn.
 
 
 Score:
