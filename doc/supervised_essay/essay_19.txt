@@ -41,7 +41,7 @@ Nên đảm bảo rằng bạn đã đưa ra lập luận một cách rõ ràng 
 
 Coherence and Cohesion:
 
-Xin lỗi vì sự không rõ ràng trong phần đánh giá trước đó. Dưới đây là đánh giá chi tiết về Coherence and Cohesion trong bài viết của bạn:
+Dưới đây là đánh giá chi tiết về Coherence and Cohesion trong bài viết của bạn:
 
 Bài viết của bạn có sắp xếp tổ chức tốt và có một luồng ý rõ ràng. Có một số vấn đề về liên kết và sự nối tiếp giữa các câu, nhưng có thể được cải thiện qua các điều sau:
 
@@ -85,8 +85,6 @@ Từ "medium" không phù hợp ở đây. Bạn có thể sử dụng "method" 
 5. "Purchasing these items online is not favourable as they might get to the buyer damaged and in terrible conditions in the process of delivering the item."
 Ở đây, từ "favourable" không phản ánh đúng ý bạn. Thay vào đó, hãy sử dụng từ "beneficial" hoặc "advantageous" để diễn đạt ý của bạn một cách chính xác hơn.
 
-Ngoài những lỗi nhỏ đó, từ ngữ và cụm từ trong bài viết của bạn đã phù hợp với ngữ cảnh. Hãy tiếp tục sử dụng vốn từ vựng của mình một cách chính xác và phong phú hơn để làm cho bài viết của bạn trở nên mạnh mẽ hơn.
-
 
 Grammatical Range and Accuracy:
 
@@ -123,8 +121,6 @@ Sai: Thiếu liên từ "such as" để đưa ra ví dụ chính xác.
 8. "In conclusion, although online shopping is a great medium for obtaining goods and services, it can never lead to the closure of all stores in towns and cities as individuals avoid getting items they cannot use as a result of the wrong size and will have the luxury to pick from various design and check different stores."
 Sai: Câu không chính xác về việc sắp xếp từ và cấu trúc câu.
 Đúng: "In conclusion, although online shopping is a great medium for obtaining goods and services, it can never lead to the closure of all stores in towns and cities. Individuals have the luxury to pick from various designs and check different stores, avoiding items they cannot use as a result of the wrong size."
-
-Trên đây là danh sách lỗi ngữ pháp tôi đã tìm thấy trong bài viết của bạn. Hãy chú ý đến những lỗi này và sửa chúng để nâng cao đánh giá của bạn trong tiêu chí Grammatical Range and Accuracy.
 
 
 Score:

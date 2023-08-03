@@ -28,7 +28,7 @@ Feedback:
 
 Task Response:
 
-Xin lỗi vì sự thiếu sót ở phần trước. Để đánh giá Task Response của bài viết của bạn một cách chi tiết hơn, dưới đây là nhận xét:
+Để đánh giá Task Response của bài viết của bạn một cách chi tiết hơn, dưới đây là nhận xét:
 
 Bài viết của bạn đồng ý với quan điểm rằng ngày nay, trường học nên dạy học sinh cách sống về tài chính. Tuy nhiên, ý tưởng của bạn chưa được phát triển một cách đầy đủ và chi tiết.
 
@@ -78,8 +78,6 @@ Trong bài viết của bạn, Lexical Resource của bạn là tương đối t
 
 5. "Handle a salary for expensive things": Thay vì "handle a salary for expensive things", bạn có thể sử dụng cụm từ "manage a budget for expensive purchases" hoặc "budget for expensive items". "Handle a salary for expensive things" không rõ ràng và không phản ánh ý nghĩa một cách chính xác trong ngữ cảnh này.
 
-Với những cải thiện nhỏ về từ vựng, bài viết của bạn sẽ trở nên chính xác hơn và mạch lạc hơn.
-
 
 Grammatical Range and Accuracy:
 
@@ -96,8 +94,6 @@ Trong bài viết của bạn, nhận thấy có một số lỗi ngữ pháp v�
 5. "One of the main reasons behind that is those kids will never complain about the lack of money because they had already broadened their horizons and know how to deal with distinct financial difficulties." -> "One of the main reasons behind this is that those kids will never complain about the lack of money because they have already broadened their horizons and know how to deal with various financial difficulties." Trong câu này, bạn nên sử dụng "this" thay vì "that" để liên kết câu với câu trước đó một cách rõ ràng. Bạn cũng cần sử dụng "have" thay vì "had" vì sự kiện đã xảy ra trong quá khứ nhưng hiệu quả vẫn ở hiện tại.
 
 6. "Take for example, there are a wide range of kids who may not be interested in finance" -> "Take for example, there is a wide range of kids who may not be interested in finance." Trong câu này, dùng "is" thay vì "are" vì "a wide range" được coi là danh từ số ít.
-
-Thông qua việc cải thiện độ phong phú và chính xác của ngữ pháp, bạn có thể tăng điểm cho tiêu chí Grammatical Range and Accuracy trong bài viết của mình.
 
 
 Score:

@@ -3,7 +3,7 @@ import os
 from typing import List
 from decouple import config
 
-openai.api_key = config('OPENAI_KEY_1')
+openai.api_key = config('OPENAI_KEY_3')
 
 
 """================= READ ME =================
