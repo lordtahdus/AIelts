@@ -46,7 +46,7 @@ Những điểm cải thiện này sẽ giúp bài viết của bạn trở nên
 
 Coherence and Cohesion:
 
-Tôi xin lỗi vì chất lượng phản hồi trước đây. Dưới đây là phân tích chi tiết hơn về coherence và cohesion trong bài viết của bạn:
+Dưới đây là phân tích chi tiết hơn về coherence và cohesion trong bài viết của bạn:
 
 Coherence and Cohesion:
 - Bài viết của bạn có cấu trúc rõ ràng với phần giới thiệu, các đoạn thân bài và phần kết luận.
@@ -63,8 +63,6 @@ Cách cải thiện:
 
 Bên cạnh đó, hãy chắc chắn rằng ý tưởng của bạn được trình bày theo một trình tự logic và hợp lý. Điều này sẽ giúp người đọc theo kịp ý tưởng và các luận điểm của bạn một cách rõ ràng và dễ hiểu hơn.
 
-Hy vọng phản hồi này giúp bạn cải thiện coherence và cohesion trong bài viết của mình.
-
 
 Lexical Resource:
 
@@ -78,14 +76,36 @@ Trong bài viết của bạn, nguồn từ vựng được sử dụng trong b�
 
 Ngoài ra, một số cụm từ và ngữ cảnh trong bài viết của bạn cần được cải thiện để nâng cao nguồn từ vựng của bạn. Ví dụ, bạn có thể sử dụng các từ và cụm từ chuyên ngành (như "educational technology," "digital learning," "screen time," và "virtual classroom") để tăng độ chính xác và chuyên nghiệp của bài viết.
 
-Tuy nhiên, những lỗi nhỏ trong sử dụng từ vựng không ảnh hưởng nhiều đến nội dung chính của bài viết của bạn. Việc sử dụng ngôn ngữ đa dạng và chính xác đã giúp bạn diễn đạt các ý kiến và lập luận của mình một cách rõ ràng.
-
 
 Grammatical Range and Accuracy:
 
-Xin lỗi vì sự gây hiểu lầm. Trình đơn thông minh của tôi hiện không thể cung cấp đánh giá ngữ pháp chi tiết cho bài viết của bạn. Tuy nhiên, từ nhận định tổng quan của tôi, bài viết của bạn đã thể hiện sự sử dụng ngữ pháp tốt với việc sử dụng đúng thì, cấu trúc câu và mẫu từ phù hợp. Tuy nhiên, tôi nhắc lại rằng có một số lỗi nhỏ như thiếu mạo từ, sai dạng tính từ và sắp xếp từ khi so sánh.
+Bài viết của bạn đã có một số lỗi sai ngữ pháp và cấu trúc câu. Dưới đây là danh sách các lỗi và giải thích:
 
-Để chắc chắn hơn về sự chính xác ngữ pháp của bài viết của bạn, tôi khuyên bạn nên chú ý đọc lại và sửa lỗi ngữ pháp một cách kỹ lưỡng.
+1. "computers not only reduce the productivity of learning but also jeopardise physical as well as psychological growth of a child" - Nên sử dụng mệnh đề quan hệ đúng để nối câu này: "computers not only reduce the productivity of learning but also jeopardise the physical and psychological growth of a child"
+
+2. "computer's effectiveness" - Sai lỗi chính tả. Nên sử dụng "computers' effectiveness"
+
+3. "thanks to advances in computer technology" - Cần sử dụng dấu phẩy sau cụm từ này để tách nó ra khỏi câu.
+
+4. "materials at their own pace" - Sử dụng "at" thay vì "in"
+
+5. "those who are long-time heavy computer users are prone to obesity resulting from lasping into sedentary lifestyle that they only look fixedly at computer's screen" - Câu này mắc nhiều lỗi cấu trúc và ngữ pháp. Cách sửa là: "Those who are long-time heavy computer users are prone to obesity resulting from a sedentary lifestyle, as they constantly stare at computer screens."
+
+6. "In other words, these youngsters will suffer serious loss of vision" - Cần thêm một từ ngữ để liên kết với câu trước đó. Cách sửa là: "In other words, as a consequence, these youngsters will suffer serious loss of vision"
+
+7. "exerts lethal impacts" - Sai lỗi ngữ pháp. Sử dụng "has" thay vì "exerts"
+
+8. "in default of" - Sai lỗi cấu trúc. Thay vào đó, bạn có thể sử dụng "lack" hoặc "absence"
+
+9. "Taking into those above-mentioned characteristics" - Sai lỗi ngữ pháp. Cách sửa là: "Taking into account those above-mentioned characteristics"
+
+Bên cạnh những lỗi trên, có một số cụm từ và biểu đạt ngữ pháp có thể được cải thiện. Dưới đây là một số ví dụ:
+
+- "the way children utilize" có thể thay bằng "how children utilize"
+- "orthodox education" có thể thay bằng "traditional education"
+- "which has been hard in the days before" có thể thay bằng "which was difficult in the past"
+
+Về tổng thể, bài viết của bạn vẫn có một số lỗi sai về ngữ pháp và cấu trúc câu. Để nâng cao câu viết của bạn, hãy chú ý đến các lỗi này và thực hành sử dụng ngữ pháp và cấu trúc câu một cách chính xác.
 
 
 Score:

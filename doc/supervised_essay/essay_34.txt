@@ -79,7 +79,7 @@ Tuy nhiên, những lỗi trên chỉ là những chi tiết nhỏ và không �
 
 Grammatical Range and Accuracy:
 
-Trong bài viết của bạn, có một số lỗi ngữ pháp và cấu trúc câu. Dưới đây là một số lỗi cụ thể và giải thích cách sửa chữa chúng:
+Dưới đây là một số lỗi cụ thể và giải thích cách sửa chữa chúng:
 
 1. "Those who advocate relocating to the surrounding area of the cities may have some merits in their arguments in terms of new modern road systems."
    - Sửa lỗi: "Merits" là danh từ số nhiều, nên cần sử dụng động từ số nhiều kết hợp "have": Those who advocate relocating to the surrounding area of the cities may have some merits in their arguments in terms of new modern road systems.
@@ -98,8 +98,6 @@ Trong bài viết của bạn, có một số lỗi ngữ pháp và cấu trúc 
 
 6. "Big cities in China, for instance, give “points” to citizens who choose to commute by state-owned bus companies instead of their cars, leading to a decline in traffic jams and a better traffic experience."
    - Sửa lỗi: "Bus companies" cần được sử dụng với từ "state-owned" trước: Big cities in China, for instance, give "points" to citizens who choose to commute by state-owned bus companies instead of their own cars, leading to a decline in traffic jams and a better traffic experience.
-
-Tổng quan, mặc dù bài viết của bạn chứa một số lỗi ngữ pháp nhỏ, nhưng phần lớn câu và câu trạng từ được sử dụng đúng và hiệu quả. Để cải thiện thêm, bạn nên chú ý kiểm tra cú pháp và cấu trúc câu sau khi hoàn thành viết để đảm bảo tính chính xác ngữ pháp.
 
 
 Score:
