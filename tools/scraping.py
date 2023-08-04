@@ -6,8 +6,9 @@ from link_check import *
 
 # Set up Scraper API request
 api_key = '63344ec8f7f532e761bd07a60531c2f0'
-for page in range(3):
-    url = f'https://writing9.com/band/7/{page}'
+
+for page in range(10):
+    url = f'https://writing9.com/band/7.5/{page}'
     params = {
         'api_key': api_key,
         'url': url,
@@ -17,7 +18,7 @@ for page in range(3):
     response = requests.get('http://api.scraperapi.com', params=params)
 
     amount = 0
-    MAX_AMOUNT = 300
+    MAX_AMOUNT = 100
 
     if response.status_code == 200:
         # Parse the HTML content using BeautifulSoup
@@ -45,7 +46,7 @@ for page in range(3):
                 if link_status:
                     continue
                 else:
-                    with open('links.csv', "a") as f:
+                    with open(f'links.csv', "a") as f:
                         f.write(f"\n{absolute_url}")
 
                 # Make the request to Scraper API for the specific URL
@@ -71,10 +72,6 @@ for page in range(3):
                         json_line = json.dumps(essay)
                         file.write(json_line + '\n')
                     file.close()
-                    
-                    # print('URL:\n', absolute_url)
-                    # print('Title:\n', sub_title)
-                    # print('Essays:\n', sub_content.text)
                 else:
                     print('Error:', response.status_code)
         else:
