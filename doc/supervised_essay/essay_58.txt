@@ -61,8 +61,6 @@ Ví dụ:
 Ví dụ:
 "An example of the risks involved with alternative medicines and treatments can be seen in the practice of traditional bone-setting. Many traditional bone-setters lack the necessary equipment, such as X-ray machines, to accurately diagnose and treat fractures. As a result, patients may suffer complications or even lose limbs due to improper manipulation. This highlights the importance of providing adequate resources and training to ensure the safety and effectiveness of medical treatments."
 
-Tổng kết, để cải thiện mạch lạc và sắp xếp trong bài viết của bạn, hãy cố gắng có một đoạn giới thiệu rõ ràng và tổ chức các đoạn văn liên quan một cách logic và hợp lý. Đồng thời, hãy sử dụng các ví d
-
 
 Lexical Resource:
 
@@ -101,8 +99,6 @@ Trong bài viết của bạn, tôi nhận thấy một số lỗi sai về ng�
 
 4. "Lastly, these treatment areas are likely not to have the necessary equipment to carry out a particular tasks thereby endangering the lives of humans."
    - "To carry out a particular tasks" cần được sửa thành "To carry out particular tasks".
-
-Tuy nhiên, tôi nhìn thấy bạn cũng có nhiều cấu trúc câu chính xác trong bài viết của bạn. Bạn đã trình bày ý kiến ​​và quan điểm của mình một cách rõ ràng và dễ hiểu. Hãy tiếp tục làm việc trên ngữ pháp để cải thiện điểm số của bạn.
 
 
 Score:
