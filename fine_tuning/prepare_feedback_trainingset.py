@@ -2,7 +2,7 @@ import os
 import json
 
 # assign main directory
-main_directory = 'assets'
+main_directory = 'assets/unassessed_essays'
 data = []
 # iterate over essay folders in that directory
 for itemname in os.listdir(main_directory):
@@ -10,9 +10,12 @@ for itemname in os.listdir(main_directory):
     # checking if it is a folder
     if not os.path.isdir(folder):
         continue
-
+    
+    # iterate over each file (essay)
     for itemname_2 in os.listdir(folder):
         file = os.path.join(folder, itemname_2)
+
+        print(file)
         # checking if it is a file
         if not os.path.isfile(file):
             continue
@@ -22,8 +25,8 @@ for itemname in os.listdir(main_directory):
             lines = f.readlines()
             # indexes that separate each chunk of text
             sep_indexes = [
-                lines.index('Essay:\n', 2, 10),
-                lines.index('Revised:\n', 7, 30),
+                lines.index('Essay:\n', 2, 20),
+                lines.index('Revised:\n', 7, 40),
                 lines.index('Task Response:\n', 20),
                 lines.index('Coherence and Cohesion:\n', 20),
                 lines.index('Lexical Resource:\n', 20),
@@ -57,8 +60,8 @@ for itemname in os.listdir(main_directory):
         # stop sequence: END
         # completion starts with a whitespace
         dictionary = {
-            "prompt":f"IELTS writing topic:\n{topic}\nEssay:\n{essay}\n\n###\n\n",
-            "completion":f" Feedback:\n\
+            "prompt":f"Topic:\n{topic}\nEssay:\n{essay}\n\n###\n\n",
+            "completion":f" \
 Task Response:{feedback[0]}\n\
 Coherence and Cohesion:{feedback[1]}\n\
 Lexical Resource:{feedback[2]}\n\
@@ -71,8 +74,6 @@ Grammatical Range and Accuracy:{feedback[3]} END"
             # json.dump(dictionary, outfile, ensure_ascii=False)
             
         
-        # handle the essays in old_format folder
-        #TODO
 
         # print(dictionary['prompt'])
 
@@ -81,5 +82,12 @@ with open("fine_tuning/train_feedback_sample.jsonl", "w", encoding="utf-8") as o
         outfile.write(example)
         outfile.write("\n")
 
-# C:/Users/ADMIN/Documents/GitHub/ielts-bot/assets/train_feedback_sample.jsonl
-    
+# C:/Users/ADMIN/Documents/GitHub/AIelts/fine_tuning/train_feedback_sample.jsonl
+
+# export OPENAI_API_KEY='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'
+
+# openai api fine_tunes.create 
+# -t "C:/Users/ADMIN/Documents/GitHub/AIelts/fine_tuning/train_feedback_sample.jsonl" 
+# -m ada
+
+# created fine tune: ft-eXEwJlRSIi4sD3soCBYusZmf
