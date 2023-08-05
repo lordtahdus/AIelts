@@ -1,6 +1,6 @@
 import openai
 from decouple import config
-from tools.similarity_check import *
+from similarity_check import *
 from link_check import *
 import json
 
@@ -9,7 +9,7 @@ openai.api_key = config('OPENAI_KEY_3')
 
 generated_content = ""
 
-START_ID = 443
+START_ID = 550
 
 headings = [
     "Feedback:\n\nTask Response:\n",
@@ -19,7 +19,8 @@ headings = [
     "Score:\n\nOverall:\n\nScore_TR:\nScore_CC:\nScore_LR:\nScore_GA:\n"
 ]
 
-with open('essays.jsonl', 'r') as file:
+with open('tools/essays.jsonl', 'r') as file:
+    
     for line in file:
         data = json.loads(line)
 
@@ -35,8 +36,8 @@ with open('essays.jsonl', 'r') as file:
         else:
             print(f".....Generating essay {START_ID}.....")
             
-            with open(f"processed_essay/essay_{START_ID}.txt", "w") as f:
-                    f.write(f"""Topic:\n\n"{essay_title}"\n\nEssay:\n\n"{essay_content}"\n\n\n""")
+            with open(f"doc/processed_essay/essay_{START_ID}.txt", "w") as f:
+                f.write(f"""Topic:\n\n"{essay_title}"\n\nEssay:\n\n"{essay_content}"\n\n\n""")
             
 
             syntaxes = [
@@ -83,7 +84,7 @@ Nếu có, liệt kê tất cả lỗi sai và giải thích.
                         max_tokens=1000
                     )
             
-            with open(f"processed_essay/essay_{START_ID}.txt", "a", encoding="utf-8") as f:
+            with open(f"doc/processed_essay/essay_{START_ID}.txt", "a", encoding="utf-8") as f:
                 for i in range(0,7):
                     message = syntaxes[i]
                     # Revised

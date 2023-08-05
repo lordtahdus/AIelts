@@ -5,7 +5,7 @@ from scraping import *
 
 def run_script(number):
     while True:
-        os.system(f"python generate.py {number}")
+        os.system(f"python auto_gen.py {number}")
 
 
 if __name__ == "__main__":
