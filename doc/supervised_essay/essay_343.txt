@@ -62,13 +62,16 @@ Hy vọng những ví dụ và cách cải thiện trên giúp bạn nâng cao s
 
 Lexical Resource:
 
-Trong bài viết của bạn, nguồn từ vựng được sử dụng khá phong phú và đa dạng. Tuy nhiên, còn một số lỗi sai về từ vựng và một số cụm từ không hợp ngữ cảnh. Dưới đây là danh sách lỗi và giải thích cụ thể:
+Trong bài viết của bạn, Lexical Resource được sử dụng khá tốt và phù hợp với ngữ cảnh. Tuy nhiên, có một số lỗi và điểm cần cải thiện về từ vựng và cấu trúc câu. Dưới đây là danh sách các lỗi và giải thích:
 
-1. "hoạt động ngoài trời" - đúng
-2. "thời tiết tuyệt vời" - cụm từ này có vẻ không phù hợp ở đây. Thay vào đó, bạn có thể sử dụng cụm từ "thời tiết tốt" hoặc "thời tiết đẹp".
-3. "khả năng tiềm năng cao hơn để đổ mồ hôi" - cụm từ này không hợp ngữ cảnh. Bạn có thể thay bằng cụm từ "khả năng tiềm năng cao hơn để phát ra mồ hôi".
-4. "cháy chất béo không mong muốn" - đúng
-5. "những người đổ mồ hôi nhiều hơn có thể duy trì sự tận dụng dễ dàng hơn" - cụm từ này không hợp ngữ cảnh. Bạn có thể sử dụng cụm từ "những người đổ mồ hôi nhiều hơn có thể duy trì mức cân đối dễ dàng hơn".
+1. "higher heat" - thay bằng "high temperatures", để phù hợp với ngữ cảnh.
+2. "possibility to sweat" - thay bằng "ability to sweat" hoặc "opportunity to sweat".
+3. "keep them fresh" - thay bằng "maintain their freshness" để sử dụng một cách chính xác hơn.
+4. "world become quitter" - thay bằng "environment becomes quieter" để sử dụng chính xác cấu trúc từ ngữ.
+
+Ngoài ra, để nâng cao điểm số của Lexical Resource, bạn có thể sử dụng các từ ngữ và cụm từ phong phú hơn. Ví dụ, thay vì sử dụng "advantages" và "benefits" nhiều lần, bạn có thể thay thế bằng các từ ngữ đồng nghĩa như "merits" và "advantages". Bạn cũng có thể sử dụng các từ ngữ hình thức khác nhau để diễn đạt ý kiến của mình, chẳng hạn như "prefer" thay thế bằng "favor" hoặc "opt for".
+
+Tổng quan, từ vựng và cấu trúc câu trong bài viết của bạn đáng chú ý. Bạn chỉ cần chú ý đến một số lỗi nhỏ và cố gắng sử dụng từ ngữ và cụm từ phong phú hơn để nâng cao điểm số của mình.
 
 
 Grammatical Range and Accuracy:
