@@ -54,22 +54,20 @@ Tổng quan, bạn cần cải thiện sự kết nối giữa các ý kiến v�
 
 Lexical Resource:
 
-Trong bài viết của bạn, có một số lỗi sai về từ vựng. Dưới đây là danh sách các lỗi sai và giải thích:
+Bài viết của bạn có sử dụng một số từ vựng phù hợp và câu văn có cấu trúc tốt, tuy nhiên có một số lỗi và khuyết điểm nhỏ trong phần từ vựng và ngữ cảnh sử dụng. Dưới đây là một số điểm cần lưu ý:
 
-1. "possess" không phù hợp trong ngữ cảnh. Thay vào đó, bạn có thể sử dụng "have" hoặc "carry", ví dụ: "relocating businesses may have some undesirable drawbacks".
+1. "Motivate" nên được thay bằng "encourage" để phù hợp với ngữ cảnh. "Motivate" thường được sử dụng trong nghĩa về động lực cá nhân, trong khi "encourage" phù hợp với việc thúc đẩy và khuyến khích doanh nghiệp chuyển đổi địa điểm.
+2. "Predominant advantage" nên được thay bằng "main advantage" hoặc "key advantage" để tránh lặp lại từ trước đó.
+3. "Fewer populace areas" nên được sửa thành "less populated areas" để tránh lỗi ngữ pháp. "Populace" có nghĩa là "dân số" nên không thích hợp trong ngữ cảnh này.
+4. "Labour force" có thể được thay bằng "workforce" để phù hợp với ngữ cảnh hiện đại hơn.
+5. "Reverse migration" không phù hợp với ngữ cảnh. Thay vào đó, bạn có thể sử dụng cụm từ "relocation to rural areas" để trình bày ý kiến của mình một cách rõ ràng hơn.
+6. Bạn có thể sử dụng từ "harmful emissions" thay vì "carbon footprint" để mô tả hiệu ứng môi trường của các phương tiện giao thông.
+7. Trong đoạn thứ hai, bạn nhắc đến một nghiên cứu của "Harvard University" nhưng không cung cấp thêm thông tin chi tiết về nghiên cứu đó, làm cho tuyên bố của bạn trở nên không rõ ràng và thiếu tính thân thiện.
 
-2. "relocate" nên là "relocation" để phù hợp với ngữ cảnh. "Relocate" được sử dụng như một động từ và "relocation" là một danh từ, ví dụ: "the relocation of major companies to the countryside".
-
-3. "less air pollution" nên là "reduced air pollution" để sử dụng cấu trúc ngữ pháp chính xác.
-
-4. "Predominant" nên được sử dụng chính xác trong ngữ cảnh. Bạn có thể sử dụng từ "main" hoặc "primary" thay vì "predominant".
-
-Ngoài ra, bài viết của bạn có sử dụng một số từ và cụm từ phù hợp với ngữ cảnh, thuật ngữ kinh tế và môi trường. Việc sử dụng collocation cũng rất tốt. Tuy nhiên, bạn có thể cải thiện bằng cách sử dụng từ vựng độc đáo hơn và đa dạng hơn. Điều này có thể được đạt được bằng cách tham khảo các nguồn từ điển và từ sách để mở rộng vốn từ vựng của bạn.
+Tổng quan, bài viết của bạn có sử dụng từ vựng phù hợp và câu văn có cấu trúc tốt. Tuy nhiên, có một số lỗi và khuyết điểm nhỏ trong phần từ vựng và ngữ cảnh sử dụng. Bạn có thể cải thiện bài viết bằng cách thay đổi và điều chỉnh một số từ ngữ và cụm từ để tăng tính chính xác và rõ ràng.
 
 
 Grammatical Range and Accuracy:
-
-Đánh giá Grammatical Range and Accuracy:
 
 -Bài viết của bạn có sử dụng các công cụ ngữ pháp khá tốt và một số câu phức tạp. Tuy nhiên, vẫn có một số lỗi nhỏ và không chính xác. Dưới đây là danh sách lỗi sai và giải thích:
 
@@ -84,8 +82,6 @@ Grammatical Range and Accuracy:
 5. "a safer environment for citizens": Sử dụng "safe" thay cho "safer" vì "environment" chỉ có thể là an toàn hoặc không an toàn, không có mức độ so sánh được áp dụng.
 
 6. "the positive effects of moving companies away definitely outweigh the negative ones": Cấu trúc câu không chính xác. Bạn nên sử dụng "the positive effects of moving companies away definitely outweigh the negative ones do".
-
-Tổng cộng, bài viết của bạn có một số lỗi nhỏ và không chính xác trong việc sử dụng ngữ pháp. Tuy nhiên, chúng không ảnh hưởng đáng kể đến khả năng truyền đạt ý kiến của bạn. Để cải thiện điểm Grammatical Range and Accuracy cho bài viết của bạn, hãy chú ý đến cấu trúc câu và sử dụng từ ngữ chính xác và thích hợp.
 
 
 Score:

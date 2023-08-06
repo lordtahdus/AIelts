@@ -30,8 +30,7 @@ Task Response:
 
 Trong bài viết của bạn, bạn đã đưa ra một số nguyên nhân của việc nhà tuyển dụng coi trọng bằng cấp hơn kinh nghiệm và phẩm chất cá nhân. Bạn đã chỉ ra rằng nhà tuyển dụng có niềm tin rằng những ứng viên có học vấn cao sẽ có kiến thức sâu rộng và kỹ năng hữu ích cho công việc tương lai của họ.
 
-Tuy nhiên, bài viết của bạn cần mở rộng thêm ý kiến của bạn về việc đồng ý hay không đồng ý với việc nhà tuyển dụng coi trọng bằng cấp hơn kinh nghiệm và phẩm chất cá nhân. Bạn đã không nêu rõ luận điểm của mình về vấn đề này. Đề bài yêu cầu bạn đưa ra mức độ đồng ý hay không đồng ý và argumentation để chứng minh quan điểm của bạn.
-Bạn cần phát triển thêm ý kiến của mình và đưa ra luận điểm rõ ràng về quan điểm có đồng ý hay không đồng ý với việc nhà tuyển dụng coi trọng bằng cấp hơn kinh nghiệm và phẩm chất cá nhân.
+Tuy nhiên, bài viết của bạn cần mở rộng thêm ý kiến của bạn về việc đồng ý hay không đồng ý với việc nhà tuyển dụng coi trọng bằng cấp hơn kinh nghiệm và phẩm chất cá nhân. Bạn đã không nêu rõ luận điểm của mình về vấn đề này. Đề bài yêu cầu bạn đưa ra mức độ đồng ý hay không đồng ý và argumentation để chứng minh quan điểm của bạn. Bạn cần phát triển thêm ý kiến của mình và đưa ra luận điểm rõ ràng về quan điểm có đồng ý hay không đồng ý với việc nhà tuyển dụng coi trọng bằng cấp hơn kinh nghiệm và phẩm chất cá nhân.
 
 Để cải thiện Task Response, bạn có thể đề cập rõ ràng về quan điểm của mình trong introduction như sau:
 "Personally, I strongly believe that while academic qualifications hold certain value, they should not be considered as the sole and most important factor in the selection of the best employees. In this essay, I will explore the reasons why some employers prioritize formal academic qualifications over life experience and personal qualities, and present my arguments against this notion."
@@ -39,18 +38,15 @@ Bạn cần phát triển thêm ý kiến của mình và đưa ra luận điể
 Sau đó, trong conclusion, bạn cần tóm tắt lại luận điểm của mình một cách rõ ràng. Ví dụ:
 "In conclusion, although academic qualifications can be of value, they should not be the sole determinant of an individual's potential in the workplace. It is important for employers to also consider life experience and personal qualities in order to select the best candidates for their organizations."
 
-Như vậy, bạn cần phát triển thêm ý kiến của mình và đưa ra luận điểm rõ ràng về quan điểm có đồng ý hay không đồng ý với việc nhà tuyển dụng coi trọng bằng cấp hơn kinh nghiệm và phẩm chất cá nhân.
-
 
 Coherence and Cohesion:
 
-Trong bài viết của bạn, Coherence and Cohesion đã được thể hiện đến một mức độ nhất định. Các ý chính trong bài viết được phân chia vào các đoạn văn riêng biệt và có sự liên kết mạch lạc giữa các ý chính. 
+Trong bài viết của bạn, các ý chính trong bài viết được phân chia vào các đoạn văn riêng biệt và có sự liên kết mạch lạc giữa các ý chính. 
 
 Tuy nhiên, có một số điểm cần cải thiện để tăng cường sự liên kết và sự liên tục giữa các câu và các đoạn văn. Đầu tiên, bạn cần chú ý đến các từ nối và cấu trúc câu chuyển tiếp đóng vai trò là câu nối, ví dụ như "moreover", "however", "on the other hand",... Hãy cố gắng sử dụng các từ nối này để tăng cường mạch lạc giữa các ý chính và các mục lục trong bài viết của bạn. 
 
 Ví dụ: 
 - Thay vì viết "While the necessity of having a distinction degree is widely acknowledged, personalities and life experiences are vital for new hires as well", bạn có thể viết "Moreover, while the necessity of having a distinction degree is widely acknowledged, it is also crucial to consider the importance of personalities and life experiences for new hires."
-- Thay vì viết "In conclusion, although academic qualifications can have certain values, it should not be regarded as the only and the most important factor to select the best workers", bạn có thể viết "In conclusion, while academic qualifications have certain values, they should not be solely considered as the most important factor in selecting the best workers. Personal qualities and life experiences also play a significant role in determining job performance."
 
 Hơn nữa, bạn cũng có thể sử dụng một số công cụ văn phạm như chuyển từ hoặc cụm từ trước để tăng cường sự liên kết và sự liên tục giữa các câu và các đoạn văn. Ví dụ như "The majority of the skills needed for a job can be acquired through experience. These skills help people deal with difficult situations more effectively." có thể được chuyển thành "The majority of the skills needed for a job can be acquired through experience, which helps people deal with difficult situations more effectively."
 
@@ -74,24 +70,27 @@ Trong bài viết của bạn, có một số từ vựng và cấu trúc câu �
 
 Grammatical Range and Accuracy:
 
-Trong bài viết của bạn, có một số lỗi ngữ pháp được nhận thấy. Dưới đây là danh sách lỗi và giải thích tương ứng:
+Grammatical Range and Accuracy trong bài viết của bạn khá tốt và chỉ có một số lỗi nhỏ. Dưới đây là liệt kê các lỗi sai và giải thích:
 
-1. There is a controversial statement heating up a debate over the fact that some recruiters favour candidates who have formal credentials for study over those with only life experience or good personality traits in today's society.
-=> Chỗ này có thể sử dụng 'heating up' như một động từ không theo nguyên tắc ngữ pháp. Một cách sửa lỗi là: There is a controversial statement that is sparking a debate over the fact that some recruiters favor candidates who have formal credentials for study over those with only life experience or good personality traits in today's society.
+1. "This is because they believe that potential employees with excellent qualifications are equipped with in-depth knowledge and useful skills which play a crucial part in their future careers."
+    - Lỗi: Dùng từ "which" để thay thế cho "skills" thì không chính xác vì "skills" là một danh từ số nhiều, do đó cần sử dụng từ "that".
+    - Sửa: "This is because they believe that potential employees with excellent qualifications are equipped with in-depth knowledge and useful skills that play a crucial part in their future careers."
 
-2. Because they believe that potential employees with an excellent qualification are equipped with in-depth knowledge and useful skills which play a crucial part in their future careers.
-=> Có thể thay "an excellent qualification" bằng "excellent qualifications" để phù hợp với việc đề cập đến nhiều bằng cấp, không chỉ một. Một cách sửa lỗi là: Because they believe that potential employees with excellent qualifications are equipped with in-depth knowledge and useful skills which play a crucial part in their future careers.
+2. "as they believe these qualifications ensure a high standard of competence in the field."
+    - Lỗi: Cần thêm một từ để sắp xếp câu này một cách chính xác.
+    - Sửa: "as they believe that these qualifications ensure a high standard of competence in the field."
 
-3. For instance, some leading technology firms, namely FPT, Vingroup and so on, highly appreciate prospective workers who have Information Technology degrees or Internet Engineering certificates, therefore an improved quality of life for candidates who take them.
-=> Chỗ này cần chỉnh sửa về ngữ pháp chủ ngữ - động từ. Một cách sửa lỗi là: For instance, some leading technology firms, namely FPT, Vingroup, and so on, highly appreciate prospective workers who have Information Technology degrees or Internet Engineering certificates, therefore improving the quality of life for candidates who have them.
+3. "Hence, taking academic qualifications as a priority in their recruitment procedures, as it is believed to contribute to an improved quality of life for candidates."
+    - Lỗi: Câu này có một đoạn câu phức không được sắp xếp một cách chính xác và không mạch lạc.
+    - Sửa: "Hence, taking academic qualifications as a priority in their recruitment procedures is believed to contribute to an improved quality of life for candidates."
 
-4. Take social and communication skills as two examples, these can be trained and practiced through experiencing ups and downs in life, so that it will make contributions to their jobs.
-=> Chỗ này cần chỉnh sửa cấu trúc câu. Một cách sửa lỗi là: Take social and communication skills as two examples; these can be trained and practiced through experiencing ups and downs in life, which contributes to their jobs.
+4. "However, while the necessity of having a distinguished degree is widely acknowledged, the importance of personal qualities and life experiences should not be underestimated when selecting new employees."
+    - Lỗi: Sử dụng từ "distinguished" không phù hợp trong ngữ cảnh này. "Distinguished" có nghĩa là xuất sắc, đặc biệt.
+    - Sửa: "However, while the necessity of having a high-quality degree is widely acknowledged, the importance of personal qualities and life experiences should not be underestimated when selecting new employees."
 
-5. Thus, it is detrimental to assess one’s working ability based merely on their academic performance.
-=> Chỗ này cần chỉnh sửa từ ngữ "detrimental". Detrimental có nghĩa tiêu cực/hại hại. Một cách sửa lỗi là: Thus, it is not advisable to assess one’s working ability based merely on their academic performance.
-
-Các lỗi trên là những lỗi nhỏ và không ảnh hưởng nhiều đến sự hiểu rõ ý nghĩa của văn bản của bạn. Tuy nhiên, vẫn cần kiểm tra và chỉnh sửa để tăng sự chính xác ngôn ngữ trong bài viết.
+5. "For example, social and communication skills can be trained and practiced through experiencing ups and downs in life, and these skills is crucial in various professional settings."
+    - Lỗi: "Skills" là danh từ số nhiều, do đó cần sửa động từ "is" thành "are".
+    - Sửa: "For example, social and communication skills can be trained and practiced through experiencing ups and downs in life, and these skills are crucial in various professional settings."
 
 
 Score:
