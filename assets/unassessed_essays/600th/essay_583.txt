@@ -37,17 +37,19 @@ Những điểm mà bài viết của bạn có thể được cải thiện là
 Tổng thể, bài viết của bạn đã đạt được mức độ Task Response tương đối tốt. Tuy nhiên, có một số điểm mà bạn có thể cải thiện như đã đề cập ở trên để đáp ứng đầy đủ yêu cầu của đề bài và đưa ra các giải pháp cụ thể hơn.
 
 
-Coherence and Cohesion:?
+Coherence and Cohesion:
 
-Overall, the essay demonstrates good coherence and cohesion, as the points and arguments are well-connected and flow smoothly from one to another. 
+Trong bài viết của bạn, sự liên kết và hợp lí giữa các luận điểm và lập luận là khá tốt. Câu của bạn được liên kết chặt chẽ và nối tiếp với nhau, xây dựng một dòng lôgic rõ ràng từ đầu đến cuối bài viết.
 
-One area that could be improved is the introduction. Instead of stating that the issue of animal extinction is a strongly debated topic, it would be better to provide some statistics or evidence to support this claim. Additionally, providing a clear thesis statement at the end of the introduction would help guide the reader throughout the essay.
+Tuy nhiên, có một vài điểm cần được cải thiện để tăng cường sự liên kết và sự hợp lý trong bài viết của bạn.
 
-To improve coherence and cohesion, it is important to ensure that each paragraph has a clear main idea and supports the overall argument of the essay. In the body paragraphs, it would be beneficial to provide specific examples and evidence to support the points made. For instance, when discussing hunting, you could mention a specific country where tiger hunting is prevalent.
+1. Trình bày ý kiến mở đầu: Trong bài viết của bạn, bạn bắt đầu mở bài bằng cách nêu ra vấn đề và đưa ra một khẳng định chung. Tuy nhiên, bạn có thể thêm một dòng giới thiệu ngắn gọn cho đoạn văn mở đầu để giúp người đọc hiểu rõ hơn về chủ đề và mục tiêu của bài viết.
 
-Additionally, using transition words and phrases between sentences and paragraphs would help to enhance the overall flow of the essay. You could consider using words such as "moreover," "furthermore," and "in addition" to drive the connections between ideas.
+2. Giới thiệu cụm từ chuyển tiếp: Trong bài viết của bạn, có một số nơi mà bạn có thể sử dụng các cụm từ chuyển tiếp như "In addition", "Furthermore" hoặc "Moreover" để giúp người đọc hiểu rõ hơn về mối quan hệ giữa các ý kiến và lập luận.
 
-In conclusion, the essay demonstrates a good level of coherence and cohesion, as the ideas are well-connected and flow logically. To improve further, it is recommended to provide more specific examples and evidence, as well as using transitional words to enhance the overall flow of the essay.
+Ví dụ:
+- In addition to hunting, global warming is also causing serious damage to wildlife. For example, the melting of icebergs at the North Pole has led to a dramatic reduction in the living area of polar bears.
+- Furthermore, reducing carbon dioxide emissions not only helps combat global warming, but also provides a chance for the expansion of the polar bear's habitat.
 
 
 Lexical Resource:
@@ -69,15 +71,23 @@ Dưới đây là đánh giá chi tiết và nhận xét về các lỗi và t�
 Tổng quan, bài viết của bạn đã sử dụng từ vựng phong phú và trình bày ý tưởng một cách rõ ràng và mạch lạc. Tuy nhiên, có một số cách để cải thiện sử dụng từ ngữ và cụm từ trong ngữ cảnh để diễn đạt ý nghĩa một cách chính xác và mạnh mẽ hơn.
 
 
-Grammatical Range and Accuracy:?
+Grammatical Range and Accuracy:
 
-1. Một lỗi ngữ pháp trong câu: "This leads to the fact, that the illegal hunting of tigers is growing continuously." 
-Giải thích: Câu này cần chỉnh sửa để loại bỏ "the fact" và "that". Bạn có thể sửa lại câu này thành "This leads to the continuous growth of illegal tiger hunting."
+Bài viết của bạn có một số lỗi về ngữ pháp và cấu trúc câu. Dưới đây là danh sách các lỗi và giải thích của chúng:
 
-2. Một lỗi ngữ pháp trong câu: "According to hunting, the government should give a strong response, like a prison sentence for those, who hunt tigers illegally."
-Giải thích: Câu này có cung cấp một ý nghĩa không chính xác. Điều quan trọng ở đây là không phải theo những gì "hunting" nói, mà chính là việc giải quyết vấn đề. Bạn có thể sửa lại câu này thành "To address hunting, the government should respond firmly, such as by imposing prison sentences on those who illegally hunt tigers."
+1. "A wide range of species almost disappeared completely in the past few decades" - Thay vì sử dụng "almost disappeared completely," bạn có thể thay bằng "have come close to disappearing completely" để tránh lặp từ "disappeared."
 
-Các sửa lỗi này chỉ là những lỗi nhỏ và không ảnh hưởng nghiêm trọng đến ý nghĩa chung của bài viết. Bạn đã viết một bài luận tốt và có sử dụng các ngữ pháp cơ bản một cách chính xác. Hãy tiếp tục luyện tập và cung cấp ví dụ, đánh dấu tiến bộ rõ rệt!
+2. "This leads to the fact, that the illegal hunting of tigers is growing continuously." - Cụm từ "the fact" không cần thiết. Bạn có thể chỉ rõ rằng illegal hunting of tigers is growing continuously bằng cách loại bỏ cụm "This leads to."
+
+3. "For example, the living area of polar bears is decreasing dramatically due to the melting of icebergs at the North Pole." - Điều này không chính xác. Bạn nên sử dụng từ "ice caps" hoặc "sea ice" thay vì "icebergs."
+
+4. "The solution must be also developed by us." - Bạn có thể thay bằng "The solution must also be developed by us" để đảm bảo cấu trúc câu đúng.
+
+5. "According to hunting, the government should give a strong response, like a prison sentence for those, who hunt tigers illegally." - Ở đây, bạn cần sử dụng "In terms of" hoặc "Regarding" thay vì "According to" để diễn đạt ý. Ví dụ: "In terms of hunting, the government should give a strong response, such as imposing prison sentences on those who hunt tigers illegally."
+
+6. "Furthermore, reducing the emission of carbon dioxide can be effective to decrease global warming." - Bạn có thể sửa lại thành "Furthermore, reducing carbon dioxide emissions can be effective in combating global warming."
+
+7. "This might result in the growth of the living area of polar bears again." - Từ "living area" không phù hợp ở đây, bạn có thể sử dụng "habitat" thay vì "living area."
 
 
 Score:

@@ -39,17 +39,31 @@ Tổng thể, bài viết của bạn đã đạt được mức độ Task Resp
 
 Coherence and Cohesion:?
 
-Bài viết của bạn có sự liên kết mạch lạc và hợp lý giữa các luận điểm và lập luận. Các câu được liên kết chặt chẽ và nối tiếp nhau một cách tốt, tạo nên một dòng suy nghĩ rõ ràng và logic. Tuy nhiên, vẫn có một số điểm có thể cải thiện để tăng tính logic và sự liên kết của bài viết.
+Cohesion and Coherence are important aspects of any essay and play a crucial role in conveying ideas effectively. Let's evaluate your essay in terms of these two factors:
 
-1. Paragraph 1: Trong đoạn này, hãy cung cấp một câu mở đầu rõ ràng và cung cấp định hướng cho đề bài. Bạn có thể nói rõ hơn rằng việc bàn luận về tình trạng tuyệt chủng động vật đang trở thành một vấn đề quan trọng và đang gây tranh cãi.
+1. Coherence:
 
-2. Paragraph 2: Trong đoạn này, mô tả nguyên nhân gây tuyệt chủng của các loài động vật cần được phân tích một cách cụ thể hơn. Bạn chỉ đề cập đến việc săn bắt trái phép và biến đổi khí hậu, nhưng không cung cấp đủ thông tin để phản ánh rõ ràng và đầy đủ về tình trạng này. Bạn có thể dẫn chứng hoặc cung cấp thêm ví dụ cụ thể để làm rõ hơn.
+Your essay demonstrates a good level of coherence as you have organized your ideas logically. You start by stating the issue of animal extinction, then move on to discuss the reasons behind it, and finally offer potential solutions. This linear progression of ideas helps the reader follow your argument easily.
 
-3. Paragraph 3: Trong đoạn này, hãy đưa ra các giải pháp để giải quyết vấn đề tuyệt chủng. Bạn chỉ đề cập đến việc áp đặt hình phạt cho người săn bắt trái phép và giảm phát thải khí CO2, nhưng không cung cấp đủ thông tin về cách cụ thể để thực hiện những giải pháp này. Bạn có thể đề xuất sự hợp tác quốc tế, việc tăng cường quản lý các khu vực tự nhiên, và khuyến khích các hoạt động bảo tồn môi trường.
+However, there are a few areas where the coherence could be improved:
 
-Ví dụ cụ thể với mỗi giải pháp sẽ làm cho lập luận của bạn trở nên rõ ràng và cụ thể hơn. Ví dụ, trong phần việc giảm phát thải khí CO2, bạn có thể đề cập đến việc thúc đẩy sử dụng năng lượng tái tạo, khuyến khích việc chuyển sang các phương tiện giao thông gắn liền với năng lượng xanh và khuyến khích việc tái chế và sử dụng vật liệu thân thiện với môi trường.
+a) The transition between paragraphs: While your paragraphs are well-structured, the connection between them could be made clearer. For instance, when moving from discussing hunting to global warming, you can briefly mention the link between the two reasons.
 
-Tổng thể, bài viết của bạn có tiềm năng tốt để đạt điểm số cao về sự liên kết và sự mạch lạc. Việc tăng cường định rõ vấn đề, cung cấp các ví dụ cụ thể và đề xuất giải pháp chi tiết sẽ làm cho bài viết của bạn trở nên mạch lạc và thuyết phục hơn.
+b) Linking sentences: Some of your topic sentences could be stronger in order to clearly introduce the subsequent argument. For example, you can explicitly state that the primary reason behind animal extinction is hunting to provide a clearer focus for the paragraph.
+
+2. Cohesion:
+
+Cohesion refers to the use of cohesive devices such as pronouns, transitional phrases, and linking words to connect ideas within sentences and paragraphs. It helps the reader understand the relationships between different parts of the essay. 
+
+Your essay displays a good level of cohesion overall. You have effectively used transitional words and phrases such as "for instance," "in addition," "furthermore," and "in conclusion" to connect different ideas. These phrases help guide the reader through your argument and make your essay flow smoothly.
+
+However, there are a few areas where cohesion could be improved:
+
+a) Pronoun usage: In some instances, you could have used pronouns to refer back to previously mentioned ideas. For example, instead of repeating "illegal hunting of tigers," you could use "this practice" or "such activities."
+
+b) Repetition of words and phrases: While your use of transitional phrases is commendable, try to vary them to avoid repetition. This will make your writing more engaging and demonstrate a wider range of vocabulary.
+
+In summary, your essay demonstrates coherence and cohesion in terms of organization and the use of transitional phrases. To further enhance these aspects, work on strengthening the connection between paragraphs and vary your transitional language. Additionally, use pronouns and avoid repetitive phrases to enhance cohesion. Remember to review and revise your essay to ensure a smooth and connected flow of ideas.
 
 
 Lexical Resource:
@@ -71,19 +85,23 @@ Dưới đây là đánh giá chi tiết và nhận xét về các lỗi và t�
 Tổng quan, bài viết của bạn đã sử dụng từ vựng phong phú và trình bày ý tưởng một cách rõ ràng và mạch lạc. Tuy nhiên, có một số cách để cải thiện sử dụng từ ngữ và cụm từ trong ngữ cảnh để diễn đạt ý nghĩa một cách chính xác và mạnh mẽ hơn.
 
 
-Grammatical Range and Accuracy:?
+Grammatical Range and Accuracy:
 
-Bài viết của bạn đã có một vài lỗi ngữ pháp và cấu trúc câu. Dưới đây là danh sách các lỗi và giải thích sửa chữa:
+Bài viết của bạn có một số lỗi về ngữ pháp và cấu trúc câu. Dưới đây là danh sách các lỗi và giải thích của chúng:
 
-1. In the first sentence, it should be "A wide range of species *has* almost disappeared completely" instead of "A wide range of species *have* almost disappeared completely". Đây là một lỗi về động từ không phù hợp với danh từ số ít "a wide range".
+1. "A wide range of species almost disappeared completely in the past few decades" - Thay vì sử dụng "almost disappeared completely," bạn có thể thay bằng "have come close to disappearing completely" để tránh lặp từ "disappeared."
 
-2. In the second paragraph, it should be "This leads to the fact *that* illegal hunting of tigers is growing continuously" instead of "This leads to the fact *toward / to* illegal hunting of tigers is growing continuously". *That* là từ đúng để giới thiệu mệnh đề quan hệ trong trường hợp này.
+2. "This leads to the fact, that the illegal hunting of tigers is growing continuously." - Cụm từ "the fact" không cần thiết. Bạn có thể chỉ rõ rằng illegal hunting of tigers is growing continuously bằng cách loại bỏ cụm "This leads to."
 
-3. In the third paragraph, the sentence "According to hunting, the government should give a strong response" is unclear and could be rephrased for better clarity and coherence. For example, "As for hunting, it is imperative for governments to respond with strict measures."
+3. "For example, the living area of polar bears is decreasing dramatically due to the melting of icebergs at the North Pole." - Điều này không chính xác. Bạn nên sử dụng từ "ice caps" hoặc "sea ice" thay vì "icebergs."
 
-4. In the last paragraph, the sentence "Both overhunting and global warming *have serious effects on* wildlife diversity" could be improved by using a more concise phrase such as "Both overhunting and global warming *seriously affect* wildlife diversity".
+4. "The solution must be also developed by us." - Bạn có thể thay bằng "The solution must also be developed by us" để đảm bảo cấu trúc câu đúng.
 
-Overall, despite a few minor grammatical errors, the clarity and coherence of your writing are generally maintained. With some revisions to the mentioned areas, the essay will be more polished and precise.
+5. "According to hunting, the government should give a strong response, like a prison sentence for those, who hunt tigers illegally." - Ở đây, bạn cần sử dụng "In terms of" hoặc "Regarding" thay vì "According to" để diễn đạt ý. Ví dụ: "In terms of hunting, the government should give a strong response, such as imposing prison sentences on those who hunt tigers illegally."
+
+6. "Furthermore, reducing the emission of carbon dioxide can be effective to decrease global warming." - Bạn có thể sửa lại thành "Furthermore, reducing carbon dioxide emissions can be effective in combating global warming."
+
+7. "This might result in the growth of the living area of polar bears again." - Từ "living area" không phù hợp ở đây, bạn có thể sử dụng "habitat" thay vì "living area."
 
 
 Score:
