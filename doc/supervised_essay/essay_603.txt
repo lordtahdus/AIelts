@@ -4,29 +4,29 @@ Topic:
 
 Essay:
 
-"The entire world is fascinated by technical breakthroughs in this fast-advancing scientific era. Over the past three decades, car ownership has increased significantly and at a never-before-seen rate. Traffic is now extremely congested as a result of this. In my opinion, governments may undoubtedly start some suggested efforts to control this threat.
-
-Setting the stage for the discussion, the purchase and use of private cars have evolved significantly during the past few decades. The flexibility of commuting is probably the most significant of the many reasons why many people prefer to possess their own automobiles. Many people also express great enthusiasm for the new vehicles that have been introduced to the market since they have advanced features, innovation, security features, and luxury. As a result, there are more vehicles on the road than the roads and passengers can handle, which leads to traffic congestion. Furthermore, many governments in developing nations take the least care to construct additional roads and appropriate parking spaces, and their actions further exacerbate the traffic issues.
-
-Supporting my viewpoint further, governments can impose strict rules to cut down on car ownership and manage traffic jams. In order to decrease the chaos caused by traffic jams, the government should prioritize developing enough parking lots, new highways, and flyovers. It should also actively promote encouraging individuals to walk and ride bikes wherever possible. Additionally, the government has to persuade commuters to ditch their automobiles in favour of less expensive public transit options like buses and metro trains. Finally, and most crucially, the government must raise auto ownership taxes while also enhancing public transportation options to deter as many people as possible from buying cars.
-
+"The entire world is fascinated by technical breakthroughs in this fast-advancing scientific era. Over the past three decades, car ownership has increased significantly and at a never-before-seen rate. Traffic is now extremely congested as a result of this. In my opinion, governments may undoubtedly start some suggested efforts to control this threat.
+
+
+
+Setting the stage for the discussion, the purchase and use of private cars have evolved significantly during the past few decades. The flexibility of commuting is probably the most significant of the many reasons why many people prefer to possess their own automobiles. Many people also express great enthusiasm for the new vehicles that have been introduced to the market since they have advanced features, innovation, security features, and luxury. As a result, there are more vehicles on the road than the roads and passengers can handle, which leads to traffic congestion. Furthermore, many governments in developing nations take the least care to construct additional roads and appropriate parking spaces, and their actions further exacerbate the traffic issues.
+
+
+
+Supporting my viewpoint further, governments can impose strict rules to cut down on car ownership and manage traffic jams. In order to decrease the chaos caused by traffic jams, the government should prioritize developing enough parking lots, new highways, and flyovers. It should also actively promote encouraging individuals to walk and ride bikes wherever possible. Additionally, the government has to persuade commuters to ditch their automobiles in favour of less expensive public transit options like buses and metro trains. Finally, and most crucially, the government must raise auto ownership taxes while also enhancing public transportation options to deter as many people as possible from buying cars.
+
+
+
 To summarize, strong steps should be taken by the appropriate authorities to limit the number of cars on the road in order to reduce traffic congestion and pollution. congestion. In addition, individuals should be educated on the advantages of biking and walking as modes of transportation."
 
 
 Revised:
 
-Title: Government Measures to Address Traffic Congestion Caused by Rapid Car Ownership
-
-Introduction:
 In recent decades, car ownership has witnessed an unprecedented surge, leading to chronic traffic congestion in many cities worldwide. This essay discusses the extent to which this statement holds true and suggests several measures that governments can undertake to discourage people from owning cars.
 
-Paragraph 1:
 The rapid development of technology in this era has greatly influenced the rise in car ownership over the past three decades. The convenience of private commuting remains one of the most compelling reasons for individuals to possess their own vehicles. Moreover, the introduction of advanced features, innovation, safety measures, and luxury models has sparked excitement amongst potential buyers. Consequently, the number of vehicles on the road far surpasses the capacity of infrastructure and leads to congested traffic. Furthermore, the negligence of several governments in constructing additional roads and providing adequate parking spaces further exacerbates the issue.
 
-Paragraph 2:
 In order to address the problem of traffic congestion, governments can adopt stringent regulations targeted at reducing car ownership. Prioritizing the development of parking lots, new highways, and flyovers can alleviate the chaos caused by traffic jams. Simultaneously, promoting alternative transportation modes such as walking and cycling should be actively encouraged. Additionally, governments should incentivize the use of affordable public transit options, including buses and metro trains, to discourage the reliance on personal automobiles. Lastly, an effective measure to deter car ownership would be to introduce higher auto ownership taxes, while simultaneously enhancing the accessibility and reliability of public transportation systems.
 
-Conclusion:
 In conclusion, it is imperative for governments to implement strong measures aimed at curbing the number of cars on the road, thus reducing traffic congestion and environmental pollution. Alongside infrastructure improvements, public education campaigns highlighting the benefits of alternative transportation modes are also crucial. By adopting these strategies, cities can alleviate traffic woes and create more sustainable and livable urban environments.
 
 
@@ -60,8 +60,6 @@ Coherence and Cohesion là hai yếu tố quan trọng trong việc viết một
 3. Cải thiện cấu trúc câu và cách diễn đạt ý kiến:
 - Cải thiện: Sử dụng cấu trúc câu phức tạp và từ ngữ phức tạp để biểu đạt ý kiến ​​của bạn một cách rõ ràng và chi tiết hơn. 
 - Ví dụ: Thay vì viết "governments can impose strict rules to cut down on car ownership and manage traffic jams" (chính phủ có thể áp đặt các quy định nghiêm ngặt để giảm sở hữu xe ô tô và quản lý tắc đường), bạn có thể sử dụng cấu trúc câu phức tạp hơn như "In order to tackle the issue of traffic congestion, governments could consider implementing stringent regulations, such as limiting the number of cars on the road and promoting alternative modes of transportation." (Để giải quyết vấn đề tắc đường, chính phủ có thể xem xét thực thi các quy định nghiêm ngặt, chẳng hạn như giới hạn số lượng xe trên đường và thúc đẩy các phương tiện giao thông khác).
-
-Những lời khuyên và ví dụ trên đây sẽ giúp bạn cải thiện coherence and cohesion trong bài viết của mình. Tuy nhiên, lưu ý rằng có thể cần phải điều chỉnh các lời khuyên này để phù hợp với nội dung chính của
 
 
 Lexical Resource:
