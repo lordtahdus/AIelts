@@ -74,7 +74,7 @@ Task Response:\n{feedback[0]} END"
 
         # print(dictionary['prompt'])
 
-with open("fine_tuning/train_tr_sample.jsonl", "w", encoding="utf-8") as outfile:
+with open("fine_tuning/train_tr_sample.jsonl", "w", encoding="unicode") as outfile:
     for example in data:
         outfile.write(example)
         outfile.write("\n")
@@ -85,11 +85,15 @@ C:/Users/ADMIN/Documents/GitHub/AIelts/fine_tuning/train_tr_sample.jsonl
 
 export OPENAI_API_KEY='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'
 
-openai api fine_tunes.create 
--t "C:/Users/ADMIN/Documents/GitHub/AIelts/fine_tuning/train_tr_sample.jsonl" 
--m ada
+openai api fine_tunes.create -t "C:/Users/ADMIN/Documents/GitHub/AIelts/fine_tuning/train_tr_sample.jsonl" -m ada
+
+openai api fine_tunes.list
+
 
 created fine tune: 
-ft-tGMMfuQLHg8a9TRFkOaaD9KF
+ada
+ft-sASeZrfAYTPdfrMJYuFipspb
 
+babbage
+ft-pvGaWXnxFS9Jmuo8jzivKd4N
 """
