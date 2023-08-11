@@ -72,7 +72,7 @@ Task Response:\n{feedback[0]} END"
             
         # print(dictionary['prompt'])
 
-with open("fine_tuning/train_tr_sample.jsonl", "w", encoding="unicode") as outfile:
+with open("fine_tuning/train_tr_sample.jsonl", "w", encoding="utf-8") as outfile:
     for example in data:
         outfile.write(example)
         outfile.write("\n")
