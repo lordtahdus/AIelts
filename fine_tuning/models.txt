@@ -1,0 +1,8 @@
+created fine-tune for:
+
+- TASK RESPONSE
+ada
+ft-sASeZrfAYTPdfrMJYuFipspb
+
+babbage
+ft-pvGaWXnxFS9Jmuo8jzivKd4N
