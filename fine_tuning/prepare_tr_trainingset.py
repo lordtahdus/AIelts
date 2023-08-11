@@ -70,8 +70,6 @@ Task Response:\n{feedback[0]} END"
         # with open("assets/train_feedback_sample.json", "w", encoding="utf-8") as outfile:
             # json.dump(dictionary, outfile, ensure_ascii=False)
             
-        
-
         # print(dictionary['prompt'])
 
 with open("fine_tuning/train_tr_sample.jsonl", "w", encoding="utf-8") as outfile:
