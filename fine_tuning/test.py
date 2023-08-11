@@ -39,6 +39,21 @@ To conclude, smartphones have brought many advantages, but we have to consider t
 # Tổng quan, bạn cần phát triển và so sánh ý kiến ​​của mình về những ảnh hưởng của việc sử dụng điện tử trong xã hội và phát triển mạng xã hội. ENDNOTE và Đoạt được qua được các luận điểm của b
 # """
 
+
+def request_ChatGPT(messages):
+    prompt = "Please rewrite this in Vietnamese: " + messages 
+    
+    response = openai.ChatCompletion.create(
+        model="gpt-3.5-turbo",
+        messages=prompt,
+        max_tokens= 1500
+    )
+    
+    reply = response["choices"][0]["message"]["content"]
+    return reply
+
+
+
 YOUR_PROMPT += "\n\n###\n\n"
 
 response = openai.Completion.create(
@@ -46,8 +61,7 @@ response = openai.Completion.create(
     prompt=YOUR_PROMPT,
     max_tokens = 1500)
 
+print(request_ChatGPT(response))
 
-print(response)
-
-with open("fine_tuning/text_2.txt", "w", encoding="utf-8") as outfile:
-    outfile.write(response["choices"][0]["text"])
+# with open("fine_tuning/text_2.txt", "w", encoding="utf-8") as outfile:
+#     outfile.write(response["choices"][0]["text"])
