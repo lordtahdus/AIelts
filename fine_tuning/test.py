@@ -61,7 +61,8 @@ response = openai.Completion.create(
     prompt=YOUR_PROMPT,
     max_tokens = 1500)
 
-print(request_ChatGPT(response))
+with open("rewritten_vietnamese.txt", "w", encoding="utf-8") as file:
+    file.write(request_ChatGPT(response))
 
 # with open("fine_tuning/text_2.txt", "w", encoding="utf-8") as outfile:
 #     outfile.write(response["choices"][0]["text"])
