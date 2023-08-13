@@ -78,11 +78,18 @@ Nếu có, liệt kê tất cả lỗi sai và giải thích.
             system_msg = "Ielts writing editor"
             messages.append({"role": "system", "content": system_msg})
 
-            response = openai.ChatCompletion.create(
-                        model="gpt-3.5-turbo",
-                        messages=messages,
-                        max_tokens=1000
-                    )
+            try:
+                response = openai.ChatCompletion.create(
+                            model="gpt-3.5-turbo",
+                            messages=messages,
+                            max_tokens=1000
+                        )
+            except:
+                response = openai.ChatCompletion.create(
+                            model="gpt-3.5-turbo",
+                            messages=messages,
+                            max_tokens=1000
+                        )
             
             with open(f"doc/processed_essay/essay_{START_ID}.txt", "a", encoding="utf-8") as f:
                 for i in range(0,7):

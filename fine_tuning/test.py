@@ -12,17 +12,21 @@ FINE_TUNED_MODEL = "babbage:ft-personal-2023-08-07-05-53-27"
 YOUR_PROMPT =f"""\
 Topic:
 
-"Mobile phones have made life easier and anyone can use a mobile phone to answer or make work calls or home calls art any place 7 days a week. Do you think this development has more positive effects or negative effects on the individual and the society ?"
+"Some people say that the main environmental problem of our time is that loss of particular species of plants and animals. Others say that there are more important environmental problems.
+
+Discuss both these views and give your own opinion.
+
+Give reasons for your answer and include any relevant examples from your own knowledge or experience."
 
 Essay:
 
-"In the present world, smartphones are being used everywhere for individual purposes and also for work matters. It has been observed that they are being utilized constantly. In this article, I will talk about its drawbacks and advantages for us and also for the whole of society. 
+"Some argued that the critical environmental consequence during our current era is the extinction of species of creatures, while others argued that it is not the only problem that we have to deal with. The following paragraphs will discuss both points of view.
 
-Firstly, we should consider the fact that mobiles can help us have an easier life. Thus, it has brought many pluses. Every single individual can access the nearest and dearest whenever he wants, and it helps us to communicate simply, and be in touch with each other. For example, in the past times, it took several months to ask someone whether they are in a good condition or not. However, it has decreased to a few seconds these days. In addition, the whole nation can benefit from these items. Companies can solve their work matters 24/7 because all of the employees are accessible. Therefore, advantages are not limited to just every individual. 
+ On the one hand, we could not deny the fact that there are more and more fauna and flora that disappear in the modern day. Initially, the hunting of hunters aims at some rare ingredients, for instance, the horns of the rhinos are believed to be fairy medicine, or they can be luxury decorations in some wealthy families. In addition, the population of this animal has a significant decrease during the 19th century and is nearly extinct nowadays. Moreover, biological weapons are a factor in the death of many kinds of animals and plants, which make the world less diverse in the ecosystem.
 
-On the other hand, we should not neglect the drawbacks. Technologies, including have kept us far from each other in some ways. For example, face-to-face interactions have become restricted, and we all use social media or the like to contact each other. Therefore, we have become strangers rather than friends. Moreover, using smartphones in  public can disturb others. So, this is the negative effect which we have to consider. For instance, while commuting there are a lot of people on the bus, and talking loudly in these places can harm others. 
+On the one hand, there are more important nature issues that directly affect to the human-being. First and foremost, climate change makes the earth hotter and hotter over time. This can lead to many different effects, a case in point is the ice melting in the Antarctic and the Arctic, as a result, many cities and lands are forecast to be drowned under the seawater next decade, furthermore, by increasing the temperature, many forests are burning which lead to the lack of oxygen. Moreover, due to the waste of carbon dioxide passing the limit, the ozone layer is getting more and more damage, which is the cause of many skin diseases.
 
-To conclude, smartphones have brought many advantages, but we have to consider the negative aspects. It helps us to keep in touch and develops communication. On the other side, it has weakened bonds and also has some drawbacks when it is used in public."
+In conclusion, I do believe that the loss of animals and plants is one of the environmental problems, however, there are many more issues that we have to cope with, such as climate change and the dramatically increasing in carbon dioxide that discharge into the environment."
 """
 
 # YOUR_PROMPT =f"""\
@@ -44,10 +48,12 @@ YOUR_PROMPT += "\n\n###\n\n"
 response = openai.Completion.create(
     model=FINE_TUNED_MODEL,
     prompt=YOUR_PROMPT,
-    max_tokens = 1500)
+    stop = " END",
+    max_tokens = 1600
+)
 
 
 print(response)
 
-with open("fine_tuning/text_2.txt", "w", encoding="utf-8") as outfile:
+with open("fine_tuning/text_1.txt", "w", encoding="utf-8") as outfile:
     outfile.write(response["choices"][0]["text"])

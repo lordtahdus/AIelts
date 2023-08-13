@@ -1,8 +1,9 @@
 created fine-tune for:
 
 - TASK RESPONSE
-ada
-ft-sASeZrfAYTPdfrMJYuFipspb
+ada:ft-personal-2023-08-07-05-45-45
 
-babbage
-ft-pvGaWXnxFS9Jmuo8jzivKd4N
+babbage:ft-personal-2023-08-07-05-53-27
+
+no tone marks
+babbage:ft-personal-2023-08-11-13-20-53
