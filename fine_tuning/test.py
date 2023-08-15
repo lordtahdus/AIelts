@@ -1,7 +1,8 @@
 import openai
 from decouple import config
 import os
-import tools
+from fine_tuning.tools import *
+
 
 
 openai.api_key = config('OPENAI_KEY_1')
@@ -59,8 +60,8 @@ response = openai.Completion.create(
 )
 
 
-# total_token = tools.token_to_call("cl100k_base", YOUR_PROMPT, response)
-# tools.request_ChatGPT(response, total_token)
+# total_token = token_to_call("cl100k_base", YOUR_PROMPT, response)
+# request_ChatGPT(response, total_token)
 
 print(response)
 
