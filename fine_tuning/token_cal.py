@@ -13,6 +13,6 @@ def token_to_call(encoding, prompt, response, allow_model_token = 2046):
     prompt_tokens = len(enc.encode(prompt)) # or we can just use fixed value
     response_tokens = len(enc.encode(response))
     
-    total_tokens = allow_model_token - prompt_tokens + response_tokens
+    total_tokens = allow_model_token - (prompt_tokens + response_tokens)
     
     return total_tokens
