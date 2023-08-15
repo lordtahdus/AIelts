@@ -1,6 +1,8 @@
 import openai
 from decouple import config
 import os
+import tools
+
 
 openai.api_key = config('OPENAI_KEY_1')
 
@@ -44,42 +46,7 @@ In conclusion, I do believe that the loss of animals and plants is one of the en
 # """
 
 
-# def request_ChatGPT(messages):
-#     prompt = "Please rewrite this in Vietnamese: " + messages 
 
-#     response = openai.Completion.create(
-#         model="gpt-3.5-turbo",  
-#         prompt=prompt,
-#         max_tokens=1500, 
-#     )
-    
-#     reply = response["choices"][0]["message"]["content"]
-    
-    
-#     if os.path.exists("fine_tuning/last_used_index.txt"):
-#         with open("last_used_index.txt", "r") as index_file:
-#             last_used_index = int(index_file.read())
- 
-#     else:
-#         last_used_index = 1
-   
-#     filename = f"fine_tuning/rewritten_vietnamese{last_used_index + 1}.txt"
-
-
-#     with open(filename, "w", encoding="utf-8") as file:
-#         file.write(reply)
-
-#         # Update the last used index
-#     last_used_index = last_used_index + 1
-
-
-#     print(f"Rewritten Vietnamese version saved to '{filename}'")
-
-
-#     with open("fine_tuning/last_used_index.txt", "w") as index_file:
-#         index_file.write(str(last_used_index))
-        
-#     print("Updated index!")
     
 
 YOUR_PROMPT += "\n\n###\n\n"
@@ -91,7 +58,9 @@ response = openai.Completion.create(
     max_tokens = 1600
 )
 
-# request_ChatGPT(response)
+
+# total_token = tools.token_to_call("cl100k_base", YOUR_PROMPT, response)
+# tools.request_ChatGPT(response, total_token)
 
 print(response)
 
