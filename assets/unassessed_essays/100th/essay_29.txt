@@ -63,27 +63,17 @@ Dưới đây là một số gợi ý để cải thiện Task Response của b�
 
 Coherence and Cohesion:
 
-Trong bài viết của bạn, sự mạch lạc và sắp xếp ý chính là tương đối tốt, tuy nhiên vẫn còn một số điểm cần được cải thiện để đảm bảo tính liên kết và mạch lạc trong các ý kiến và lập luận của bạn. Dưới đây là một số điểm cần cải thiện và cách cải thiện:
+Trong bài viết của bạn, đã có sự sắp xếp ý chính tốt, nhưng cần cải thiện tính liên kết và mạch lạc. Để làm điều này:
 
-1. Cải thiện cấu trúc đoạn văn:
-- Đảm bảo mỗi đoạn văn chỉ tập trung vào một ý chính.
-- Mỗi câu trong đoạn văn nên nối tiếp và hỗ trợ ý chính của đoạn đó.
-- Ví dụ: Trong đoạn thứ 3, bạn nêu ra vấn đề nghèo đói và sự sử dụng tiền mặt. Bạn nên tạo một đoạn riêng để thảo luận về vấn đề này và đưa ra các lý lẽ thích hợp để hỗ trợ quan điểm của mình.
+Cấu trúc đoạn văn: Mỗi đoạn nên tập trung vào một ý chính, với mỗi câu nối tiếp và hỗ trợ ý chính. Ví dụ, vấn đề nghèo đói và sử dụng tiền mặt cần một đoạn riêng để thảo luận và lập luận.
 
-2. Sử dụng câu chuyển tiếp (transitional phrases):
-- Sử dụng các từ nối chặt chẽ để kết nối ý kiến và lập luận.
-- Ví dụ: Sử dụng các từ như "furthermore", "moreover", "in addition" để liên kết các điểm chính trong mỗi đoạn văn.
+Câu chuyển tiếp: Sử dụng các từ nối chặt chẽ như "furthermore", "moreover", "in addition" để kết nối ý kiến. Điều này tạo liên kết mạch lạc giữa các điểm chính.
 
-3. Đảm bảo sự liên kết giữa các ý kiến và lập luận:
-- Các ý kiến và lập luận của bạn nên liên kết logic và hỗ trợ lẫn nhau.
-- Sử dụng các từ, cụm từ hoặc câu để bày tỏ mối quan hệ giữa các ý kiến.
-- Ví dụ: Khi bạn thảo luận về việc sử dụng tiền mặt trong môi trường kết nối chậm hoặc không có kết nối Internet, hãy bày tỏ tường minh rằng việc này là một lý do mà một số người không muốn từ bỏ tiền mặt.
+Liên kết ý kiến: Đảm bảo ý kiến và lập luận hỗ trợ lẫn nhau logic. Sử dụng từ, cụm từ hoặc câu để thể hiện mối quan hệ giữa các ý. Ví dụ, khi thảo luận về sử dụng tiền mặt trong môi trường không kết nối Internet, cần bày tỏ rõ rằng việc này là lý do mà một số người không từ bỏ tiền mặt.
 
-4. Sử dụng các từ vựng chuyên ngành phù hợp:
-- Đối với một vấn đề như thanh toán không sử dụng tiền mặt, hãy sử dụng các từ vựng chuyên ngành như "digital payment", "e-commerce", "cryptocurrencies" để bày tỏ ý kiến và lập luận của bạn.
-- Ví dụ: Thay vì sử dụng cụm từ "online deposits", bạn có thể sử dụng "digital transactions" hoặc "electronic payments".
+Từ vựng chuyên ngành: Sử dụng từ như "digital payment", "e-commerce", "cryptocurrencies" để thể hiện ý kiến và lập luận về việc không sử dụng tiền mặt. Thay vì "online deposits", sử dụng "digital transactions" hoặc "electronic payments".
 
-Tổng quan, bạn nên cải thiện sự mạch lạc và nhất quán trong cách trình bày ý kiến và lập luận của mình. Đảm bảo mỗi đoạn văn tập trung vào một ý chính và sử dụng câu chuyển tiếp để kết nối các điểm chính. Ngoài ra, hãy sử dụng từ vựng chuyên ngành phù hợp để bày tỏ ý kiến và lập luận của bạn một cách rõ ràng.
+Tổng quan, cải thiện tính mạch lạc và nhất quán bằng cách tập trung vào ý chính trong mỗi đoạn, sử dụng câu chuyển tiếp liên kết ý kiến, đảm bảo logic trong liên kết ý kiến, và sử dụng từ vựng chuyên ngành thích hợp. Điều này sẽ làm cho bài viết của bạn rõ ràng và dễ đọc hơn.
 
 
 Lexical Resource:

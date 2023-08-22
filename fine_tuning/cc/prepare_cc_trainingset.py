@@ -1,9 +1,14 @@
 import os
 import json
 
-# assign main directory
+from finetune_tools import token_to_call
+
+
+# assign main directory 
 main_directory = 'assets/unassessed_essays'
 data = []
+exceed_token = [] #essay index that exceed token
+
 # iterate over essay folders in that directory
 for itemname in os.listdir(main_directory):
     folder = os.path.join(main_directory, itemname)
@@ -61,8 +66,7 @@ for itemname in os.listdir(main_directory):
         # completion starts with a whitespace
         dictionary = {
             "prompt":f"Topic:\n{topic}\nEssay:\n{essay}\n\n###\n\n",
-            "completion":f" \
-Coherence and Cohesion:{feedback[1]}\n END"
+            "completion":f" {feedback[1]}\n END"
         }
         json_object = json.dumps(dictionary, ensure_ascii=False)
         data.append(json_object)
@@ -71,6 +75,12 @@ Coherence and Cohesion:{feedback[1]}\n END"
             # json.dump(dictionary, outfile, ensure_ascii=False)
             
         # print(dictionary['prompt'])
+
+        # Token calculate
+        token = token_to_call("r50k_base", dictionary['prompt'], dictionary['completion'])
+        if token > 2048:
+            exceed_token.append()
+
 
 with open("fine_tuning/cc/train_cc_sample.jsonl", "w", encoding="utf-8") as outfile:
     for example in data:

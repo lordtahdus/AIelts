@@ -45,25 +45,15 @@ Những điểm cải thiện được đề cập ở trên sẽ giúp bạn đ
 
 Coherence and Cohesion:
 
-Trong bài viết của bạn, có một số điểm mà bạn có thể cải thiện để đảm bảo rằng câu chuyện của bạn có sự liên kết mạch lạc và hợp lý.
+Để cải thiện sự liên kết mạch lạc trong bài viết, bạn cần tập trung vào việc xác định rõ vấn đề, sử dụng từ nối và cung cấp ví dụ cụ thể:
 
-1. Đầu tiên, hãy xem xét cách bạn sắp xếp các ý kiến và luận điểm của bạn. Trong đoạn mở đầu, bạn đã đề xuất rằng bạn sẽ thảo luận về "vấn đề này" và cho ý kiến của mình. Tuy nhiên, bạn không xác định rõ vấn đề cụ thể mà bạn sẽ thảo luận và cung cấp lý do tại sao việc phẫu thuật thẩm mỹ ngày càng phổ biến. Điều này gây ra sự thiếu rõ ràng và có thể khiến người đọc khó hiểu được dẫn chứng và lập luận của bạn.
+Trong bài viết, cần xác định rõ vấn đề cụ thể mà bạn đang thảo luận. Thay vì chỉ đề cập tới "vấn đề này," hãy đặt một câu tựa đề rõ ràng như "Increasing Popularity of Cosmetic Surgery: Causes and Consequences."
 
-Cách cải thiện: Hãy xác định cụ thể vấn đề bạn sẽ thảo luận trong đoạn mở đầu và đưa ra một câu tựa đề hoặc mô tả ngắn gọn của vấn đề. Ví dụ: "One key reason for the increasing popularity of cosmetic surgery is the pressure to conform to societal beauty standards. In this essay, we will explore the reasons behind this trend and evaluate its implications."
+Để tạo sự liên kết mạch lạc, hãy sử dụng từ nối như "Furthermore" và "Moreover." Ví dụ: "Furthermore, the excessive focus on cosmetic surgery indicates a worrisome trend towards prioritizing superficial appearances over personal qualities and individuality."
 
-2. Thứ hai, tuy bạn đã trình bày đầy đủ các lập luận của mình trong các đoạn sau, nhưng việc chuyển tiếp giữa các ý kiến và lập luận không luôn mạch lạc. Các câu của bạn có xu hướng đứt quãng nhau, không tạo ra sự liên kết mạch lạc giữa chúng.
+Thêm vào đó, sử dụng các cụm từ để nối các ý kiến và lập luận. Ví dụ: "From a broader perspective, the pursuit of cosmetic surgery is a harmful practice that perpetuates unrealistic beauty standards and promotes a homogenized idea of attractiveness."
 
-Cách cải thiện: Sử dụng các từ nối và cụm từ để liên kết các ý kiến và lập luận của bạn. Hãy sử dụng từ "Furthermore" hoặc "Moreover" để thể hiện sự liên kết giữa các ý kiến. Ví dụ: "Furthermore, the excessive focus on cosmetic surgery indicates a worrisome trend towards prioritizing superficial appearances over personal qualities and individuality."
-
-Bên cạnh đó, hãy sử dụng các từ nối như "From a broader perspective" hoặc "In this context" để nối các ý kiến và lập luận lại với nhau. Ví dụ: "From a broader perspective, the pursuit of cosmetic surgery is a harmful practice that perpetuates unrealistic beauty standards and promotes a homogenized idea of attractiveness."
-
-3. Cuối cùng, hãy cung cấp ví dụ cụ thể để minh họa các lập luận và điểm kiểm chứng của bạn. Ví dụ concret là cách tốt nhất để củng cố lập luận của bạn và đem lại sự thuyết phục cho người đọc.
-
-Cách cải thiện: Thay vì chỉ đề cập đến một trường hợp đặc biệt của một người Canada, hãy cung cấp nhiều ví dụ khác nhau để minh họa sự lan truyền của xu hướng này và những hậu quả tiêu cực có thể xảy ra.
-
-Ví dụ: "For example, in South Korea, the obsession with plastic surgery has become so prevalent that it is often referred to as the 'plastic surgery capital of the world'. This trend not only reflects the intense societal pressure to conform to a particular beauty standard, but it also highlights the potential dangers and risks associated with excessive cosmetic procedures."
-
-Trong tất cả, bài viết của bạn có những điểm mạnh, nhưng có thể cần cải thiện thêm về sự liên kết mạch lạc.
+Cuối cùng, cung cấp ví dụ cụ thể để minh họa các lập luận. Ví dụ: "For example, in South Korea, the obsession with plastic surgery has become so prevalent that it is often referred to as the 'plastic surgery capital of the world.' This trend not only reflects the intense societal pressure to conform to a particular beauty standard, but it also highlights the potential dangers and risks associated with excessive cosmetic procedures."
 
 
 Lexical Resource:

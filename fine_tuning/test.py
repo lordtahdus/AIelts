@@ -1,7 +1,7 @@
 import openai
 from decouple import config
 import os
-from fine_tuning.tools import *
+from fine_tuning.finetune_tools import *
 
 
 
