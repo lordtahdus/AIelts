@@ -36,26 +36,26 @@ def request_ChatGPT(response, token_allow):
     reply = response["choices"][0]["message"]["content"]
     
     
-    if os.path.exists("fine_tuning/last_used_index.txt"):
-        with open("last_used_index.txt", "r") as index_file:
-            last_used_index = int(index_file.read())
+    # if os.path.exists("fine_tuning/last_used_index.txt"):
+    #     with open("last_used_index.txt", "r") as index_file:
+    #         last_used_index = int(index_file.read())
  
-    else:
-        last_used_index = 1
+    # else:
+    #     last_used_index = 1
    
-    filename = f"fine_tuning/rewritten_vietnamese{last_used_index + 1}.txt"
+    # filename = f"fine_tuning/rewritten_vietnamese{last_used_index + 1}.txt"
 
 
-    with open(filename, "w", encoding="utf-8") as file:
-        file.write(reply)
+    # with open(filename, "w", encoding="utf-8") as file:
+    #     file.write(reply)
 
-        # Update the last used index
-    last_used_index = last_used_index + 1
+    #     # Update the last used index
+    # last_used_index = last_used_index + 1
 
-    with open("fine_tuning/last_used_index.txt", "w") as index_file:
-        index_file.write(str(last_used_index))
+    # with open("fine_tuning/last_used_index.txt", "w") as index_file:
+    #     index_file.write(str(last_used_index))
         
-    print("Updated index!")
+    # print("Updated index!")
 
 if __name__ == "__main__":
     openai.api_key = config('OPENAI_KEY_1')

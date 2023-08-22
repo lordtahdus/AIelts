@@ -81,6 +81,17 @@ def get_user_options_and_contents() -> tuple[dict, dict]:
 
 
 def get_contents_each_essay(lines, sep_indexes) -> List:
+    """
+    Breakdown the essay and return a list of 8 elements
+        0-Topic 
+        1-Essay 
+        2-Revised 
+        3-TR 
+        4-CC 
+        5-LR 
+        6-GA 
+        7-Score
+    """
     topic = lines[1:sep_indexes[0]]
     essay = lines[sep_indexes[0] + 1: sep_indexes[1]]
 
