@@ -3,10 +3,10 @@
 <head>
     <title>AIELTS</title>
     <h1>AIELTS</h1>
-    <h1>Slogan...</h1>
+    <h1>Accelarate your IELTS</h1>
 
     <style>
-        /* Add CSS */
+        /* Add style */
     </style>
 </head>
 <body>
@@ -24,10 +24,29 @@
     <button type="submit">Generate Feedback</button>
 </form>
 
-
-    <div id="feedback-container">
-        <h2>Here is your feedback</h2>  
+    <!-- <div id="feedback-container-revise">
+        <h2>Revise</h2>  
     </div>
-    <script src="main.js"></script>
+
+    <div id="feedback-container-task-response">
+        <h2>Task Response</h2>  
+    </div>
+
+    <div id="feedback-container-cc">
+        <h2>CC</h2>  
+    </div>
+
+    <div id="feedback-container-lexical">
+        <h2>Lexical</h2>  
+    </div>
+
+    <div id="feedback-container-grammar">
+        <h2>Grammar</h2>  
+    </div> -->
+
+    <!-- <script src="main.js"></script> -->
+
+    <script src="{{ url_for('static', filename='main.js') }}"></script>
+
 </body>
 </html>
