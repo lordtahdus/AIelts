@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AIELTS</title>
+    <h1>AIELTS</h1>
+    <h1>Accelarate your IELTS</h1>
+
+    <style>
+        /* Add style */
+    </style>
+</head>
+<body>
+    <h1>IELTS Writing Feedback</h1>
+
+<form id="feedback-form">
+    <div class="input-group">
+        <label for="writing-question">Writing Question:</label>
+        <textarea id="writing-question" name="writing-question" rows="4" cols="50"></textarea>
+    </div>
+    <div class="input-group">
+        <label for="user-writing">Your Writing:</label>
+        <textarea id="user-writing" name="user-writing" rows="8" cols="50"></textarea>
+    </div>
+    <button type="submit">Generate Feedback</button>
+</form>
+
+    <!-- <div id="feedback-container-revise">
+        <h2>Revise</h2>  
+    </div>
+
+    <div id="feedback-container-task-response">
+        <h2>Task Response</h2>  
+    </div>
+
+    <div id="feedback-container-cc">
+        <h2>CC</h2>  
+    </div>
+
+    <div id="feedback-container-lexical">
+        <h2>Lexical</h2>  
+    </div>
+
+    <div id="feedback-container-grammar">
+        <h2>Grammar</h2>  
+    </div> -->
+
+    <!-- <script src="main.js"></script> -->
+
+    <script src="{{ url_for('static', filename='main.js') }}"></script>
+
+</body>
+</html>
