@@ -1,7 +1,7 @@
 import os
 import json
 
-from finetune_tools import token_to_call
+# from finetune_tools import token_to_call
 
 
 # assign main directory 
@@ -77,9 +77,9 @@ for itemname in os.listdir(main_directory):
         # print(dictionary['prompt'])
 
         # Token calculate
-        token = token_to_call("r50k_base", dictionary['prompt'], dictionary['completion'])
-        if token > 2048:
-            exceed_token.append()
+        # token = token_to_call("r50k_base", dictionary['prompt'], dictionary['completion'])
+        # if token > 2048:
+        #     exceed_token.append()
 
 
 with open("fine_tuning/cc/train_cc_sample.jsonl", "w", encoding="utf-8") as outfile:
@@ -93,7 +93,7 @@ C:/Users/ADMIN/Documents/GitHub/AIelts/fine_tuning/train_tr_sample.jsonl
 
 export OPENAI_API_KEY='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'
 
-openai api fine_tunes.create -t "C:/Users/ADMIN/Documents/GitHub/AIelts/fine_tuning/cc/train_cc_sample.jsonl" -m babbage
+openai api fine_tunes.create -t "C:/Users/ADMIN/Documents/GitHub/AIelts/fine_tuning/cc/train_cc_sample.jsonl" -m babbage-002
 
 openai api fine_tunes.list
 

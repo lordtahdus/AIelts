@@ -1,4 +1,16 @@
-created fine-tune for:
+
+FILEs ================================================================
+
+train_cc_sample.jsonl
+file_id: file-CKhRhLM3jyoc8EEQS6cB6eju
+
+
+FINETUNE ===========================================================
+
+
+
+
+Old models ----------------------------------------------
 
 - TASK RESPONSE
 ada:ft-personal-2023-08-07-05-45-45
