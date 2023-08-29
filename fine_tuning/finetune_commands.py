@@ -10,7 +10,7 @@ To upload file:
 curl https://api.openai.com/v1/files \
   -H "Authorization: Bearer $OPENAI_API_KEY" \
   -F "purpose=fine-tune" \
-  -F "file=@path_to_your_file"
+  -F "file=@C:\Users\ADMIN\Documents\GitHub\AIelts\fine_tuning\tr\train_tr_sample.jsonl"
 
 
 To create finetune:
@@ -18,9 +18,9 @@ curl https://api.openai.com/v1/fine_tuning/jobs \
   -H "Content-Type: application/json" \
   -H "Authorization: Bearer $OPENAI_API_KEY" \
   -d '{
-    "training_file": "file-CKhRhLM3jyoc8EEQS6cB6eju",
+    "training_file": "file-FDTmsxE8E4LkJFKUwQ01f2mj",
     "model": "babbage-002",
-    "suffix": "cc_test_2908"
+    "suffix": "tr_test_2908"
   }'
 
 Retrieve finetune:

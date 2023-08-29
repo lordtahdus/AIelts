@@ -61,8 +61,7 @@ for itemname in os.listdir(main_directory):
         # completion starts with a whitespace
         dictionary = {
             "prompt":f"Topic:\n{topic}\nEssay:\n{essay}\n\n###\n\n",
-            "completion":f" \
-Task Response:\n{feedback[0]} END"
+            "completion":f" {feedback[0]} END"
         }
         json_object = json.dumps(dictionary, ensure_ascii=False)
         data.append(json_object)

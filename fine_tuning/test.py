@@ -1,13 +1,12 @@
 import openai
 from decouple import config
 import os
-from fine_tuning.finetune_tools import *
 
 
 
 openai.api_key = config('OPENAI_KEY_1')
 
-FINE_TUNED_MODEL = "babbage:ft-personal-2023-08-13-14-34-48"
+FINE_TUNED_MODEL = "ft:babbage-002:personal:cc-test-2908:7ssUFjcN"
 
 # ada:ft-personal-2023-08-07-05-45-45
 # babbage:ft-personal-2023-08-07-05-53-27
@@ -65,5 +64,5 @@ response = openai.Completion.create(
 
 print(response)
 
-with open("fine_tuning/text_1.txt", "w", encoding="utf-8") as outfile:
+with open("fine_tuning/text_1.txt", "a", encoding="utf-8") as outfile:
     outfile.write(response["choices"][0]["text"])

@@ -4,8 +4,17 @@ FILEs ================================================================
 train_cc_sample.jsonl
 file_id: file-CKhRhLM3jyoc8EEQS6cB6eju
 
+train_tr_sample.jsonl
+file_id: file-FDTmsxE8E4LkJFKUwQ01f2mj
 
 FINETUNE ===========================================================
+
+CC:
+ft:babbage-002:personal:cc-test-2908:7ssUFjcN
+
+
+
+
 
 
 
