@@ -6,7 +6,7 @@ import os
 
 openai.api_key = config('OPENAI_KEY_1')
 
-FINE_TUNED_MODEL = "ft:babbage-002:personal:cc-test-2908:7ssUFjcN"
+FINE_TUNED_MODEL = "ft:babbage-002:personal:tr-test-2908:7ssxiTvm"
 
 # ada:ft-personal-2023-08-07-05-45-45
 # babbage:ft-personal-2023-08-07-05-53-27
@@ -51,18 +51,20 @@ In conclusion, I do believe that the loss of animals and plants is one of the en
 
 YOUR_PROMPT += "\n\n###\n\n"
 
-response = openai.Completion.create(
-    model=FINE_TUNED_MODEL,
-    prompt=YOUR_PROMPT,
-    stop = " END",
-    max_tokens = 1600
-)
+for i in range(3,11):
+    response = openai.Completion.create(
+        model=FINE_TUNED_MODEL,
+        prompt=YOUR_PROMPT,
+        stop = " END",
+        max_tokens = 2000
+    )
 
 
-# total_token = token_to_call("cl100k_base", YOUR_PROMPT, response)
-# request_ChatGPT(response, total_token)
+    # total_token = token_to_call("cl100k_base", YOUR_PROMPT, response)
+    # request_ChatGPT(response, total_token)
 
-print(response)
+    print(response)
 
-with open("fine_tuning/text_1.txt", "a", encoding="utf-8") as outfile:
-    outfile.write(response["choices"][0]["text"])
+    with open("fine_tuning/testing/test_tr.txt", "a", encoding="utf-8") as outfile:
+        outfile.write("\n\n" + str(i) + "\n")
+        outfile.write(response["choices"][0]["text"])

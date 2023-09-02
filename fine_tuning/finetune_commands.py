@@ -10,7 +10,7 @@ To upload file:
 curl https://api.openai.com/v1/files \
   -H "Authorization: Bearer $OPENAI_API_KEY" \
   -F "purpose=fine-tune" \
-  -F "file=@C:\Users\ADMIN\Documents\GitHub\AIelts\fine_tuning\tr\train_tr_sample.jsonl"
+  -F "file=@C:\Users\ADMIN\Documents\GitHub\AIelts\fine_tuning\lr\train_lr_sample.jsonl"
 
 
 To create finetune:
@@ -24,11 +24,11 @@ curl https://api.openai.com/v1/fine_tuning/jobs \
   }'
 
 Retrieve finetune:
-curl https://api.openai.com/v1/fine_tuning/jobs/ftjob-jMDrLwaXLtlx8okVCUWW8gAy \
+curl https://api.openai.com/v1/fine_tuning/jobs/ftjob-VbuF7FhZyQteFtMcQN0plmJV \
   -H "Authorization: Bearer $OPENAI_API_KEY"
 
 List finetune events:
-curl https://api.openai.com/v1/fine_tuning/jobs/ftjob-jMDrLwaXLtlx8okVCUWW8gAy/events \
+curl https://api.openai.com/v1/fine_tuning/jobs/ftjob-VbuF7FhZyQteFtMcQN0plmJV/events \
   -H "Authorization: Bearer $OPENAI_API_KEY"
 """
 
