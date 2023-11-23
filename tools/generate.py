@@ -51,7 +51,7 @@ if __name__ == "__main__":
     ##################################################
     index = 1111
 
-    link = "https://writing9.com/text/64a14dc3d38ec40018b4e59e-nowadays-women-as-well-as-men-work-full-time-therefore-women"
+    link = "ahttps://writing9.com/text/64a14dc3d38ec40018b4e59e-nowadays-women-as-well-as-men-work-full-time-therefore-women"
 
     topic = """\
 Nowadays, women, as well as men, work full-time. Therefore, women and men should share household tasks equally. (e.g. cleaning and looking after children). To what extent do you agree or disagree?
@@ -84,26 +84,29 @@ Bài viết của tôi có trả lời đúng câu hỏi đề bài không?\
 Ý tưởng có được mở rộng đầy đủ không?
 Nêu ra những điểm cần được cải thiện và giải thich.
 """,
-           """\
+        """\
 Đánh giá Coherence and Cohesion trong bài viết của tôi một cách chi tiết hơn.\
-Bài viết của tôi có sự liên kết mạch lạc và hợp lí giữa tất cả các ý và các câu không?
+Bài viết của tôi có sự liên kết mạch lạc và hợp lí giữa tất cả các luận điểm và lập luận không?\
+Các câu được liên kết chặt chẽ và nối tiếp với nhau không?
 
-Nếu không, liệt kê tất cả lỗi sai của Coherence and Cohesion và giải thích.
+Nêu ra những điểm cần được cải thiện, cách cải thiện, và đồng thời ví dụ cho cách cải thiện.
 """,
-            """\
+# Nêu ra những điểm cần được cải thiện, những điểm đó nằm ở đâu trong bài viết, và giải thích.
+# Nếu không, liệt kê tất cả lỗi sai của Coherence and Cohesion và giải thích.
+        """\
 Đánh giá Lexical Resource trong bài viết của tôi một cách chi tiết hơn.\
 Bài viết của tôi có mắc lỗi sai về từ vựng không? Những từ, cụm từ dùng có hợp ngữ cảnh không?
 
 Nếu có, liệt kê tất cả lỗi sai và giải thích.
 """,
-           """\
+        """\
 Đánh giá Grammatical Range and Accuracy trong bài viết của tôi một cách chi tiết hơn.
 Bài viết của tôi có mắc lỗi sai về ngữ pháp không?
 
 Nếu có, liệt kê tất cả lỗi sai và giải thích.
 """,
-           "Estimate carefully the score of each criteria"
-        ]
+        "Estimate carefully the score of each criteria"
+    ]
     headings = [
         "Feedback:\n\nTask Response:\n",
         "Coherence and Cohesion:\n",
